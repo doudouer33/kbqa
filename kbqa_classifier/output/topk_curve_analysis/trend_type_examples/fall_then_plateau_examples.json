@@ -1,0 +1,707 @@
+[
+  {
+    "id": "single_nq_dev_126",
+    "question": "the sum of the kinetic and potential energies of all particles in the system is called the",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 0,
+    "best_f1": 0.4,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.0
+      }
+    },
+    "predictions": {
+      "0": "total mechanical energy",
+      "1": "Hamiltonian",
+      "2": "Hamiltonian",
+      "3": "Hamiltonian",
+      "4": "Hamiltonian",
+      "5": "Hamiltonian",
+      "6": "Hamiltonian",
+      "7": "Hamiltonian",
+      "8": "Hamiltonian",
+      "9": "The sum of the kinetic and potential energies of all particles in the system is called the **Hamiltonian**",
+      "10": "The sum of the kinetic and potential energies of all particles in the system is called the Hamiltonian",
+      "11": "The sum of the kinetic and potential energies of all particles in the system is called the Hamiltonian",
+      "12": "The sum of the kinetic and potential energies of all particles in the system is called the Hamiltonian",
+      "13": "The sum of the kinetic and potential energies of all particles in the system is called the Hamiltonian",
+      "14": "The sum of the kinetic and potential energies of all particles in the system is called the Hamiltonian",
+      "15": "The sum of the kinetic and potential energies of all particles in the system is called the Hamiltonian"
+    },
+    "curve_analysis": {
+      "trend_type": "fall_then_plateau",
+      "stability_type": "mildly_oscillating",
+      "best_k": 0,
+      "max_f1": 0.4,
+      "f1_at_0": 0.4,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 1,
+      "post_peak_drop": 0.4,
+      "sign_changes": 0,
+      "volatility": 0.4,
+      "trend_curve": [
+        0.4,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prefix_best_curve": [
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1767",
+    "question": "what does cantina mean in english from spanish",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 0,
+    "best_f1": 0.4,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.07142857142857144
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.05
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.058823529411764705
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.07142857142857144
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.0625
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.06666666666666667
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.058823529411764705
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.07692307692307693
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.039999999999999994
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.06666666666666667
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.06666666666666667
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.06666666666666667
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.058823529411764705
+      }
+    },
+    "predictions": {
+      "0": "bar or canteen",
+      "1": "tavern or bar",
+      "2": "bar or tavern",
+      "3": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages, often with a Southwestern or Mexican motif in the U.S",
+      "4": "In English, \\\"cantina\\\" translates to a type of bar or tavern, particularly one that is popular in Latin America and Spain. It is similar in meaning to \\\"canteen\\\" and is derived from the Italian word for a cellar, winery, or vault",
+      "5": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages, often with a Southwestern or Mexican motif, and is popular in Latin America and Spain",
+      "6": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of bar popular in Latin America and Spain, often serving alcoholic beverages and food",
+      "7": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages, often with a Southwestern or Mexican motif, particularly in Latin America and Spain",
+      "8": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages and often food, commonly found in Latin America and Spain",
+      "9": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages, often with a focus on traditional drinks and food, particularly in Latin America and Spain",
+      "10": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages, often with a Southwestern or Mexican motif",
+      "11": "The word \\\"cantina\\\" in English, derived from Spanish, generally refers to a type of bar or tavern, often associated with serving alcoholic beverages and sometimes food. In some contexts, it can also refer to a canteen or a place where food and drinks are served, particularly in a workplace or near a train station",
+      "12": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages and often food, commonly found in Latin America and Spain",
+      "13": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages and often food, commonly found in Latin America and Spain",
+      "14": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages and often food, commonly found in Latin America and Spain",
+      "15": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages, often with a focus on traditional drinks and food, particularly in Latin America and Spain"
+    },
+    "curve_analysis": {
+      "trend_type": "fall_then_plateau",
+      "stability_type": "mildly_oscillating",
+      "best_k": 0,
+      "max_f1": 0.4,
+      "f1_at_0": 0.4,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 3,
+      "post_peak_drop": 0.36000000000000004,
+      "sign_changes": 0,
+      "volatility": 0.4818993751346692,
+      "trend_curve": [
+        0.4,
+        0.4,
+        0.4,
+        0.07142857142857144,
+        0.05,
+        0.058823529411764705,
+        0.07142857142857144,
+        0.0625,
+        0.06666666666666667,
+        0.058823529411764705,
+        0.07692307692307693,
+        0.039999999999999994,
+        0.06666666666666667,
+        0.06666666666666667,
+        0.06666666666666667,
+        0.058823529411764705
+      ],
+      "prefix_best_curve": [
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_2059",
+    "question": "what cars does dom drive in fate of the furious",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 0,
+    "best_f1": 0.4444444444444444,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.4444444444444444
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.06666666666666667
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.0967741935483871
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.0967741935483871
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.051948051948051945
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.06779661016949153
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.048780487804878044
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.08571428571428572
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.07500000000000001
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.08571428571428572
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.05970149253731343
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.09836065573770492
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.0967741935483871
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.09836065573770492
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.10169491525423728
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.10169491525423728
+      }
+    },
+    "predictions": {
+      "0": "Dodge Charger, Ford Mustang, Chevrolet Camaro",
+      "1": "In \\\"The Fate of the Furious,\\\" Dom Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a 1968 Dodge Charger, which is a signature vehicle for his character. Additionally, he also drives a modified 2016 Dodge Charger during the film's action sequences. The film features a variety of other vehicles as well, but these are the primary cars associated with Dom's character",
+      "2": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he is seen driving a modified 2016 Chevrolet Camaro and a 2015 Ford Mustang during various action sequences. The film features a range of vehicles, but the Dodge Charger remains iconic for Dom's character",
+      "3": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he is seen driving a modified 2016 Chevrolet Camaro and a 2015 Dodge Charger during various action sequences. The film features a range of vehicles, but the Dodge Charger remains iconic for Dom's character",
+      "4": "The specific cars that Dominic Toretto (played by Vin Diesel) drives in \\\"The Fate of the Furious\\\" are not detailed in the provided excerpts. However, throughout the \\\"Fast and Furious\\\" franchise, Dom is known for driving a variety of high-performance cars, including classic muscle cars like the Dodge Charger. In \\\"The Fate of the Furious,\\\" he is seen driving a modified 1968 Dodge Charger, among other vehicles. For a complete list of cars featured in the film, additional sources or a detailed film guide would be needed",
+      "5": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a 1968 Dodge Charger, which is a signature vehicle for his character. Additionally, he also drives a modified 2016 Dodge Charger during the film's action sequences. The film features various other cars as well, but these two are particularly associated with Dom's character",
+      "6": "The specific cars that Dominic Toretto (played by Vin Diesel) drives in \\\"The Fate of the Furious\\\" are not detailed in the provided excerpts. However, throughout the \\\"Fast and Furious\\\" franchise, Dom is known for driving various high-performance cars, including classic muscle cars like the Dodge Charger. In \\\"The Fate of the Furious,\\\" he also drives a modified Dodge Charger and other vehicles as part of the film's action sequences. For a complete list of cars featured in the film, you may want to refer to dedicated film resources or databases",
+      "7": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he is seen driving a modified 2016 Chevrolet Camaro and a variety of other vehicles during the film's action sequences, including cars that are hacked by the antagonist Cipher. The film features a range of high-performance cars typical of the \\\"Fast and Furious\\\" franchise",
+      "8": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he is seen driving a variety of other cars during the film's action sequences, including a modified muscle car during the heist in New York City and various vehicles that are hacked by the antagonist, Cipher. However, the specific details of all the cars he drives may not be explicitly listed in the provided text",
+      "9": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he is seen driving a modified 2016 Chevrolet Camaro and a variety of other vehicles during the film's action sequences, including cars that are hacked by the antagonist Cipher. The film features a range of high-performance cars typical of the \\\"Fast and Furious\\\" franchise",
+      "10": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a 2016 Dodge Charger, which is a signature vehicle for his character. Additionally, he is seen driving a variety of other cars during the film's action sequences, including a classic muscle car and various vehicles during the high-stakes chase scenes. However, the specific details of all the cars he drives may vary throughout the film",
+      "11": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, during a race in Havana, he drives a modified 1968 Dodge Charger. The film features various other cars as well, but these two are among the most prominent associated with Dom's character",
+      "12": "In \\\"The Fate of the Furious,\\\" Dominic Toretto (played by Vin Diesel) drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he drives a modified 2016 Chevrolet Camaro during the street race in Havana. The film features various other vehicles as well, but these two are among the most prominent associated with Dom's character",
+      "13": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he drives a modified 2016 Dodge Charger during the film's action sequences. The film features various other cars as well, but these two are among the most prominent associated with Dom's character",
+      "14": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he drives a modified 2016 Dodge Charger during the film's action sequences. The film features various other cars as well, but these two are particularly associated with Dom's character",
+      "15": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he drives a modified 2016 Dodge Charger during the film's action sequences. The film features various other cars as well, but these two are particularly associated with Dom's character"
+    },
+    "curve_analysis": {
+      "trend_type": "fall_then_plateau",
+      "stability_type": "mildly_oscillating",
+      "best_k": 0,
+      "max_f1": 0.4444444444444444,
+      "f1_at_0": 0.4444444444444444,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 1,
+      "post_peak_drop": 0.3956639566395664,
+      "sign_changes": 0,
+      "volatility": 0.6171176364563972,
+      "trend_curve": [
+        0.4444444444444444,
+        0.06666666666666667,
+        0.0967741935483871,
+        0.0967741935483871,
+        0.051948051948051945,
+        0.06779661016949153,
+        0.048780487804878044,
+        0.08571428571428572,
+        0.07500000000000001,
+        0.08571428571428572,
+        0.05970149253731343,
+        0.09836065573770492,
+        0.0967741935483871,
+        0.09836065573770492,
+        0.10169491525423728,
+        0.10169491525423728
+      ],
+      "prefix_best_curve": [
+        0.4444444444444444,
+        0.4444444444444444,
+        0.4444444444444444,
+        0.4444444444444444,
+        0.4444444444444444,
+        0.4444444444444444,
+        0.4444444444444444,
+        0.4444444444444444,
+        0.4444444444444444,
+        0.4444444444444444,
+        0.4444444444444444,
+        0.4444444444444444,
+        0.4444444444444444,
+        0.4444444444444444,
+        0.4444444444444444,
+        0.4444444444444444
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_246",
+    "question": "who wrote the song smooth by florida georgia line",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 0,
+    "best_f1": 0.4444444444444445,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      }
+    },
+    "predictions": {
+      "0": "Tyler Hubbard, Brian Kelley, and other songwriters",
+      "1": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+      "2": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+      "3": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+      "4": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+      "5": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+      "6": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+      "7": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+      "8": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+      "9": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+      "10": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+      "11": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+      "12": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+      "13": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+      "14": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+      "15": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt"
+    },
+    "curve_analysis": {
+      "trend_type": "fall_then_plateau",
+      "stability_type": "stable",
+      "best_k": 0,
+      "max_f1": 0.4444444444444445,
+      "f1_at_0": 0.4444444444444445,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 1,
+      "post_peak_drop": 0.08080808080808088,
+      "sign_changes": 0,
+      "volatility": 0.08080808080808088,
+      "trend_curve": [
+        0.4444444444444445,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.3636363636363636
+      ],
+      "prefix_best_curve": [
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_2475",
+    "question": "where did the first world cup final take place",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 1,
+    "best_f1": 1.0,
+    "scores": {
+      "0": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.04347826086956522
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.046511627906976744
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.04347826086956522
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.0
+      }
+    },
+    "predictions": {
+      "0": "Uruguay",
+      "1": "The first Cricket World Cup final was played on 21 June 1975. However, the provided text does not specify the location of the final. Based on general knowledge, the first Cricket World Cup final in 1975 took place at Lord's Cricket Ground in London, England",
+      "2": "The first Cricket World Cup final took place on 21 June 1975. However, the specific location is not mentioned in the provided text. Therefore, I cannot provide the exact location of the first World Cup final based on the information given",
+      "3": "1975 Cricket World Cup Final",
+      "4": "Lord's, London, England",
+      "5": "R\\u00e5sunda Stadium, Solna, Sweden",
+      "6": "1975 Cricket World Cup Final",
+      "7": "The first Cricket World Cup final took place on 21 June 1975. However, if you are referring to the FIFA World Cup, the first FIFA World Cup final took place in 1930 in Montevideo, Uruguay. Please clarify which World Cup you are asking about for a more specific answer",
+      "8": "Sweden",
+      "9": "1975 Cricket World Cup Final",
+      "10": "The first Cricket World Cup final took place on June 21, 1975. However, if you are referring to the FIFA World Cup, the first final took place in 1930 in Montevideo, Uruguay. Please specify which World Cup you are asking about for a more precise answer",
+      "11": "The first Cricket World Cup final took place on June 21, 1975. However, if you are referring to the FIFA World Cup, the first FIFA World Cup final took place in 1930 in Montevideo, Uruguay. Please specify which World Cup you are inquiring about for a more precise answer",
+      "12": "R\\u00e5sunda Stadium, Solna, Sweden",
+      "13": "1975 Cricket World Cup Final",
+      "14": "R\\u00e5sunda Stadium, Solna, Sweden",
+      "15": "England"
+    },
+    "curve_analysis": {
+      "trend_type": "fall_then_plateau",
+      "stability_type": "mildly_oscillating",
+      "best_k": 0,
+      "max_f1": 1.0,
+      "f1_at_0": 1.0,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 1,
+      "post_peak_drop": 1.0,
+      "sign_changes": 0,
+      "volatility": 1.1799797775530838,
+      "trend_curve": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.04347826086956522,
+        0.0,
+        0.0,
+        0.046511627906976744,
+        0.04347826086956522,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prefix_best_curve": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  }
+]

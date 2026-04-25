@@ -1,0 +1,105 @@
+{
+  "accuracy": 0.556,
+  "binary_label_distribution": {
+    "0": 345,
+    "1": 155
+  },
+  "confusion_matrix": {
+    "label_ids": [
+      0,
+      1
+    ],
+    "label_names": [
+      "no_retrieval",
+      "needs_retrieval"
+    ],
+    "matrix": [
+      [
+        192,
+        153
+      ],
+      [
+        69,
+        86
+      ]
+    ]
+  },
+  "dataset_name": "nq",
+  "dataset_name_field": null,
+  "eval_file": "/media/data/hnu2026/luoyichen/Adaptive-RAG/kbqa_classifier/data/nq/test_topk_train.json",
+  "evaluated_sample_count": 500,
+  "f1": 0.4365482233502538,
+  "f1_binary": 0.4365482233502538,
+  "id_field": "id",
+  "label_mapping": {
+    "id2label": {
+      "0": "no_retrieval",
+      "1": "needs_retrieval"
+    },
+    "label2id": {
+      "needs_retrieval": 1,
+      "no_retrieval": 0
+    }
+  },
+  "macro_f1": 0.5351057948434438,
+  "model_name_or_path": "output/stage1",
+  "model_tag": "stage1",
+  "per_class": [
+    {
+      "f1": 0.6336633663366338,
+      "label_id": 0,
+      "label_name": "no_retrieval",
+      "precision": 0.735632183908046,
+      "predicted_count": 261,
+      "recall": 0.5565217391304348,
+      "support": 345
+    },
+    {
+      "f1": 0.4365482233502538,
+      "label_id": 1,
+      "label_name": "needs_retrieval",
+      "precision": 0.3598326359832636,
+      "predicted_count": 239,
+      "recall": 0.5548387096774193,
+      "support": 155
+    }
+  ],
+  "precision": 0.3598326359832636,
+  "precision_binary": 0.3598326359832636,
+  "precision_macro": 0.5477324099456548,
+  "precision_weighted": 0.6191343240513635,
+  "prediction_file": "/media/data/hnu2026/luoyichen/Adaptive-RAG/kbqa_classifier/output/classifier_eval/stage1/predictions__stage1_classifier__nq__test__stage1.jsonl",
+  "question_field": "question",
+  "raw_label_distribution": {
+    "0": 345,
+    "1": 45,
+    "10": 5,
+    "11": 11,
+    "12": 5,
+    "13": 2,
+    "14": 6,
+    "15": 4,
+    "2": 14,
+    "3": 19,
+    "4": 8,
+    "5": 10,
+    "6": 4,
+    "7": 8,
+    "8": 5,
+    "9": 9
+  },
+  "raw_label_field": "label",
+  "recall": 0.5548387096774193,
+  "recall_binary": 0.5548387096774193,
+  "recall_macro": 0.5556802244039271,
+  "recall_weighted": 0.556,
+  "sample_count": 500,
+  "split_name": "test",
+  "stage": "stage1",
+  "support": {
+    "needs_retrieval": 155,
+    "no_retrieval": 345
+  },
+  "task": "classifier_eval",
+  "weighted_f1": 0.572557672010856
+}

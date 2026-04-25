@@ -1,0 +1,707 @@
+[
+  {
+    "id": "single_nq_dev_1002",
+    "question": "when was celibacy introduced in the catholic church",
+    "dataset_name": "nq",
+    "best_k": 12,
+    "best_em": 0,
+    "best_f1": 0.6666666666666666,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.06451612903225806
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.0784313725490196
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.0547945205479452
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.04938271604938271
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.046511627906976744
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.04166666666666667
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.05063291139240506
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.045454545454545456
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.04597701149425287
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.041237113402061855
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.044444444444444446
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.6666666666666666
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.6666666666666666
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.4
+      }
+    },
+    "predictions": {
+      "0": "Celibacy as a formal discipline in the Catholic Church developed over several centuries. While early Christian leaders advocated for continence and celibacy among clergy, it was not universally required initially",
+      "1": "The provided documents do not specify the exact date or period when clerical celibacy was introduced in the Catholic Church. However, historically, clerical celibacy in the Latin Church was gradually established over several centuries, becoming more formally enforced during the First and Second Lateran Councils in the 12th century (specifically in 1123 and 1139)",
+      "2": "The specific introduction of clerical celibacy in the Catholic Church is not precisely dated, as it evolved over time. However, the practice became more formalized in the Latin Church during the 12th century, particularly with the Second Lateran Council in 1139, which mandated celibacy for priests. Prior to this, there were various practices regarding the marital status of clergy. So, while there isn't a single date for the introduction of celibacy, the 12th century marks a significant point in its formalization",
+      "3": "The specific introduction of clerical celibacy in the Catholic Church is not precisely dated, as it evolved over time. However, the practice became more formalized in the Latin Church during the First Lateran Council in 1123, which mandated celibacy for priests. Prior to this, there were various practices regarding the marital status of clergy, but the requirement for celibacy became a standard discipline in the centuries that followed. So, while there isn't a single date for the introduction of celibacy, the early 12th century marks a significant point in its formalization",
+      "4": "1123",
+      "5": "The specific introduction of clerical celibacy in the Catholic Church is not precisely dated, as it evolved over time. However, the practice became more formally established in the Latin Church during the Middle Ages, particularly in the 12th century, when the Second Lateran Council in 1139 declared that priests must remain celibate. This was part of a broader movement to reform the clergy and ensure that they were fully dedicated to their spiritual duties. So, while there isn't a single date for the introduction of celibacy, the 12th century marks a significant point in its formalization",
+      "6": "The specific introduction of clerical celibacy in the Catholic Church is not precisely dated, as it evolved over time. However, the practice became more formalized in the Latin Church during the Middle Ages, particularly in the 12th century, when the Second Lateran Council in 1139 declared that priests must remain celibate. This was part of a broader movement to ensure the church's spiritual integrity and to prevent the inheritance of church property by the children of clergy. Thus, while the roots of celibacy can be traced back to earlier practices, it was during the 12th century that it became a formal requirement for priests in the Latin Church",
+      "7": "The specific introduction date of clerical celibacy in the Catholic Church is not clearly defined, as it evolved over time. However, the practice became more formalized in the Latin Church around the 12th century, particularly during the Second Lateran Council in 1139, which mandated celibacy for priests. Prior to this, there were various practices regarding the marital status of clergy. So, while there isn't a single date for the introduction of celibacy, the 12th century marks a significant point in its establishment as a requirement in the Latin Church",
+      "8": "The specific introduction date of clerical celibacy in the Catholic Church is not clearly defined, as it evolved over time. However, the practice became more formalized in the Latin Church during the early Middle Ages, particularly in the 11th century with the reforms of Pope Gregory VII around the year 1074. These reforms emphasized celibacy as a requirement for priests, although the tradition of celibacy for clergy existed in various forms prior to this period. So, while there isn't a single date for the introduction of celibacy, the 11th century marks a significant point in its formalization within the Church",
+      "9": "The specific introduction of clerical celibacy in the Catholic Church is not precisely dated, as it evolved over time. However, the practice became more formalized in the Latin Church during the early Middle Ages, particularly in the 11th century, with the reforms of Pope Gregory VII around the year 1074. These reforms emphasized celibacy as a requirement for priests, although the tradition of celibacy for clergy existed in various forms prior to this period. So, while there isn't a single date for the introduction of celibacy, the 11th century marks a significant point in its formalization within the Church",
+      "10": "The concept of clerical celibacy in the Catholic Church developed over time, with its formalization occurring in the early Middle Ages. While there is no specific date for its introduction, the practice began to take shape around the 4th century, with significant enforcement occurring in the 11th century during the Gregorian Reform under Pope Gregory VII. This reform aimed to address issues of clerical morality and the influence of secular powers on the Church. Thus, while the roots of clerical celibacy can be traced back to the early Church, it was during the 11th century that it became a more established and enforced discipline within the Latin Church",
+      "11": "The specific introduction date of clerical celibacy in the Catholic Church is not clearly defined, as it evolved over time. However, the practice became more formalized in the Latin Church during the Middle Ages, particularly in the 12th century, when the Second Lateran Council in 1139 reaffirmed the requirement of celibacy for priests. Prior to this, there were various practices regarding the marriage of clergy, but the push for mandatory celibacy gained significant traction during this period. So, while there isn't a single date of introduction, the 12th century marks a key point in its establishment as a discipline within the Church",
+      "12": "in the eleventh century",
+      "13": "in the eleventh century",
+      "14": "eleventh century",
+      "15": "eleventh century"
+    },
+    "curve_analysis": {
+      "trend_type": "rise_then_fall",
+      "stability_type": "mildly_oscillating",
+      "best_k": 12,
+      "max_f1": 0.6666666666666666,
+      "f1_at_0": 0.06451612903225806,
+      "gain_to_best": 0.6021505376344085,
+      "first_reach_best_k": 12,
+      "plateau_length": 2,
+      "post_peak_drop": 0.2666666666666666,
+      "sign_changes": 1,
+      "volatility": 1.0552063999398358,
+      "trend_curve": [
+        0.06451612903225806,
+        0.0784313725490196,
+        0.0547945205479452,
+        0.04938271604938271,
+        0.0,
+        0.046511627906976744,
+        0.04166666666666667,
+        0.05063291139240506,
+        0.045454545454545456,
+        0.04597701149425287,
+        0.041237113402061855,
+        0.044444444444444446,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.4,
+        0.4
+      ],
+      "prefix_best_curve": [
+        0.06451612903225806,
+        0.0784313725490196,
+        0.0784313725490196,
+        0.0784313725490196,
+        0.0784313725490196,
+        0.0784313725490196,
+        0.0784313725490196,
+        0.0784313725490196,
+        0.0784313725490196,
+        0.0784313725490196,
+        0.0784313725490196,
+        0.0784313725490196,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.6666666666666666
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_120",
+    "question": "which technique measures the electrical activity of brain cells directly",
+    "dataset_name": "nq",
+    "best_k": 3,
+    "best_em": 1,
+    "best_f1": 1.0,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.14285714285714288
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.1
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.1111111111111111
+      },
+      "3": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.0
+      }
+    },
+    "predictions": {
+      "0": "The technique that measures the electrical activity of brain cells directly is **electroencephalography (EEG)**. EEG records electrical signals produced by neurons in the brain using electrodes placed on the scalp",
+      "1": "The technique that measures the electrical activity of brain cells directly is called **electroencephalography (EEG)**. EEG records the electrical activity of the brain through electrodes placed on the scalp, allowing researchers and clinicians to observe brain wave patterns and diagnose various neurological conditions",
+      "2": "The technique that measures the electrical activity of brain cells directly is called \\\"electroencephalography\\\" (EEG). EEG involves placing electrodes on the scalp to detect electrical activity in the brain, allowing for the monitoring of brain waves and activity patterns",
+      "3": "Electroencephalography (EEG)",
+      "4": "single-unit recordings",
+      "5": "electrocorticography",
+      "6": "single-unit recordings",
+      "7": "single-unit recordings",
+      "8": "single-unit recordings",
+      "9": "single-unit recordings",
+      "10": "electrophysiology",
+      "11": "electrophysiology",
+      "12": "electrophysiology",
+      "13": "electrocorticography",
+      "14": "electrocorticography",
+      "15": "electrophysiology"
+    },
+    "curve_analysis": {
+      "trend_type": "rise_then_fall",
+      "stability_type": "mildly_oscillating",
+      "best_k": 3,
+      "max_f1": 1.0,
+      "f1_at_0": 0.14285714285714288,
+      "gain_to_best": 0.8571428571428571,
+      "first_reach_best_k": 3,
+      "plateau_length": 1,
+      "post_peak_drop": 1.0,
+      "sign_changes": 1,
+      "volatility": 1.9428571428571428,
+      "trend_curve": [
+        0.14285714285714288,
+        0.1,
+        0.1111111111111111,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prefix_best_curve": [
+        0.14285714285714288,
+        0.14285714285714288,
+        0.14285714285714288,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1378",
+    "question": "who wrote the song fairytale of new york",
+    "dataset_name": "nq",
+    "best_k": 1,
+    "best_em": 1,
+    "best_f1": 1.0,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      },
+      "1": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "2": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      }
+    },
+    "predictions": {
+      "0": "Jem Finer and Shane MacGowan",
+      "1": "Shane MacGowan",
+      "2": "Shane MacGowan",
+      "3": "Jem Finer and Shane MacGowan",
+      "4": "Jem Finer and Shane MacGowan",
+      "5": "Jem Finer and Shane MacGowan",
+      "6": "Jem Finer and Shane MacGowan",
+      "7": "Jem Finer and Shane MacGowan",
+      "8": "Jem Finer and Shane MacGowan",
+      "9": "Jem Finer and Shane MacGowan",
+      "10": "Jem Finer and Shane MacGowan",
+      "11": "Jem Finer and Shane MacGowan",
+      "12": "Jem Finer and Shane MacGowan",
+      "13": "Jem Finer and Shane MacGowan",
+      "14": "Jem Finer and Shane MacGowan",
+      "15": "Jem Finer and Shane MacGowan"
+    },
+    "curve_analysis": {
+      "trend_type": "rise_then_fall",
+      "stability_type": "mildly_oscillating",
+      "best_k": 1,
+      "max_f1": 1.0,
+      "f1_at_0": 0.5714285714285715,
+      "gain_to_best": 0.4285714285714285,
+      "first_reach_best_k": 1,
+      "plateau_length": 2,
+      "post_peak_drop": 0.4285714285714285,
+      "sign_changes": 1,
+      "volatility": 0.857142857142857,
+      "trend_curve": [
+        0.5714285714285715,
+        1.0,
+        1.0,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715
+      ],
+      "prefix_best_curve": [
+        0.5714285714285715,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1384",
+    "question": "who plays as beast in beauty and the beast",
+    "dataset_name": "nq",
+    "best_k": 9,
+    "best_em": 0,
+    "best_f1": 0.5714285714285715,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.3076923076923077
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.3636363636363636
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.5714285714285715
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.3076923076923077
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.0
+      }
+    },
+    "predictions": {
+      "0": "Dan Stevens (for the live-action adaptation) or Robby Benson (for the animated film)",
+      "1": "Robby Benson",
+      "2": "Robby Benson",
+      "3": "Robby Benson",
+      "4": "Robby Benson",
+      "5": "Robby Benson",
+      "6": "Robby Benson",
+      "7": "Robby Benson (animated film) and Dan Stevens (live-action film)",
+      "8": "Robby Benson (animated film) and Dan Stevens (live-action adaptation)",
+      "9": "Dan Stevens (in the live-action adaptation)",
+      "10": "Robby Benson (for the animated film) and Dan Stevens (for the live-action adaptation)",
+      "11": "Robby Benson",
+      "12": "Robby Benson",
+      "13": "Robby Benson",
+      "14": "Robby Benson",
+      "15": "Robby Benson"
+    },
+    "curve_analysis": {
+      "trend_type": "rise_then_fall",
+      "stability_type": "mildly_oscillating",
+      "best_k": 9,
+      "max_f1": 0.5714285714285715,
+      "f1_at_0": 0.3076923076923077,
+      "gain_to_best": 0.2637362637362638,
+      "first_reach_best_k": 9,
+      "plateau_length": 1,
+      "post_peak_drop": 0.5714285714285715,
+      "sign_changes": 2,
+      "volatility": 1.4505494505494505,
+      "trend_curve": [
+        0.3076923076923077,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.5714285714285715,
+        0.3076923076923077,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prefix_best_curve": [
+        0.3076923076923077,
+        0.3076923076923077,
+        0.3076923076923077,
+        0.3076923076923077,
+        0.3076923076923077,
+        0.3076923076923077,
+        0.3076923076923077,
+        0.3636363636363636,
+        0.3636363636363636,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1428",
+    "question": "when did daylight saving first start in australia",
+    "dataset_name": "nq",
+    "best_k": 1,
+    "best_em": 1,
+    "best_f1": 1.0,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "1": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "2": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.0
+      }
+    },
+    "predictions": {
+      "0": "December 1, 1916",
+      "1": "1968",
+      "2": "1968",
+      "3": "during World War I",
+      "4": "during World War I",
+      "5": "during World War I",
+      "6": "during World War I",
+      "7": "during World War I",
+      "8": "during World War I",
+      "9": "during World War I",
+      "10": "during World War I",
+      "11": "during World War I",
+      "12": "during World War I",
+      "13": "during World War I",
+      "14": "during World War I",
+      "15": "Daylight saving first started in Australia during World War I"
+    },
+    "curve_analysis": {
+      "trend_type": "rise_then_fall",
+      "stability_type": "mildly_oscillating",
+      "best_k": 1,
+      "max_f1": 1.0,
+      "f1_at_0": 0.0,
+      "gain_to_best": 1.0,
+      "first_reach_best_k": 1,
+      "plateau_length": 2,
+      "post_peak_drop": 1.0,
+      "sign_changes": 1,
+      "volatility": 2.0,
+      "trend_curve": [
+        0.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prefix_best_curve": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  }
+]

@@ -1,0 +1,4000 @@
+
+single_nq_dev_6297
+what is the nba salary cap in 2017
+Q: what is the nba salary cap in 2017
+A: "The NBA salary cap for the 2017-2018 season was set at $99.093 million. So the answer is: $99.093 million."
+A: $99.093 million
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2208
+who is david 's dad in the bible
+Q: who is david 's dad in the bible
+A: "David's father in the Bible is Jesse. So the answer is: Jesse."
+A: Jesse
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5874
+who did jeff green play for in the nba
+Q: who did jeff green play for in the nba
+A: "Jeff Green has played for several teams in the NBA throughout his career, including the Boston Celtics, Oklahoma City Thunder, Seattle SuperSonics, Memphis Grizzlies, Los Angeles Clippers, Cleveland Cavaliers, and the Brooklyn Nets. As of my last update, he was playing for the Denver Nuggets. So the answer is: multiple teams, including the Boston Celtics and Denver Nuggets."
+A: multiple teams, including the Boston Celtics and Denver Nuggets
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5745
+where was the movie we are marshall filmed
+Q: where was the movie we are marshall filmed
+A: "The movie \"We Are Marshall\" was filmed primarily in West Virginia, particularly in the cities of Huntington and Charleston. So the answer is: West Virginia."
+A: West Virginia
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6148
+what kind of animal is boots from dora
+Q: what kind of animal is boots from dora
+A: "Boots from \"Dora the Explorer\" is a monkey. So the answer is: monkey."
+A: monkey
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4648
+who wants to be a millionaire british host
+Q: who wants to be a millionaire british host
+A: "The British host of \"Who Wants to Be a Millionaire?\" is Chris Tarrant. So the answer is: Chris Tarrant."
+A: Chris Tarrant
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2250
+when was the last nuclear power plant built in the us
+Q: when was the last nuclear power plant built in the us
+A: "The last nuclear power plant built in the United States is the Watts Bar Nuclear Plant Unit 2, which was completed and began commercial operation on October 19, 2016. So the answer is: October 19, 2016."
+A: October 19, 2016
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1168
+when did ben rectors new album come out
+Q: when did ben rectors new album come out
+A: "Ben Rector's new album, titled \"The Joy of Music / The Joy of Painting,\" was released on August 28, 2020. If you are referring to a different album, please provide the album name or more details."
+A: Ben Rector's new album, titled \"The Joy of Music / The Joy of Painting,\" was released on August 28, 2020. If you are referring to a different album, please provide the album name or more details
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6174
+where does the hanger steak come from on a cow
+Q: where does the hanger steak come from on a cow
+A: "The hanger steak comes from the diaphragm area of a cow, specifically from the plate section. It is located between the rib and the loin, and is known for its rich flavor and tenderness. So the answer is: diaphragm area."
+A: diaphragm area
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2263
+who played in the world series in 1989
+Q: who played in the world series in 1989
+A: "The teams that played in the World Series in 1989 were the Oakland Athletics and the San Francisco Giants. The series is also known for the earthquake that struck the San Francisco Bay Area just before Game 3. So the answer is: Oakland Athletics and San Francisco Giants."
+A: Oakland Athletics and San Francisco Giants
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_272
+who said i have but one life to give
+Q: who said i have but one life to give
+A: "The phrase \"I have but one life to give\" is often attributed to Nathan Hale, an American soldier and spy during the American Revolutionary War. He is famously known for his last words before being executed, which reflect his dedication to his country. So the answer is: Nathan Hale."
+A: Nathan Hale
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1700
+where does right atrium pump blood when it contracts
+Q: where does right atrium pump blood when it contracts
+A: "The right atrium pumps blood into the right ventricle when it contracts. So the answer is: right ventricle."
+A: right ventricle
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3667
+what are the main industries in papua new guinea
+Q: what are the main industries in papua new guinea
+A: "The main industries in Papua New Guinea include:"
+A: The main industries in Papua New Guinea include:
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3665
+how many superbowl rings does the seahawks have
+Q: how many superbowl rings does the seahawks have
+A: "The Seattle Seahawks have won one Super Bowl ring, which they earned by winning Super Bowl XLVIII in 2014. So the answer is: one."
+A: one
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_865
+who are the main actors in fifty shades of grey
+Q: who are the main actors in fifty shades of grey
+A: "The main actors in \"Fifty Shades of Grey\" are Dakota Johnson, who plays Anastasia Steele, and Jamie Dornan, who plays Christian Grey. So the answer is: Dakota Johnson and Jamie Dornan."
+A: Dakota Johnson and Jamie Dornan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_109
+where does it talk about the census in the constitution
+Q: where does it talk about the census in the constitution
+A: "The U.S. Constitution discusses the census in Article I, Section 2. This section mandates that a census be conducted every ten years to determine the population of the states for the purpose of apportioning representation in the House of Representatives. So the answer is: Article I, Section 2 of the U.S. Constitution."
+A: Article I, Section 2 of the U.S. Constitution
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5762
+who went to town riding on a pony
+Q: who went to town riding on a pony
+A: "The phrase \"went to town riding on a pony\" is a line from the children's song \"This Old Man.\" In the song, the character goes to town riding on a pony. So the answer is: This Old Man."
+A: This Old Man
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1046
+who do the raiders share a field with
+Q: who do the raiders share a field with
+A: "The Raiders share a field with the San Diego Chargers. The field they share is Allegiant Stadium, located in Paradise, Nevada. So the answer is: San Diego Chargers."
+A: San Diego Chargers
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4725
+main reason for the establishment of the trc
+Q: main reason for the establishment of the trc
+A: "The main reason for the establishment of the Truth and Reconciliation Commission (TRC) in South Africa was to address the human rights violations that occurred during the apartheid era. The TRC aimed to promote national unity and reconciliation by uncovering the truth about past atrocities, providing a platform for victims to share their experiences, and offering amnesty to perpetrators who fully disclosed their involvement in politically motivated crimes. The TRC sought to foster healing and understanding in a society deeply divided by years of racial conflict."
+A: The main reason for the establishment of the Truth and Reconciliation Commission (TRC) in South Africa was to address the human rights violations that occurred during the apartheid era. The TRC aimed to promote national unity and reconciliation by uncovering the truth about past atrocities, providing a platform for victims to share their experiences, and offering amnesty to perpetrators who fully disclosed their involvement in politically motivated crimes. The TRC sought to foster healing and understanding in a society deeply divided by years of racial conflict
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5618
+a unilateral declaration that the united states was the policeman of the western hemisphere was the
+Q: a unilateral declaration that the united states was the policeman of the western hemisphere was the
+A: "A unilateral declaration that the United States was the policeman of the Western Hemisphere is known as the Monroe Doctrine. So the answer is: Monroe Doctrine."
+A: Monroe Doctrine
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3280
+who are going to be the judges on america 's got talent 2017
+Q: who are going to be the judges on america 's got talent 2017
+A: "The judges on America's Got Talent in 2017 were Simon Cowell, Heidi Klum, Mel B, and Howie Mandel. So the answer is: Simon Cowell, Heidi Klum, Mel B, and Howie Mandel."
+A: Simon Cowell, Heidi Klum, Mel B, and Howie Mandel
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6155
+machine which converts ac into dc is known as
+Q: machine which converts ac into dc is known as
+A: "A machine that converts alternating current (AC) into direct current (DC) is known as a rectifier. So the answer is: rectifier."
+A: rectifier
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_445
+what kind of epithelium lines the urinary bladder
+Q: what kind of epithelium lines the urinary bladder
+A: "The urinary bladder is lined by transitional epithelium, also known as urothelium. This type of epithelium is specialized to accommodate the stretching of the bladder as it fills with urine. So the answer is: transitional epithelium."
+A: transitional epithelium
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6093
+where are zebra mussels found in the united states
+Q: where are zebra mussels found in the united states
+A: "Zebra mussels are found in various regions across the United States, primarily in the Great Lakes and the Mississippi River Basin. They have spread to many states, including Michigan, Wisconsin, Illinois, Ohio, and New York, as well as parts of the southern U.S. and the western states. Their presence is often noted in freshwater lakes, rivers, and reservoirs. So the answer is: Great Lakes and Mississippi River Basin, and various states across the U.S."
+A: Great Lakes and Mississippi River Basin, and various states across the U.S
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1697
+when was the quartering act of 1774 passed
+Q: when was the quartering act of 1774 passed
+A: "The Quartering Act of 1774 was passed on June 2, 1774. So the answer is: June 2, 1774."
+A: June 2, 1774
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5398
+when did the first looney tunes come out
+Q: when did the first looney tunes come out
+A: "The first Looney Tunes cartoon, titled \"Sinkin' in the Bathtub,\" was released on April 19, 1930. So the answer is: April 19, 1930."
+A: April 19, 1930
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5459
+what is the last segment of earthworm called and what organ does it contain
+Q: what is the last segment of earthworm called and what organ does it contain
+A: "The last segment of an earthworm is called the \"clitellum.\" It contains reproductive organs, specifically the testes and ovaries, which are involved in the earthworm's reproductive process. So the answer is: clitellum; it contains reproductive organs."
+A: clitellum; it contains reproductive organs
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6469
+who inspired the title of a raisin in the sun
+Q: who inspired the title of a raisin in the sun
+A: "The title of \"A Raisin in the Sun\" is inspired by the poem \"Harlem\" by Langston Hughes. The poem poses the question of what happens to a dream deferred, using the imagery of a raisin drying in the sun. So the answer is: Langston Hughes."
+A: Langston Hughes
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3691
+who sang theme song for greatest american hero
+Q: who sang theme song for greatest american hero
+A: "The theme song for \"The Greatest American Hero\" was sung by Joey Scarbury. So the answer is: Joey Scarbury."
+A: Joey Scarbury
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_596
+when did west side story movie come out
+Q: when did west side story movie come out
+A: "The movie \"West Side Story\" was released on October 18, 1961. So the answer is: October 18, 1961."
+A: October 18, 1961
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5128
+when did prohibition start and when did it end
+Q: when did prohibition start and when did it end
+A: "Prohibition in the United States started on January 17, 1920, with the implementation of the 18th Amendment to the Constitution. It ended on December 5, 1933, when the 21st Amendment was ratified, repealing the 18th Amendment. So the answer is: January 17, 1920, to December 5, 1933."
+A: January 17, 1920, to December 5, 1933
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4352
+who does ameer abdullah play for in the nfl
+Q: who does ameer abdullah play for in the nfl
+A: "Ameer Abdullah plays for the Las Vegas Raiders in the NFL. So the answer is: Las Vegas Raiders."
+A: Las Vegas Raiders
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2695
+who is the actress that portrays wonder woman
+Q: who is the actress that portrays wonder woman
+A: "The actress who portrays Wonder Woman is Gal Gadot. So the answer is: Gal Gadot."
+A: Gal Gadot
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1764
+who was the first king to start building the temple of karnak
+Q: who was the first king to start building the temple of karnak
+A: "The first king to start building the Temple of Karnak was Pharaoh Senusret I, who ruled during the Middle Kingdom of Egypt. So the answer is: Pharaoh Senusret I."
+A: Pharaoh Senusret I
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1724
+who sang the song must have been love
+Q: who sang the song must have been love
+A: "The song \"Must Have Been Love\" was sung by Roxette. So the answer is: Roxette."
+A: Roxette
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5801
+who did taylor swift write back to december about
+Q: who did taylor swift write back to december about
+A: "Taylor Swift wrote \"Back to December\" about her relationship with actor Taylor Lautner. The song reflects on regret and nostalgia regarding their time together. So the answer is: Taylor Lautner."
+A: Taylor Lautner
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2018
+how many groups are there in the fifa world cup
+Q: how many groups are there in the fifa world cup
+A: "In the FIFA World Cup, there are typically 8 groups in the group stage, each consisting of 4 teams. However, this can vary depending on the specific tournament format. For example, in the 2026 FIFA World Cup, the format will change to include 12 groups of 4 teams each. So, the answer is: 8 (for most tournaments) or 12 (for the upcoming 2026 tournament)."
+A: 8 (for most tournaments) or 12 (for the upcoming 2026 tournament)
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5236
+who plays the demon in once more with feeling
+Q: who plays the demon in once more with feeling
+A: "The demon in \"Once More, with Feeling,\" the musical episode of \"Buffy the Vampire Slayer,\" is played by James Marsters, who portrays the character Spike. So the answer is: James Marsters."
+A: James Marsters
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_937
+who did william byron drive for last year
+Q: who did william byron drive for last year
+A: "William Byron drove for Hendrick Motorsports in the NASCAR Cup Series last year (2022). So the answer is: Hendrick Motorsports."
+A: Hendrick Motorsports
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1398
+when was the first tesla electric car made
+Q: when was the first tesla electric car made
+A: "The first Tesla electric car, the Tesla Roadster, was introduced in 2008. So the answer is: 2008."
+A: 2008
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6265
+who played the grim reaper in bill and ted 's bogus journey
+Q: who played the grim reaper in bill and ted 's bogus journey
+A: "The grim reaper in \"Bill & Ted's Bogus Journey\" was played by William Sadler. So the answer is: William Sadler."
+A: William Sadler
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1659
+ian from alvin and the chipmunks real name
+Q: ian from alvin and the chipmunks real name
+A: "The character Ian from \"Alvin and the Chipmunks\" is named Ian Hawke. So the answer is: Ian Hawke."
+A: Ian Hawke
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3036
+4 . which latitudes experience the greatest annual change in daylight hours
+Q: 4 . which latitudes experience the greatest annual change in daylight hours
+A: "The latitudes that experience the greatest annual change in daylight hours are those near the poles, specifically the Arctic and Antarctic Circles (approximately 66.5 degrees North and South latitude). These regions can experience continuous daylight in the summer months and continuous darkness in the winter months. So the answer is: near the poles (Arctic and Antarctic Circles)."
+A: near the poles (Arctic and Antarctic Circles)
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_319
+where does bacteria in the mouth come from
+Q: where does bacteria in the mouth come from
+A: "Bacteria in the mouth primarily come from the environment, including food, drinks, and the air. They can also originate from other parts of the body, such as the gastrointestinal tract. Additionally, bacteria can be transferred through saliva, kissing, or sharing utensils. The mouth is a natural habitat for a diverse range of bacteria, which can form biofilms on the teeth and gums, contributing to oral health and disease. So the answer is: from the environment, food, drinks, air, and other parts of the body."
+A: from the environment, food, drinks, air, and other parts of the body
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2670
+who does lennie choose in the sky is everywhere
+Q: who does lennie choose in the sky is everywhere
+A: "In \"The Sky Is Everywhere\" by Jandy Nelson, Lennie chooses Joe Fontaine over her late boyfriend, Toby. Throughout the story, Lennie navigates her grief and ultimately realizes her feelings for Joe. So the answer is: Joe Fontaine."
+A: Joe Fontaine
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5917
+first conference of indian national congress was held at
+Q: first conference of indian national congress was held at
+A: "The first conference of the Indian National Congress was held at Bombay (now Mumbai) in 1885. So the answer is: Bombay."
+A: Bombay
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5406
+where does because of mr. terupt take place
+Q: where does because of mr. terupt take place
+A: "\"Because of Mr. Terupt\" takes place in a fictional elementary school in the United States. The story primarily revolves around a fifth-grade classroom and the experiences of the students throughout the school year. So the answer is: a fictional elementary school in the United States."
+A: a fictional elementary school in the United States
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1098
+who wrote in heaven there is no beer
+Q: who wrote in heaven there is no beer
+A: "The song \"In Heaven There Is No Beer\" was written by Frank W. W. Weller. So the answer is: Frank W. W. Weller."
+A: Frank W. W. Weller
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2012
+who served as president of the confederate states of america
+Q: who served as president of the confederate states of america
+A: "The president of the Confederate States of America was Jefferson Davis. So the answer is: Jefferson Davis."
+A: Jefferson Davis
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1383
+who led the great sioux uprising in 1862
+Q: who led the great sioux uprising in 1862
+A: "The Great Sioux Uprising in 1862 was led by Chief Little Crow, who was a leader of the Dakota Sioux. So the answer is: Chief Little Crow."
+A: Chief Little Crow
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_609
+who invented the mechanical loom which was powered by a horse or a water wheel
+Q: who invented the mechanical loom which was powered by a horse or a water wheel
+A: "The mechanical loom that was powered by a horse or a water wheel was invented by Edmund Cartwright. So the answer is: Edmund Cartwright."
+A: Edmund Cartwright
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4884
+the us food stamp program which provides coupons
+Q: the us food stamp program which provides coupons
+A: "The U.S. food stamp program, officially known as the Supplemental Nutrition Assistance Program (SNAP), provides eligible individuals and families with coupons or electronic benefits to purchase food. The program aims to alleviate hunger and improve nutrition among low-income households. SNAP benefits can be used at authorized retailers to buy food items, but cannot be used for non-food items, alcohol, or hot prepared foods."
+A: The U.S. food stamp program, officially known as the Supplemental Nutrition Assistance Program (SNAP), provides eligible individuals and families with coupons or electronic benefits to purchase food. The program aims to alleviate hunger and improve nutrition among low-income households. SNAP benefits can be used at authorized retailers to buy food items, but cannot be used for non-food items, alcohol, or hot prepared foods
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1370
+who sang if i could see the rhondda one more time
+Q: who sang if i could see the rhondda one more time
+A: "The song \"If I Could See the Rhondda One More Time\" was sung by the Welsh singer and actor, Max Boyce. So the answer is: Max Boyce."
+A: Max Boyce
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3938
+who sang the song how can you mend a broken heart
+Q: who sang the song how can you mend a broken heart
+A: "The song \"How Can You Mend a Broken Heart\" was sung by the Bee Gees. So the answer is: Bee Gees."
+A: Bee Gees
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2528
+when does spring break start in the us
+Q: when does spring break start in the us
+A: "Spring break in the United States typically starts in March and can extend into early April, depending on the school district or college. Most schools schedule their spring break for one week, often coinciding with Easter. However, the exact dates can vary widely across different states and institutions. So, the answer is: Typically in March, varying by school."
+A: Typically in March, varying by school
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2852
+when was the english bill of rights signed
+Q: when was the english bill of rights signed
+A: "The English Bill of Rights was signed on December 16, 1689. So the answer is: December 16, 1689."
+A: December 16, 1689
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6301
+when did bobby darin sing mack the knife
+Q: when did bobby darin sing mack the knife
+A: "Bobby Darin recorded and released \"Mack the Knife\" in 1959. The song became one of his biggest hits and is often associated with him. So the answer is: 1959."
+A: 1959
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4234
+who won the first million on who wants to be a millionaire
+Q: who won the first million on who wants to be a millionaire
+A: "The first million-dollar winner on \"Who Wants to Be a Millionaire\" in the United States was John Carpenter. He won the prize on November 19, 1999. So the answer is: John Carpenter."
+A: John Carpenter
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1783
+who plays hanna on the haves and the have nots
+Q: who plays hanna on the haves and the have nots
+A: "The character Hanna on \"The Haves and the Have Nots\" is played by Crystal Fox. So the answer is: Crystal Fox."
+A: Crystal Fox
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4564
+how many points does curry average a game
+Q: how many points does curry average a game
+A: "As of the end of the 2022-2023 NBA season, Stephen Curry averaged approximately 29.4 points per game. However, this number can vary from season to season, so it's best to check the latest statistics for the most current average."
+A: As of the end of the 2022-2023 NBA season, Stephen Curry averaged approximately 29.4 points per game. However, this number can vary from season to season, so it's best to check the latest statistics for the most current average
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2742
+who developed the first alternating current electric system
+Q: who developed the first alternating current electric system
+A: "The first alternating current (AC) electric system was developed by Nikola Tesla. He designed the system in the late 19th century, which was later implemented by George Westinghouse. So the answer is: Nikola Tesla."
+A: Nikola Tesla
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1019
+where does the president stay in the white house
+Q: where does the president stay in the white house
+A: "The President of the United States stays in the White House, specifically in the private residence section of the building. So the answer is: the White House."
+A: the White House
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3876
+ukraine starts liquidation of legendary aircraft manufacturer antonov
+Q: ukraine starts liquidation of legendary aircraft manufacturer antonov
+A: "The statement refers to the situation in Ukraine regarding the Antonov aircraft manufacturer, which is known for producing large cargo aircraft, including the Antonov An-225 Mriya. The company has faced challenges due to the ongoing conflict in Ukraine, particularly since the Russian invasion in 2022. The liquidation of such a legendary manufacturer would signify significant economic and industrial impacts on the country. However, as of my last knowledge update in October 2023, specific details about the liquidation process or its current status would need to be verified with the latest news sources."
+A: The statement refers to the situation in Ukraine regarding the Antonov aircraft manufacturer, which is known for producing large cargo aircraft, including the Antonov An-225 Mriya. The company has faced challenges due to the ongoing conflict in Ukraine, particularly since the Russian invasion in 2022. The liquidation of such a legendary manufacturer would signify significant economic and industrial impacts on the country. However, as of my last knowledge update in October 2023, specific details about the liquidation process or its current status would need to be verified with the latest news sources
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5401
+who sings lead on for what it 's worth
+Q: who sings lead on for what it 's worth
+A: "The song \"For What It's Worth\" is sung by Buffalo Springfield, with Stephen Stills as the lead vocalist. So the answer is: Buffalo Springfield."
+A: Buffalo Springfield
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4389
+when did the beatles release their first album
+Q: when did the beatles release their first album
+A: "The Beatles released their first album, \"Please Please Me,\" on March 22, 1963. So the answer is: March 22, 1963."
+A: March 22, 1963
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3246
+which type of family is also known as a traditional family blended nuclear single-parent foster
+Q: which type of family is also known as a traditional family blended nuclear single-parent foster
+A: "The type of family that is also known as a traditional family is the nuclear family. So the answer is: nuclear family."
+A: nuclear family
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6295
+when was the concept of gross domestic product ( gdp ) born
+Q: when was the concept of gross domestic product ( gdp ) born
+A: "The concept of gross domestic product (GDP) was born in the 1930s, with significant contributions from economist Simon Kuznets. He developed the concept as a way to measure a country's economic performance during the Great Depression. The formal definition and use of GDP as a key economic indicator were further established in the years following World War II. So the answer is: 1930s."
+A: 1930s
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_871
+who is the president of international cricket council
+Q: who is the president of international cricket council
+A: "As of October 2023, the president of the International Cricket Council (ICC) is Greg Barclay. So the answer is: Greg Barclay."
+A: Greg Barclay
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4500
+who was the scarecrow in wizard of oz
+Q: who was the scarecrow in wizard of oz
+A: "The Scarecrow in \"The Wizard of Oz\" was portrayed by Ray Bolger in the 1939 film adaptation. So the answer is: Ray Bolger."
+A: Ray Bolger
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2966
+who voiced count dooku in the clone wars
+Q: who voiced count dooku in the clone wars
+A: "Count Dooku in \"Star Wars: The Clone Wars\" was voiced by Christopher Lee. So the answer is: Christopher Lee."
+A: Christopher Lee
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4347
+who played mike damone in fast times at ridgemont high
+Q: who played mike damone in fast times at ridgemont high
+A: "The character Mike Damone in \"Fast Times at Ridgemont High\" was played by actor Robert Romanus. So the answer is: Robert Romanus."
+A: Robert Romanus
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5568
+who has been chosen for the prestigious jc daniel award 2017
+Q: who has been chosen for the prestigious jc daniel award 2017
+A: "The prestigious J.C. Daniel Award for 2017 was awarded to the renowned filmmaker Adoor Gopalakrishnan. So the answer is: Adoor Gopalakrishnan."
+A: Adoor Gopalakrishnan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4350
+what is the venus fly traps name in little shop of horrors
+Q: what is the venus fly traps name in little shop of horrors
+A: "The Venus flytrap in \"Little Shop of Horrors\" is named Audrey II. So the answer is: Audrey II."
+A: Audrey II
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3039
+where do the kilchers from alaska the last frontier live
+Q: where do the kilchers from alaska the last frontier live
+A: "The Kilcher family from \"Alaska: The Last Frontier\" lives on a homestead near Homer, Alaska. So the answer is: Homer, Alaska."
+A: Homer, Alaska
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2498
+when did the first cellular phone come out
+Q: when did the first cellular phone come out
+A: "The first cellular phone, the Motorola DynaTAC 8000X, was released in 1983. So the answer is: 1983."
+A: 1983
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5815
+who played fez in that 70 's show
+Q: who played fez in that 70 's show
+A: "The character Fez in \"That '70s Show\" was played by Wilmer Valderrama. So the answer is: Wilmer Valderrama."
+A: Wilmer Valderrama
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4596
+who plays dr bailey on grey 's anatomy
+Q: who plays dr bailey on grey 's anatomy
+A: "The character Dr. Miranda Bailey on \"Grey's Anatomy\" is played by actress Chandra Wilson. So the answer is: Chandra Wilson."
+A: Chandra Wilson
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2409
+when did gods not dead 3 come out
+Q: when did gods not dead 3 come out
+A: "\"God's Not Dead: A Light in Darkness,\" the third film in the \"God's Not Dead\" series, was released on March 30, 2018. So the answer is: March 30, 2018."
+A: March 30, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6337
+where was the treaty of waitangi first signed
+Q: where was the treaty of waitangi first signed
+A: "The Treaty of Waitangi was first signed in New Zealand, specifically at Waitangi in the Bay of Islands, on February 6, 1840. So the answer is: New Zealand."
+A: New Zealand
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3296
+where was the virtually unprotected area where german armies avoided the maginot line
+Q: where was the virtually unprotected area where german armies avoided the maginot line
+A: "The virtually unprotected area where German armies avoided the Maginot Line is known as the Ardennes Forest, located in Belgium and Luxembourg. So the answer is: Ardennes Forest."
+A: Ardennes Forest
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4304
+who 's season of the bachelor was emily maynard on
+Q: who 's season of the bachelor was emily maynard on
+A: "Emily Maynard was a contestant on Season 15 of \"The Bachelor,\" which featured Brad Womack as the bachelor. So the answer is: Season 15."
+A: Season 15
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3221
+who was the original singer of i shot the sheriff
+Q: who was the original singer of i shot the sheriff
+A: "The original singer of \"I Shot the Sheriff\" is Bob Marley. The song was first released by Bob Marley and the Wailers on their 1973 album \"Burnin'.\" So the answer is: Bob Marley."
+A: Bob Marley
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4004
+when was the length of a year discovered
+Q: when was the length of a year discovered
+A: "The length of a year, defined as the time it takes for the Earth to complete one orbit around the Sun, has been understood for thousands of years. Ancient civilizations, such as the Egyptians and Babylonians, were able to approximate the length of a year as 365 days. The modern understanding of a year, which is approximately 365.25 days, was refined with the introduction of the Julian calendar in 45 BCE by Julius Caesar, which included a leap year every four years to account for the extra quarter of a day. The Gregorian calendar, introduced in 1582, further adjusted the calculation to better align with the solar year. So, while the concept of a year has been known for millennia, the precise measurement and adjustments have evolved over time."
+A: The length of a year, defined as the time it takes for the Earth to complete one orbit around the Sun, has been understood for thousands of years. Ancient civilizations, such as the Egyptians and Babylonians, were able to approximate the length of a year as 365 days. The modern understanding of a year, which is approximately 365.25 days, was refined with the introduction of the Julian calendar in 45 BCE by Julius Caesar, which included a leap year every four years to account for the extra quarter of a day. The Gregorian calendar, introduced in 1582, further adjusted the calculation to better align with the solar year. So, while the concept of a year has been known for millennia, the precise measurement and adjustments have evolved over time
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1584
+who created the song i can only imagine
+Q: who created the song i can only imagine
+A: "The song \"I Can Only Imagine\" was created by Bart Millard, who is the lead singer of the Christian band MercyMe. So the answer is: Bart Millard."
+A: Bart Millard
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_659
+who does the guy end up with in definitely maybe
+Q: who does the guy end up with in definitely maybe
+A: "In the film \"Definitely, Maybe,\" the main character, Will Hayes, ultimately ends up with April Hoffman, played by Isla Fisher. So the answer is: April Hoffman."
+A: April Hoffman
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5813
+who plays mary poppins in the new film
+Q: who plays mary poppins in the new film
+A: "The character Mary Poppins in the new film \"Mary Poppins Returns\" is played by Emily Blunt. So the answer is: Emily Blunt."
+A: Emily Blunt
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4439
+who did the song we got ta get out of this place
+Q: who did the song we got ta get out of this place
+A: "The song \"We Gotta Get Out of This Place\" was performed by The Animals. So the answer is: The Animals."
+A: The Animals
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1620
+who is the director of iron man 3
+Q: who is the director of iron man 3
+A: "The director of Iron Man 3 is Shane Black. So the answer is: Shane Black."
+A: Shane Black
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5269
+who has won the most number of kerala state film award
+Q: who has won the most number of kerala state film award
+A: "The individual who has won the most Kerala State Film Awards is the renowned filmmaker Adoor Gopalakrishnan. He has received numerous awards for his contributions to Malayalam cinema. So the answer is: Adoor Gopalakrishnan."
+A: Adoor Gopalakrishnan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5054
+what year did prince 's sign of the times come out
+Q: what year did prince 's sign of the times come out
+A: "Prince's \"Sign o' the Times\" was released in the year 1987. So the answer is: 1987."
+A: 1987
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5420
+who composed the music to the star spangled banner
+Q: who composed the music to the star spangled banner
+A: "The music to \"The Star-Spangled Banner\" was composed by John Stafford Smith. So the answer is: John Stafford Smith."
+A: John Stafford Smith
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2701
+who ran in front of the kings horse
+Q: who ran in front of the kings horse
+A: "The phrase \"who ran in front of the king's horse\" refers to the famous incident involving Emily Davison, a suffragette who ran in front of King George V's horse during the Epsom Derby in 1913. She was advocating for women's suffrage in the United Kingdom. So the answer is: Emily Davison."
+A: Emily Davison
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_683
+hot springs hotel in japan that 's run since 705 a.d
+Q: hot springs hotel in japan that 's run since 705 a.d
+A: "The hot springs hotel in Japan that has been run since 705 A.D. is the Nishiyama Onsen Keiunkan. So the answer is: Nishiyama Onsen Keiunkan."
+A: Nishiyama Onsen Keiunkan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3887
+when did gps become available for civilian use
+Q: when did gps become available for civilian use
+A: "GPS became available for civilian use on April 26, 1995. So the answer is: April 26, 1995."
+A: April 26, 1995
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4878
+who wants to be a millionaire original air date
+Q: who wants to be a millionaire original air date
+A: "The original air date of \"Who Wants to Be a Millionaire\" in the United States was August 16, 1999. So the answer is: August 16, 1999."
+A: August 16, 1999
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2862
+who played eric 's sister on that 70 show
+Q: who played eric 's sister on that 70 show
+A: "The character Eric's sister, Laurie Forman, on \"That '70s Show\" was played by actress Lisa Robin Kelly. So the answer is: Lisa Robin Kelly."
+A: Lisa Robin Kelly
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2749
+who starred in the 1988 christmas movie scrooged
+Q: who starred in the 1988 christmas movie scrooged
+A: "The 1988 Christmas movie \"Scrooged\" starred Bill Murray. So the answer is: Bill Murray."
+A: Bill Murray
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4748
+who plays desmond doss wife in hacksaw ridge
+Q: who plays desmond doss wife in hacksaw ridge
+A: "Desmond Doss's wife, Dorothy, in \"Hacksaw Ridge\" is played by actress Teresa Palmer. So the answer is: Teresa Palmer."
+A: Teresa Palmer
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2934
+where are the highest temperatures on earth recorded
+Q: where are the highest temperatures on earth recorded
+A: "The highest temperatures on Earth are recorded in places like Death Valley in California, USA, specifically at Furnace Creek, where a temperature of 134\u00b0F (56.7\u00b0C) was recorded on July 10, 1913. Other locations known for extreme heat include the Lut Desert in Iran and the Sonoran Desert in Mexico. So the answer is: Death Valley, California, USA."
+A: Death Valley, California, USA
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1821
+who wrote the music for sorcerer 's apprentice
+Q: who wrote the music for sorcerer 's apprentice
+A: "The music for \"The Sorcerer's Apprentice\" was composed by Paul Dukas. So the answer is: Paul Dukas."
+A: Paul Dukas
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3427
+who was the king of england that abdicated
+Q: who was the king of england that abdicated
+A: "The king of England who abdicated was King Edward VIII. He abdicated the throne in December 1936 in order to marry Wallis Simpson, an American divorc\u00e9e. So the answer is: King Edward VIII."
+A: King Edward VIII
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_802
+who is the imp on game of thrones
+Q: who is the imp on game of thrones
+A: "The imp in \"Game of Thrones\" refers to the character Tyrion Lannister, who is portrayed by actor Peter Dinklage. Tyrion is often called \"the Imp\" or \"the Halfman\" due to his dwarfism. So the answer is: Tyrion Lannister."
+A: Tyrion Lannister
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3722
+when did the bay city rollers tour australia
+Q: when did the bay city rollers tour australia
+A: "The Bay City Rollers toured Australia in 1976. So the answer is: 1976."
+A: 1976
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_599
+who won season 3 rupaul 's drag race all stars
+Q: who won season 3 rupaul 's drag race all stars
+A: "The winner of Season 3 of RuPaul's Drag Race All Stars was Trixie Mattel. So the answer is: Trixie Mattel."
+A: Trixie Mattel
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1949
+who sings it 's hard out here for a pimp
+Q: who sings it 's hard out here for a pimp
+A: "The song \"It's Hard out Here for a Pimp\" is performed by the group Three 6 Mafia. So the answer is: Three 6 Mafia."
+A: Three 6 Mafia
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_799
+the vascular system consists of the heart and blood vessels for the circulation of
+Q: the vascular system consists of the heart and blood vessels for the circulation of
+A: "The vascular system consists of the heart and blood vessels for the circulation of blood. So the answer is: blood."
+A: blood
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4982
+where did they get the vibranium to make captain america 's shield
+Q: where did they get the vibranium to make captain america 's shield
+A: "In the Marvel Cinematic Universe, vibranium, the material used to make Captain America's shield, is primarily sourced from the fictional African nation of Wakanda. Wakanda is known for its vast reserves of vibranium, which is a rare and powerful metal. So the answer is: Wakanda."
+A: Wakanda
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4170
+how many times has liverpool won the premier league title
+Q: how many times has liverpool won the premier league title
+A: "As of October 2023, Liverpool has won the Premier League title once, which they achieved in the 2019-2020 season. So the answer is: once."
+A: once
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6434
+who wrote the music for rocky horror picture show
+Q: who wrote the music for rocky horror picture show
+A: "The music for \"The Rocky Horror Picture Show\" was written by Richard O'Brien. So the answer is: Richard O'Brien."
+A: Richard O'Brien
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3428
+what is the name of the dog in ferdinand
+Q: what is the name of the dog in ferdinand
+A: "The name of the dog in \"Ferdinand\" is Una."
+A: The name of the dog in \"Ferdinand\" is Una
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2625
+when did construction start on the sydney harbour bridge
+Q: when did construction start on the sydney harbour bridge
+A: "Construction on the Sydney Harbour Bridge started on 28 March 1924. So the answer is: 28 March 1924."
+A: 28 March 1924
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1050
+where did they film the roy rogers show
+Q: where did they film the roy rogers show
+A: "The Roy Rogers Show was primarily filmed at the Republic Studios in Hollywood, California. So the answer is: Republic Studios, Hollywood, California."
+A: Republic Studios, Hollywood, California
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_931
+who plays the fairy godmother in the descendants
+Q: who plays the fairy godmother in the descendants
+A: "The fairy godmother in the Descendants is played by Kristin Chenoweth. So the answer is: Kristin Chenoweth."
+A: Kristin Chenoweth
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5939
+when did wonder woman first appeared in a comic book
+Q: when did wonder woman first appeared in a comic book
+A: "Wonder Woman first appeared in a comic book in December 1941, specifically in \"All Star Comics\" #8. So the answer is: December 1941."
+A: December 1941
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1045
+what is the lowest # on the fm dial
+Q: what is the lowest # on the fm dial
+A: "The lowest number on the FM dial is 87.5 MHz. So the answer is: 87.5 MHz."
+A: 87.5 MHz
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5773
+who wrote the train they call the city of new orleans
+Q: who wrote the train they call the city of new orleans
+A: "The song \"The City of New Orleans\" was written by Steve Goodman. So the answer is: Steve Goodman."
+A: Steve Goodman
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4618
+where does the name the habs come from
+Q: where does the name the habs come from
+A: "The name \"Habs\" is a shorthand reference to the Montreal Canadiens, a professional ice hockey team based in Montreal, Quebec. The term \"Habs\" is derived from the team's French nickname \"Les Habitants,\" which refers to the early settlers of Quebec. The nickname reflects the team's deep roots in the culture and history of the region. So the answer is: \"Les Habitants.\""
+A: "Les Habitants."
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5646
+who played zack morris saved by the bell
+Q: who played zack morris saved by the bell
+A: "The character Zack Morris in \"Saved by the Bell\" was played by actor Mark-Paul Gosselaar. So the answer is: Mark-Paul Gosselaar."
+A: Mark-Paul Gosselaar
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1277
+who wrote it is no secret what god can do
+Q: who wrote it is no secret what god can do
+A: "The phrase \"It is no secret what God can do\" is from the hymn \"It Is No Secret\" written by Stuart Hamblen. So the answer is: Stuart Hamblen."
+A: Stuart Hamblen
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4652
+where are the top secret drum corps from
+Q: where are the top secret drum corps from
+A: "The top secret drum corps, known as \"The President's Own\" United States Marine Band, is based in Washington, D.C. So the answer is: Washington, D.C."
+A: Washington, D.C
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6160
+when did the elf on the shelf first come out
+Q: when did the elf on the shelf first come out
+A: "The Elf on the Shelf was first published in 2005. So the answer is: 2005."
+A: 2005
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1004
+how many seasons of new girl ate there
+Q: how many seasons of new girl ate there
+A: "The television series \"New Girl\" has a total of 7 seasons. So the answer is: 7."
+A: 7
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4923
+who played sissy spacek 's mother in carrie
+Q: who played sissy spacek 's mother in carrie
+A: "Sissy Spacek's mother in \"Carrie\" was played by Piper Laurie. So the answer is: Piper Laurie."
+A: Piper Laurie
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3820
+who was born in two halfs in mahabharata
+Q: who was born in two halfs in mahabharata
+A: "In the Mahabharata, the character who was born in two halves is Bhima. He was born to Kunti and the god Vayu, and his twin brother Arjuna was born shortly after. However, if you are referring to a character who was literally born in two halves, that would be the demon Hiranyakashipu, who was split in half by Lord Narasimha. Please clarify if you meant a different character or context."
+A: In the Mahabharata, the character who was born in two halves is Bhima. He was born to Kunti and the god Vayu, and his twin brother Arjuna was born shortly after. However, if you are referring to a character who was literally born in two halves, that would be the demon Hiranyakashipu, who was split in half by Lord Narasimha. Please clarify if you meant a different character or context
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_115
+when did italy host the fifa world cup
+Q: when did italy host the fifa world cup
+A: "Italy hosted the FIFA World Cup in 1934 and again in 1990. So the answer is: 1934 and 1990."
+A: 1934 and 1990
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2982
+a false correlation between two variables caused by a third variable
+Q: a false correlation between two variables caused by a third variable
+A: "A false correlation between two variables caused by a third variable is known as a \"spurious correlation\" or \"spurious relationship.\" This occurs when two variables appear to be related to each other, but their relationship is actually influenced by a separate, confounding variable. So the answer is: spurious correlation."
+A: spurious correlation
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4294
+who is not covered by the occupational health and safety act ( 1970 )
+Q: who is not covered by the occupational health and safety act ( 1970 )
+A: "The Occupational Health and Safety Act (OSHA) of 1970 does not cover certain groups of workers. Specifically, self-employed individuals, immediate family members of farm employers, and workers in certain industries such as mining, nuclear energy, and some transportation sectors may not be covered. Additionally, public sector employees in states without their own OSHA-approved plans are also not covered. So the answer is: self-employed individuals and certain public sector employees."
+A: self-employed individuals and certain public sector employees
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4536
+who played the flash in the original tv series
+Q: who played the flash in the original tv series
+A: "The Flash in the original TV series, which aired from 1990 to 1991, was played by John Wesley Shipp. So the answer is: John Wesley Shipp."
+A: John Wesley Shipp
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2273
+a polygon with all sides the same length is said to be
+Q: a polygon with all sides the same length is said to be
+A: "A polygon with all sides the same length is said to be \"equiangular\" or \"regular.\" If all angles are also equal, it is specifically referred to as a \"regular polygon.\" So the answer is: regular."
+A: regular
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3454
+brown bird with red v on back of head
+Q: brown bird with red v on back of head
+A: "The bird you are describing sounds like a Red-crowned Crane or possibly a Red-headed Woodpecker, depending on the specific characteristics and location. However, if you are looking for a more common bird, it could also refer to a type of sparrow or finch with a reddish marking. More context or details about the bird's size, habitat, or behavior would help narrow it down further."
+A: The bird you are describing sounds like a Red-crowned Crane or possibly a Red-headed Woodpecker, depending on the specific characteristics and location. However, if you are looking for a more common bird, it could also refer to a type of sparrow or finch with a reddish marking. More context or details about the bird's size, habitat, or behavior would help narrow it down further
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5768
+when does the star is born sound track come out
+Q: when does the star is born sound track come out
+A: "The soundtrack for \"A Star Is Born,\" featuring music by Lady Gaga and Bradley Cooper, was released on October 5, 2018. So the answer is: October 5, 2018."
+A: October 5, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_360
+what city did suicide squad take place in
+Q: what city did suicide squad take place in
+A: "The movie \"Suicide Squad\" takes place in the fictional city of Midway City. So the answer is: Midway City."
+A: Midway City
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1271
+who sings the song it 's getting hot in here
+Q: who sings the song it 's getting hot in here
+A: "The song \"It's Getting Hot in Here\" is sung by Nelly. So the answer is: Nelly."
+A: Nelly
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5204
+who sings with bing crosby in white christmas
+Q: who sings with bing crosby in white christmas
+A: "The singer who performs with Bing Crosby in \"White Christmas\" is Danny Kaye. So the answer is: Danny Kaye."
+A: Danny Kaye
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4967
+who wrote the book a theory of justice
+Q: who wrote the book a theory of justice
+A: "The book \"A Theory of Justice\" was written by John Rawls. So the answer is: John Rawls."
+A: John Rawls
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6119
+when was the first automobile invented in america
+Q: when was the first automobile invented in america
+A: "The first automobile invented in America is generally credited to Charles and Frank Duryea, who built the Duryea Motor Wagon in 1893. So the answer is: 1893."
+A: 1893
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1989
+what region of the world is israel located
+Q: what region of the world is israel located
+A: "Israel is located in the Middle East region of the world. So the answer is: Middle East."
+A: Middle East
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4862
+who won icc t 20 world cup 2016
+Q: who won icc t 20 world cup 2016
+A: "The ICC T20 World Cup 2016 was won by the West Indies. They defeated England in the final match. So the answer is: West Indies."
+A: West Indies
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1035
+what does the p stand for in p45
+Q: what does the p stand for in p45
+A: "The \"P\" in P45 stands for \"Pay.\" A P45 is a document issued in the UK when an employee leaves a job, detailing their pay and tax information. So the answer is: Pay."
+A: Pay
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5555
+who played guitar on summer breeze isley brothers
+Q: who played guitar on summer breeze isley brothers
+A: "The guitar on \"Summer Breeze\" by The Isley Brothers was played by Ernie Isley. So the answer is: Ernie Isley."
+A: Ernie Isley
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3252
+who won series 7 of great british bake off
+Q: who won series 7 of great british bake off
+A: "The winner of Series 7 of The Great British Bake Off was Candice Brown. So the answer is: Candice Brown."
+A: Candice Brown
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3061
+when was the last time a $ 2 bill was printed
+Q: when was the last time a $ 2 bill was printed
+A: "The last time a $2 bill was printed was in 2016. So the answer is: 2016."
+A: 2016
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5336
+when was the original phantom of the opera movie made
+Q: when was the original phantom of the opera movie made
+A: "The original \"Phantom of the Opera\" movie, directed by Rupert Julian, was made in 1925. So the answer is: 1925."
+A: 1925
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1730
+which countries were considered superpowers after world war ii
+Q: which countries were considered superpowers after world war ii
+A: "After World War II, the countries that were considered superpowers were the United States and the Soviet Union. These two nations emerged as the dominant global powers, leading to a bipolar world during the Cold War era. So the answer is: United States and Soviet Union."
+A: United States and Soviet Union
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3098
+who plays brooks in the movie game night
+Q: who plays brooks in the movie game night
+A: "The character Brooks in the movie \"Game Night\" is played by actor Kyle Chandler. So the answer is: Kyle Chandler."
+A: Kyle Chandler
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5816
+when did gun free zones become a thing
+Q: when did gun free zones become a thing
+A: "Gun-free zones began to be established in the United States in the late 20th century, with significant legislation such as the Gun-Free School Zones Act of 1990, which made it illegal to possess a firearm in a school zone. This act was part of a broader movement to create safe spaces free from gun violence, particularly in schools. However, the concept of gun-free zones has evolved over time and varies by state and local laws. So, the answer is: late 20th century, specifically with the Gun-Free School Zones Act of 1990."
+A: late 20th century, specifically with the Gun-Free School Zones Act of 1990
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1812
+who has sung most number of songs in india
+Q: who has sung most number of songs in india
+A: "The artist who has sung the most number of songs in India is Asha Bhosle. She holds the Guinness World Record for the most recorded artist in music history, with thousands of songs across various languages and genres. So the answer is: Asha Bhosle."
+A: Asha Bhosle
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4921
+when did america 's funniest videos first air
+Q: when did america 's funniest videos first air
+A: "America's Funniest Home Videos first aired on November 26, 1989. So the answer is: November 26, 1989."
+A: November 26, 1989
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2428
+where was gavin and stacey filmed in wales
+Q: where was gavin and stacey filmed in wales
+A: "Gavin & Stacey was primarily filmed in various locations in Wales, including Barry, which is in the Vale of Glamorgan. Other locations include Cardiff and the surrounding areas. So the answer is: Barry, Wales."
+A: Barry, Wales
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4052
+when did the nuclear non proliferation treaty start
+Q: when did the nuclear non proliferation treaty start
+A: "The Nuclear Non-Proliferation Treaty (NPT) was opened for signature on July 1, 1968, and it entered into force on March 5, 1970. So the answer is: July 1, 1968."
+A: July 1, 1968
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4974
+the two major lineages that make up the living amniota are
+Q: the two major lineages that make up the living amniota are
+A: "The two major lineages that make up the living amniota are the reptiles (which include birds) and the mammals. So the answer is: reptiles and mammals."
+A: reptiles and mammals
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4743
+who wrote the song call me by aretha franklin
+Q: who wrote the song call me by aretha franklin
+A: "The song \"Call Me\" by Aretha Franklin was written by the songwriting duo of Kenny Gamble and Leon Huff. So the answer is: Kenny Gamble and Leon Huff."
+A: Kenny Gamble and Leon Huff
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1207
+when did the cartoon scooby doo come out
+Q: when did the cartoon scooby doo come out
+A: "The cartoon \"Scooby-Doo, Where Are You!\" first premiered on September 13, 1969. So the answer is: September 13, 1969."
+A: September 13, 1969
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3682
+when did the brothers grimm write their stories
+Q: when did the brothers grimm write their stories
+A: "The Brothers Grimm, Jacob and Wilhelm Grimm, began collecting and publishing their fairy tales in the early 19th century. Their first volume, \"Grimm's Fairy Tales\" (originally titled \"Kinder- und Hausm\u00e4rchen\"), was published in 1812. They continued to revise and expand their collection, with subsequent editions released in 1815 and later years. So the answer is: early 19th century, starting in 1812."
+A: early 19th century, starting in 1812
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3122
+who won s5 of rupaul 's drag race
+Q: who won s5 of rupaul 's drag race
+A: "The winner of Season 5 of RuPaul's Drag Race was Jinkx Monsoon. So the answer is: Jinkx Monsoon."
+A: Jinkx Monsoon
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_196
+when does batman gotham by gaslight come out
+Q: when does batman gotham by gaslight come out
+A: "\"Batman: Gotham by Gaslight\" was released on January 23, 2018. So the answer is: January 23, 2018."
+A: January 23, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5817
+what movie is the song cake by the ocean in
+Q: what movie is the song cake by the ocean in
+A: "The song \"Cake by the Ocean\" by DNCE is featured in the movie \"Fifty Shades Darker.\" So the answer is: Fifty Shades Darker."
+A: Fifty Shades Darker
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3726
+who played jesus in the greatest story ever told
+Q: who played jesus in the greatest story ever told
+A: "The character of Jesus in \"The Greatest Story Ever Told\" was played by Max von Sydow. So the answer is: Max von Sydow."
+A: Max von Sydow
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2376
+who made it to the american idol finale
+Q: who made it to the american idol finale
+A: "The American Idol finale has featured many contestants over the years. To provide a specific answer, I would need to know which season you are referring to. For example, in Season 20, the finalists were HunterGirl and Noah Thompson. Please specify the season for a more accurate answer."
+A: The American Idol finale has featured many contestants over the years. To provide a specific answer, I would need to know which season you are referring to. For example, in Season 20, the finalists were HunterGirl and Noah Thompson. Please specify the season for a more accurate answer
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1789
+when did the european convention on human rights come into force
+Q: when did the european convention on human rights come into force
+A: "The European Convention on Human Rights came into force on September 3, 1953. So the answer is: September 3, 1953."
+A: September 3, 1953
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1892
+who did tom hanks work for in castaway
+Q: who did tom hanks work for in castaway
+A: "In the film \"Cast Away,\" Tom Hanks plays the character Chuck Noland, who works for FedEx. So the answer is: FedEx."
+A: FedEx
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1015
+first english team to play in european cup
+Q: first english team to play in european cup
+A: "The first English team to play in the European Cup was Manchester United. They participated in the inaugural tournament in the 1955-56 season. So the answer is: Manchester United."
+A: Manchester United
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5210
+who wrote manfred mann 's blinded by the light
+Q: who wrote manfred mann 's blinded by the light
+A: "\"Blinded by the Light\" was written by Bruce Springsteen. So the answer is: Bruce Springsteen."
+A: Bruce Springsteen
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5173
+who proposed the idea of quit india movement
+Q: who proposed the idea of quit india movement
+A: "The idea of the Quit India Movement was proposed by Mahatma Gandhi. The movement was launched in August 1942 during World War II, calling for an end to British rule in India. So the answer is: Mahatma Gandhi."
+A: Mahatma Gandhi
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1316
+what two types of crust make up the surface of the earth
+Q: what two types of crust make up the surface of the earth
+A: "The two types of crust that make up the surface of the Earth are the continental crust and the oceanic crust. So the answer is: continental crust and oceanic crust."
+A: continental crust and oceanic crust
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3415
+author of book orange is the new black
+Q: author of book orange is the new black
+A: "The author of the book \"Orange Is the New Black\" is Piper Kerman. So the answer is: Piper Kerman."
+A: Piper Kerman
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1931
+where was the movie the broken land filmed
+Q: where was the movie the broken land filmed
+A: "The movie \"The Broken Land\" was filmed in various locations in the United States, primarily in the state of California. So the answer is: California."
+A: California
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3245
+where is the leaning tower of pisa built
+Q: where is the leaning tower of pisa built
+A: "The Leaning Tower of Pisa is located in Pisa, Italy. So the answer is: Pisa, Italy."
+A: Pisa, Italy
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_987
+who won the women 's afl grand final
+Q: who won the women 's afl grand final
+A: "The winner of the 2023 AFL Women's Grand Final was the Brisbane Lions, who defeated the Collingwood Magpies. So the answer is: Brisbane Lions."
+A: Brisbane Lions
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_67
+who plays christian grey in 50 shades of grey
+Q: who plays christian grey in 50 shades of grey
+A: "The character Christian Grey in \"Fifty Shades of Grey\" is played by Jamie Dornan. So the answer is: Jamie Dornan."
+A: Jamie Dornan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3440
+how many stations does the jerusalem light rail have
+Q: how many stations does the jerusalem light rail have
+A: "The Jerusalem Light Rail has a total of 23 stations. So the answer is: 23."
+A: 23
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3363
+when does the new 2017 star wars movie come out
+Q: when does the new 2017 star wars movie come out
+A: "The new Star Wars movie released in 2017 is \"Star Wars: The Last Jedi,\" which premiered on December 15, 2017. So the answer is: December 15, 2017."
+A: December 15, 2017
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4960
+who plays the voice of creek on trolls
+Q: who plays the voice of creek on trolls
+A: "The voice of Creek in the movie \"Trolls\" is provided by actor and musician Justin Timberlake. So the answer is: Justin Timberlake."
+A: Justin Timberlake
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_590
+which countries are the latest additions to caricom
+Q: which countries are the latest additions to caricom
+A: "The latest additions to CARICOM (Caribbean Community) are Haiti, which became a member in 2002, and Suriname, which joined in 1995. However, the most recent country to join CARICOM is Belize, which became a member in 1981. As of now, there have been no new additions since then. So the answer is: Haiti and Suriname."
+A: Haiti and Suriname
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1514
+what was the spruce goose made out of
+Q: what was the spruce goose made out of
+A: "The Spruce Goose, officially known as the Hughes H-4 Hercules, was primarily made out of a type of plywood called Duramold, which was a lightweight material developed for aircraft construction. The aircraft's structure also included some aluminum and other materials, but its distinctive feature was the extensive use of wood, particularly due to wartime restrictions on metal. So the answer is: plywood (Duramold)."
+A: plywood (Duramold)
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6423
+who plays the clown in freak show ahs
+Q: who plays the clown in freak show ahs
+A: "The clown in \"American Horror Story: Freak Show\" is played by John Carroll Lynch. So the answer is: John Carroll Lynch."
+A: John Carroll Lynch
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5712
+when did the drinking age turn to 21 in nj
+Q: when did the drinking age turn to 21 in nj
+A: "The drinking age in New Jersey was raised to 21 on April 1, 1982, in compliance with the National Minimum Drinking Age Act of 1984. So the answer is: April 1, 1982."
+A: April 1, 1982
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_33
+who won women 's cricket world cup 2016
+Q: who won women 's cricket world cup 2016
+A: "The winner of the Women's Cricket World Cup 2016 was Australia. They defeated West Indies in the final. So the answer is: Australia."
+A: Australia
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1545
+the transition from preindustrial society to industrial society was brought about by
+Q: the transition from preindustrial society to industrial society was brought about by
+A: "The transition from preindustrial society to industrial society was brought about by the Industrial Revolution. This period, which began in the late 18th century and continued into the 19th century, involved significant technological advancements, the rise of factories, urbanization, and changes in labor practices. So the answer is: the Industrial Revolution."
+A: the Industrial Revolution
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1903
+who won the first season of the 4
+Q: who won the first season of the 4
+A: "The first season of \"The 4: Battle for Stardom\" was won by Evvie McKinney. So the answer is: Evvie McKinney."
+A: Evvie McKinney
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1318
+vikram samvat is official calendar of which contry
+Q: vikram samvat is official calendar of which contry
+A: "Vikram Samvat is the official calendar of Nepal. So the answer is: Nepal."
+A: Nepal
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_44
+who sang the original me and bobby mcgee
+Q: who sang the original me and bobby mcgee
+A: "The original version of \"Me and Bobby McGee\" was sung by Roger Miller. The song was later famously covered by Janis Joplin. So the answer is: Roger Miller."
+A: Roger Miller
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4121
+when was the human development index adopted by the united nations
+Q: when was the human development index adopted by the united nations
+A: "The Human Development Index (HDI) was adopted by the United Nations in 1990. So the answer is: 1990."
+A: 1990
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2249
+who wrote the song forever and ever amen
+Q: who wrote the song forever and ever amen
+A: "The song \"Forever and Ever, Amen\" was written by Paul Overstreet and Don Schlitz. So the answer is: Paul Overstreet and Don Schlitz."
+A: Paul Overstreet and Don Schlitz
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2335
+when did pong become playable on the television
+Q: when did pong become playable on the television
+A: "Pong became playable on television in 1975 when it was released as an arcade game and later adapted for home consoles. The home version of Pong was released by Atari for the home television market in 1975. So the answer is: 1975."
+A: 1975
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2499
+where do you find a simple gear train
+Q: where do you find a simple gear train
+A: "A simple gear train can be found in various mechanical devices, such as clocks, bicycles, and many types of machinery. It consists of two or more gears that are connected in a series, allowing for the transfer of motion and force from one gear to another. Simple gear trains are commonly used in applications where speed and torque need to be adjusted, such as in gearboxes and automotive transmissions. So the answer is: in clocks, bicycles, and machinery."
+A: in clocks, bicycles, and machinery
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4237
+when did season 5 of bates motel start
+Q: when did season 5 of bates motel start
+A: "Season 5 of Bates Motel premiered on February 20, 2017. So the answer is: February 20, 2017."
+A: February 20, 2017
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_296
+when was soccer first introduced in the olympics
+Q: when was soccer first introduced in the olympics
+A: "Soccer, also known as football in many parts of the world, was first introduced in the Olympics in 1900. So the answer is: 1900."
+A: 1900
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6446
+who sang what is love baby do n 't hurt me
+Q: who sang what is love baby do n 't hurt me
+A: "The song \"What Is Love\" is sung by Haddaway. So the answer is: Haddaway."
+A: Haddaway
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5694
+who led the crew that cut through the cumberland gap
+Q: who led the crew that cut through the cumberland gap
+A: "The crew that cut through the Cumberland Gap was led by Daniel Boone. So the answer is: Daniel Boone."
+A: Daniel Boone
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3106
+when does far cry 5 for ps4 come out
+Q: when does far cry 5 for ps4 come out
+A: "Far Cry 5 for PS4 was released on March 27, 2018. So the answer is: March 27, 2018."
+A: March 27, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6043
+what rappers unique sound was coined g funk
+Q: what rappers unique sound was coined g funk
+A: "The rapper known for the unique sound coined as G-funk is Warren G. So the answer is: Warren G."
+A: Warren G
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3660
+what is the largest lake in west virginia
+Q: what is the largest lake in west virginia
+A: "The largest lake in West Virginia is Lake Sutton. So the answer is: Lake Sutton."
+A: Lake Sutton
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_79
+who sang the song i love to love
+Q: who sang the song i love to love
+A: "The song \"I Love to Love\" was sung by Tina Charles. So the answer is: Tina Charles."
+A: Tina Charles
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6506
+who was the bond girl in you only live twice
+Q: who was the bond girl in you only live twice
+A: "The Bond girl in \"You Only Live Twice\" is Akiko Wakabayashi, who played the character Aki. So the answer is: Akiko Wakabayashi."
+A: Akiko Wakabayashi
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5758
+who played bo brady in days of our lives
+Q: who played bo brady in days of our lives
+A: "Bo Brady in \"Days of Our Lives\" was played by actor Peter Reckell. So the answer is: Peter Reckell."
+A: Peter Reckell
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2306
+who tried to kill rachel in the bodyguard
+Q: who tried to kill rachel in the bodyguard
+A: "In the film \"The Bodyguard,\" Rachel Marron, played by Whitney Houston, is targeted by a stalker named Frank Farmer, played by Kevin Costner. The actual attempt on her life is made by a hitman hired by a rival character, but the specific identity of the hitman is not a central focus of the plot. The main antagonist is the stalker who poses a threat to her safety throughout the film. So the answer is: a hitman hired by a rival character."
+A: a hitman hired by a rival character
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1593
+when was first constituent assembly held in nepal
+Q: when was first constituent assembly held in nepal
+A: "The first constituent assembly in Nepal was held on April 10, 2008. So the answer is: April 10, 2008."
+A: April 10, 2008
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3125
+greenland is the largest island in the world in which continent it is situated
+Q: greenland is the largest island in the world in which continent it is situated
+A: "Greenland is the largest island in the world and is situated in the continent of North America. So the answer is: North America."
+A: North America
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5392
+where does a to z mysteries take place
+Q: where does a to z mysteries take place
+A: "A to Z Mysteries is a children's book series written by Ron Roy that takes place in the fictional town of Green Lawn. So the answer is: Green Lawn."
+A: Green Lawn
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4735
+when did germany take alsace-lorraine region from france in the franco-prussian war
+Q: when did germany take alsace-lorraine region from france in the franco-prussian war
+A: "Germany took the Alsace-Lorraine region from France as a result of the Franco-Prussian War, which ended in 1871. The Treaty of Frankfurt, signed on May 10, 1871, formalized the annexation. So the answer is: 1871."
+A: 1871
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5909
+who sang the first line in band aid 1984
+Q: who sang the first line in band aid 1984
+A: "The first line in Band Aid's 1984 song \"Do They Know It's Christmas?\" was sung by Paul Young. So the answer is: Paul Young."
+A: Paul Young
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1854
+number of episodes in walking dead season 8
+Q: number of episodes in walking dead season 8
+A: "The Walking Dead Season 8 consists of 16 episodes. So the answer is: 16."
+A: 16
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5276
+h2r kawasaki is it a supercharger or turbo
+Q: h2r kawasaki is it a supercharger or turbo
+A: "The H2R Kawasaki is equipped with a supercharger. So the answer is: supercharger."
+A: supercharger
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_684
+when was delhi designated the national capital territory
+Q: when was delhi designated the national capital territory
+A: "Delhi was designated as the National Capital Territory (NCT) of India in 1991, following the enactment of the National Capital Territory of Delhi Act. So the answer is: 1991."
+A: 1991
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4649
+who starred in the original my fair lady
+Q: who starred in the original my fair lady
+A: "The original \"My Fair Lady\" on Broadway starred Julie Andrews as Eliza Doolittle. The film adaptation released in 1964 featured Audrey Hepburn in the same role. So the answer is: Julie Andrews (for the Broadway version)."
+A: Julie Andrews (for the Broadway version)
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6109
+who played the original willmot brown in eastenders
+Q: who played the original willmot brown in eastenders
+A: "The original Willmott Brown in EastEnders was played by actor John Altman. So the answer is: John Altman."
+A: John Altman
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5250
+who invented the television and when was it invented
+Q: who invented the television and when was it invented
+A: "The invention of the television cannot be attributed to a single individual, as it was developed through the contributions of many inventors over time. However, one of the key figures in the invention of the television is Philo Farnsworth, who made significant advancements in the development of electronic television. He transmitted the first electronic television image on September 7, 1927. Other notable inventors include John Logie Baird, who demonstrated the first working television system in 1926. So, while there is no single inventor, Philo Farnsworth is often credited with the invention of the electronic television."
+A: The invention of the television cannot be attributed to a single individual, as it was developed through the contributions of many inventors over time. However, one of the key figures in the invention of the television is Philo Farnsworth, who made significant advancements in the development of electronic television. He transmitted the first electronic television image on September 7, 1927. Other notable inventors include John Logie Baird, who demonstrated the first working television system in 1926. So, while there is no single inventor, Philo Farnsworth is often credited with the invention of the electronic television
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4012
+how many characters are specified in ascii scheme
+Q: how many characters are specified in ascii scheme
+A: "The ASCII (American Standard Code for Information Interchange) scheme specifies a total of 128 characters. This includes 33 non-printable control characters and 95 printable characters. So the answer is: 128."
+A: 128
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4463
+how many acres is the san diego safari park
+Q: how many acres is the san diego safari park
+A: "The San Diego Safari Park covers approximately 1,800 acres. So the answer is: 1,800 acres."
+A: 1,800 acres
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5147
+what is the french word for french toast
+Q: what is the french word for french toast
+A: "The French word for French toast is \"pain perdu.\""
+A: The French word for French toast is \"pain perdu.\"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2536
+where is most of the water in the body located
+Q: where is most of the water in the body located
+A: "Most of the water in the body is located inside the cells, which is referred to as intracellular fluid. This accounts for about two-thirds of the total body water. The remaining one-third is found outside the cells, known as extracellular fluid, which includes interstitial fluid and blood plasma. So the answer is: inside the cells (intracellular fluid)."
+A: inside the cells (intracellular fluid)
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1334
+when did season 2 of atlanta come out
+Q: when did season 2 of atlanta come out
+A: "Season 2 of \"Atlanta\" premiered on March 1, 2018. So the answer is: March 1, 2018."
+A: March 1, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1323
+who played lucius malfoy in the harry potter series
+Q: who played lucius malfoy in the harry potter series
+A: "Lucius Malfoy in the Harry Potter series was played by actor Jason Isaacs. So the answer is: Jason Isaacs."
+A: Jason Isaacs
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6198
+who cut off someone 's ear in the bible
+Q: who cut off someone 's ear in the bible
+A: "In the Bible, it was Peter who cut off the ear of Malchus, the servant of the high priest, during the arrest of Jesus in the Garden of Gethsemane. This event is recorded in the Gospel of John 18:10. So the answer is: Peter."
+A: Peter
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_783
+when did the drinking age increase to 21
+Q: when did the drinking age increase to 21
+A: "The national minimum drinking age was increased to 21 with the passage of the National Minimum Drinking Age Act of 1984 in the United States. The law went into effect on July 1, 1988. So the answer is: July 1, 1988."
+A: July 1, 1988
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4229
+where did amelia lily come on the x factor
+Q: where did amelia lily come on the x factor
+A: "Amelia Lily finished in third place on the eighth series of The X Factor UK in 2011. So the answer is: third place."
+A: third place
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5888
+who made the very first car in the world
+Q: who made the very first car in the world
+A: "The very first car in the world is generally credited to Karl Benz, who built the Benz Patent-Motorwagen in 1885-1886. It is considered the first true automobile powered by an internal combustion engine. So the answer is: Karl Benz."
+A: Karl Benz
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1191
+where do tornadoes most commonly occur in the us
+Q: where do tornadoes most commonly occur in the us
+A: "Tornadoes most commonly occur in the central part of the United States, particularly in an area known as \"Tornado Alley.\" This region includes parts of Texas, Oklahoma, Kansas, Nebraska, and South Dakota, among others. So the answer is: Tornado Alley in the central United States."
+A: Tornado Alley in the central United States
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6342
+who is the head of the state of china
+Q: who is the head of the state of china
+A: "The head of state of China is the President. As of my last knowledge update in October 2023, the President of China is Xi Jinping. So the answer is: Xi Jinping."
+A: Xi Jinping
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3554
+who is the minister of state for environment forest and climate change ( independent charge )
+Q: who is the minister of state for environment forest and climate change ( independent charge )
+A: "As of my last knowledge update in October 2023, the Minister of State for Environment, Forest and Climate Change (Independent Charge) in India is Bhupender Yadav. Please verify with the latest sources for any updates or changes."
+A: As of my last knowledge update in October 2023, the Minister of State for Environment, Forest and Climate Change (Independent Charge) in India is Bhupender Yadav. Please verify with the latest sources for any updates or changes
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5244
+when did the first simpsons episode come out
+Q: when did the first simpsons episode come out
+A: "The first episode of The Simpsons, titled \"Simpsons Roasting on an Open Fire,\" premiered on December 17, 1989. So the answer is: December 17, 1989."
+A: December 17, 1989
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4969
+who wrote tim mcgraw song humble and kind
+Q: who wrote tim mcgraw song humble and kind
+A: "The song \"Humble and Kind\" was written by Lori McKenna. So the answer is: Lori McKenna."
+A: Lori McKenna
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3616
+who did nicola walker play in four weddings and a funeral
+Q: who did nicola walker play in four weddings and a funeral
+A: "Nicola Walker played the character of Fiona in the film \"Four Weddings and a Funeral.\" So the answer is: Fiona."
+A: Fiona
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3532
+what word is used to describe an acid or base that can destroy body tissue
+Q: what word is used to describe an acid or base that can destroy body tissue
+A: "The word used to describe an acid or base that can destroy body tissue is \"corrosive.\" So the answer is: corrosive."
+A: corrosive
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4179
+what are the two types of law in australia
+Q: what are the two types of law in australia
+A: "The two main types of law in Australia are:"
+A: The two main types of law in Australia are:
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2617
+when did the royal flying doctor service start
+Q: when did the royal flying doctor service start
+A: "The Royal Flying Doctor Service (RFDS) started on May 17, 1928. So the answer is: May 17, 1928."
+A: May 17, 1928
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3906
+when did the tv series the flash start
+Q: when did the tv series the flash start
+A: "The TV series \"The Flash\" premiered on October 7, 2014. So the answer is: October 7, 2014."
+A: October 7, 2014
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_614
+who plays barney stinson in how i met your mother
+Q: who plays barney stinson in how i met your mother
+A: "The character Barney Stinson in \"How I Met Your Mother\" is played by Neil Patrick Harris. So the answer is: Neil Patrick Harris."
+A: Neil Patrick Harris
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5930
+who is the main character in shadow of war
+Q: who is the main character in shadow of war
+A: "The main character in \"Middle-earth: Shadow of War\" is Talion, a ranger of Gondor who shares his body with the spirit of the elf lord Celebrimbor. Together, they seek to forge a new Ring of Power and confront the dark forces of Sauron. So the answer is: Talion."
+A: Talion
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3283
+who did the voice of inspector gadget cartoon
+Q: who did the voice of inspector gadget cartoon
+A: "The voice of Inspector Gadget in the original cartoon series was provided by Don Adams. So the answer is: Don Adams."
+A: Don Adams
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5021
+when did the raiders win the super bowl
+Q: when did the raiders win the super bowl
+A: "The Raiders won the Super Bowl three times. They won their first Super Bowl (Super Bowl XI) on January 9, 1977, their second (Super Bowl XV) on January 25, 1981, and their third (Super Bowl XVIII) on January 22, 1984. So the answer is: January 9, 1977; January 25, 1981; January 22, 1984."
+A: January 9, 1977; January 25, 1981; January 22, 1984
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4567
+who sang the original version of i love rock and roll
+Q: who sang the original version of i love rock and roll
+A: "The original version of \"I Love Rock 'n' Roll\" was sung by Alan Merrill of the band The Arrows. So the answer is: Alan Merrill."
+A: Alan Merrill
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4879
+whats the name of the new thats so raven
+Q: whats the name of the new thats so raven
+A: "The name of the new series that is a sequel to \"That's So Raven\" is \"Raven's Home.\""
+A: The name of the new series that is a sequel to \"That's So Raven\" is \"Raven's Home.\"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2014
+who composed the music of the national anthem of mauritius
+Q: who composed the music of the national anthem of mauritius
+A: "The music of the national anthem of Mauritius, \"Motherland,\" was composed by Philippe Gentil. So the answer is: Philippe Gentil."
+A: Philippe Gentil
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4674
+who introduced the term in group and out group
+Q: who introduced the term in group and out group
+A: "The terms \"in-group\" and \"out-group\" were introduced by social psychologist Henri Tajfel. He developed these concepts as part of his research on social identity and intergroup relations. So the answer is: Henri Tajfel."
+A: Henri Tajfel
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2080
+what are the four last things in catholicism
+Q: what are the four last things in catholicism
+A: "In Catholicism, the four last things are Death, Judgment, Heaven, and Hell. So the answer is: Death, Judgment, Heaven, and Hell."
+A: Death, Judgment, Heaven, and Hell
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5087
+when did the song i can only imagine released
+Q: when did the song i can only imagine released
+A: "The song \"I Can Only Imagine\" by MercyMe was released on November 18, 1999. So the answer is: November 18, 1999."
+A: November 18, 1999
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6317
+who won the 100 years war france or england
+Q: who won the 100 years war france or england
+A: "The Hundred Years' War was a series of conflicts fought between England and France from 1337 to 1453. France ultimately emerged victorious, reclaiming territories that had been held by England. So the answer is: France."
+A: France
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_417
+hotel in estes park where the shining was filmed
+Q: hotel in estes park where the shining was filmed
+A: "The hotel in Estes Park where \"The Shining\" was filmed is the Stanley Hotel. So the answer is: Stanley Hotel."
+A: Stanley Hotel
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3971
+where was the movie conan the barbarian filmed
+Q: where was the movie conan the barbarian filmed
+A: "The movie \"Conan the Barbarian\" (1982) was primarily filmed in Spain, with locations including the Alc\u00e1zar of Segovia and the province of Almer\u00eda. So the answer is: Spain."
+A: Spain
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4224
+who won the big boss telugu season 2
+Q: who won the big boss telugu season 2
+A: "The winner of Bigg Boss Telugu Season 2 was Kaushal Manda. So the answer is: Kaushal Manda."
+A: Kaushal Manda
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5453
+who wrote the song mamas don t let your babies grow up to be cowboys
+Q: who wrote the song mamas don t let your babies grow up to be cowboys
+A: "The song \"Mama's Don't Let Your Babies Grow Up to Be Cowboys\" was written by Ed Bruce and his wife, Patsy Bruce. So the answer is: Ed Bruce and Patsy Bruce."
+A: Ed Bruce and Patsy Bruce
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1527
+where is the national flag hoisted on 26 january
+Q: where is the national flag hoisted on 26 january
+A: "The national flag of India is hoisted on 26 January at Rajpath in New Delhi during the Republic Day celebrations. So the answer is: Rajpath, New Delhi."
+A: Rajpath, New Delhi
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1317
+in day of the locust where is tod hackett originally from
+Q: in day of the locust where is tod hackett originally from
+A: "In \"The Day of the Locust,\" Tod Hackett is originally from the Midwest. So the answer is: the Midwest."
+A: the Midwest
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5908
+what is the name of j cole new album
+Q: what is the name of j cole new album
+A: "As of October 2023, J. Cole's latest album is titled \"The Off-Season,\" which was released on May 14, 2021. If there have been any new releases after that date, I do not have that information. Please check the latest sources for any updates."
+A: As of October 2023, J. Cole's latest album is titled \"The Off-Season,\" which was released on May 14, 2021. If there have been any new releases after that date, I do not have that information. Please check the latest sources for any updates
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3748
+charismatic military leaders of early israel before they had a king were called by what term
+Q: charismatic military leaders of early israel before they had a king were called by what term
+A: "The charismatic military leaders of early Israel before they had a king were called \"Judges.\" So the answer is: Judges."
+A: Judges
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6253
+who won heart of atlanta motel v. united states
+Q: who won heart of atlanta motel v. united states
+A: "The case Heart of Atlanta Motel v. United States was decided by the Supreme Court of the United States in 1964. The Court ruled in favor of the United States, upholding the Civil Rights Act of 1964 and affirming that the federal government could prohibit racial discrimination in public accommodations. So the answer is: The United States."
+A: The United States
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2941
+what does the ac in ac moore stand for
+Q: what does the ac in ac moore stand for
+A: "The \"AC\" in AC Moore stands for \"Art and Craft.\" AC Moore was a retail chain that specialized in arts and crafts supplies. So the answer is: Art and Craft."
+A: Art and Craft
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1686
+when did england last get through to the quarter finals
+Q: when did england last get through to the quarter finals
+A: "As of my last knowledge update in October 2023, England last reached the quarter-finals of the FIFA World Cup in 2018. They played against Sweden in the quarter-finals on July 7, 2018. So the answer is: 2018."
+A: 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_808
+what is the total number of tigers in india
+Q: what is the total number of tigers in india
+A: "As of the latest estimates from 2018, India is home to approximately 2,967 tigers. This number is based on the All India Tiger Estimation conducted every four years. However, for the most current figures, it is advisable to check the latest reports from the National Tiger Conservation Authority or other relevant wildlife organizations. So the answer is: approximately 2,967."
+A: approximately 2,967
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1292
+how many times have the lakers won the finals
+Q: how many times have the lakers won the finals
+A: "The Los Angeles Lakers have won the NBA Finals a total of 17 times. So the answer is: 17 times."
+A: 17 times
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3549
+where are most of the divergent boundaries found
+Q: where are most of the divergent boundaries found
+A: "Most divergent boundaries are found along mid-ocean ridges, where tectonic plates are moving apart. These boundaries are primarily located in the ocean, such as the Mid-Atlantic Ridge, but can also be found on land in rift valleys, like the East African Rift. So the answer is: along mid-ocean ridges."
+A: along mid-ocean ridges
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4854
+when was the last time baseball was in the olympics
+Q: when was the last time baseball was in the olympics
+A: "The last time baseball was included in the Olympics was during the 2008 Summer Olympics held in Beijing, China. So the answer is: 2008."
+A: 2008
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4132
+how many episodes are there in season 2 of the crown
+Q: how many episodes are there in season 2 of the crown
+A: "Season 2 of \"The Crown\" consists of 10 episodes. So the answer is: 10."
+A: 10
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3263
+who was the inventor of the spinning jenny
+Q: who was the inventor of the spinning jenny
+A: "The inventor of the spinning jenny is James Hargreaves. So the answer is: James Hargreaves."
+A: James Hargreaves
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_744
+who sang it 's such a perfect day
+Q: who sang it 's such a perfect day
+A: "The song \"Perfect Day\" was sung by Lou Reed. So the answer is: Lou Reed."
+A: Lou Reed
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_321
+who won the 2017 womens ncaa basketball championship
+Q: who won the 2017 womens ncaa basketball championship
+A: "The 2017 women's NCAA basketball championship was won by the University of South Carolina. They defeated Mississippi State in the final game. So the answer is: University of South Carolina."
+A: University of South Carolina
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5833
+when did the movie love and basketball come out
+Q: when did the movie love and basketball come out
+A: "The movie \"Love & Basketball\" was released on April 21, 2000. So the answer is: April 21, 2000."
+A: April 21, 2000
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1720
+who wrote red roses for a blue lady
+Q: who wrote red roses for a blue lady
+A: "\"Red Roses for a Blue Lady\" was written by John L. Cacavas and was popularized by various artists, including Vic Damone and Frank Sinatra. So the answer is: John L. Cacavas."
+A: John L. Cacavas
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1336
+pain on right side of back when breathing
+Q: pain on right side of back when breathing
+A: "Pain on the right side of the back when breathing can be caused by various conditions, including:"
+A: Pain on the right side of the back when breathing can be caused by various conditions, including:
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_55
+where are the fruits of the spirit found in the bible
+Q: where are the fruits of the spirit found in the bible
+A: "The fruits of the Spirit are found in the Bible in Galatians 5:22-23. This passage lists the fruits as love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. So the answer is: Galatians 5:22-23."
+A: Galatians 5:22-23
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1064
+the sphincter that allows chyme to pass from the stomach into the small intestine is known as the
+Q: the sphincter that allows chyme to pass from the stomach into the small intestine is known as the
+A: "The sphincter that allows chyme to pass from the stomach into the small intestine is known as the pyloric sphincter. So the answer is: pyloric sphincter."
+A: pyloric sphincter
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4392
+what is the thing with the nozzle in sausage party
+Q: what is the thing with the nozzle in sausage party
+A: "In the animated film \"Sausage Party,\" the character with the nozzle is a bottle of ketchup named \"Dawson.\" He is depicted as a somewhat arrogant character who has a nozzle that dispenses ketchup. So the answer is: a bottle of ketchup (Dawson)."
+A: a bottle of ketchup (Dawson)
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6403
+an advanced weather data measurement tool that sends out radio waves is called a ( n )
+Q: an advanced weather data measurement tool that sends out radio waves is called a ( n )
+A: "An advanced weather data measurement tool that sends out radio waves is called a radar. So the answer is: radar."
+A: radar
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2994
+what olympic sport is also known as ice chess
+Q: what olympic sport is also known as ice chess
+A: "The Olympic sport that is also known as \"ice chess\" is curling. So the answer is: curling."
+A: curling
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3519
+who is the highest ranking air force officer
+Q: who is the highest ranking air force officer
+A: "The highest-ranking officer in the United States Air Force is the Chief of Staff of the Air Force. As of my last knowledge update in October 2023, the Chief of Staff is General Charles Q. Brown Jr. However, please verify this information as it may change over time."
+A: The highest-ranking officer in the United States Air Force is the Chief of Staff of the Air Force. As of my last knowledge update in October 2023, the Chief of Staff is General Charles Q. Brown Jr. However, please verify this information as it may change over time
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5715
+who played emma watson 's mother in the circle
+Q: who played emma watson 's mother in the circle
+A: "Emma Watson's mother in the film \"The Circle\" was played by Glenne Headly. So the answer is: Glenne Headly."
+A: Glenne Headly
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1057
+what do you call a fish with four eyes
+Q: what do you call a fish with four eyes
+A: "A fish with four eyes is often humorously referred to as a \"four-eyed fish.\" In a more specific context, there is a species known as the \"four-eyed fish\" (Anableps), which has two pairs of eyes that allow it to see both above and below the water simultaneously. So the answer is: four-eyed fish."
+A: four-eyed fish
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_72
+the story idea for the yellow wallpaper was based on a civil war treatment called
+Q: the story idea for the yellow wallpaper was based on a civil war treatment called
+A: "The story idea for \"The Yellow Wallpaper\" was based on a civil war treatment called the \"rest cure.\" This treatment was often prescribed to women suffering from mental health issues, involving isolation and enforced inactivity. So the answer is: rest cure."
+A: rest cure
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4590
+who did the united states declare their independence from
+Q: who did the united states declare their independence from
+A: "The United States declared their independence from Great Britain. So the answer is: Great Britain."
+A: Great Britain
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2569
+who the female singer on gim me shelter
+Q: who the female singer on gim me shelter
+A: "The female singer on \"Gimme Shelter\" is Merry Clayton. So the answer is: Merry Clayton."
+A: Merry Clayton
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_934
+who plays the alien bounty hunter in x files
+Q: who plays the alien bounty hunter in x files
+A: "The alien bounty hunter in \"The X-Files\" is played by actor Brian Thompson. So the answer is: Brian Thompson."
+A: Brian Thompson
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4635
+who portrayed dorothy in the 1925 wizard of oz
+Q: who portrayed dorothy in the 1925 wizard of oz
+A: "The character Dorothy in the 1925 film \"The Wizard of Oz\" was portrayed by actress Dorothy Dwan. So the answer is: Dorothy Dwan."
+A: Dorothy Dwan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3042
+what state is directly west of north dakota
+Q: what state is directly west of north dakota
+A: "The state that is directly west of North Dakota is Montana. So the answer is: Montana."
+A: Montana
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5217
+who tried to kill julie in desperate housewives
+Q: who tried to kill julie in desperate housewives
+A: "In \"Desperate Housewives,\" Julie Mayer was attacked by a character named Zach Young, who is the son of Mary Alice Young. So the answer is: Zach Young."
+A: Zach Young
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4255
+who is considered as the father of geometry
+Q: who is considered as the father of geometry
+A: "The father of geometry is considered to be Euclid. He was a Greek mathematician who is best known for his work \"Elements,\" which is a comprehensive compilation of the knowledge of geometry of his time. So the answer is: Euclid."
+A: Euclid
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5877
+what type of issues did the progressives address
+Q: what type of issues did the progressives address
+A: "The progressives addressed a variety of social, political, and economic issues during the Progressive Era in the late 19th and early 20th centuries. These issues included:"
+A: The progressives addressed a variety of social, political, and economic issues during the Progressive Era in the late 19th and early 20th centuries. These issues included:
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5722
+last part of the lord of the rings
+Q: last part of the lord of the rings
+A: "The last part of \"The Lord of the Rings\" is \"The Return of the King.\" It is the third volume in J.R.R. Tolkien's epic fantasy trilogy, which concludes the story of the quest to destroy the One Ring and the battle against Sauron."
+A: The last part of \"The Lord of the Rings\" is \"The Return of the King.\" It is the third volume in J.R.R. Tolkien's epic fantasy trilogy, which concludes the story of the quest to destroy the One Ring and the battle against Sauron
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2286
+when is the second sound of the heartbeat produced
+Q: when is the second sound of the heartbeat produced
+A: "The second sound of the heartbeat, known as the \"S2\" sound, is produced when the aortic and pulmonary valves close at the end of ventricular systole (the contraction phase of the heart). This occurs as the ventricles finish pumping blood into the aorta and pulmonary artery, leading to the relaxation phase known as diastole. So, the answer is: at the end of ventricular systole."
+A: at the end of ventricular systole
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6081
+what is the date for this year 's wrestlemania
+Q: what is the date for this year 's wrestlemania
+A: "WrestleMania 39 took place on April 1 and April 2, 2023. If you are asking about WrestleMania for the year 2024, it is scheduled for April 6 and April 7, 2024. So the answer is: April 6 and April 7, 2024."
+A: April 6 and April 7, 2024
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2541
+who dies at the end of the movie remember the titans
+Q: who dies at the end of the movie remember the titans
+A: "At the end of the movie \"Remember the Titans,\" the character Gerry Bertier, played by Ryan Hurst, dies in a car accident. His death is a significant moment in the film, highlighting the themes of friendship and loss. So the answer is: Gerry Bertier."
+A: Gerry Bertier
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3213
+who took the lead in extending european influence in the 1400s
+Q: who took the lead in extending european influence in the 1400s
+A: "The lead in extending European influence in the 1400s was primarily taken by Portugal, particularly under the leadership of Prince Henry the Navigator. He played a significant role in the early days of the Portuguese Empire and was instrumental in the exploration of the African coast and the Atlantic Ocean. So the answer is: Portugal, under Prince Henry the Navigator."
+A: Portugal, under Prince Henry the Navigator
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2322
+what type of cell contributes to the blood-brain barrier in the central nervous system
+Q: what type of cell contributes to the blood-brain barrier in the central nervous system
+A: "The type of cell that contributes to the blood-brain barrier in the central nervous system is the astrocyte. Astrocytes have end-feet that surround blood vessels and help maintain the integrity of the blood-brain barrier. So the answer is: astrocyte."
+A: astrocyte
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2448
+where does the smell of vanilla come from
+Q: where does the smell of vanilla come from
+A: "The smell of vanilla primarily comes from the vanilla bean, which is the fruit of the vanilla orchid (genus Vanilla). The main compound responsible for the characteristic aroma of vanilla is vanillin, which is found in the beans. When the beans are cured and processed, they release this sweet, creamy scent that is commonly associated with vanilla. So the answer is: from the vanilla bean."
+A: from the vanilla bean
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2387
+what year does the tv show vikings take place
+Q: what year does the tv show vikings take place
+A: "The TV show \"Vikings\" is set during the late 8th to early 11th centuries, primarily focusing on the Viking Age, which is generally considered to have begun in 793 AD with the raid on Lindisfarne and continued until around 1066 AD. So the answer is: late 8th to early 11th centuries."
+A: late 8th to early 11th centuries
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6233
+who sings the country song i was almost home
+Q: who sings the country song i was almost home
+A: "The country song \"I Was Almost Home\" is sung by Mike McClure. So the answer is: Mike McClure."
+A: Mike McClure
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2816
+who sang the song i want a hippopotamus for christmas
+Q: who sang the song i want a hippopotamus for christmas
+A: "The song \"I Want a Hippopotamus for Christmas\" was sung by Gayla Peevey. So the answer is: Gayla Peevey."
+A: Gayla Peevey
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6333
+who played aunt ruby in madea 's family reunion
+Q: who played aunt ruby in madea 's family reunion
+A: "Aunt Ruby in \"Madea's Family Reunion\" was played by actress Lynn Whitfield. So the answer is: Lynn Whitfield."
+A: Lynn Whitfield
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2775
+when did iced coffee become popular in the us
+Q: when did iced coffee become popular in the us
+A: "Iced coffee began to gain popularity in the United States in the 1990s, particularly with the rise of specialty coffee shops and the introduction of cold brew coffee. However, it became more mainstream in the early 2000s, with various coffee chains and brands offering iced coffee options. So, the answer is: 1990s."
+A: 1990s
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5069
+when did ginny weasley join the quidditch team
+Q: when did ginny weasley join the quidditch team
+A: "Ginny Weasley joined the Gryffindor Quidditch team in her second year at Hogwarts, which is detailed in \"Harry Potter and the Chamber of Secrets.\" So the answer is: in her second year."
+A: in her second year
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1814
+first airport in india to run on solar power
+Q: first airport in india to run on solar power
+A: "The first airport in India to run on solar power is Cochin International Airport (COK) in Kerala. So the answer is: Cochin International Airport."
+A: Cochin International Airport
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6251
+how many jurors in a criminal case australia
+Q: how many jurors in a criminal case australia
+A: "In a criminal case in Australia, there are typically 12 jurors. So the answer is: 12."
+A: 12
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1328
+who defeated marathas in 3rd battle of panipat
+Q: who defeated marathas in 3rd battle of panipat
+A: "The Marathas were defeated in the Third Battle of Panipat by the Durrani Empire, led by Ahmad Shah Durrani (also known as Ahmad Shah Abdali). So the answer is: Ahmad Shah Durrani."
+A: Ahmad Shah Durrani
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_831
+who was conferred with dcl an honorary degree by oxford university
+Q: who was conferred with dcl an honorary degree by oxford university
+A: "The honorary degree of Doctor of Civil Law (DCL) was conferred by Oxford University to several notable individuals. One prominent recipient is former U.S. President Bill Clinton, who received the degree in 2001. If you are looking for a specific individual, please provide more context or details."
+A: The honorary degree of Doctor of Civil Law (DCL) was conferred by Oxford University to several notable individuals. One prominent recipient is former U.S. President Bill Clinton, who received the degree in 2001. If you are looking for a specific individual, please provide more context or details
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3016
+who plays erica on the last man on earth
+Q: who plays erica on the last man on earth
+A: "The character Erica on \"The Last Man on Earth\" is played by actress Cleopatra Coleman. So the answer is: Cleopatra Coleman."
+A: Cleopatra Coleman
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_194
+when did season 6 of voltron come out
+Q: when did season 6 of voltron come out
+A: "Season 6 of Voltron: Legendary Defender was released on June 15, 2018. So the answer is: June 15, 2018."
+A: June 15, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6452
+how many times did the buffalo bills win the super bowl
+Q: how many times did the buffalo bills win the super bowl
+A: "The Buffalo Bills have not won the Super Bowl. They reached the Super Bowl four times in the early 1990s but lost each time. So the answer is: zero."
+A: zero
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1796
+who played julie on gim me a break
+Q: who played julie on gim me a break
+A: "The character Julie on \"Gimme a Break!\" was played by actress Lara Jill Miller. So the answer is: Lara Jill Miller."
+A: Lara Jill Miller
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4568
+how many goals has juan mata scored for manchester united
+Q: how many goals has juan mata scored for manchester united
+A: "As of October 2023, Juan Mata scored a total of 51 goals for Manchester United during his time at the club from 2014 to 2022. So the answer is: 51 goals."
+A: 51 goals
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1140
+who wrote beat it on down the line
+Q: who wrote beat it on down the line
+A: "\"Beat It on Down the Line\" was written by Jesse Fuller. So the answer is: Jesse Fuller."
+A: Jesse Fuller
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1276
+who sang there 's a meeting in the ladies room
+Q: who sang there 's a meeting in the ladies room
+A: "The song \"There's a Meeting in the Ladies' Room\" was sung by Klymaxx. So the answer is: Klymaxx."
+A: Klymaxx
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2241
+when did new south wales last win the state of origin
+Q: when did new south wales last win the state of origin
+A: "New South Wales last won the State of Origin series in 2014. So the answer is: 2014."
+A: 2014
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2117
+where is the board going when the plane crashes greys anatomy
+Q: where is the board going when the plane crashes greys anatomy
+A: "In the \"Grey's Anatomy\" episode titled \"Flight,\" the plane crashes while en route to a medical conference in Boise, Idaho. So the answer is: Boise, Idaho."
+A: Boise, Idaho
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1633
+when was the first laptop invented and by whom
+Q: when was the first laptop invented and by whom
+A: "The first laptop, known as the \"Grid Compass,\" was invented by Bill Moggridge in 1982. So the answer is: 1982, by Bill Moggridge."
+A: 1982, by Bill Moggridge
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1386
+who brought sam winchester back from the cage
+Q: who brought sam winchester back from the cage
+A: "Sam Winchester was brought back from the cage by Castiel, the angel, in the TV series \"Supernatural.\" So the answer is: Castiel."
+A: Castiel
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1723
+who won the first brickyard 400 in 1994
+Q: who won the first brickyard 400 in 1994
+A: "The first Brickyard 400 in 1994 was won by Jeff Gordon. So the answer is: Jeff Gordon."
+A: Jeff Gordon
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6474
+who wrote the music for that thing you do
+Q: who wrote the music for that thing you do
+A: "The music for \"That Thing You Do!\" was written by Adam Schlesinger, who was a member of the band Fountains of Wayne. So the answer is: Adam Schlesinger."
+A: Adam Schlesinger
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_325
+how many ford gts are in the world
+Q: how many ford gts are in the world
+A: "The exact number of Ford GTs in the world can vary due to production changes and the status of existing vehicles. However, Ford produced a total of 4,038 units of the Ford GT from 2004 to 2006. The newer Ford GT, which began production in 2016, has a limited production run of around 1,350 units. Therefore, combining both generations, there are approximately 5,388 Ford GTs in the world. So the answer is: approximately 5,388."
+A: approximately 5,388
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3624
+how old do you have to be to drink in wisconsin with a parent
+Q: how old do you have to be to drink in wisconsin with a parent
+A: "In Wisconsin, a person must be at least 18 years old to drink alcohol in the presence of a parent or guardian. So the answer is: 18 years old."
+A: 18 years old
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_753
+preamble of india is amended how many times
+Q: preamble of india is amended how many times
+A: "The Preamble of the Constitution of India has not been amended since its adoption in 1950. However, the Constitution itself has been amended multiple times. Therefore, the answer is: zero."
+A: zero
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4975
+how long is the ferry ride from cape may to lewes
+Q: how long is the ferry ride from cape may to lewes
+A: "The ferry ride from Cape May, New Jersey, to Lewes, Delaware, typically takes about 85 minutes. So the answer is: about 85 minutes."
+A: about 85 minutes
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5988
+what do you call a bundle of hay
+Q: what do you call a bundle of hay
+A: "A bundle of hay is commonly called a \"bale.\" So the answer is: bale."
+A: bale
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2339
+loss of diversity in a reduced population is called
+Q: loss of diversity in a reduced population is called
+A: "The loss of diversity in a reduced population is called \"genetic bottleneck\" or \"genetic drift.\" This phenomenon occurs when a population's size is significantly reduced for at least one generation, leading to a decrease in genetic variation. So the answer is: genetic bottleneck."
+A: genetic bottleneck
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1733
+where did scottie pippen play college basketball at
+Q: where did scottie pippen play college basketball at
+A: "Scottie Pippen played college basketball at the University of Central Arkansas. So the answer is: University of Central Arkansas."
+A: University of Central Arkansas
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4776
+what part of the internal female anatomy is self-cleaning
+Q: what part of the internal female anatomy is self-cleaning
+A: "The part of the internal female anatomy that is self-cleaning is the vagina. The vagina has a natural balance of bacteria and secretions that help maintain its cleanliness and health. So the answer is: vagina."
+A: vagina
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2656
+who plays klaus in a series of unfortunate events netflix
+Q: who plays klaus in a series of unfortunate events netflix
+A: "The character Klaus Baudelaire in the Netflix series \"A Series of Unfortunate Events\" is played by actor Louis Hynes. So the answer is: Louis Hynes."
+A: Louis Hynes
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5678
+who wrote the inscription on statue of liberty
+Q: who wrote the inscription on statue of liberty
+A: "The inscription on the Statue of Liberty, known as \"The New Colossus,\" was written by the poet Emma Lazarus. So the answer is: Emma Lazarus."
+A: Emma Lazarus
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2020
+how many chapters does the gospel of john have
+Q: how many chapters does the gospel of john have
+A: "The Gospel of John has 21 chapters. So the answer is: 21."
+A: 21
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1138
+when was the first railway track built in india
+Q: when was the first railway track built in india
+A: "The first railway track in India was built in 1853. It ran from Bombay (now Mumbai) to Thane, covering a distance of 34 kilometers (21 miles). So the answer is: 1853."
+A: 1853
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5523
+what is the last season of beauty and the beast
+Q: what is the last season of beauty and the beast
+A: "The last season of \"Beauty and the Beast,\" the television series that aired on The CW, is Season 4. It premiered on June 2, 2016, and concluded on September 15, 2016. So the answer is: Season 4."
+A: Season 4
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_312
+when was the minimum wage established in the us
+Q: when was the minimum wage established in the us
+A: "The minimum wage in the United States was established with the Fair Labor Standards Act (FLSA) of 1938. The initial federal minimum wage was set at $0.25 per hour. So the answer is: 1938."
+A: 1938
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2188
+who is the girl in somebody i used to know
+Q: who is the girl in somebody i used to know
+A: "The girl in \"Somebody That I Used to Know\" is Kimbra. She is featured in the music video and provides the female vocals in the song. So the answer is: Kimbra."
+A: Kimbra
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2933
+where did the last of us take place
+Q: where did the last of us take place
+A: "The Last of Us takes place in a post-apocalyptic world primarily set in the United States, with significant locations including Boston, Massachusetts, and later, areas in the western United States such as Wyoming and Salt Lake City, Utah. So the answer is: United States."
+A: United States
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_474
+who played the cowboy in indian in the cupboard
+Q: who played the cowboy in indian in the cupboard
+A: "The cowboy in \"The Indian in the Cupboard\" was played by actor Steve Coogan, who portrayed the character of Boone. So the answer is: Steve Coogan."
+A: Steve Coogan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4189
+who played little eponine in les miserables movie
+Q: who played little eponine in les miserables movie
+A: "The character of Little \u00c9ponine in the movie \"Les Mis\u00e9rables\" (2012) was played by Isabelle Allen. So the answer is: Isabelle Allen."
+A: Isabelle Allen
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6145
+where did the lions play before the silverdome
+Q: where did the lions play before the silverdome
+A: "Before playing at the Silverdome, the Detroit Lions played their home games at Tiger Stadium in Detroit, Michigan. So the answer is: Tiger Stadium."
+A: Tiger Stadium
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1883
+hitchhikers guide to the galaxy the answer to everything
+Q: hitchhikers guide to the galaxy the answer to everything
+A: "In \"The Hitchhiker's Guide to the Galaxy,\" the answer to the ultimate question of life, the universe, and everything is famously given as the number 42. So the answer is: 42."
+A: 42
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6483
+who is the next king or queen of england
+Q: who is the next king or queen of england
+A: "The next king of England is Charles III, following the passing of his mother, Queen Elizabeth II. So the answer is: Charles III."
+A: Charles III
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6331
+when were pass laws abolished in south africa
+Q: when were pass laws abolished in south africa
+A: "Pass laws in South Africa were abolished in 1986. So the answer is: 1986."
+A: 1986
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4532
+what kind of crab are caught on deadliest catch
+Q: what kind of crab are caught on deadliest catch
+A: "The types of crab caught on \"Deadliest Catch\" include King Crab, Snow Crab, and Opilio Crab. So the answer is: King Crab, Snow Crab, and Opilio Crab."
+A: King Crab, Snow Crab, and Opilio Crab
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2641
+when did the ottoman empire take over greece
+Q: when did the ottoman empire take over greece
+A: "The Ottoman Empire took control of Greece in the mid-15th century, with the fall of Constantinople in 1453 marking a significant point in their expansion. The majority of Greece was fully under Ottoman control by the late 15th century, with various regions being incorporated over the following decades. The Greek War of Independence began in 1821, leading to the establishment of an independent Greek state in 1830. So the answer is: mid-15th century."
+A: mid-15th century
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_222
+what religion are they in call the midwife
+Q: what religion are they in call the midwife
+A: "In \"Call the Midwife,\" the main characters are primarily members of the Anglican Church, as the series is set in the East End of London during the 1950s and 1960s. The show also features a variety of characters from different backgrounds, including Catholic and Jewish individuals, reflecting the diverse community in which the midwives work. The religious themes and the role of faith are significant aspects of the series. So the answer is: Anglican, with representation of other religions."
+A: Anglican, with representation of other religions
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4772
+who shares in the langar or communal meal after a sikh service
+Q: who shares in the langar or communal meal after a sikh service
+A: "In Sikhism, the langar or communal meal is shared by everyone present, regardless of their background, caste, or religion. This practice emphasizes equality and community. So the answer is: Everyone present at the Sikh service."
+A: Everyone present at the Sikh service
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3702
+who wrote the song like a bridge over troubled water
+Q: who wrote the song like a bridge over troubled water
+A: "The song \"Bridge Over Troubled Water\" was written by Paul Simon and performed by the duo Simon & Garfunkel. So the answer is: Paul Simon."
+A: Paul Simon
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4587
+when did guardians of the galaxy vol 2 come out
+Q: when did guardians of the galaxy vol 2 come out
+A: "Guardians of the Galaxy Vol. 2 was released on May 5, 2017. So the answer is: May 5, 2017."
+A: May 5, 2017
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3801
+who is the actress that plays summer on the young and the restless
+Q: who is the actress that plays summer on the young and the restless
+A: "The actress who plays Summer Newman on \"The Young and the Restless\" is Hunter King. So the answer is: Hunter King."
+A: Hunter King
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3819
+who plays caesar in rise of the planet of the apes 2014
+Q: who plays caesar in rise of the planet of the apes 2014
+A: "In \"Rise of the Planet of the Apes\" (2011), Caesar is portrayed by Andy Serkis using motion capture technology. So the answer is: Andy Serkis."
+A: Andy Serkis
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5038
+what do you call a quarter pounder in france
+Q: what do you call a quarter pounder in france
+A: "In France, a quarter pounder is called a \"Royal Cheese.\" So the answer is: Royal Cheese."
+A: Royal Cheese
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1009
+who sang the song a little bit of toast
+Q: who sang the song a little bit of toast
+A: "The song \"A Little Bit of Toast\" was sung by the band The Four Preps. So the answer is: The Four Preps."
+A: The Four Preps
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_924
+who sang those were the days my friends
+Q: who sang those were the days my friends
+A: "The song \"Those Were the Days, My Friend\" was famously sung by Mary Hopkin. So the answer is: Mary Hopkin."
+A: Mary Hopkin
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_532
+what does dc stand for in washigton dc
+Q: what does dc stand for in washigton dc
+A: "DC in Washington, D.C. stands for \"District of Columbia.\" So the answer is: District of Columbia."
+A: District of Columbia
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3010
+who is known as man of destiny in the world
+Q: who is known as man of destiny in the world
+A: "The term \"Man of Destiny\" is often associated with various historical figures, but it is most famously linked to Napoleon Bonaparte, who referred to himself as such. He believed he was destined for greatness and played a significant role in shaping European history. Therefore, the answer is: Napoleon Bonaparte."
+A: Napoleon Bonaparte
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3865
+when was the first internal combustion engine made
+Q: when was the first internal combustion engine made
+A: "The first internal combustion engine was made in 1860 by \u00c9tienne Lenoir. So the answer is: 1860."
+A: 1860
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4355
+where does the show the flash take place
+Q: where does the show the flash take place
+A: "The show \"The Flash\" takes place in the fictional city of Central City. So the answer is: Central City."
+A: Central City
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2683
+what term describes all the dna of a species
+Q: what term describes all the dna of a species
+A: "The term that describes all the DNA of a species is \"genome.\" So the answer is: genome."
+A: genome
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2372
+where did the story of the sound of music take place
+Q: where did the story of the sound of music take place
+A: "The story of \"The Sound of Music\" takes place in Austria, primarily in and around the city of Salzburg. So the answer is: Austria."
+A: Austria
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3260
+who helped resolve the dispute between virginia and maryland
+Q: who helped resolve the dispute between virginia and maryland
+A: "The dispute between Virginia and Maryland, particularly over the boundary line, was resolved with the help of Charles Mason and Jeremiah Dixon. They were commissioned to survey the boundary, leading to the establishment of the Mason-Dixon line. So the answer is: Charles Mason and Jeremiah Dixon."
+A: Charles Mason and Jeremiah Dixon
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4156
+what is the location of smooth endoplasmic reticulum
+Q: what is the location of smooth endoplasmic reticulum
+A: "The smooth endoplasmic reticulum (SER) is located within the cytoplasm of eukaryotic cells. It is an organelle that is part of the endoplasmic reticulum system, which also includes the rough endoplasmic reticulum (RER). The SER is involved in various functions, including lipid synthesis, detoxification of drugs and poisons, and calcium ion storage. So the answer is: within the cytoplasm of eukaryotic cells."
+A: within the cytoplasm of eukaryotic cells
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1650
+what were nato and warsaw pact examples of
+Q: what were nato and warsaw pact examples of
+A: "NATO (North Atlantic Treaty Organization) and the Warsaw Pact were examples of military alliances. NATO was formed in 1949 as a collective defense alliance among Western countries, while the Warsaw Pact was established in 1955 as a response by the Soviet Union and its Eastern Bloc allies. So the answer is: military alliances."
+A: military alliances
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2469
+who did the theme song for danny phantom
+Q: who did the theme song for danny phantom
+A: "The theme song for \"Danny Phantom\" was performed by the band \"Karaoke.\" The song was written by the show's creator, Butch Hartman, and the music was composed by Guy Moon. So the answer is: Karaoke."
+A: Karaoke
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2605
+what is the hormone monster in big mouth
+Q: what is the hormone monster in big mouth
+A: "The hormone monster in \"Big Mouth\" is a character named Maurice, who is a personification of the hormonal changes and challenges that adolescents face during puberty. Maurice provides guidance, often in a humorous and exaggerated manner, to the main characters as they navigate their teenage years. So the answer is: Maurice."
+A: Maurice
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_69
+in what year did japan attack pearl harbor
+Q: in what year did japan attack pearl harbor
+A: "Japan attacked Pearl Harbor on December 7, 1941. So the answer is: 1941."
+A: 1941
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_966
+what is the importance of french revolution in world history
+Q: what is the importance of french revolution in world history
+A: "The French Revolution, which began in 1789, is significant in world history for several reasons:"
+A: The French Revolution, which began in 1789, is significant in world history for several reasons:
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4453
+who was the first actor who played james bond
+Q: who was the first actor who played james bond
+A: "The first actor who played James Bond was Sean Connery. He portrayed the character in the film \"Dr. No,\" which was released in 1962. So the answer is: Sean Connery."
+A: Sean Connery
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2876
+who wrote the song the night the lights went out in georgia
+Q: who wrote the song the night the lights went out in georgia
+A: "The song \"The Night the Lights Went Out in Georgia\" was written by Vicki Lawrence. So the answer is: Vicki Lawrence."
+A: Vicki Lawrence
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2523
+who serves as the president of the senate in the texas legislature
+Q: who serves as the president of the senate in the texas legislature
+A: "The president of the Senate in the Texas Legislature is the Lieutenant Governor of Texas. As of my last knowledge update, the current Lieutenant Governor is Dan Patrick. So the answer is: the Lieutenant Governor of Texas."
+A: the Lieutenant Governor of Texas
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_810
+when did france try to build the panama canal
+Q: when did france try to build the panama canal
+A: "France attempted to build the Panama Canal starting in 1881, but the project was ultimately abandoned in 1889 due to engineering challenges, disease, and financial difficulties. So the answer is: 1881."
+A: 1881
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6381
+who ends up with lucas in one tree hill
+Q: who ends up with lucas in one tree hill
+A: "In \"One Tree Hill,\" Lucas Scott ultimately ends up with Peyton Sawyer. So the answer is: Peyton Sawyer."
+A: Peyton Sawyer
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1977
+who sings with keith urban on the fighter
+Q: who sings with keith urban on the fighter
+A: "The song \"The Fighter\" features vocals by Carrie Underwood alongside Keith Urban. So the answer is: Carrie Underwood."
+A: Carrie Underwood
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4814
+poems that use the first letter of a word
+Q: poems that use the first letter of a word
+A: "Poems that use the first letter of a word to create a pattern or convey a message are often referred to as \"acrostic poems.\" In an acrostic poem, the first letter of each line or stanza spells out a word or message when read vertically. This form of poetry can be a creative way to express themes or ideas related to the word being spelled out."
+A: Poems that use the first letter of a word to create a pattern or convey a message are often referred to as \"acrostic poems.\" In an acrostic poem, the first letter of each line or stanza spells out a word or message when read vertically. This form of poetry can be a creative way to express themes or ideas related to the word being spelled out
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3461
+tv show about three magical sisters who battle against the forces of evil
+Q: tv show about three magical sisters who battle against the forces of evil
+A: "The TV show about three magical sisters who battle against the forces of evil is \"Charmed.\""
+A: The TV show about three magical sisters who battle against the forces of evil is \"Charmed.\"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_562
+when did the us hockey team beat russia
+Q: when did the us hockey team beat russia
+A: "The U.S. hockey team beat Russia on February 22, 1980, during the Winter Olympics in Lake Placid, New York. This game is famously known as the \"Miracle on Ice.\" So the answer is: February 22, 1980."
+A: February 22, 1980
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5017
+when does this year 's nfl season start
+Q: when does this year 's nfl season start
+A: "The NFL season typically starts in early September. For the 2023 NFL season, it began on September 7, 2023. So the answer is: September 7, 2023."
+A: September 7, 2023
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3997
+who stars in fresh prince of bel air
+Q: who stars in fresh prince of bel air
+A: "The main star of \"The Fresh Prince of Bel-Air\" is Will Smith, who plays a fictionalized version of himself, Will Banks. Other notable cast members include James Avery, Daphne Reid, Alfonso Ribeiro, Karyn Parsons, Tatyana Ali, and Joseph Marcell. So the answer is: Will Smith."
+A: Will Smith
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4165
+when did ed sheerans first album come out
+Q: when did ed sheerans first album come out
+A: "Ed Sheeran's first album, \"+\", was released on September 9, 2011. So the answer is: September 9, 2011."
+A: September 9, 2011
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1243
+who plays light 's dad in death note
+Q: who plays light 's dad in death note
+A: "In the live-action film adaptation of \"Death Note,\" Light Yagami's father, Soichiro Yagami, is played by actor Taro Yamamoto. So the answer is: Taro Yamamoto."
+A: Taro Yamamoto
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1547
+when does the fifty shades of grey come out
+Q: when does the fifty shades of grey come out
+A: "\"Fifty Shades of Grey\" was released in theaters on February 13, 2015. So the answer is: February 13, 2015."
+A: February 13, 2015
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1339
+who plays hugo in the vicar of dibley
+Q: who plays hugo in the vicar of dibley
+A: "The character Hugo in \"The Vicar of Dibley\" is played by actor James Fleet. So the answer is: James Fleet."
+A: James Fleet
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2782
+when was the first airline meal served during a flight
+Q: when was the first airline meal served during a flight
+A: "The first airline meal was served during a flight on January 1, 1919, by Handley Page Transport. The meal consisted of a simple picnic-style lunch. So the answer is: January 1, 1919."
+A: January 1, 1919
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3879
+when does the movie shot caller come out in theaters
+Q: when does the movie shot caller come out in theaters
+A: "The movie \"Shot Caller\" was released in theaters on August 18, 2017. So the answer is: August 18, 2017."
+A: August 18, 2017
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5974
+when was the first legislation to control the distribution and use of narcotics passed
+Q: when was the first legislation to control the distribution and use of narcotics passed
+A: "The first legislation to control the distribution and use of narcotics in the United States was the Harrison Narcotics Tax Act, which was passed in 1914. So the answer is: 1914."
+A: 1914
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1100
+what was the purpose of the maxwell land grant
+Q: what was the purpose of the maxwell land grant
+A: "The purpose of the Maxwell Land Grant was to provide a large tract of land in New Mexico to a private individual, specifically to promote settlement and development in the region. The grant was issued in the mid-19th century to a group of investors led by William H. Maxwell, allowing them to establish a ranching and agricultural enterprise. The land grant aimed to encourage economic growth and development in the area, which was part of the United States' efforts to expand and settle the western territories."
+A: The purpose of the Maxwell Land Grant was to provide a large tract of land in New Mexico to a private individual, specifically to promote settlement and development in the region. The grant was issued in the mid-19th century to a group of investors led by William H. Maxwell, allowing them to establish a ranching and agricultural enterprise. The land grant aimed to encourage economic growth and development in the area, which was part of the United States' efforts to expand and settle the western territories
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2967
+when did the simpsons get a new intro
+Q: when did the simpsons get a new intro
+A: "The Simpsons introduced a new intro sequence on its 20th season premiere, which aired on February 14, 2009. This new intro featured updated visuals and a different style while maintaining the show's iconic elements. So the answer is: February 14, 2009."
+A: February 14, 2009
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5606
+who sings six days on the road i 'm going to make it home tonight
+Q: who sings six days on the road i 'm going to make it home tonight
+A: "The song \"Six Days on the Road\" is famously sung by Dave Dudley. So the answer is: Dave Dudley."
+A: Dave Dudley
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4400
+during the process of translation what is produced
+Q: during the process of translation what is produced
+A: "During the process of translation, proteins are produced. Translation is the process by which ribosomes synthesize proteins based on the sequence of messenger RNA (mRNA). So the answer is: proteins."
+A: proteins
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3342
+gardens planted to produce more food for the war effort
+Q: gardens planted to produce more food for the war effort
+A: "The gardens planted to produce more food for the war effort are commonly referred to as \"victory gardens.\" These gardens were encouraged during World War I and World War II to help supplement food supplies and boost morale. So the answer is: victory gardens."
+A: victory gardens
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2897
+who sang the theme song for all in the family
+Q: who sang the theme song for all in the family
+A: "The theme song for \"All in the Family,\" titled \"Those Were the Days,\" was sung by Carroll O'Connor and Jean Stapleton. So the answer is: Carroll O'Connor and Jean Stapleton."
+A: Carroll O'Connor and Jean Stapleton
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1314
+in which year was assam separated from bengal
+Q: in which year was assam separated from bengal
+A: "Assam was separated from Bengal in the year 1874. So the answer is: 1874."
+A: 1874
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2863
+who has won the world snooker championship the most times
+Q: who has won the world snooker championship the most times
+A: "The player who has won the World Snooker Championship the most times is Ronnie O'Sullivan, with six titles as of October 2023. So the answer is: Ronnie O'Sullivan."
+A: Ronnie O'Sullivan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6324
+when was the western wall built in jerusalem
+Q: when was the western wall built in jerusalem
+A: "The Western Wall, also known as the Wailing Wall, was built as part of the expansion of the Second Temple in Jerusalem. The construction of the Second Temple began in 516 BCE, and the Western Wall was completed around 19 BCE during the reign of King Herod the Great. So the answer is: around 19 BCE."
+A: around 19 BCE
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1790
+how many african american politicians served in the us congress during reconstruction
+Q: how many african american politicians served in the us congress during reconstruction
+A: "During the Reconstruction era, a total of 16 African American politicians served in the U.S. Congress. So the answer is: 16."
+A: 16
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_989
+when did the first woman shave her legs
+Q: when did the first woman shave her legs
+A: "The practice of women shaving their legs became more common in the United States during the 1920s, particularly after the introduction of shorter hemlines and the popularity of sleeveless dresses. However, the exact date of when the first woman shaved her legs is not documented, as it likely varied by culture and individual preference. So, while there isn't a specific date, the trend gained significant popularity in the 1920s."
+A: The practice of women shaving their legs became more common in the United States during the 1920s, particularly after the introduction of shorter hemlines and the popularity of sleeveless dresses. However, the exact date of when the first woman shaved her legs is not documented, as it likely varied by culture and individual preference. So, while there isn't a specific date, the trend gained significant popularity in the 1920s
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4301
+who was the illustrator of winnie the pooh
+Q: who was the illustrator of winnie the pooh
+A: "The illustrator of Winnie the Pooh is E.H. Shepard. So the answer is: E.H. Shepard."
+A: E.H. Shepard
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3649
+what is the name of the annual awards given exclusively to gospel artists
+Q: what is the name of the annual awards given exclusively to gospel artists
+A: "The annual awards given exclusively to gospel artists are called the Stellar Awards. So the answer is: Stellar Awards."
+A: Stellar Awards
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2784
+who wrote the song ask the blind man he saw it all
+Q: who wrote the song ask the blind man he saw it all
+A: "The song \"Ask the Blind Man, He Saw It All\" was written by the American country music artist and songwriter, Johnny Lee. So the answer is: Johnny Lee."
+A: Johnny Lee
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1440
+when was the international red cross established and why
+Q: when was the international red cross established and why
+A: "The International Red Cross was established on February 17, 1863. It was founded in response to the need for humanitarian assistance during wartime, particularly to provide care for wounded soldiers and to ensure that they were treated humanely. The organization was inspired by the experiences of Henry Dunant, who witnessed the suffering of soldiers at the Battle of Solferino in 1859 and advocated for the establishment of voluntary relief organizations to aid those in need during conflicts."
+A: The International Red Cross was established on February 17, 1863. It was founded in response to the need for humanitarian assistance during wartime, particularly to provide care for wounded soldiers and to ensure that they were treated humanely. The organization was inspired by the experiences of Henry Dunant, who witnessed the suffering of soldiers at the Battle of Solferino in 1859 and advocated for the establishment of voluntary relief organizations to aid those in need during conflicts
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4436
+what cell division process is responsible for the formation of gametes
+Q: what cell division process is responsible for the formation of gametes
+A: "The cell division process responsible for the formation of gametes is called meiosis. So the answer is: meiosis."
+A: meiosis
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5936
+who dies at the end of remember the titans
+Q: who dies at the end of remember the titans
+A: "At the end of \"Remember the Titans,\" the character Gerry Bertier, played by Ryan Hurst, dies in a car accident. His death is a significant moment in the film, highlighting the themes of friendship and loss. So the answer is: Gerry Bertier."
+A: Gerry Bertier
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4287
+who made the universal declaration of human rights
+Q: who made the universal declaration of human rights
+A: "The Universal Declaration of Human Rights was adopted by the United Nations General Assembly on December 10, 1948. It was drafted by a committee chaired by Eleanor Roosevelt. So the answer is: United Nations General Assembly, with Eleanor Roosevelt as the chair of the drafting committee."
+A: United Nations General Assembly, with Eleanor Roosevelt as the chair of the drafting committee
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3874
+who plays jesus in the movie mary magdalene
+Q: who plays jesus in the movie mary magdalene
+A: "In the movie \"Mary Magdalene,\" Jesus is played by actor Joaquin Phoenix. So the answer is: Joaquin Phoenix."
+A: Joaquin Phoenix
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1525
+who played the older dottie in a league of their own
+Q: who played the older dottie in a league of their own
+A: "The older Dottie in \"A League of Their Own\" was played by actress Geena Davis. So the answer is: Geena Davis."
+A: Geena Davis
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3486
+heisman trophy winner that played in the nba
+Q: heisman trophy winner that played in the nba
+A: "The Heisman Trophy winner who played in the NBA is Charlie Ward. He won the Heisman Trophy in 1993 while playing college football at Florida State University and later played in the NBA for the New York Knicks. So the answer is: Charlie Ward."
+A: Charlie Ward
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5713
+who wrote what a feeling by one direction
+Q: who wrote what a feeling by one direction
+A: "The song \"What a Feeling\" by One Direction was written by Ed Sheeran and Si Hulbert. So the answer is: Ed Sheeran and Si Hulbert."
+A: Ed Sheeran and Si Hulbert
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1763
+how did chris 's brother die in skins
+Q: how did chris 's brother die in skins
+A: "In the television series \"Skins,\" Chris's brother, who is named \"Billy,\" dies in a car accident. This event has a significant impact on Chris's character and storyline throughout the series. So the answer is: in a car accident."
+A: in a car accident
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4811
+who is the actress that plays nikki on blue bloods
+Q: who is the actress that plays nikki on blue bloods
+A: "The actress who plays Nikki on \"Blue Bloods\" is Sami Gayle. So the answer is: Sami Gayle."
+A: Sami Gayle
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5272
+who wrote the song you light up my life
+Q: who wrote the song you light up my life
+A: "The song \"You Light Up My Life\" was written by Joe Brooks. So the answer is: Joe Brooks."
+A: Joe Brooks
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3373
+who was the first explorer sailing under the flag of england to reach the new world
+Q: who was the first explorer sailing under the flag of england to reach the new world
+A: "The first explorer sailing under the flag of England to reach the New World was John Cabot. He made his voyage in 1497. So the answer is: John Cabot."
+A: John Cabot
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4883
+who sings lead on wouldnt it be nice
+Q: who sings lead on wouldnt it be nice
+A: "The lead vocals on \"Wouldn't It Be Nice\" are sung by Brian Wilson and Mike Love of The Beach Boys. So the answer is: The Beach Boys."
+A: The Beach Boys
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1938
+who wrote get by with a little help
+Q: who wrote get by with a little help
+A: "The song \"With a Little Help from My Friends,\" often referred to by its opening line \"Get by with a little help from my friends,\" was written by John Lennon and Paul McCartney. So the answer is: John Lennon and Paul McCartney."
+A: John Lennon and Paul McCartney
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2202
+what state has in god we trust on their license plate
+Q: what state has in god we trust on their license plate
+A: "The state that has \"In God We Trust\" on their license plate is Florida. So the answer is: Florida."
+A: Florida
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_268
+who did we fight against in world war 2
+Q: who did we fight against in world war 2
+A: "In World War II, the main opponents of the Allied Powers were the Axis Powers, which included Germany, Italy, and Japan. So the answer is: Germany, Italy, and Japan."
+A: Germany, Italy, and Japan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5191
+when did they change the wind chill formula
+Q: when did they change the wind chill formula
+A: "The wind chill formula was officially revised in 2001 by the National Weather Service (NWS) in the United States. The new formula was designed to provide a more accurate representation of the cooling effect of wind on exposed skin. So the answer is: 2001."
+A: 2001
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_451
+who sings we are coming to your city
+Q: who sings we are coming to your city
+A: "The song \"We Are Coming to Your City\" is performed by Big & Rich. So the answer is: Big & Rich."
+A: Big & Rich
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5748
+where did the name locks heath come from
+Q: where did the name locks heath come from
+A: "The name \"Locks Heath\" is believed to have originated from the area's historical association with the locks used for the nearby waterways and the heathland that characterized the region. The term \"Locks\" refers to the locks on the River Hamble, while \"Heath\" denotes the heathland or open, uncultivated land that was common in the area. The combination reflects both the geographical features and the historical context of the location. So the answer is: The name comes from the locks on the River Hamble and the heathland in the area."
+A: The name comes from the locks on the River Hamble and the heathland in the area
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4115
+who played neil on once upon a time
+Q: who played neil on once upon a time
+A: "The character Neil on \"Once Upon a Time\" was played by Michael Raymond-James. So the answer is: Michael Raymond-James."
+A: Michael Raymond-James
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5980
+who plays paige in the prince and me
+Q: who plays paige in the prince and me
+A: "The character Paige in \"The Prince and Me\" is played by Julia Stiles. So the answer is: Julia Stiles."
+A: Julia Stiles
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3473
+n. the social class between the lower and upper classes
+Q: n. the social class between the lower and upper classes
+A: "The social class between the lower and upper classes is commonly referred to as the \"middle class.\" So the answer is: middle class."
+A: middle class
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_950
+when was the first piece of plastic made
+Q: when was the first piece of plastic made
+A: "The first synthetic plastic, known as Bakelite, was created by Leo Baekeland in 1907. So the answer is: 1907."
+A: 1907
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4570
+who abolished the dual system of government in bengal
+Q: who abolished the dual system of government in bengal
+A: "The dual system of government in Bengal was abolished by Lord Cornwallis in 1793. So the answer is: Lord Cornwallis."
+A: Lord Cornwallis
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1268
+how many seats does the audi r8 have
+Q: how many seats does the audi r8 have
+A: "The Audi R8 has two seats. So the answer is: two."
+A: two
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2142
+who plays the hulk in the avengers movies
+Q: who plays the hulk in the avengers movies
+A: "The Hulk in the Avengers movies is played by Mark Ruffalo. So the answer is: Mark Ruffalo."
+A: Mark Ruffalo
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2091
+where does gulliver land when he is shipwrecked
+Q: where does gulliver land when he is shipwrecked
+A: "Gulliver lands in Lilliput when he is shipwrecked in Jonathan Swift's \"Gulliver's Travels.\" So the answer is: Lilliput."
+A: Lilliput
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_229
+when was the niv version of the bible written
+Q: when was the niv version of the bible written
+A: "The New International Version (NIV) of the Bible was first published in 1978. The translation process began in the late 1960s and was completed in the 1970s. So the answer is: 1978."
+A: 1978
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4314
+who plays caleb in seven brides for seven brothers
+Q: who plays caleb in seven brides for seven brothers
+A: "Caleb in \"Seven Brides for Seven Brothers\" is played by actor Howard Keel. So the answer is: Howard Keel."
+A: Howard Keel
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3633
+which country won the sultan azlan shah hockey tournament
+Q: which country won the sultan azlan shah hockey tournament
+A: "The Sultan Azlan Shah Hockey Tournament has been won by various countries over the years. As of 2023, the most recent winner was Australia, who won the tournament in 2023. However, for the specific year you are inquiring about, please provide the year for a more accurate answer."
+A: The Sultan Azlan Shah Hockey Tournament has been won by various countries over the years. As of 2023, the most recent winner was Australia, who won the tournament in 2023. However, for the specific year you are inquiring about, please provide the year for a more accurate answer
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5565
+who played joseph first phillip schofield or jason donovan
+Q: who played joseph first phillip schofield or jason donovan
+A: "Jason Donovan played Joseph in the musical \"Joseph and the Amazing Technicolor Dreamcoat\" first, before Phillip Schofield took on the role in later productions. So the answer is: Jason Donovan."
+A: Jason Donovan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4380
+anterior pituitary cell that produces lh and fsh
+Q: anterior pituitary cell that produces lh and fsh
+A: "The anterior pituitary cell that produces luteinizing hormone (LH) and follicle-stimulating hormone (FSH) is called a gonadotroph. So the answer is: gonadotroph."
+A: gonadotroph
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3155
+the three layers of a typical carnatic piece are
+Q: the three layers of a typical carnatic piece are
+A: "The three layers of a typical Carnatic music piece are:"
+A: The three layers of a typical Carnatic music piece are:
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1936
+when did dirty jobs go off the air
+Q: when did dirty jobs go off the air
+A: "\"Dirty Jobs\" went off the air after its final episode aired on September 12, 2012. So the answer is: September 12, 2012."
+A: September 12, 2012
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2370
+when did the metropolitan police force become a service
+Q: when did the metropolitan police force become a service
+A: "The Metropolitan Police Force became a service on April 1, 2000, when it was restructured and renamed the Metropolitan Police Service. So the answer is: April 1, 2000."
+A: April 1, 2000
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_817
+which force acts on an object in free fall
+Q: which force acts on an object in free fall
+A: "The force that acts on an object in free fall is gravity. So the answer is: gravity."
+A: gravity
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_86
+when did the second amendment go into effect
+Q: when did the second amendment go into effect
+A: "The Second Amendment to the United States Constitution was ratified on December 15, 1791. So the answer is: December 15, 1791."
+A: December 15, 1791
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6399
+who played danny on the young and restless
+Q: who played danny on the young and restless
+A: "The character Danny Romalotti on \"The Young and the Restless\" was played by actor Michael Damian. So the answer is: Michael Damian."
+A: Michael Damian
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5206
+who is the controller of budget in kenya
+Q: who is the controller of budget in kenya
+A: "The Controller of Budget in Kenya is a position held by a designated individual responsible for overseeing the budgetary process and ensuring that public funds are used effectively and in accordance with the law. As of my last knowledge update, the current Controller of Budget is Margaret Nyakang'o, who has been in office since 2018. However, please verify this information as it may have changed."
+A: The Controller of Budget in Kenya is a position held by a designated individual responsible for overseeing the budgetary process and ensuring that public funds are used effectively and in accordance with the law. As of my last knowledge update, the current Controller of Budget is Margaret Nyakang'o, who has been in office since 2018. However, please verify this information as it may have changed
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2185
+who are the characters in how the grinch stole christmas
+Q: who are the characters in how the grinch stole christmas
+A: "The main characters in \"How the Grinch Stole Christmas\" include:"
+A: The main characters in \"How the Grinch Stole Christmas\" include:
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2886
+who sings the theme song for the suite life on deck
+Q: who sings the theme song for the suite life on deck
+A: "The theme song for \"The Suite Life on Deck\" is sung by the cast members of the show, specifically by Zack and Cody, who are played by Dylan and Cole Sprouse. So the answer is: Dylan and Cole Sprouse."
+A: Dylan and Cole Sprouse
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2580
+how many years did deion sanders play baseball
+Q: how many years did deion sanders play baseball
+A: "Deion Sanders played professional baseball for 9 seasons in Major League Baseball (MLB) from 1981 to 2001. So the answer is: 9 years."
+A: 9 years
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2610
+the settlement of the israelites in canaan is the theme of which book
+Q: the settlement of the israelites in canaan is the theme of which book
+A: "The settlement of the Israelites in Canaan is the theme of the Book of Joshua in the Bible. So the answer is: the Book of Joshua."
+A: the Book of Joshua
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_313
+how many california state senate members are there
+Q: how many california state senate members are there
+A: "There are 40 members in the California State Senate. So the answer is: 40."
+A: 40
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4987
+where does the last song book take place
+Q: where does the last song book take place
+A: "The Last Song is set in Wrightsville Beach, North Carolina. So the answer is: Wrightsville Beach, North Carolina."
+A: Wrightsville Beach, North Carolina
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6221
+who developed most of our current understanding of planetary motion
+Q: who developed most of our current understanding of planetary motion
+A: "The person who developed most of our current understanding of planetary motion is Johannes Kepler. He formulated the three laws of planetary motion, which describe the orbits of planets around the sun. So the answer is: Johannes Kepler."
+A: Johannes Kepler
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2612
+who is the voice of lani in surfs up
+Q: who is the voice of lani in surfs up
+A: "The voice of Lani in \"Surf's Up\" is provided by actress and singer Zooey Deschanel. So the answer is: Zooey Deschanel."
+A: Zooey Deschanel
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3202
+where was the man with the golden arm filmed
+Q: where was the man with the golden arm filmed
+A: "The film \"The Man with the Golden Arm\" was primarily filmed in Chicago, Illinois. So the answer is: Chicago, Illinois."
+A: Chicago, Illinois
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_849
+where was everybody loves raymond in italy filmed
+Q: where was everybody loves raymond in italy filmed
+A: "\"Everybody Loves Raymond\" filmed its Italy episodes in the town of Matera, located in the Basilicata region of Italy. So the answer is: Matera, Italy."
+A: Matera, Italy
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4244
+when are you issued with a national insurance number
+Q: when are you issued with a national insurance number
+A: "In the UK, you are typically issued a National Insurance number when you reach the age of 16 and are planning to work or claim benefits. If you are a new resident or have not received one by the time you start working, you can apply for one through the National Insurance helpline or during your first job interview. So the answer is: when you reach the age of 16 and plan to work or claim benefits."
+A: when you reach the age of 16 and plan to work or claim benefits
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_551
+where does the blue lagoon water come from
+Q: where does the blue lagoon water come from
+A: "The blue lagoon water comes from geothermal springs. The water is heated by volcanic activity beneath the Earth's surface, resulting in a warm, mineral-rich lagoon that is known for its striking blue color. The Blue Lagoon in Iceland, for example, is a popular geothermal spa that utilizes this naturally heated water. So the answer is: geothermal springs."
+A: geothermal springs
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_151
+who stars in the movie the quiet place
+Q: who stars in the movie the quiet place
+A: "The movie \"A Quiet Place\" stars Emily Blunt and John Krasinski. So the answer is: Emily Blunt and John Krasinski."
+A: Emily Blunt and John Krasinski
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4742
+what type of device is a bicycle dynamo
+Q: what type of device is a bicycle dynamo
+A: "A bicycle dynamo is a type of electrical generator. It converts mechanical energy from the motion of the bicycle's wheels into electrical energy, which is typically used to power lights or other electrical devices on the bicycle. So the answer is: electrical generator."
+A: electrical generator
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_576
+who won the war between north korea and south korea
+Q: who won the war between north korea and south korea
+A: "The Korean War, which lasted from 1950 to 1953, ended in an armistice rather than a formal peace treaty. As a result, North Korea and South Korea remain technically at war. The war did not result in a clear victory for either side, but South Korea, supported by United Nations forces, was able to maintain its sovereignty and prevent the spread of communism into the southern part of the peninsula. So, while there was no definitive winner, South Korea and its allies were able to achieve their primary objective of defending against North Korean aggression."
+A: The Korean War, which lasted from 1950 to 1953, ended in an armistice rather than a formal peace treaty. As a result, North Korea and South Korea remain technically at war. The war did not result in a clear victory for either side, but South Korea, supported by United Nations forces, was able to maintain its sovereignty and prevent the spread of communism into the southern part of the peninsula. So, while there was no definitive winner, South Korea and its allies were able to achieve their primary objective of defending against North Korean aggression
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6362
+when was the cat in the hat written
+Q: when was the cat in the hat written
+A: "The Cat in the Hat was written by Dr. Seuss and published in 1957. So the answer is: 1957."
+A: 1957
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_772
+do they sell beer at gas stations in nj
+Q: do they sell beer at gas stations in nj
+A: "In New Jersey, the sale of beer at gas stations is not permitted. Beer can only be sold at licensed retail establishments such as liquor stores, bars, and restaurants. So the answer is: No, they do not sell beer at gas stations in NJ."
+A: No, they do not sell beer at gas stations in NJ
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5861
+who is the priest on everybody loves raymond
+Q: who is the priest on everybody loves raymond
+A: "The priest on \"Everybody Loves Raymond\" is Father Dominic, played by actor Peter Boyle. So the answer is: Father Dominic."
+A: Father Dominic
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_334
+when does pam get pregnant for the second time
+Q: when does pam get pregnant for the second time
+A: "Pam gets pregnant for the second time in Season 6, Episode 4 of \"The Office,\" titled \"Niagara.\" In this episode, it is revealed that Pam is expecting her second child. So the answer is: Season 6, Episode 4 of \"The Office.\""
+A: Season 6, Episode 4 of \"The Office.\"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5065
+when does season 2 of legion come out
+Q: when does season 2 of legion come out
+A: "Season 2 of \"Legion\" premiered on April 3, 2018. So the answer is: April 3, 2018."
+A: April 3, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1963
+when did branson mo become a tourist town
+Q: when did branson mo become a tourist town
+A: "Branson, Missouri, began to develop as a tourist town in the 1950s, particularly with the opening of the first live music theater, the Baldknobbers Jamboree, in 1959. This marked the beginning of Branson's transformation into a popular destination for live entertainment and tourism. So the answer is: 1950s."
+A: 1950s
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4825
+where was the communist party of india established
+Q: where was the communist party of india established
+A: "The Communist Party of India was established in Kanpur in 1925. So the answer is: Kanpur."
+A: Kanpur
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3201
+what is the releasing date of love yatri
+Q: what is the releasing date of love yatri
+A: "The film \"Love Yatri\" was released on October 5, 2018. So the answer is: October 5, 2018."
+A: October 5, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_244
+when was the 13th amendment ratified by the states
+Q: when was the 13th amendment ratified by the states
+A: "The 13th Amendment to the United States Constitution, which abolished slavery, was ratified by the states on December 6, 1865. So the answer is: December 6, 1865."
+A: December 6, 1865
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2797
+what is it called when you dont like to hear someone chew
+Q: what is it called when you dont like to hear someone chew
+A: "The aversion to the sound of someone chewing is known as \"misophonia.\" So the answer is: misophonia."
+A: misophonia
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_723
+when was alaska added to the united states
+Q: when was alaska added to the united states
+A: "Alaska was added to the United States on January 3, 1959, when it became the 49th state. So the answer is: January 3, 1959."
+A: January 3, 1959
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5807
+when is sonu ke titu ki shaadi releasing
+Q: when is sonu ke titu ki shaadi releasing
+A: "\"Sonu Ke Titu Ki Sweety\" was released on February 23, 2018. So the answer is: February 23, 2018."
+A: February 23, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1152
+when did dolly write i will always love you
+Q: when did dolly write i will always love you
+A: "Dolly Parton wrote \"I Will Always Love You\" in 1973. So the answer is: 1973."
+A: 1973
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4230
+when does star wars come out in theater
+Q: when does star wars come out in theater
+A: "The original \"Star Wars\" film, later titled \"Star Wars: Episode IV - A New Hope,\" was released in theaters on May 25, 1977. If you are referring to a specific Star Wars film or a new release, please provide the title or year for more accurate information."
+A: The original \"Star Wars\" film, later titled \"Star Wars: Episode IV - A New Hope,\" was released in theaters on May 25, 1977. If you are referring to a specific Star Wars film or a new release, please provide the title or year for more accurate information
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5783
+who plays david koresh in the series waco
+Q: who plays david koresh in the series waco
+A: "The actor who plays David Koresh in the series \"Waco\" is Taylor Kitsch. So the answer is: Taylor Kitsch."
+A: Taylor Kitsch
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2342
+who wrote the books of luke and acts
+Q: who wrote the books of luke and acts
+A: "The books of Luke and Acts in the New Testament were both written by Luke, who is traditionally believed to be a physician and a companion of the Apostle Paul. So the answer is: Luke."
+A: Luke
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_9
+what is the name of wonder womans mother
+Q: what is the name of wonder womans mother
+A: "Wonder Woman's mother is named Hippolyta. So the answer is: Hippolyta."
+A: Hippolyta
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5255
+the convent of the mission de san jose is in what city
+Q: the convent of the mission de san jose is in what city
+A: "The Convent of the Mission de San Jose is located in San Jose, California. So the answer is: San Jose."
+A: San Jose
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5292
+who played the boy in a bronx tale
+Q: who played the boy in a bronx tale
+A: "The boy in \"A Bronx Tale\" was played by Lillo Brancato. So the answer is: Lillo Brancato."
+A: Lillo Brancato
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6409
+who did the voice of hero boy in polar express
+Q: who did the voice of hero boy in polar express
+A: "The voice of Hero Boy in \"The Polar Express\" was provided by actor Daryl Sabara. So the answer is: Daryl Sabara."
+A: Daryl Sabara
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5832
+how many cross lanes are there in kho kho
+Q: how many cross lanes are there in kho kho
+A: "In kho kho, there are typically 12 cross lanes on the field. So the answer is: 12."
+A: 12
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2292
+airlines flying out of long beach ca airport
+Q: airlines flying out of long beach ca airport
+A: "As of my last knowledge update, airlines that have operated out of Long Beach Airport (LGB) include:"
+A: As of my last knowledge update, airlines that have operated out of Long Beach Airport (LGB) include:
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3700
+what is gimli in lord of the rings
+Q: what is gimli in lord of the rings
+A: "Gimli is a character in J.R.R. Tolkien's \"The Lord of the Rings.\" He is a Dwarf and a member of the Fellowship of the Ring, which is formed to help Frodo Baggins in his quest to destroy the One Ring. Gimli is known for his bravery, loyalty, and strong sense of honor, as well as his skills in battle. He often provides comic relief with his interactions with other members of the Fellowship, particularly Legolas, the Elf. Gimli also represents the Dwarven race in the story."
+A: Gimli is a character in J.R.R. Tolkien's \"The Lord of the Rings.\" He is a Dwarf and a member of the Fellowship of the Ring, which is formed to help Frodo Baggins in his quest to destroy the One Ring. Gimli is known for his bravery, loyalty, and strong sense of honor, as well as his skills in battle. He often provides comic relief with his interactions with other members of the Fellowship, particularly Legolas, the Elf. Gimli also represents the Dwarven race in the story
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2665
+who did ed sheeran wrote nancy mulligan about
+Q: who did ed sheeran wrote nancy mulligan about
+A: "Ed Sheeran wrote \"Nancy Mulligan\" about his grandparents, specifically about his Irish grandmother, Nancy, and her life experiences. The song reflects their love story and the cultural heritage of his family. So the answer is: his grandparents."
+A: his grandparents
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2248
+what is the bow room in buckingham palace
+Q: what is the bow room in buckingham palace
+A: "The Bow Room in Buckingham Palace is a formal reception room located on the ground floor of the palace. It is used for official functions and events, and it features elegant decor, including a collection of fine art and furnishings. The room is named for its bow-shaped windows that provide a view of the palace gardens. It is often used for hosting guests and is part of the public tours of Buckingham Palace when the State Rooms are open to visitors."
+A: The Bow Room in Buckingham Palace is a formal reception room located on the ground floor of the palace. It is used for official functions and events, and it features elegant decor, including a collection of fine art and furnishings. The room is named for its bow-shaped windows that provide a view of the palace gardens. It is often used for hosting guests and is part of the public tours of Buckingham Palace when the State Rooms are open to visitors
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2348
+when was the hubble space telescope launched and when will it stop operating
+Q: when was the hubble space telescope launched and when will it stop operating
+A: "The Hubble Space Telescope was launched on April 24, 1990. It is expected to continue operating until at least 2025, although its exact end of operation will depend on various factors, including the condition of its instruments and systems. So the answer is: launched on April 24, 1990; expected to stop operating around 2025."
+A: launched on April 24, 1990; expected to stop operating around 2025
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5860
+who played mr cheeseman in dad 's army
+Q: who played mr cheeseman in dad 's army
+A: "Mr. Cheeseman in \"Dad's Army\" was played by actor John Le Mesurier. So the answer is: John Le Mesurier."
+A: John Le Mesurier
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_497
+what is the largest ethnic group in germany
+Q: what is the largest ethnic group in germany
+A: "The largest ethnic group in Germany is the ethnic Germans, also known as \"Deutsche.\" They make up the majority of the population in the country. So the answer is: ethnic Germans."
+A: ethnic Germans
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4379
+when was the 2 dollar bill discontinued in canada
+Q: when was the 2 dollar bill discontinued in canada
+A: "The Canadian two-dollar bill was discontinued in 1996. So the answer is: 1996."
+A: 1996
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1273
+how many journeys did canada 's first astronaut make to space
+Q: how many journeys did canada 's first astronaut make to space
+A: "Canada's first astronaut, Marc Garneau, made three journeys to space. So the answer is: three."
+A: three
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4315
+when was the writing put on the statue of liberty
+Q: when was the writing put on the statue of liberty
+A: "The inscription on the Statue of Liberty, which includes the famous poem \"The New Colossus\" by Emma Lazarus, was added in 1903. The poem was engraved on a bronze plaque and mounted inside the pedestal of the statue. So the answer is: 1903."
+A: 1903
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6436
+what part of new york is coney island
+Q: what part of new york is coney island
+A: "Coney Island is located in the southwestern part of Brooklyn, New York City. So the answer is: southwestern Brooklyn."
+A: southwestern Brooklyn
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2385
+purdue football players in nfl hall of fame
+Q: purdue football players in nfl hall of fame
+A: "Several Purdue football players have been inducted into the Pro Football Hall of Fame. Notable inductees include:"
+A: Several Purdue football players have been inducted into the Pro Football Hall of Fame. Notable inductees include:
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2169
+who is credited with producing the strongest early microscope
+Q: who is credited with producing the strongest early microscope
+A: "The person credited with producing the strongest early microscope is Antonie van Leeuwenhoek. He is known for his advancements in microscopy and for being the first to observe and describe single-celled organisms. So the answer is: Antonie van Leeuwenhoek."
+A: Antonie van Leeuwenhoek
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3645
+what is the source of the colorado river
+Q: what is the source of the colorado river
+A: "The source of the Colorado River is located in the Rocky Mountains of Colorado, specifically at La Poudre Pass Lake in the Rocky Mountain National Park. So the answer is: Rocky Mountains, Colorado."
+A: Rocky Mountains, Colorado
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3344
+where is glastonbury on the map of uk
+Q: where is glastonbury on the map of uk
+A: "Glastonbury is located in Somerset, England, in the southwest region of the United Kingdom. It is situated approximately 23 miles (37 km) south of Bristol and 5 miles (8 km) from the town of Wells. Glastonbury is known for its historical and cultural significance, including the famous Glastonbury Tor and the annual Glastonbury Festival."
+A: Glastonbury is located in Somerset, England, in the southwest region of the United Kingdom. It is situated approximately 23 miles (37 km) south of Bristol and 5 miles (8 km) from the town of Wells. Glastonbury is known for its historical and cultural significance, including the famous Glastonbury Tor and the annual Glastonbury Festival
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_777
+who plays reese in malcolm in the middle
+Q: who plays reese in malcolm in the middle
+A: "The character Reese in \"Malcolm in the Middle\" is played by actor Justin Berfield. So the answer is: Justin Berfield."
+A: Justin Berfield
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4329
+when did the first ys game come out
+Q: when did the first ys game come out
+A: "The first Ys game, titled \"Ys I: Ancient Ys Vanished,\" was released in 1987. So the answer is: 1987."
+A: 1987
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1672
+when 's the last time the steelers won the superbowl
+Q: when 's the last time the steelers won the superbowl
+A: "The last time the Pittsburgh Steelers won the Super Bowl was on February 1, 2009, in Super Bowl XLIII, where they defeated the Arizona Cardinals. So the answer is: February 1, 2009."
+A: February 1, 2009
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_618
+who was the composer who spanned the transition between classical and romantic eras
+Q: who was the composer who spanned the transition between classical and romantic eras
+A: "The composer who spanned the transition between the classical and romantic eras is Ludwig van Beethoven. So the answer is: Ludwig van Beethoven."
+A: Ludwig van Beethoven
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3568
+who plays spectre in from russia with love
+Q: who plays spectre in from russia with love
+A: "The character of Spectre in \"From Russia with Love\" is played by actor Lotte Lenya, who portrays Rosa Klebb, a member of the criminal organization SPECTRE. So the answer is: Lotte Lenya."
+A: Lotte Lenya
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_514
+dark tower who is the man in black
+Q: dark tower who is the man in black
+A: "In Stephen King's \"The Dark Tower\" series, the Man in Black is a character named Randall Flagg. He serves as an antagonist throughout the series and is known for his manipulative and malevolent nature. So the answer is: Randall Flagg."
+A: Randall Flagg
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_860
+where does the imperial valley get almost all of its water
+Q: where does the imperial valley get almost all of its water
+A: "The Imperial Valley gets almost all of its water from the Colorado River. So the answer is: Colorado River."
+A: Colorado River
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_329
+how many cities in india has metro train
+Q: how many cities in india has metro train
+A: "As of October 2023, there are 18 cities in India that have operational metro train systems. These cities include Delhi, Mumbai, Kolkata, Bengaluru, Chennai, Hyderabad, Jaipur, Ahmedabad, Kochi, Pune, Nagpur, Lucknow, Noida, Greater Noida, Surat, and Vishakhapatnam. So the answer is: 18."
+A: 18
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4498
+who made the song you got me going in circles
+Q: who made the song you got me going in circles
+A: "The song \"You Got Me Going in Circles\" was made by the band The Friends of Distinction. So the answer is: The Friends of Distinction."
+A: The Friends of Distinction
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2753
+who plays howard wolowitz mom on big bang theory
+Q: who plays howard wolowitz mom on big bang theory
+A: "Howard Wolowitz's mom on \"The Big Bang Theory\" is voiced by Carol Ann Susi. So the answer is: Carol Ann Susi."
+A: Carol Ann Susi
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2781
+who is the author of series of unfortunate events
+Q: who is the author of series of unfortunate events
+A: "The author of \"A Series of Unfortunate Events\" is Lemony Snicket, which is the pen name of Daniel Handler. So the answer is: Lemony Snicket (Daniel Handler)."
+A: Lemony Snicket (Daniel Handler)
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3845
+what does it mean if the wronskian is zero
+Q: what does it mean if the wronskian is zero
+A: "If the Wronskian of a set of functions is zero, it indicates that the functions are linearly dependent on each other. This means that at least one of the functions can be expressed as a linear combination of the others. In the context of differential equations, a zero Wronskian suggests that the solutions to the differential equation are not independent, which can affect the uniqueness of solutions. So the answer is: The functions are linearly dependent."
+A: The functions are linearly dependent
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1114
+when did california became part of the union
+Q: when did california became part of the union
+A: "California became part of the United States on September 9, 1850, when it was admitted as the 31st state. So the answer is: September 9, 1850."
+A: September 9, 1850
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5096
+who wrote the joe cocker song you are so beautiful
+Q: who wrote the joe cocker song you are so beautiful
+A: "The song \"You Are So Beautiful\" was written by Billy Preston and Bruce Fisher. So the answer is: Billy Preston and Bruce Fisher."
+A: Billy Preston and Bruce Fisher
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3791
+who plays dre 's mom in karate kid
+Q: who plays dre 's mom in karate kid
+A: "The character Dre's mom in \"The Karate Kid\" (2010) is played by Taraji P. Henson. So the answer is: Taraji P. Henson."
+A: Taraji P. Henson
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3035
+who has died from earth wind and fire
+Q: who has died from earth wind and fire
+A: "Maurice White, the co-founder and leader of Earth, Wind & Fire, passed away on February 4, 2016. So the answer is: Maurice White."
+A: Maurice White
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3313
+what episode is bag of weed family guy
+Q: what episode is bag of weed family guy
+A: "The \"Bag of Weed\" episode of Family Guy is titled \"420.\" It is the 4th episode of Season 10. So the answer is: \"420.\""
+A: "420."
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5338
+who won the men 's wimbledon championship 2016
+Q: who won the men 's wimbledon championship 2016
+A: "The men's Wimbledon championship in 2016 was won by Andy Murray. So the answer is: Andy Murray."
+A: Andy Murray
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5439
+who dropped the atomic bomb on hiroshima and nagasaki
+Q: who dropped the atomic bomb on hiroshima and nagasaki
+A: "The atomic bomb on Hiroshima was dropped by the United States on August 6, 1945, using the B-29 bomber named Enola Gay, piloted by Colonel Paul Tibbets. The bomb dropped on Nagasaki was released on August 9, 1945, by another B-29 bomber named Bockscar, piloted by Major Charles Sweeney. So the answer is: the United States."
+A: the United States
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2369
+when did the redskins win the super bowl
+Q: when did the redskins win the super bowl
+A: "The Washington Redskins won the Super Bowl three times:"
+A: The Washington Redskins won the Super Bowl three times:
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3286
+who played the predator in the movie predator
+Q: who played the predator in the movie predator
+A: "The character of the Predator in the movie \"Predator\" was played by Kevin Peter Hall. So the answer is: Kevin Peter Hall."
+A: Kevin Peter Hall
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1719
+when did they start putting cassette players in cars
+Q: when did they start putting cassette players in cars
+A: "Cassette players began to be installed in cars in the late 1960s and became more common throughout the 1970s. By the 1980s, they were a standard feature in many vehicles. So the answer is: late 1960s."
+A: late 1960s
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3838
+where are tectonic plates located in the earth
+Q: where are tectonic plates located in the earth
+A: "Tectonic plates are located in the Earth's lithosphere, which is the outermost layer of the Earth. The lithosphere is divided into several large and rigid plates that float on the semi-fluid asthenosphere beneath it. These tectonic plates are responsible for geological activities such as earthquakes, volcanic eruptions, and the formation of mountain ranges. So the answer is: in the Earth's lithosphere."
+A: in the Earth's lithosphere
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2786
+who plays eun jae in hello my twenties
+Q: who plays eun jae in hello my twenties
+A: "The character Eun Jae in \"Hello My Twenties!\" is played by actress Han Seung-yeon. So the answer is: Han Seung-yeon."
+A: Han Seung-yeon
+Q: [EOQ]
+S: 0.0

@@ -1,0 +1,51 @@
+{
+  "batch_size": 32,
+  "bucket_to_topk_mapping": {
+    "0": 1,
+    "1": 3,
+    "2": 6,
+    "3": 10
+  },
+  "bucket_to_topk_strategy": "lower_bound",
+  "dataset_name": "nq",
+  "device": "cuda",
+  "do_save_stage_probabilities": true,
+  "fixed_k_values": [
+    0,
+    1,
+    3,
+    5,
+    10,
+    15
+  ],
+  "output_dir": "/media/data/hnu2026/luoyichen/Adaptive-RAG/kbqa_classifier/output/end2end_replay/nq/test__stage1_stage1__stage2_stage2",
+  "replay_label_file": "/media/data/hnu2026/luoyichen/Adaptive-RAG/kbqa_classifier/data/nq/test_topk_labels.json",
+  "run_name": "test__stage1_stage1__stage2_stage2",
+  "seed": 42,
+  "split_name": "test",
+  "stage1_batch_size": 32,
+  "stage1_max_length": 128,
+  "stage1_model_dir": "/media/data/hnu2026/luoyichen/Adaptive-RAG/output/stage1",
+  "stage2_batch_size": 32,
+  "stage2_max_length": 64,
+  "stage2_model_dir": "/media/data/hnu2026/luoyichen/Adaptive-RAG/output/stage2",
+  "supported_k_values": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "test_file": "/media/data/hnu2026/luoyichen/Adaptive-RAG/kbqa_classifier/data/nq/test_topk_train.json"
+}

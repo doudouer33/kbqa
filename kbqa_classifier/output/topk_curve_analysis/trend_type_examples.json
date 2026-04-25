@@ -1,0 +1,4951 @@
+{
+  "fall_then_plateau": [
+    {
+      "id": "single_nq_dev_126",
+      "question": "the sum of the kinetic and potential energies of all particles in the system is called the",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 0,
+      "best_f1": 0.4,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.0
+        }
+      },
+      "predictions": {
+        "0": "total mechanical energy",
+        "1": "Hamiltonian",
+        "2": "Hamiltonian",
+        "3": "Hamiltonian",
+        "4": "Hamiltonian",
+        "5": "Hamiltonian",
+        "6": "Hamiltonian",
+        "7": "Hamiltonian",
+        "8": "Hamiltonian",
+        "9": "The sum of the kinetic and potential energies of all particles in the system is called the **Hamiltonian**",
+        "10": "The sum of the kinetic and potential energies of all particles in the system is called the Hamiltonian",
+        "11": "The sum of the kinetic and potential energies of all particles in the system is called the Hamiltonian",
+        "12": "The sum of the kinetic and potential energies of all particles in the system is called the Hamiltonian",
+        "13": "The sum of the kinetic and potential energies of all particles in the system is called the Hamiltonian",
+        "14": "The sum of the kinetic and potential energies of all particles in the system is called the Hamiltonian",
+        "15": "The sum of the kinetic and potential energies of all particles in the system is called the Hamiltonian"
+      },
+      "curve_analysis": {
+        "trend_type": "fall_then_plateau",
+        "stability_type": "mildly_oscillating",
+        "best_k": 0,
+        "max_f1": 0.4,
+        "f1_at_0": 0.4,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 1,
+        "post_peak_drop": 0.4,
+        "sign_changes": 0,
+        "volatility": 0.4,
+        "trend_curve": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "prefix_best_curve": [
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1767",
+      "question": "what does cantina mean in english from spanish",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 0,
+      "best_f1": 0.4,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.07142857142857144
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.05
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.058823529411764705
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.07142857142857144
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.0625
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.06666666666666667
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.058823529411764705
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.07692307692307693
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.039999999999999994
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.06666666666666667
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.06666666666666667
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.06666666666666667
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.058823529411764705
+        }
+      },
+      "predictions": {
+        "0": "bar or canteen",
+        "1": "tavern or bar",
+        "2": "bar or tavern",
+        "3": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages, often with a Southwestern or Mexican motif in the U.S",
+        "4": "In English, \\\"cantina\\\" translates to a type of bar or tavern, particularly one that is popular in Latin America and Spain. It is similar in meaning to \\\"canteen\\\" and is derived from the Italian word for a cellar, winery, or vault",
+        "5": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages, often with a Southwestern or Mexican motif, and is popular in Latin America and Spain",
+        "6": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of bar popular in Latin America and Spain, often serving alcoholic beverages and food",
+        "7": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages, often with a Southwestern or Mexican motif, particularly in Latin America and Spain",
+        "8": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages and often food, commonly found in Latin America and Spain",
+        "9": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages, often with a focus on traditional drinks and food, particularly in Latin America and Spain",
+        "10": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages, often with a Southwestern or Mexican motif",
+        "11": "The word \\\"cantina\\\" in English, derived from Spanish, generally refers to a type of bar or tavern, often associated with serving alcoholic beverages and sometimes food. In some contexts, it can also refer to a canteen or a place where food and drinks are served, particularly in a workplace or near a train station",
+        "12": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages and often food, commonly found in Latin America and Spain",
+        "13": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages and often food, commonly found in Latin America and Spain",
+        "14": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages and often food, commonly found in Latin America and Spain",
+        "15": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages, often with a focus on traditional drinks and food, particularly in Latin America and Spain"
+      },
+      "curve_analysis": {
+        "trend_type": "fall_then_plateau",
+        "stability_type": "mildly_oscillating",
+        "best_k": 0,
+        "max_f1": 0.4,
+        "f1_at_0": 0.4,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 3,
+        "post_peak_drop": 0.36000000000000004,
+        "sign_changes": 0,
+        "volatility": 0.4818993751346692,
+        "trend_curve": [
+          0.4,
+          0.4,
+          0.4,
+          0.07142857142857144,
+          0.05,
+          0.058823529411764705,
+          0.07142857142857144,
+          0.0625,
+          0.06666666666666667,
+          0.058823529411764705,
+          0.07692307692307693,
+          0.039999999999999994,
+          0.06666666666666667,
+          0.06666666666666667,
+          0.06666666666666667,
+          0.058823529411764705
+        ],
+        "prefix_best_curve": [
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_2059",
+      "question": "what cars does dom drive in fate of the furious",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 0,
+      "best_f1": 0.4444444444444444,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.4444444444444444
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.06666666666666667
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.0967741935483871
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.0967741935483871
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.051948051948051945
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.06779661016949153
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.048780487804878044
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.08571428571428572
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.07500000000000001
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.08571428571428572
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.05970149253731343
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.09836065573770492
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.0967741935483871
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.09836065573770492
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.10169491525423728
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.10169491525423728
+        }
+      },
+      "predictions": {
+        "0": "Dodge Charger, Ford Mustang, Chevrolet Camaro",
+        "1": "In \\\"The Fate of the Furious,\\\" Dom Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a 1968 Dodge Charger, which is a signature vehicle for his character. Additionally, he also drives a modified 2016 Dodge Charger during the film's action sequences. The film features a variety of other vehicles as well, but these are the primary cars associated with Dom's character",
+        "2": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he is seen driving a modified 2016 Chevrolet Camaro and a 2015 Ford Mustang during various action sequences. The film features a range of vehicles, but the Dodge Charger remains iconic for Dom's character",
+        "3": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he is seen driving a modified 2016 Chevrolet Camaro and a 2015 Dodge Charger during various action sequences. The film features a range of vehicles, but the Dodge Charger remains iconic for Dom's character",
+        "4": "The specific cars that Dominic Toretto (played by Vin Diesel) drives in \\\"The Fate of the Furious\\\" are not detailed in the provided excerpts. However, throughout the \\\"Fast and Furious\\\" franchise, Dom is known for driving a variety of high-performance cars, including classic muscle cars like the Dodge Charger. In \\\"The Fate of the Furious,\\\" he is seen driving a modified 1968 Dodge Charger, among other vehicles. For a complete list of cars featured in the film, additional sources or a detailed film guide would be needed",
+        "5": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a 1968 Dodge Charger, which is a signature vehicle for his character. Additionally, he also drives a modified 2016 Dodge Charger during the film's action sequences. The film features various other cars as well, but these two are particularly associated with Dom's character",
+        "6": "The specific cars that Dominic Toretto (played by Vin Diesel) drives in \\\"The Fate of the Furious\\\" are not detailed in the provided excerpts. However, throughout the \\\"Fast and Furious\\\" franchise, Dom is known for driving various high-performance cars, including classic muscle cars like the Dodge Charger. In \\\"The Fate of the Furious,\\\" he also drives a modified Dodge Charger and other vehicles as part of the film's action sequences. For a complete list of cars featured in the film, you may want to refer to dedicated film resources or databases",
+        "7": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he is seen driving a modified 2016 Chevrolet Camaro and a variety of other vehicles during the film's action sequences, including cars that are hacked by the antagonist Cipher. The film features a range of high-performance cars typical of the \\\"Fast and Furious\\\" franchise",
+        "8": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he is seen driving a variety of other cars during the film's action sequences, including a modified muscle car during the heist in New York City and various vehicles that are hacked by the antagonist, Cipher. However, the specific details of all the cars he drives may not be explicitly listed in the provided text",
+        "9": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he is seen driving a modified 2016 Chevrolet Camaro and a variety of other vehicles during the film's action sequences, including cars that are hacked by the antagonist Cipher. The film features a range of high-performance cars typical of the \\\"Fast and Furious\\\" franchise",
+        "10": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a 2016 Dodge Charger, which is a signature vehicle for his character. Additionally, he is seen driving a variety of other cars during the film's action sequences, including a classic muscle car and various vehicles during the high-stakes chase scenes. However, the specific details of all the cars he drives may vary throughout the film",
+        "11": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, during a race in Havana, he drives a modified 1968 Dodge Charger. The film features various other cars as well, but these two are among the most prominent associated with Dom's character",
+        "12": "In \\\"The Fate of the Furious,\\\" Dominic Toretto (played by Vin Diesel) drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he drives a modified 2016 Chevrolet Camaro during the street race in Havana. The film features various other vehicles as well, but these two are among the most prominent associated with Dom's character",
+        "13": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he drives a modified 2016 Dodge Charger during the film's action sequences. The film features various other cars as well, but these two are among the most prominent associated with Dom's character",
+        "14": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he drives a modified 2016 Dodge Charger during the film's action sequences. The film features various other cars as well, but these two are particularly associated with Dom's character",
+        "15": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a classic 1970 Dodge Charger, which is a signature vehicle for his character. Additionally, he drives a modified 2016 Dodge Charger during the film's action sequences. The film features various other cars as well, but these two are particularly associated with Dom's character"
+      },
+      "curve_analysis": {
+        "trend_type": "fall_then_plateau",
+        "stability_type": "mildly_oscillating",
+        "best_k": 0,
+        "max_f1": 0.4444444444444444,
+        "f1_at_0": 0.4444444444444444,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 1,
+        "post_peak_drop": 0.3956639566395664,
+        "sign_changes": 0,
+        "volatility": 0.6171176364563972,
+        "trend_curve": [
+          0.4444444444444444,
+          0.06666666666666667,
+          0.0967741935483871,
+          0.0967741935483871,
+          0.051948051948051945,
+          0.06779661016949153,
+          0.048780487804878044,
+          0.08571428571428572,
+          0.07500000000000001,
+          0.08571428571428572,
+          0.05970149253731343,
+          0.09836065573770492,
+          0.0967741935483871,
+          0.09836065573770492,
+          0.10169491525423728,
+          0.10169491525423728
+        ],
+        "prefix_best_curve": [
+          0.4444444444444444,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.4444444444444444
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_246",
+      "question": "who wrote the song smooth by florida georgia line",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 0,
+      "best_f1": 0.4444444444444445,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        }
+      },
+      "predictions": {
+        "0": "Tyler Hubbard, Brian Kelley, and other songwriters",
+        "1": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "2": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "3": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "4": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "5": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "6": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "7": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "8": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "9": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "10": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "11": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "12": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "13": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "14": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "15": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt"
+      },
+      "curve_analysis": {
+        "trend_type": "fall_then_plateau",
+        "stability_type": "stable",
+        "best_k": 0,
+        "max_f1": 0.4444444444444445,
+        "f1_at_0": 0.4444444444444445,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 1,
+        "post_peak_drop": 0.08080808080808088,
+        "sign_changes": 0,
+        "volatility": 0.08080808080808088,
+        "trend_curve": [
+          0.4444444444444445,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.3636363636363636
+        ],
+        "prefix_best_curve": [
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_2475",
+      "question": "where did the first world cup final take place",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.04347826086956522
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.046511627906976744
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.04347826086956522
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.0
+        }
+      },
+      "predictions": {
+        "0": "Uruguay",
+        "1": "The first Cricket World Cup final was played on 21 June 1975. However, the provided text does not specify the location of the final. Based on general knowledge, the first Cricket World Cup final in 1975 took place at Lord's Cricket Ground in London, England",
+        "2": "The first Cricket World Cup final took place on 21 June 1975. However, the specific location is not mentioned in the provided text. Therefore, I cannot provide the exact location of the first World Cup final based on the information given",
+        "3": "1975 Cricket World Cup Final",
+        "4": "Lord's, London, England",
+        "5": "R\\u00e5sunda Stadium, Solna, Sweden",
+        "6": "1975 Cricket World Cup Final",
+        "7": "The first Cricket World Cup final took place on 21 June 1975. However, if you are referring to the FIFA World Cup, the first FIFA World Cup final took place in 1930 in Montevideo, Uruguay. Please clarify which World Cup you are asking about for a more specific answer",
+        "8": "Sweden",
+        "9": "1975 Cricket World Cup Final",
+        "10": "The first Cricket World Cup final took place on June 21, 1975. However, if you are referring to the FIFA World Cup, the first final took place in 1930 in Montevideo, Uruguay. Please specify which World Cup you are asking about for a more precise answer",
+        "11": "The first Cricket World Cup final took place on June 21, 1975. However, if you are referring to the FIFA World Cup, the first FIFA World Cup final took place in 1930 in Montevideo, Uruguay. Please specify which World Cup you are inquiring about for a more precise answer",
+        "12": "R\\u00e5sunda Stadium, Solna, Sweden",
+        "13": "1975 Cricket World Cup Final",
+        "14": "R\\u00e5sunda Stadium, Solna, Sweden",
+        "15": "England"
+      },
+      "curve_analysis": {
+        "trend_type": "fall_then_plateau",
+        "stability_type": "mildly_oscillating",
+        "best_k": 0,
+        "max_f1": 1.0,
+        "f1_at_0": 1.0,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 1,
+        "post_peak_drop": 1.0,
+        "sign_changes": 0,
+        "volatility": 1.1799797775530838,
+        "trend_curve": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.04347826086956522,
+          0.0,
+          0.0,
+          0.046511627906976744,
+          0.04347826086956522,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "prefix_best_curve": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    }
+  ],
+  "flat": [
+    {
+      "id": "single_nq_dev_1025",
+      "question": "where will the fifa world cup be held in 2018",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "1": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "2": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "3": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "4": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "5": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "6": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "7": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "8": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "9": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "10": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "11": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "12": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "13": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "14": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "15": {
+          "em": 1,
+          "f1": 1.0
+        }
+      },
+      "predictions": {
+        "0": "Russia",
+        "1": "Russia",
+        "2": "Russia",
+        "3": "Russia",
+        "4": "Russia",
+        "5": "Russia",
+        "6": "Russia",
+        "7": "Russia",
+        "8": "Russia",
+        "9": "Russia",
+        "10": "Russia",
+        "11": "Russia",
+        "12": "Russia",
+        "13": "Russia",
+        "14": "Russia",
+        "15": "Russia"
+      },
+      "curve_analysis": {
+        "trend_type": "flat",
+        "stability_type": "stable",
+        "best_k": 0,
+        "max_f1": 1.0,
+        "f1_at_0": 1.0,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 16,
+        "post_peak_drop": 0.0,
+        "sign_changes": 0,
+        "volatility": 0.0,
+        "trend_curve": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "prefix_best_curve": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1042",
+      "question": "who plays sage in step up high water",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 0,
+      "best_f1": 0.0,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.0
+        }
+      },
+      "predictions": {
+        "0": "Naya Rivera",
+        "1": "The character Sage in \\\"Step Up: High Water\\\" is played by actress and dancer, Naya Rivera",
+        "2": "The character Sage in \\\"Step Up: High Water\\\" is played by actress and dancer, Jade Chynoweth",
+        "3": "The character Sage in \\\"Step Up: High Water\\\" is played by actress and dancer, Naya Rivera",
+        "4": "The information provided does not specify who plays the character Sage in \\\"Step Up: High Water.\\\" Therefore, I cannot provide an answer based on the available data",
+        "5": "The information provided does not specify who plays the character Sage in \\\"Step Up: High Water.\\\" Therefore, I cannot provide an answer based on the available data",
+        "6": "The information provided does not specify who plays the character Sage in \\\"Step Up: High Water.\\\" Therefore, I cannot provide an answer based on the available data",
+        "7": "Jade Chynoweth",
+        "8": "The information provided does not specify who plays the character Sage in \\\"Step Up: High Water.\\\" Therefore, I cannot provide an answer based on the available data",
+        "9": "The character Sage in \\\"Step Up: High Water\\\" is played by Jade Chynoweth",
+        "10": "The character Sage in \\\"Step Up: High Water\\\" is played by Jade Chynoweth",
+        "11": "The character Sage in \\\"Step Up: High Water\\\" is played by Jade Chynoweth",
+        "12": "Jade Chynoweth",
+        "13": "The provided documents do not include information about the actor who plays Sage in \\\"Step Up: High Water.\\\" Therefore, based on the given data, I cannot determine who plays Sage in \\\"Step Up: High Water.\\\"",
+        "14": "Jade Chynoweth",
+        "15": "The information provided does not specify who plays the character Sage in \\\"Step Up: High Water.\\\" Therefore, I cannot provide an answer based on the available data"
+      },
+      "curve_analysis": {
+        "trend_type": "flat",
+        "stability_type": "stable",
+        "best_k": 0,
+        "max_f1": 0.0,
+        "f1_at_0": 0.0,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 16,
+        "post_peak_drop": 0.0,
+        "sign_changes": 0,
+        "volatility": 0.0,
+        "trend_curve": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "prefix_best_curve": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1085",
+      "question": "what are the type of genes that prevent other genes from showing their phenotype",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 0,
+      "best_f1": 0.0,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.0
+        }
+      },
+      "predictions": {
+        "0": "recessive genes",
+        "1": "The type of genes that prevent other genes from showing their phenotype are called **homeotic genes**. Homeotic genes regulate the expression of other genes and control the development of anatomical structures, often by turning on or off certain genes, thereby preventing or enabling the expression of specific phenotypes",
+        "2": "The type of genes that prevent other genes from showing their phenotype are known as \\\"suppressor genes.\\\" These genes can inhibit the expression of other genes, thereby affecting the phenotype that is displayed. In the context of homeotic genes, certain genes can act as tumor suppressors, preventing the development of tumors when expressed properly",
+        "3": "The type of genes that prevent other genes from showing their phenotype are known as \\\"suppressor genes\\\" or \\\"recessive genes.\\\" These genes can inhibit the expression of other genes, leading to a lack of visible traits associated with those genes. In some contexts, they may also be referred to as \\\"antagonistic genes\\\" or \\\"inhibitory genes.\\\"",
+        "4": "The type of genes that prevent other genes from showing their phenotype are called **repressor genes** or **inhibitory genes**. These genes produce products (such as repressor proteins) that can block the expression of other genes, thereby preventing their phenotypic traits from being displayed",
+        "5": "The type of genes that prevent other genes from showing their phenotype are known as \\\"suppressor genes.\\\" These genes can inhibit the expression of other genes, thereby masking their phenotypic effects. In the context of homeotic genes, certain genes may act as tumor suppressors, preventing the development of tumors when expressed properly",
+        "6": "The type of genes that prevent other genes from showing their phenotype are known as \\\"suppressor genes.\\\" These genes can inhibit the expression of other genes, thereby masking their phenotypic effects. In some contexts, they may also be referred to as \\\"recessive genes\\\" if their effects are only observed when the dominant allele is absent",
+        "7": "The type of genes that prevent other genes from showing their phenotype are known as \\\"suppressor genes.\\\" These genes can inhibit the expression of other genes, thereby masking their phenotypic effects. In the context of the provided information, gap genes can also be considered as they play a role in regulating the expression of other genes during development, influencing the overall phenotype",
+        "8": "The type of genes that prevent other genes from showing their phenotype are known as \\\"suppressor genes.\\\" These genes can inhibit the expression of other genes, thereby masking their phenotypic effects. In the context of genetics, they can play a role in various biological processes, including development and disease",
+        "9": "The type of genes that prevent other genes from showing their phenotype are known as \\\"recessive genes.\\\" In genetics, recessive alleles do not manifest their traits in the presence of dominant alleles. Therefore, for a recessive trait to be expressed phenotypically, an individual must have two copies of the recessive allele (homozygous recessive)",
+        "10": "The type of genes that prevent other genes from showing their phenotype are known as \\\"modifier genes.\\\" These genes can influence the expression of other genes, often altering the phenotypic outcome. Additionally, \\\"recessive genes\\\" can also prevent the expression of dominant alleles, leading to a phenotype that reflects the recessive trait only when two copies of the recessive allele are present",
+        "11": "The type of genes that prevent other genes from showing their phenotype are known as \\\"modifier genes.\\\" These genes can influence the expression of other genes, often altering the phenotypic outcome. Additionally, \\\"recessive genes\\\" can also prevent the expression of dominant alleles, leading to a lack of visible phenotype unless two copies of the recessive allele are present",
+        "12": "The type of genes that prevent other genes from showing their phenotype are known as \\\"modifier genes.\\\" These genes can influence the expression of other genes, often altering the phenotypic outcome. Additionally, \\\"recessive genes\\\" can also prevent the expression of dominant alleles, leading to a phenotype that may not be visible unless two copies of the recessive allele are present",
+        "13": "The type of genes that prevent other genes from showing their phenotype are known as \\\"recessive genes.\\\" In genetics, recessive alleles must be present in two copies (homozygous) for their traits to be expressed in the phenotype, while dominant alleles can mask the expression of recessive alleles when present. Additionally, \\\"modifier genes\\\" can also influence the expression of other genes, potentially suppressing or enhancing their phenotypic effects",
+        "14": "The type of genes that prevent other genes from showing their phenotype are known as **modifier genes**. These genes can influence the expression of other genes, thereby affecting the phenotypic traits that are observed",
+        "15": "The type of genes that prevent other genes from showing their phenotype are known as **modifier genes**. These genes can influence the expression of other genes, thereby affecting the phenotypic outcome"
+      },
+      "curve_analysis": {
+        "trend_type": "flat",
+        "stability_type": "stable",
+        "best_k": 0,
+        "max_f1": 0.0,
+        "f1_at_0": 0.0,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 16,
+        "post_peak_drop": 0.0,
+        "sign_changes": 0,
+        "volatility": 0.0,
+        "trend_curve": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "prefix_best_curve": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1090",
+      "question": "what is the distance of a point from y axis called",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 0,
+      "best_f1": 0.0,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.0
+        }
+      },
+      "predictions": {
+        "0": "x-coordinate",
+        "1": "The distance of a point from the y-axis is called the x-coordinate",
+        "2": "The distance of a point from the y-axis is called the x-coordinate of that point. It represents how far the point is from the y-axis along the x-axis",
+        "3": "x-coordinate",
+        "4": "x-coordinate",
+        "5": "x-coordinate",
+        "6": "x-coordinate",
+        "7": "The distance of a point from the y-axis is called the x-coordinate of that point. In a Cartesian coordinate system, the x-coordinate represents how far the point is from the y-axis, measured along the x-axis",
+        "8": "x-coordinate",
+        "9": "The distance of a point from the y-axis is called the x-coordinate of that point. In a Cartesian coordinate system, the x-coordinate represents how far the point is from the y-axis, measured along the horizontal axis",
+        "10": "The distance of a point from the y-axis is called the x-coordinate of that point. In a Cartesian coordinate system, the x-coordinate represents how far the point is from the y-axis, measured along the horizontal direction",
+        "11": "x-coordinate",
+        "12": "The distance of a point from the y-axis is called the x-coordinate of that point. In a Cartesian coordinate system, the x-coordinate represents how far the point is from the y-axis, measured along the x-axis",
+        "13": "x-coordinate",
+        "14": "x-coordinate",
+        "15": "x-coordinate"
+      },
+      "curve_analysis": {
+        "trend_type": "flat",
+        "stability_type": "stable",
+        "best_k": 0,
+        "max_f1": 0.0,
+        "f1_at_0": 0.0,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 16,
+        "post_peak_drop": 0.0,
+        "sign_changes": 0,
+        "volatility": 0.0,
+        "trend_curve": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "prefix_best_curve": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1130",
+      "question": "when does it 's always sunny in philadelphia season 13 start",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "1": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "2": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "3": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "4": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "5": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "6": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "7": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "8": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "9": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "10": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "11": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "12": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "13": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "14": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "15": {
+          "em": 1,
+          "f1": 1.0
+        }
+      },
+      "predictions": {
+        "0": "September 5, 2018",
+        "1": "September 5, 2018",
+        "2": "September 5, 2018",
+        "3": "September 5, 2018",
+        "4": "September 5, 2018",
+        "5": "September 5, 2018",
+        "6": "September 5, 2018",
+        "7": "September 5, 2018",
+        "8": "September 5, 2018",
+        "9": "September 5, 2018",
+        "10": "September 5, 2018",
+        "11": "September 5, 2018",
+        "12": "September 5, 2018",
+        "13": "September 5, 2018",
+        "14": "September 5, 2018",
+        "15": "September 5, 2018"
+      },
+      "curve_analysis": {
+        "trend_type": "flat",
+        "stability_type": "stable",
+        "best_k": 0,
+        "max_f1": 1.0,
+        "f1_at_0": 1.0,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 16,
+        "post_peak_drop": 0.0,
+        "sign_changes": 0,
+        "volatility": 0.0,
+        "trend_curve": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "prefix_best_curve": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    }
+  ],
+  "oscillating": [
+    {
+      "id": "single_nq_dev_10",
+      "question": "which apostle had a thorn in his side",
+      "dataset_name": "nq",
+      "best_k": 1,
+      "best_em": 0,
+      "best_f1": 0.6666666666666666,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.031746031746031744
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.05
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.034482758620689655
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        }
+      },
+      "predictions": {
+        "0": "The apostle who is traditionally said to have had a \\\"thorn in his side\\\" is the Apostle Paul. This phrase comes from his Second Letter to the Corinthians (2 Corinthians 12:7), where Paul mentions a \\\"thorn in the flesh\\\" given to him to keep him humble. The exact nature of this \\\"thorn\\\" is not specified and has been interpreted in various ways, but it is commonly associated with Paul",
+        "1": "Apostle Paul",
+        "2": "The provided documents do not contain any information about an apostle having a thorn in his side. However, based on general knowledge (not from the documents), the apostle Paul is traditionally associated with having a \\\"thorn in the flesh,\\\" as mentioned in the Bible (2 Corinthians 12:7)",
+        "3": "The phrase \\\"thorn in my side\\\" is often used metaphorically in various contexts, but it is not specifically attributed to any of the apostles in the Bible. However, the Apostle Paul mentions a \\\"thorn in the flesh\\\" in 2 Corinthians 12:7, which is sometimes interpreted as a personal struggle or affliction. So, if you are referring to the biblical context, it would be the Apostle Paul",
+        "4": "Paul the Apostle",
+        "5": "Paul the Apostle",
+        "6": "Paul the Apostle",
+        "7": "Paul the Apostle",
+        "8": "Paul the Apostle",
+        "9": "Paul the Apostle",
+        "10": "Paul the Apostle",
+        "11": "None specifically mentioned",
+        "12": "not directly applicable to any apostle",
+        "13": "Apostle Paul",
+        "14": "Paul the Apostle",
+        "15": "Paul the Apostle"
+      },
+      "curve_analysis": {
+        "trend_type": "oscillating",
+        "stability_type": "highly_oscillating",
+        "best_k": 1,
+        "max_f1": 0.6666666666666666,
+        "f1_at_0": 0.031746031746031744,
+        "gain_to_best": 0.6349206349206349,
+        "first_reach_best_k": 1,
+        "plateau_length": 1,
+        "post_peak_drop": 0.6666666666666666,
+        "sign_changes": 4,
+        "volatility": 3.232621784345922,
+        "trend_curve": [
+          0.031746031746031744,
+          0.6666666666666666,
+          0.05,
+          0.034482758620689655,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.0,
+          0.0,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666
+        ],
+        "prefix_best_curve": [
+          0.031746031746031744,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1006",
+      "question": "when did world war ii in europe end",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.2857142857142857
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.2857142857142857
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.2857142857142857
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.5
+        }
+      },
+      "predictions": {
+        "0": "1945",
+        "1": "May 1945",
+        "2": "early May 1945",
+        "3": "May 1945",
+        "4": "May 1945",
+        "5": "May 1945",
+        "6": "late April and early May 1945",
+        "7": "May 1945",
+        "8": "May 1945",
+        "9": "late April and early May 1945",
+        "10": "late April and early May 1945",
+        "11": "May 8, 1945",
+        "12": "May 8, 1945",
+        "13": "May 8, 1945",
+        "14": "May 8, 1945",
+        "15": "May 8, 1945"
+      },
+      "curve_analysis": {
+        "trend_type": "oscillating",
+        "stability_type": "highly_oscillating",
+        "best_k": 0,
+        "max_f1": 1.0,
+        "f1_at_0": 1.0,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 1,
+        "post_peak_drop": 0.7142857142857143,
+        "sign_changes": 5,
+        "volatility": 2.0238095238095237,
+        "trend_curve": [
+          1.0,
+          0.6666666666666666,
+          0.5,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.2857142857142857,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.2857142857142857,
+          0.2857142857142857,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5
+        ],
+        "prefix_best_curve": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1010",
+      "question": "to capture all passing packets through a network the nic needs to be in -- -- mode",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 0,
+      "best_f1": 0.6666666666666666,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.1111111111111111
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.13333333333333333
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.1111111111111111
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.1111111111111111
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.1111111111111111
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        }
+      },
+      "predictions": {
+        "0": "promiscuous mode",
+        "1": "To capture all passing packets through a network, the NIC (Network Interface Card) needs to be in **promiscuous mode**",
+        "2": "promiscuous mode",
+        "3": "promiscuous mode",
+        "4": "promiscuous mode",
+        "5": "promiscuous mode",
+        "6": "promiscuous mode",
+        "7": "promiscuous mode",
+        "8": "To capture all passing packets through a network, the NIC needs to be in **promiscuous mode**",
+        "9": "To capture all passing packets through a network, the NIC (Network Interface Controller) needs to be in **promiscuous mode**",
+        "10": "promiscuous mode",
+        "11": "promiscuous mode",
+        "12": "To capture all passing packets through a network, the NIC (Network Interface Controller) needs to be in **promiscuous mode**",
+        "13": "To capture all passing packets through a network, the NIC (Network Interface Controller) needs to be in **promiscuous mode**",
+        "14": "promiscuous mode",
+        "15": "promiscuous mode"
+      },
+      "curve_analysis": {
+        "trend_type": "oscillating",
+        "stability_type": "highly_oscillating",
+        "best_k": 0,
+        "max_f1": 0.6666666666666666,
+        "f1_at_0": 0.6666666666666666,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 1,
+        "post_peak_drop": 0.5555555555555556,
+        "sign_changes": 5,
+        "volatility": 3.333333333333333,
+        "trend_curve": [
+          0.6666666666666666,
+          0.1111111111111111,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.13333333333333333,
+          0.1111111111111111,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.1111111111111111,
+          0.1111111111111111,
+          0.6666666666666666,
+          0.6666666666666666
+        ],
+        "prefix_best_curve": [
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1070",
+      "question": "what came first mean machine or the longest yard",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "1": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "2": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "3": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "4": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "5": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "6": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "7": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "8": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "9": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "12": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "14": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "15": {
+          "em": 1,
+          "f1": 1.0
+        }
+      },
+      "predictions": {
+        "0": "The Longest Yard",
+        "1": "The Longest Yard",
+        "2": "The Longest Yard",
+        "3": "The Longest Yard",
+        "4": "The Longest Yard",
+        "5": "The Longest Yard",
+        "6": "The Longest Yard",
+        "7": "The Longest Yard",
+        "8": "The Longest Yard",
+        "9": "The Longest Yard",
+        "10": "The Longest Yard (1974 film)",
+        "11": "The Longest Yard (1974 film)",
+        "12": "The Longest Yard",
+        "13": "The Longest Yard (1974 film)",
+        "14": "The Longest Yard",
+        "15": "The Longest Yard"
+      },
+      "curve_analysis": {
+        "trend_type": "oscillating",
+        "stability_type": "mildly_oscillating",
+        "best_k": 0,
+        "max_f1": 1.0,
+        "f1_at_0": 1.0,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 10,
+        "post_peak_drop": 0.33333333333333337,
+        "sign_changes": 3,
+        "volatility": 1.3333333333333335,
+        "trend_curve": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.6666666666666666,
+          1.0,
+          0.6666666666666666,
+          1.0,
+          1.0
+        ],
+        "prefix_best_curve": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1096",
+      "question": "what part of the chicken is general tso chicken",
+      "dataset_name": "nq",
+      "best_k": 6,
+      "best_em": 0,
+      "best_f1": 0.8,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.33333333333333337
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.1818181818181818
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.1818181818181818
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.8
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.8
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.8
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.8
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.8
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.8
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.8
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.8
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.13793103448275862
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.8
+        }
+      },
+      "predictions": {
+        "0": "chicken breast (or chicken thighs)",
+        "1": "bite-sized pieces of chicken, often thighs or breasts",
+        "2": "bite-sized pieces of chicken, often thighs or breasts",
+        "3": "bite-sized pieces of chicken, often chicken breast or thigh meat",
+        "4": "bite-sized pieces of chicken, often chicken breast or thigh",
+        "5": "bite-sized pieces of chicken, often from the breast or thigh",
+        "6": "chicken thigh meat",
+        "7": "chicken thigh meat",
+        "8": "chicken thigh meat",
+        "9": "chicken thigh meat",
+        "10": "chicken thigh meat",
+        "11": "chicken thigh meat",
+        "12": "chicken thigh meat",
+        "13": "chicken thigh meat",
+        "14": "General Tso's chicken typically uses chicken thigh meat. The dish is usually made with de-boned, battered, and deep-fried pieces of chicken, which are then coated in a sweet sauce",
+        "15": "chicken thigh meat"
+      },
+      "curve_analysis": {
+        "trend_type": "oscillating",
+        "stability_type": "highly_oscillating",
+        "best_k": 6,
+        "max_f1": 0.8,
+        "f1_at_0": 0.0,
+        "gain_to_best": 0.8,
+        "first_reach_best_k": 6,
+        "plateau_length": 8,
+        "post_peak_drop": 0.6620689655172414,
+        "sign_changes": 4,
+        "volatility": 2.427168234064786,
+        "trend_curve": [
+          0.0,
+          0.0,
+          0.0,
+          0.33333333333333337,
+          0.1818181818181818,
+          0.1818181818181818,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.13793103448275862,
+          0.8
+        ],
+        "prefix_best_curve": [
+          0.0,
+          0.0,
+          0.0,
+          0.33333333333333337,
+          0.33333333333333337,
+          0.33333333333333337,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8
+        ]
+      }
+    }
+  ],
+  "other": [
+    {
+      "id": "single_nq_dev_1150",
+      "question": "who got first bharat ratna award in 1954",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 0,
+      "best_f1": 0.4444444444444445,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.4
+        }
+      },
+      "predictions": {
+        "0": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C.V. Raman",
+        "1": "The Bharat Ratna was instituted in 1954 as the highest civilian award of the Republic of India. The first recipients of the Bharat Ratna in 1954 were:",
+        "2": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "3": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "4": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "5": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "6": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "7": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "8": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "9": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "10": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "11": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "12": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "13": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "14": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "15": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman"
+      },
+      "curve_analysis": {
+        "trend_type": "other",
+        "stability_type": "mildly_oscillating",
+        "best_k": 0,
+        "max_f1": 0.4444444444444445,
+        "f1_at_0": 0.4444444444444445,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 1,
+        "post_peak_drop": 0.4444444444444445,
+        "sign_changes": 1,
+        "volatility": 0.8444444444444446,
+        "trend_curve": [
+          0.4444444444444445,
+          0.0,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4
+        ],
+        "prefix_best_curve": [
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1186",
+      "question": "when was the city of new york founded",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "1": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "2": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "3": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "4": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "5": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "6": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "7": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "8": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "9": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "10": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "11": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.05128205128205127
+        },
+        "13": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "14": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "15": {
+          "em": 1,
+          "f1": 1.0
+        }
+      },
+      "predictions": {
+        "0": "1624",
+        "1": "1624",
+        "2": "1624",
+        "3": "1624",
+        "4": "1624",
+        "5": "1624",
+        "6": "1624",
+        "7": "1624",
+        "8": "1624",
+        "9": "1624",
+        "10": "1624",
+        "11": "1624",
+        "12": "The city of New York traces its origins to a trading post founded by colonists from the Dutch Republic in 1624 on Lower Manhattan, and the post was named New Amsterdam in 1626. So, the city of New York was founded in 1624",
+        "13": "1624",
+        "14": "1624",
+        "15": "1624"
+      },
+      "curve_analysis": {
+        "trend_type": "other",
+        "stability_type": "mildly_oscillating",
+        "best_k": 0,
+        "max_f1": 1.0,
+        "f1_at_0": 1.0,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 12,
+        "post_peak_drop": 0.9487179487179487,
+        "sign_changes": 1,
+        "volatility": 1.8974358974358974,
+        "trend_curve": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.05128205128205127,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "prefix_best_curve": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1230",
+      "question": "where do cardiac impulses originate in the heart",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 0,
+      "best_f1": 0.8,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.8
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.8
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.13333333333333333
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.8
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.13793103448275862
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.13333333333333333
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.12903225806451613
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.12121212121212122
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.13333333333333333
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.15384615384615385
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.125
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.12121212121212122
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.09756097560975609
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.0909090909090909
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.11764705882352941
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.10526315789473684
+        }
+      },
+      "predictions": {
+        "0": "sinoatrial (SA) node",
+        "1": "the sinoatrial (SA) node",
+        "2": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of cardiac muscle and control the heart rate",
+        "3": "the sinoatrial (SA) node",
+        "4": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of cardiac muscle, controlling the heart rate",
+        "5": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of cardiac muscle and control the heart rate",
+        "6": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of cardiac muscle, setting the pace for the heart rate",
+        "7": "Cardiac impulses originate in the heart at the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of cardiac muscle, setting the pace for the heart rate",
+        "8": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of cardiac muscle and control the heart rate",
+        "9": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of the heart muscle",
+        "10": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of the heart muscle and set the pace for the heart rate",
+        "11": "Cardiac impulses originate in the sinoatrial (SA) node, which is located in the right atrium of the heart. The SA node acts as the natural pacemaker, generating electrical impulses that initiate the heartbeat and regulate the heart rate",
+        "12": "Cardiac impulses originate in the sinoatrial (SA) node, which is a small area of specialized pacemaker cells located in the right atrium of the heart. The SA node generates electrical impulses that set the pace for the heart's rhythm, causing the atria to contract and initiating the heartbeat",
+        "13": "Cardiac impulses originate in the sinoatrial (SA) node, which is a small area of specialized pacemaker cells located in the upper wall of the right atrium of the heart. The SA node generates electrical impulses that set the pace for the heart's rhythm, causing the atria to contract and initiating the heartbeat",
+        "14": "Cardiac impulses originate in the heart at a small area of tissue in the right atrium called the sinoatrial (SA) node. The SA node is known as the natural pacemaker of the heart, generating electrical impulses that initiate the heartbeat",
+        "15": "Cardiac impulses originate in the sinoatrial (SA) node, which is located in the upper wall of the right atrium of the heart. The SA node acts as the natural pacemaker of the heart, generating electrical impulses that initiate the heartbeat and regulate the heart rate"
+      },
+      "curve_analysis": {
+        "trend_type": "other",
+        "stability_type": "mildly_oscillating",
+        "best_k": 0,
+        "max_f1": 0.8,
+        "f1_at_0": 0.8,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 2,
+        "post_peak_drop": 0.7090909090909091,
+        "sign_changes": 2,
+        "volatility": 2.146814176535539,
+        "trend_curve": [
+          0.8,
+          0.8,
+          0.13333333333333333,
+          0.8,
+          0.13793103448275862,
+          0.13333333333333333,
+          0.12903225806451613,
+          0.12121212121212122,
+          0.13333333333333333,
+          0.15384615384615385,
+          0.125,
+          0.12121212121212122,
+          0.09756097560975609,
+          0.0909090909090909,
+          0.11764705882352941,
+          0.10526315789473684
+        ],
+        "prefix_best_curve": [
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1349",
+      "question": "what battle took place at breeds hill near boston",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "4": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.4444444444444445
+        }
+      },
+      "predictions": {
+        "0": "Battle of Bunker Hill",
+        "1": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "2": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "3": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "4": "Battle of Bunker Hill",
+        "5": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "6": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "7": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "8": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "9": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "10": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "11": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "12": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "13": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "14": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "15": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill"
+      },
+      "curve_analysis": {
+        "trend_type": "other",
+        "stability_type": "mildly_oscillating",
+        "best_k": 0,
+        "max_f1": 1.0,
+        "f1_at_0": 1.0,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 1,
+        "post_peak_drop": 0.5555555555555556,
+        "sign_changes": 2,
+        "volatility": 1.6666666666666667,
+        "trend_curve": [
+          1.0,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          1.0,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445,
+          0.4444444444444445
+        ],
+        "prefix_best_curve": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1481",
+      "question": "when did photo driving licences start in uk",
+      "dataset_name": "nq",
+      "best_k": 0,
+      "best_em": 0,
+      "best_f1": 0.8,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.8
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.05263157894736842
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.05555555555555555
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.05555555555555555
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.047619047619047616
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.06666666666666667
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.1818181818181818
+        }
+      },
+      "predictions": {
+        "0": "July 1, 1998",
+        "1": "1998",
+        "2": "The information provided does not include details about when photo driving licences started in the UK. However, photo driving licences were introduced in the UK in 1998. If you need more specific information or details, please let me know!",
+        "3": "The information provided does not specify when photo driving licenses started in the UK. However, photo driving licenses were introduced in the UK in 1998. If you need more detailed information or context, please let me know!",
+        "4": "The information provided does not specify when photo driving licences started in the UK. However, photo driving licences were introduced in the UK in 1998. If you need more detailed information or context, please let me know!",
+        "5": "The information provided does not specify when photo driving licences started in the UK. However, it is known that the introduction of photo driving licences in the UK began in 1998. If you need more detailed information or specific dates, please let me know!",
+        "6": "The introduction of photo driving licences in the UK began in 1998. The new style of driving licence, which includes a photograph of the holder, was implemented to enhance security and reduce fraud",
+        "7": "1998",
+        "8": "1998",
+        "9": "1998",
+        "10": "1998",
+        "11": "1998",
+        "12": "1998",
+        "13": "1998",
+        "14": "1998",
+        "15": "Photo driving licences in the UK were introduced in 1998"
+      },
+      "curve_analysis": {
+        "trend_type": "other",
+        "stability_type": "mildly_oscillating",
+        "best_k": 0,
+        "max_f1": 0.8,
+        "f1_at_0": 0.8,
+        "gain_to_best": 0.0,
+        "first_reach_best_k": 0,
+        "plateau_length": 1,
+        "post_peak_drop": 0.7523809523809524,
+        "sign_changes": 2,
+        "volatility": 1.8621250094934305,
+        "trend_curve": [
+          0.8,
+          0.6666666666666666,
+          0.05263157894736842,
+          0.05555555555555555,
+          0.05555555555555555,
+          0.047619047619047616,
+          0.06666666666666667,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.1818181818181818
+        ],
+        "prefix_best_curve": [
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8,
+          0.8
+        ]
+      }
+    }
+  ],
+  "rise_then_fall": [
+    {
+      "id": "single_nq_dev_1002",
+      "question": "when was celibacy introduced in the catholic church",
+      "dataset_name": "nq",
+      "best_k": 12,
+      "best_em": 0,
+      "best_f1": 0.6666666666666666,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.06451612903225806
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.0784313725490196
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.0547945205479452
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.04938271604938271
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.046511627906976744
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.04166666666666667
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.05063291139240506
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.045454545454545456
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.04597701149425287
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.041237113402061855
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.044444444444444446
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.4
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.4
+        }
+      },
+      "predictions": {
+        "0": "Celibacy as a formal discipline in the Catholic Church developed over several centuries. While early Christian leaders advocated for continence and celibacy among clergy, it was not universally required initially",
+        "1": "The provided documents do not specify the exact date or period when clerical celibacy was introduced in the Catholic Church. However, historically, clerical celibacy in the Latin Church was gradually established over several centuries, becoming more formally enforced during the First and Second Lateran Councils in the 12th century (specifically in 1123 and 1139)",
+        "2": "The specific introduction of clerical celibacy in the Catholic Church is not precisely dated, as it evolved over time. However, the practice became more formalized in the Latin Church during the 12th century, particularly with the Second Lateran Council in 1139, which mandated celibacy for priests. Prior to this, there were various practices regarding the marital status of clergy. So, while there isn't a single date for the introduction of celibacy, the 12th century marks a significant point in its formalization",
+        "3": "The specific introduction of clerical celibacy in the Catholic Church is not precisely dated, as it evolved over time. However, the practice became more formalized in the Latin Church during the First Lateran Council in 1123, which mandated celibacy for priests. Prior to this, there were various practices regarding the marital status of clergy, but the requirement for celibacy became a standard discipline in the centuries that followed. So, while there isn't a single date for the introduction of celibacy, the early 12th century marks a significant point in its formalization",
+        "4": "1123",
+        "5": "The specific introduction of clerical celibacy in the Catholic Church is not precisely dated, as it evolved over time. However, the practice became more formally established in the Latin Church during the Middle Ages, particularly in the 12th century, when the Second Lateran Council in 1139 declared that priests must remain celibate. This was part of a broader movement to reform the clergy and ensure that they were fully dedicated to their spiritual duties. So, while there isn't a single date for the introduction of celibacy, the 12th century marks a significant point in its formalization",
+        "6": "The specific introduction of clerical celibacy in the Catholic Church is not precisely dated, as it evolved over time. However, the practice became more formalized in the Latin Church during the Middle Ages, particularly in the 12th century, when the Second Lateran Council in 1139 declared that priests must remain celibate. This was part of a broader movement to ensure the church's spiritual integrity and to prevent the inheritance of church property by the children of clergy. Thus, while the roots of celibacy can be traced back to earlier practices, it was during the 12th century that it became a formal requirement for priests in the Latin Church",
+        "7": "The specific introduction date of clerical celibacy in the Catholic Church is not clearly defined, as it evolved over time. However, the practice became more formalized in the Latin Church around the 12th century, particularly during the Second Lateran Council in 1139, which mandated celibacy for priests. Prior to this, there were various practices regarding the marital status of clergy. So, while there isn't a single date for the introduction of celibacy, the 12th century marks a significant point in its establishment as a requirement in the Latin Church",
+        "8": "The specific introduction date of clerical celibacy in the Catholic Church is not clearly defined, as it evolved over time. However, the practice became more formalized in the Latin Church during the early Middle Ages, particularly in the 11th century with the reforms of Pope Gregory VII around the year 1074. These reforms emphasized celibacy as a requirement for priests, although the tradition of celibacy for clergy existed in various forms prior to this period. So, while there isn't a single date for the introduction of celibacy, the 11th century marks a significant point in its formalization within the Church",
+        "9": "The specific introduction of clerical celibacy in the Catholic Church is not precisely dated, as it evolved over time. However, the practice became more formalized in the Latin Church during the early Middle Ages, particularly in the 11th century, with the reforms of Pope Gregory VII around the year 1074. These reforms emphasized celibacy as a requirement for priests, although the tradition of celibacy for clergy existed in various forms prior to this period. So, while there isn't a single date for the introduction of celibacy, the 11th century marks a significant point in its formalization within the Church",
+        "10": "The concept of clerical celibacy in the Catholic Church developed over time, with its formalization occurring in the early Middle Ages. While there is no specific date for its introduction, the practice began to take shape around the 4th century, with significant enforcement occurring in the 11th century during the Gregorian Reform under Pope Gregory VII. This reform aimed to address issues of clerical morality and the influence of secular powers on the Church. Thus, while the roots of clerical celibacy can be traced back to the early Church, it was during the 11th century that it became a more established and enforced discipline within the Latin Church",
+        "11": "The specific introduction date of clerical celibacy in the Catholic Church is not clearly defined, as it evolved over time. However, the practice became more formalized in the Latin Church during the Middle Ages, particularly in the 12th century, when the Second Lateran Council in 1139 reaffirmed the requirement of celibacy for priests. Prior to this, there were various practices regarding the marriage of clergy, but the push for mandatory celibacy gained significant traction during this period. So, while there isn't a single date of introduction, the 12th century marks a key point in its establishment as a discipline within the Church",
+        "12": "in the eleventh century",
+        "13": "in the eleventh century",
+        "14": "eleventh century",
+        "15": "eleventh century"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_fall",
+        "stability_type": "mildly_oscillating",
+        "best_k": 12,
+        "max_f1": 0.6666666666666666,
+        "f1_at_0": 0.06451612903225806,
+        "gain_to_best": 0.6021505376344085,
+        "first_reach_best_k": 12,
+        "plateau_length": 2,
+        "post_peak_drop": 0.2666666666666666,
+        "sign_changes": 1,
+        "volatility": 1.0552063999398358,
+        "trend_curve": [
+          0.06451612903225806,
+          0.0784313725490196,
+          0.0547945205479452,
+          0.04938271604938271,
+          0.0,
+          0.046511627906976744,
+          0.04166666666666667,
+          0.05063291139240506,
+          0.045454545454545456,
+          0.04597701149425287,
+          0.041237113402061855,
+          0.044444444444444446,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.4,
+          0.4
+        ],
+        "prefix_best_curve": [
+          0.06451612903225806,
+          0.0784313725490196,
+          0.0784313725490196,
+          0.0784313725490196,
+          0.0784313725490196,
+          0.0784313725490196,
+          0.0784313725490196,
+          0.0784313725490196,
+          0.0784313725490196,
+          0.0784313725490196,
+          0.0784313725490196,
+          0.0784313725490196,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_120",
+      "question": "which technique measures the electrical activity of brain cells directly",
+      "dataset_name": "nq",
+      "best_k": 3,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.14285714285714288
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.1
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.1111111111111111
+        },
+        "3": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.0
+        }
+      },
+      "predictions": {
+        "0": "The technique that measures the electrical activity of brain cells directly is **electroencephalography (EEG)**. EEG records electrical signals produced by neurons in the brain using electrodes placed on the scalp",
+        "1": "The technique that measures the electrical activity of brain cells directly is called **electroencephalography (EEG)**. EEG records the electrical activity of the brain through electrodes placed on the scalp, allowing researchers and clinicians to observe brain wave patterns and diagnose various neurological conditions",
+        "2": "The technique that measures the electrical activity of brain cells directly is called \\\"electroencephalography\\\" (EEG). EEG involves placing electrodes on the scalp to detect electrical activity in the brain, allowing for the monitoring of brain waves and activity patterns",
+        "3": "Electroencephalography (EEG)",
+        "4": "single-unit recordings",
+        "5": "electrocorticography",
+        "6": "single-unit recordings",
+        "7": "single-unit recordings",
+        "8": "single-unit recordings",
+        "9": "single-unit recordings",
+        "10": "electrophysiology",
+        "11": "electrophysiology",
+        "12": "electrophysiology",
+        "13": "electrocorticography",
+        "14": "electrocorticography",
+        "15": "electrophysiology"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_fall",
+        "stability_type": "mildly_oscillating",
+        "best_k": 3,
+        "max_f1": 1.0,
+        "f1_at_0": 0.14285714285714288,
+        "gain_to_best": 0.8571428571428571,
+        "first_reach_best_k": 3,
+        "plateau_length": 1,
+        "post_peak_drop": 1.0,
+        "sign_changes": 1,
+        "volatility": 1.9428571428571428,
+        "trend_curve": [
+          0.14285714285714288,
+          0.1,
+          0.1111111111111111,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "prefix_best_curve": [
+          0.14285714285714288,
+          0.14285714285714288,
+          0.14285714285714288,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1378",
+      "question": "who wrote the song fairytale of new york",
+      "dataset_name": "nq",
+      "best_k": 1,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        },
+        "1": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "2": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        }
+      },
+      "predictions": {
+        "0": "Jem Finer and Shane MacGowan",
+        "1": "Shane MacGowan",
+        "2": "Shane MacGowan",
+        "3": "Jem Finer and Shane MacGowan",
+        "4": "Jem Finer and Shane MacGowan",
+        "5": "Jem Finer and Shane MacGowan",
+        "6": "Jem Finer and Shane MacGowan",
+        "7": "Jem Finer and Shane MacGowan",
+        "8": "Jem Finer and Shane MacGowan",
+        "9": "Jem Finer and Shane MacGowan",
+        "10": "Jem Finer and Shane MacGowan",
+        "11": "Jem Finer and Shane MacGowan",
+        "12": "Jem Finer and Shane MacGowan",
+        "13": "Jem Finer and Shane MacGowan",
+        "14": "Jem Finer and Shane MacGowan",
+        "15": "Jem Finer and Shane MacGowan"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_fall",
+        "stability_type": "mildly_oscillating",
+        "best_k": 1,
+        "max_f1": 1.0,
+        "f1_at_0": 0.5714285714285715,
+        "gain_to_best": 0.4285714285714285,
+        "first_reach_best_k": 1,
+        "plateau_length": 2,
+        "post_peak_drop": 0.4285714285714285,
+        "sign_changes": 1,
+        "volatility": 0.857142857142857,
+        "trend_curve": [
+          0.5714285714285715,
+          1.0,
+          1.0,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715
+        ],
+        "prefix_best_curve": [
+          0.5714285714285715,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1384",
+      "question": "who plays as beast in beauty and the beast",
+      "dataset_name": "nq",
+      "best_k": 9,
+      "best_em": 0,
+      "best_f1": 0.5714285714285715,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.3076923076923077
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.3636363636363636
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.5714285714285715
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.3076923076923077
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.0
+        }
+      },
+      "predictions": {
+        "0": "Dan Stevens (for the live-action adaptation) or Robby Benson (for the animated film)",
+        "1": "Robby Benson",
+        "2": "Robby Benson",
+        "3": "Robby Benson",
+        "4": "Robby Benson",
+        "5": "Robby Benson",
+        "6": "Robby Benson",
+        "7": "Robby Benson (animated film) and Dan Stevens (live-action film)",
+        "8": "Robby Benson (animated film) and Dan Stevens (live-action adaptation)",
+        "9": "Dan Stevens (in the live-action adaptation)",
+        "10": "Robby Benson (for the animated film) and Dan Stevens (for the live-action adaptation)",
+        "11": "Robby Benson",
+        "12": "Robby Benson",
+        "13": "Robby Benson",
+        "14": "Robby Benson",
+        "15": "Robby Benson"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_fall",
+        "stability_type": "mildly_oscillating",
+        "best_k": 9,
+        "max_f1": 0.5714285714285715,
+        "f1_at_0": 0.3076923076923077,
+        "gain_to_best": 0.2637362637362638,
+        "first_reach_best_k": 9,
+        "plateau_length": 1,
+        "post_peak_drop": 0.5714285714285715,
+        "sign_changes": 2,
+        "volatility": 1.4505494505494505,
+        "trend_curve": [
+          0.3076923076923077,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.5714285714285715,
+          0.3076923076923077,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "prefix_best_curve": [
+          0.3076923076923077,
+          0.3076923076923077,
+          0.3076923076923077,
+          0.3076923076923077,
+          0.3076923076923077,
+          0.3076923076923077,
+          0.3076923076923077,
+          0.3636363636363636,
+          0.3636363636363636,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715,
+          0.5714285714285715
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1428",
+      "question": "when did daylight saving first start in australia",
+      "dataset_name": "nq",
+      "best_k": 1,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "1": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "2": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.0
+        }
+      },
+      "predictions": {
+        "0": "December 1, 1916",
+        "1": "1968",
+        "2": "1968",
+        "3": "during World War I",
+        "4": "during World War I",
+        "5": "during World War I",
+        "6": "during World War I",
+        "7": "during World War I",
+        "8": "during World War I",
+        "9": "during World War I",
+        "10": "during World War I",
+        "11": "during World War I",
+        "12": "during World War I",
+        "13": "during World War I",
+        "14": "during World War I",
+        "15": "Daylight saving first started in Australia during World War I"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_fall",
+        "stability_type": "mildly_oscillating",
+        "best_k": 1,
+        "max_f1": 1.0,
+        "f1_at_0": 0.0,
+        "gain_to_best": 1.0,
+        "first_reach_best_k": 1,
+        "plateau_length": 2,
+        "post_peak_drop": 1.0,
+        "sign_changes": 1,
+        "volatility": 2.0,
+        "trend_curve": [
+          0.0,
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "prefix_best_curve": [
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    }
+  ],
+  "rise_then_plateau": [
+    {
+      "id": "single_nq_dev_1068",
+      "question": "when was the first world happiness report released",
+      "dataset_name": "nq",
+      "best_k": 3,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.8
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "3": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "4": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "5": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "6": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "7": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "8": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "9": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "10": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "11": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "12": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "13": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "14": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "15": {
+          "em": 1,
+          "f1": 1.0
+        }
+      },
+      "predictions": {
+        "0": "April 2012",
+        "1": "2012",
+        "2": "2012",
+        "3": "April 1, 2012",
+        "4": "April 1, 2012",
+        "5": "April 1, 2012",
+        "6": "April 1, 2012",
+        "7": "April 1, 2012",
+        "8": "April 1, 2012",
+        "9": "April 1, 2012",
+        "10": "April 1, 2012",
+        "11": "April 1, 2012",
+        "12": "April 1, 2012",
+        "13": "April 1, 2012",
+        "14": "April 1, 2012",
+        "15": "April 1, 2012"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_plateau",
+        "stability_type": "mildly_oscillating",
+        "best_k": 3,
+        "max_f1": 1.0,
+        "f1_at_0": 0.8,
+        "gain_to_best": 0.19999999999999996,
+        "first_reach_best_k": 3,
+        "plateau_length": 13,
+        "post_peak_drop": 0.0,
+        "sign_changes": 1,
+        "volatility": 0.8,
+        "trend_curve": [
+          0.8,
+          0.5,
+          0.5,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "prefix_best_curve": [
+          0.8,
+          0.8,
+          0.8,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1129",
+      "question": "who 's the mayor of south bend indiana",
+      "dataset_name": "nq",
+      "best_k": 15,
+      "best_em": 0,
+      "best_f1": 0.16666666666666666,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.16666666666666666
+        }
+      },
+      "predictions": {
+        "0": "James Mueller",
+        "1": "The information provided does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the latest sources or the official South Bend city website",
+        "2": "The provided information does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the latest sources or the official South Bend city website",
+        "3": "The provided text does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information regarding the current mayor, it would be best to check official city resources or recent news articles",
+        "4": "The provided information does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the latest sources or the official South Bend city website",
+        "5": "The provided information does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the latest sources or the official South Bend city website",
+        "6": "The information provided does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the official South Bend city website or recent news sources",
+        "7": "The information provided does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the official South Bend city website or recent news sources",
+        "8": "The provided information does not specify the current mayor of South Bend, Indiana. For the most accurate and up-to-date information, it is recommended to check official city resources or news outlets",
+        "9": "The information provided does not specify the current mayor of South Bend, Indiana. However, as of my last knowledge update, the mayor was James Mueller, who took office in January 2020. For the most accurate and up-to-date information, please check the latest sources",
+        "10": "The information provided does not specify the current mayor of South Bend, Indiana. However, as of my last knowledge update, the mayor was James Mueller, who took office in January 2020. For the most accurate and up-to-date information, please check the latest sources",
+        "11": "The provided information does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the latest sources or the official South Bend city website",
+        "12": "The information provided does not specify the current mayor of South Bend, Indiana. However, as of my last knowledge update, the mayor was James Mueller, who took office in January 2020. For the most accurate and up-to-date information, please check the latest sources",
+        "13": "The provided information does not specify the current mayor of South Bend, Indiana. To find the most accurate and up-to-date information regarding the mayor, it is recommended to check official city resources or recent news articles",
+        "14": "The information provided does not specify the current mayor of South Bend, Indiana. However, as of my last knowledge update, the mayor was James Mueller, who took office in January 2020. For the most accurate and up-to-date information, please check the latest sources",
+        "15": "The mayor of South Bend, Indiana, is Pete Buttigieg"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_plateau",
+        "stability_type": "stable",
+        "best_k": 15,
+        "max_f1": 0.16666666666666666,
+        "f1_at_0": 0.0,
+        "gain_to_best": 0.16666666666666666,
+        "first_reach_best_k": 15,
+        "plateau_length": 1,
+        "post_peak_drop": 0.0,
+        "sign_changes": 0,
+        "volatility": 0.16666666666666666,
+        "trend_curve": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.16666666666666666
+        ],
+        "prefix_best_curve": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.16666666666666666
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1404",
+      "question": "who sang i ca n 't let maggie go",
+      "dataset_name": "nq",
+      "best_k": 2,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "2": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "3": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "4": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "5": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "6": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "7": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "8": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "9": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "10": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "11": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "12": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "13": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "14": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "15": {
+          "em": 1,
+          "f1": 1.0
+        }
+      },
+      "predictions": {
+        "0": "The Honeycombs",
+        "1": "The Honeycombs",
+        "2": "Honeybus",
+        "3": "Honeybus",
+        "4": "Honeybus",
+        "5": "Honeybus",
+        "6": "Honeybus",
+        "7": "Honeybus",
+        "8": "Honeybus",
+        "9": "Honeybus",
+        "10": "Honeybus",
+        "11": "Honeybus",
+        "12": "Honeybus",
+        "13": "Honeybus",
+        "14": "Honeybus",
+        "15": "Honeybus"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_plateau",
+        "stability_type": "mildly_oscillating",
+        "best_k": 2,
+        "max_f1": 1.0,
+        "f1_at_0": 0.0,
+        "gain_to_best": 1.0,
+        "first_reach_best_k": 2,
+        "plateau_length": 14,
+        "post_peak_drop": 0.0,
+        "sign_changes": 0,
+        "volatility": 1.0,
+        "trend_curve": [
+          0.0,
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "prefix_best_curve": [
+          0.0,
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1447",
+      "question": "what is the corn palace in mitchell south dakota",
+      "dataset_name": "nq",
+      "best_k": 3,
+      "best_em": 0,
+      "best_f1": 0.08450704225352113,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.08333333333333333
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.08450704225352113
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.07058823529411765
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.07058823529411765
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.061224489795918366
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.06185567010309278
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.06741573033707865
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.06741573033707865
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.06060606060606061
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.06521739130434782
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.06451612903225806
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.06382978723404255
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.058252427184466014
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.055045871559633024
+        }
+      },
+      "predictions": {
+        "0": "The Corn Palace in Mitchell, South Dakota, is a unique building and tourist attraction known for its exterior murals made entirely of corn and other grains. It was originally built in 1892 as a way to promote the local agricultural industry and has since become a symbol of the city. The Corn Palace hosts various events, including concerts and festivals, and features an interior that showcases local art and culture. Each year, the exterior is redesigned with new corn murals, reflecting different themes and designs",
+        "1": "The Corn Palace in Mitchell, South Dakota, is a building originally constructed in 1892 to showcase the rich soil of the region and encourage settlement. It is known for its unique design, featuring murals and decorations made from corn and other grains. The Corn Palace serves as a venue for various events and festivals, celebrating the agricultural heritage of the area",
+        "2": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known as \\\"The World's Only Corn Palace.\\\" It is a Moorish Revival-style building decorated with crop art, featuring murals and designs made from corn and other grains. The original Corn Palace, called \\\"The Corn Belt Exposition,\\\" was built in 1892 to showcase the rich soil of South Dakota and encourage settlement in the area. The building serves as a unique cultural and tourist attraction in Mitchell",
+        "3": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known as \\\"The World's Only Corn Palace.\\\" It is a Moorish Revival building decorated with crop art, featuring murals and designs made from corn and other grains. A new design is created each year. The Corn Palace is a popular tourist destination, attracting up to 500,000 visitors annually. It serves the community as a venue for concerts, sports events, exhibits, and other community activities",
+        "4": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known as \\\"The World's Only Corn Palace.\\\" It features a Moorish Revival architectural style and is decorated with crop art, including murals and designs made from corn and other grains. Each year, a new design is constructed, making it a popular tourist destination that attracts up to 500,000 visitors annually. The Corn Palace serves as a venue for concerts, sports events, exhibits, and community events, and it is celebrated with the Corn Palace Festival, among other annual events",
+        "5": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known as \\\"The World's Only Corn Palace.\\\" It features a Moorish Revival architectural style and is decorated with crop art, with murals and designs made from corn and other grains. Each year, a new design is constructed, making it a popular tourist destination that attracts up to 500,000 visitors annually. The Corn Palace serves as a venue for concerts, sports events, exhibits, and community activities, and it is celebrated with an annual festival known as the Corn Palace Festival",
+        "6": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known for its unique Moorish Revival architecture and decorative crop art. The building is adorned with murals and designs made from corn and other grains, which are replaced and redesigned each year with a new theme. It serves as a popular tourist destination, attracting up to 500,000 visitors annually, and hosts various events such as concerts, sports, and community activities. The Corn Palace is also home to the Dakota Wesleyan University Tigers and the Mitchell High School Kernels basketball teams. Additionally, it is celebrated with an annual festival, the Corn Palace Festival",
+        "7": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known as \\\"The World's Only Corn Palace.\\\" It is decorated with crop art, featuring murals and designs made from corn and other grains, which are reconstructed each year. The Corn Palace serves as a popular tourist destination, attracting up to 500,000 visitors annually, and hosts various events such as concerts, sports, and community activities. It is also home to the Dakota Wesleyan University Tigers and the Mitchell High School Kernels basketball teams. The Corn Palace Festival, celebrated at harvest time, is one of the notable annual events associated with the venue",
+        "8": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known for its unique decoration with crop art, including murals and designs made from corn and other grains. It is commonly advertised as \\\"The World's Only Corn Palace\\\" and serves as a popular tourist destination, attracting up to 500,000 visitors each year. The Corn Palace hosts various events, including concerts, sports events, and community activities, and is celebrated with an annual festival. The building features a Moorish Revival architectural style and has undergone several renovations since its original construction in 1892",
+        "9": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known for its unique decoration with crop art, including murals and designs made from corn and other grains. It is commonly advertised as \\\"The World's Only Corn Palace\\\" and serves as a popular tourist destination, attracting up to 500,000 visitors each year. The Corn Palace hosts various events, including concerts, sports events, and community activities, and is celebrated with an annual festival. The building features a Moorish Revival architectural style and has undergone several renovations since its original construction in 1892",
+        "10": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known for its unique decoration with crop art, specifically murals and designs made from corn and other grains. It is commonly advertised as \\\"The World's Only Corn Palace\\\" and serves as a popular tourist destination, attracting up to 500,000 visitors each year. The Corn Palace hosts various events, including concerts, sports events, and community activities, and features an annual festival known as the Corn Palace Festival. The building has undergone several renovations since its original construction in 1892, with its distinctive Moorish Revival architecture and annual theme changes for the exterior murals",
+        "11": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility that is famously decorated with crop art, including murals and designs made from corn and other grains. It is commonly advertised as \\\"The World's Only Corn Palace\\\" and serves as a popular tourist destination, attracting up to 500,000 visitors each year. The Corn Palace hosts various events, including concerts, sports events, and community activities, and features a new design each year for its exterior corn murals. It is also home to the Dakota Wesleyan University Tigers and the Mitchell High School Kernels basketball teams",
+        "12": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known for its unique decoration with crop art, specifically murals and designs made from corn and other grains. It is commonly advertised as \\\"The World's Only Corn Palace\\\" and serves as a popular tourist destination, attracting up to 500,000 visitors each year. The Corn Palace hosts various community events, concerts, and sports activities, and features a new design each year for its exterior corn murals. The building has a distinctive Moorish Revival architectural style and has undergone several renovations since its original construction in 1892",
+        "13": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known for its unique decoration with crop art, specifically murals and designs made from corn and other grains. It is commonly advertised as \\\"The World's Only Corn Palace\\\" and serves as a popular tourist destination, attracting up to 500,000 visitors each year. The Corn Palace hosts various events, including concerts, sports events, and community activities, and features a new design each year for its exterior corn murals. The building has a Moorish Revival architectural style and has undergone several renovations since its original construction in 1892",
+        "14": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility that is commonly advertised as \\\"The World's Only Corn Palace.\\\" It is a Moorish Revival building decorated with crop art, featuring murals and designs made from corn and other grains. Each year, a new design is constructed, making it a popular tourist destination that attracts up to 500,000 visitors annually. The Corn Palace serves as a venue for concerts, sports events, exhibits, and community activities, and it is celebrated with a citywide festival known as the Corn Palace Festival. The building has undergone several renovations since its original construction in 1892, with distinctive architectural features added over the years",
+        "15": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility that is commonly advertised as \\\"The World's Only Corn Palace.\\\" It is decorated with crop art, featuring murals and designs made from corn and other grains, which are replaced and redesigned each year with a new theme. The Corn Palace serves as a popular tourist destination, attracting up to 500,000 visitors annually, and hosts various events such as concerts, sports events, and community activities. It is also home to the Dakota Wesleyan University Tigers and the Mitchell High School Kernels basketball teams. The Corn Palace has a rich history, with its original structure built in 1892 to showcase the agricultural bounty of South Dakota"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_plateau",
+        "stability_type": "stable",
+        "best_k": 3,
+        "max_f1": 0.08450704225352113,
+        "f1_at_0": 0.0,
+        "gain_to_best": 0.08450704225352113,
+        "first_reach_best_k": 3,
+        "plateau_length": 13,
+        "post_peak_drop": 0.0294611706938881,
+        "sign_changes": 0,
+        "volatility": 0.13557335542630425,
+        "trend_curve": [
+          0.0,
+          0.0,
+          0.08333333333333333,
+          0.08450704225352113,
+          0.07058823529411765,
+          0.07058823529411765,
+          0.061224489795918366,
+          0.06185567010309278,
+          0.06741573033707865,
+          0.06741573033707865,
+          0.06060606060606061,
+          0.06521739130434782,
+          0.06451612903225806,
+          0.06382978723404255,
+          0.058252427184466014,
+          0.055045871559633024
+        ],
+        "prefix_best_curve": [
+          0.0,
+          0.0,
+          0.08333333333333333,
+          0.08450704225352113,
+          0.08450704225352113,
+          0.08450704225352113,
+          0.08450704225352113,
+          0.08450704225352113,
+          0.08450704225352113,
+          0.08450704225352113,
+          0.08450704225352113,
+          0.08450704225352113,
+          0.08450704225352113,
+          0.08450704225352113,
+          0.08450704225352113,
+          0.08450704225352113
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1752",
+      "question": "which country 's head visit to pakistan first",
+      "dataset_name": "nq",
+      "best_k": 7,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "7": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "8": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "9": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "10": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "11": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "12": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "13": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "14": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "15": {
+          "em": 1,
+          "f1": 1.0
+        }
+      },
+      "predictions": {
+        "0": "United States",
+        "1": "The question seems to be incomplete or unclear. However, if you are asking about which country's head of state or government first visited Pakistan, that information is not provided in the text. If you need specific historical information regarding visits by heads of state to Pakistan, please clarify or provide additional context",
+        "2": "China",
+        "3": "China",
+        "4": "China",
+        "5": "Pakistan",
+        "6": "China",
+        "7": "Iran",
+        "8": "Iran",
+        "9": "Iran",
+        "10": "Iran",
+        "11": "Iran",
+        "12": "Iran",
+        "13": "Iran",
+        "14": "Iran",
+        "15": "Iran"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_plateau",
+        "stability_type": "mildly_oscillating",
+        "best_k": 7,
+        "max_f1": 1.0,
+        "f1_at_0": 0.0,
+        "gain_to_best": 1.0,
+        "first_reach_best_k": 7,
+        "plateau_length": 9,
+        "post_peak_drop": 0.0,
+        "sign_changes": 0,
+        "volatility": 1.0,
+        "trend_curve": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "prefix_best_curve": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    }
+  ],
+  "rise_then_plateau_then_fall": [
+    {
+      "id": "single_nq_dev_1259",
+      "question": "are pure metals made of atoms or ions",
+      "dataset_name": "nq",
+      "best_k": 2,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.03773584905660378
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.2222222222222222
+        },
+        "2": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "3": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "4": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "5": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "6": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "7": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "8": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "9": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "10": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "11": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.04081632653061225
+        },
+        "13": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "14": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "15": {
+          "em": 1,
+          "f1": 1.0
+        }
+      },
+      "predictions": {
+        "0": "Pure metals are made of atoms. In a pure metal, atoms are arranged in a regular, repeating pattern called a crystal lattice. While metals do have positively charged metal ions in the lattice, the structure is best described as a lattice of metal atoms surrounded by a \\\"sea\\\" of delocalized electrons. So fundamentally, pure metals consist of metal atoms",
+        "1": "Pure metals are made of atoms, not ions",
+        "2": "atoms",
+        "3": "atoms",
+        "4": "atoms",
+        "5": "atoms",
+        "6": "atoms",
+        "7": "atoms",
+        "8": "atoms",
+        "9": "atoms",
+        "10": "atoms",
+        "11": "atoms",
+        "12": "Pure metals are made of atoms, not ions. In a metallic solid, metal atoms are arranged in a crystal lattice and share a \\\"sea\\\" of delocalized electrons, which is characteristic of metallic bonding. The metal atoms themselves remain neutral; they are not ions in the solid metal. Therefore, pure metals consist of atoms",
+        "13": "atoms",
+        "14": "atoms",
+        "15": "atoms"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_plateau_then_fall",
+        "stability_type": "mildly_oscillating",
+        "best_k": 2,
+        "max_f1": 1.0,
+        "f1_at_0": 0.03773584905660378,
+        "gain_to_best": 0.9622641509433962,
+        "first_reach_best_k": 2,
+        "plateau_length": 10,
+        "post_peak_drop": 0.9591836734693877,
+        "sign_changes": 2,
+        "volatility": 2.8806314978821717,
+        "trend_curve": [
+          0.03773584905660378,
+          0.2222222222222222,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.04081632653061225,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "prefix_best_curve": [
+          0.03773584905660378,
+          0.2222222222222222,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_1427",
+      "question": "when did the phillies win the world series",
+      "dataset_name": "nq",
+      "best_k": 7,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "7": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "8": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "9": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "10": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.5
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.5
+        }
+      },
+      "predictions": {
+        "0": "1980 and 2008",
+        "1": "1980 and 1983",
+        "2": "1980 and 2008",
+        "3": "1980 and 2008",
+        "4": "1980 and 2008",
+        "5": "1980 and 2008",
+        "6": "1980 and 2008",
+        "7": "2008",
+        "8": "1980",
+        "9": "1980",
+        "10": "1980",
+        "11": "1980 and 2008",
+        "12": "1980 and 2008",
+        "13": "1980 and 2008",
+        "14": "1980 and 2008",
+        "15": "1980 and 2008"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_plateau_then_fall",
+        "stability_type": "mildly_oscillating",
+        "best_k": 7,
+        "max_f1": 1.0,
+        "f1_at_0": 0.5,
+        "gain_to_best": 0.5,
+        "first_reach_best_k": 7,
+        "plateau_length": 4,
+        "post_peak_drop": 0.5,
+        "sign_changes": 1,
+        "volatility": 1.0,
+        "trend_curve": [
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5
+        ],
+        "prefix_best_curve": [
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_3407",
+      "question": "the yellowstone supervolcano is an example of which kind of volcanism",
+      "dataset_name": "nq",
+      "best_k": 1,
+      "best_em": 0,
+      "best_f1": 0.6666666666666666,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.6666666666666666
+        }
+      },
+      "predictions": {
+        "0": "caldera volcanism",
+        "1": "hotspot volcanism",
+        "2": "hotspot volcanism",
+        "3": "hotspot volcanism",
+        "4": "supervolcanism",
+        "5": "supervolcanism",
+        "6": "supervolcanism",
+        "7": "supervolcanism",
+        "8": "supervolcanism",
+        "9": "supervolcanism",
+        "10": "supervolcanism",
+        "11": "supervolcanism",
+        "12": "supervolcanism",
+        "13": "supervolcanism",
+        "14": "supervolcanism",
+        "15": "hotspot volcanism"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_plateau_then_fall",
+        "stability_type": "mildly_oscillating",
+        "best_k": 1,
+        "max_f1": 0.6666666666666666,
+        "f1_at_0": 0.0,
+        "gain_to_best": 0.6666666666666666,
+        "first_reach_best_k": 1,
+        "plateau_length": 3,
+        "post_peak_drop": 0.6666666666666666,
+        "sign_changes": 2,
+        "volatility": 2.0,
+        "trend_curve": [
+          0.0,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6666666666666666
+        ],
+        "prefix_best_curve": [
+          0.0,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.6666666666666666
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_4190",
+      "question": "stone monuments often collective tombs from europe 's neolithic period are often referred to as",
+      "dataset_name": "nq",
+      "best_k": 1,
+      "best_em": 0,
+      "best_f1": 0.10526315789473684,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.0
+        },
+        "1": {
+          "em": 0,
+          "f1": 0.10526315789473684
+        },
+        "2": {
+          "em": 0,
+          "f1": 0.10526315789473684
+        },
+        "3": {
+          "em": 0,
+          "f1": 0.09523809523809525
+        },
+        "4": {
+          "em": 0,
+          "f1": 0.09999999999999999
+        },
+        "5": {
+          "em": 0,
+          "f1": 0.09523809523809525
+        },
+        "6": {
+          "em": 0,
+          "f1": 0.09090909090909091
+        },
+        "7": {
+          "em": 0,
+          "f1": 0.09523809523809525
+        },
+        "8": {
+          "em": 0,
+          "f1": 0.09523809523809525
+        },
+        "9": {
+          "em": 0,
+          "f1": 0.10526315789473684
+        },
+        "10": {
+          "em": 0,
+          "f1": 0.10526315789473684
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.10526315789473684
+        },
+        "12": {
+          "em": 0,
+          "f1": 0.10526315789473684
+        },
+        "13": {
+          "em": 0,
+          "f1": 0.10526315789473684
+        },
+        "14": {
+          "em": 0,
+          "f1": 0.10526315789473684
+        },
+        "15": {
+          "em": 0,
+          "f1": 0.0
+        }
+      },
+      "predictions": {
+        "0": "megaliths",
+        "1": "Stone monuments that are often collective tombs from Europe's Neolithic period are referred to as Neolithic tombs",
+        "2": "Stone monuments that are often collective tombs from Europe's Neolithic period are referred to as Neolithic tombs",
+        "3": "Stone monuments that often served as collective tombs from Europe's Neolithic period are commonly referred to as megalithic tombs",
+        "4": "Stone monuments that served as collective tombs from Europe's Neolithic period are often referred to as megalithic tombs",
+        "5": "Stone monuments that often served as collective tombs from Europe's Neolithic period are commonly referred to as megalithic tombs",
+        "6": "Stone monuments that are often collective tombs from Europe's Neolithic period are referred to as \\\"long barrows\\\" or \\\"chambered tombs.\\\"",
+        "7": "Stone monuments that often served as collective tombs from Europe's Neolithic period are often referred to as \\\"megalithic tombs.\\\"",
+        "8": "Stone monuments that often served as collective tombs from Europe's Neolithic period are often referred to as megalithic tombs",
+        "9": "Stone monuments that are often collective tombs from Europe's Neolithic period are referred to as megalithic tombs",
+        "10": "Stone monuments that are collective tombs from Europe's Neolithic period are often referred to as megalithic tombs",
+        "11": "Stone monuments that are often collective tombs from Europe's Neolithic period are referred to as megalithic tombs",
+        "12": "Stone monuments that are often collective tombs from Europe's Neolithic period are referred to as megalithic tombs",
+        "13": "Stone monuments that are often collective tombs from Europe's Neolithic period are referred to as megalithic tombs",
+        "14": "Stone monuments from Europe's Neolithic period that are often collective tombs are referred to as megalithic tombs",
+        "15": "Megalithic tombs"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_plateau_then_fall",
+        "stability_type": "stable",
+        "best_k": 1,
+        "max_f1": 0.10526315789473684,
+        "f1_at_0": 0.0,
+        "gain_to_best": 0.10526315789473684,
+        "first_reach_best_k": 1,
+        "plateau_length": 14,
+        "post_peak_drop": 0.10526315789473684,
+        "sign_changes": 1,
+        "volatility": 0.248758259284575,
+        "trend_curve": [
+          0.0,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.09523809523809525,
+          0.09999999999999999,
+          0.09523809523809525,
+          0.09090909090909091,
+          0.09523809523809525,
+          0.09523809523809525,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.0
+        ],
+        "prefix_best_curve": [
+          0.0,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684,
+          0.10526315789473684
+        ]
+      }
+    },
+    {
+      "id": "single_nq_dev_4261",
+      "question": "when is the third magnus chase book coming out",
+      "dataset_name": "nq",
+      "best_k": 1,
+      "best_em": 1,
+      "best_f1": 1.0,
+      "scores": {
+        "0": {
+          "em": 0,
+          "f1": 0.24000000000000002
+        },
+        "1": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "2": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "3": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "4": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "5": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "6": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "7": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "8": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "9": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "10": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "11": {
+          "em": 0,
+          "f1": 0.2608695652173913
+        },
+        "12": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "13": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "14": {
+          "em": 1,
+          "f1": 1.0
+        },
+        "15": {
+          "em": 1,
+          "f1": 1.0
+        }
+      },
+      "predictions": {
+        "0": "The third book in the Magnus Chase series, titled \\\"Magnus Chase and the Gods of Asgard: The Ship of the Dead,\\\" was released on October 3, 2017",
+        "1": "October 3, 2017",
+        "2": "October 3, 2017",
+        "3": "October 3, 2017",
+        "4": "October 3, 2017",
+        "5": "October 3, 2017",
+        "6": "October 3, 2017",
+        "7": "October 3, 2017",
+        "8": "October 3, 2017",
+        "9": "October 3, 2017",
+        "10": "October 3, 2017",
+        "11": "The third book in the Magnus Chase and the Gods of Asgard series, titled \\\"The Ship of the Dead,\\\" was released on October 3, 2017",
+        "12": "October 3, 2017",
+        "13": "October 3, 2017",
+        "14": "October 3, 2017",
+        "15": "October 3, 2017"
+      },
+      "curve_analysis": {
+        "trend_type": "rise_then_plateau_then_fall",
+        "stability_type": "mildly_oscillating",
+        "best_k": 1,
+        "max_f1": 1.0,
+        "f1_at_0": 0.24000000000000002,
+        "gain_to_best": 0.76,
+        "first_reach_best_k": 1,
+        "plateau_length": 10,
+        "post_peak_drop": 0.7391304347826086,
+        "sign_changes": 2,
+        "volatility": 2.2382608695652175,
+        "trend_curve": [
+          0.24000000000000002,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.2608695652173913,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "prefix_best_curve": [
+          0.24000000000000002,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    }
+  ]
+}

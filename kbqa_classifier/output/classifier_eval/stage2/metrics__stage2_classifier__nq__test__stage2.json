@@ -1,0 +1,181 @@
+{
+  "accuracy": 0.1870967741935484,
+  "bucket_definitions": {
+    "0": {
+      "description": "original top-k label in [1, 2]",
+      "label_name": "topk_1_2",
+      "topk_range": [
+        1,
+        2
+      ]
+    },
+    "1": {
+      "description": "original top-k label in [3, 5]",
+      "label_name": "topk_3_5",
+      "topk_range": [
+        3,
+        5
+      ]
+    },
+    "2": {
+      "description": "original top-k label in [6, 9]",
+      "label_name": "topk_6_9",
+      "topk_range": [
+        6,
+        9
+      ]
+    },
+    "3": {
+      "description": "original top-k label in [10, 15]",
+      "label_name": "topk_10_15",
+      "topk_range": [
+        10,
+        15
+      ]
+    }
+  },
+  "bucket_distribution": {
+    "0": 59,
+    "1": 37,
+    "2": 26,
+    "3": 33
+  },
+  "confusion_matrix": {
+    "label_ids": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "label_names": [
+      "topk_1_2",
+      "topk_3_5",
+      "topk_6_9",
+      "topk_10_15"
+    ],
+    "matrix": [
+      [
+        12,
+        14,
+        12,
+        21
+      ],
+      [
+        8,
+        2,
+        13,
+        14
+      ],
+      [
+        5,
+        1,
+        8,
+        12
+      ],
+      [
+        9,
+        8,
+        9,
+        7
+      ]
+    ]
+  },
+  "dataset_name": "nq",
+  "dataset_name_field": null,
+  "eval_file": "/media/data/hnu2026/luoyichen/Adaptive-RAG/kbqa_classifier/data/nq/test_topk_train.json",
+  "evaluated_sample_count": 155,
+  "id_field": "id",
+  "label_mapping": {
+    "id2label": {
+      "0": "topk_1_2",
+      "1": "topk_3_5",
+      "2": "topk_6_9",
+      "3": "topk_10_15"
+    },
+    "label2id": {
+      "topk_10_15": 3,
+      "topk_1_2": 0,
+      "topk_3_5": 1,
+      "topk_6_9": 2
+    }
+  },
+  "macro_f1": 0.17969857575955855,
+  "model_name_or_path": "output/stage2",
+  "model_tag": "stage2",
+  "original_sample_count": 500,
+  "per_class": [
+    {
+      "f1": 0.2580645161290323,
+      "label_id": 0,
+      "label_name": "topk_1_2",
+      "precision": 0.35294117647058826,
+      "predicted_count": 34,
+      "recall": 0.2033898305084746,
+      "support": 59
+    },
+    {
+      "f1": 0.06451612903225806,
+      "label_id": 1,
+      "label_name": "topk_3_5",
+      "precision": 0.08,
+      "predicted_count": 25,
+      "recall": 0.05405405405405406,
+      "support": 37
+    },
+    {
+      "f1": 0.23529411764705882,
+      "label_id": 2,
+      "label_name": "topk_6_9",
+      "precision": 0.19047619047619047,
+      "predicted_count": 42,
+      "recall": 0.3076923076923077,
+      "support": 26
+    },
+    {
+      "f1": 0.16091954022988506,
+      "label_id": 3,
+      "label_name": "topk_10_15",
+      "precision": 0.12962962962962962,
+      "predicted_count": 54,
+      "recall": 0.21212121212121213,
+      "support": 33
+    }
+  ],
+  "precision_macro": 0.1882617491441021,
+  "precision_weighted": 0.21299153639950605,
+  "prediction_file": "/media/data/hnu2026/luoyichen/Adaptive-RAG/kbqa_classifier/output/classifier_eval/stage2/predictions__stage2_classifier__nq__test__stage2.jsonl",
+  "question_field": "question",
+  "raw_label_distribution": {
+    "0": 345,
+    "1": 45,
+    "10": 5,
+    "11": 11,
+    "12": 5,
+    "13": 2,
+    "14": 6,
+    "15": 4,
+    "2": 14,
+    "3": 19,
+    "4": 8,
+    "5": 10,
+    "6": 4,
+    "7": 8,
+    "8": 5,
+    "9": 9
+  },
+  "raw_label_field": "label",
+  "recall_macro": 0.19431435109401213,
+  "recall_weighted": 0.1870967741935484,
+  "sample_count": 155,
+  "skipped_sample_count": 345,
+  "split_name": "test",
+  "stage": "stage2",
+  "support": {
+    "topk_10_15": 33,
+    "topk_1_2": 59,
+    "topk_3_5": 37,
+    "topk_6_9": 26
+  },
+  "task": "classifier_eval",
+  "weighted_f1": 0.18736061362720124
+}

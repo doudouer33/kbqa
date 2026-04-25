@@ -1,0 +1,3500 @@
+
+single_nq_dev_2389
+who sings i wont let the sun go down on me
+Q: who sings i wont let the sun go down on me
+A: "The Temptations"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6357
+who said if i have seen further it is by standing on the shoulders of giants
+Q: who said if i have seen further it is by standing on the shoulders of giants
+A: "John Keats"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6218
+who played joel in the last of us
+Q: who played joel in the last of us
+A: "Joel McHale"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5033
+how many episodes are there of seven seconds
+Q: how many episodes are there of seven seconds
+A: 104
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2438
+actress who plays hillary on the young and the restless
+Q: actress who plays hillary on the young and the restless
+A: "Marla Adams"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1259
+are pure metals made of atoms or ions
+Q: are pure metals made of atoms or ions
+A: "atoms"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2452
+when was the first soviet atomic bomb tested
+Q: when was the first soviet atomic bomb tested
+A: "July 16, 1949"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_291
+what is the objective of tour de france
+Q: what is the objective of tour de france
+A: "to cycle from Paris to the Pyrenees"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1840
+where is the ask this old house barn located
+Q: where is the ask this old house barn located
+A: "in the town of Holmby Hills, Pennsylvania"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3974
+how many nit 's are there in india
+Q: how many nit 's are there in india
+A: 104
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3972
+which band recorded the successful 1973 album the dark side of the moon
+Q: which band recorded the successful 1973 album the dark side of the moon
+A: "Pink Floyd"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_928
+when does justice leavue come out on dvd
+Q: when does justice leavue come out on dvd
+A: "June 26, 2018"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_120
+which technique measures the electrical activity of brain cells directly
+Q: which technique measures the electrical activity of brain cells directly
+A: "EEG"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6235
+who is going to host next world cup
+Q: who is going to host next world cup
+A: "Qatar"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1130
+when does it 's always sunny in philadelphia season 13 start
+Q: when does it 's always sunny in philadelphia season 13 start
+A: "September 25, 2017"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5119
+who played frank in father of the bride
+Q: who played frank in father of the bride
+A: "John Lithgow"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6086
+who wrote the song you ca n 't cry pretty
+Q: who wrote the song you ca n 't cry pretty
+A: "Bob Dylan"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3555
+who sings i 'm not as good as i once was
+Q: who sings i 'm not as good as i once was
+A: "The Temptations"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_476
+who wrote the song i feel the earth move under my feet
+Q: who wrote the song i feel the earth move under my feet
+A: "Bob Dylan"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1836
+where does the vaal dam get its water from
+Q: where does the vaal dam get its water from
+A: "the Vaal River"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5838
+who discovered that the moon orbits the earth
+Q: who discovered that the moon orbits the earth
+A: "Galileo Galilei"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5910
+how many times have we been to the mon
+Q: how many times have we been to the mon
+A: "ten"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3999
+what team does vince carter play for in the nba
+Q: what team does vince carter play for in the nba
+A: "Los Angeles Clippers"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_640
+who played melissa on two and a half men
+Q: who played melissa on two and a half men
+A: "Melissa Ann McCarthy"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5553
+in what ways did hunting and gathering shape the dynamics of early human communities
+Q: in what ways did hunting and gathering shape the dynamics of early human communities
+A: "a solitary activity"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4714
+what is the name of the prison in san francisco
+Q: what is the name of the prison in san francisco
+A: "Alcatraz Island"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2922
+which is the eighth planet from the sun ( in order of increasing mean distance or semimajor axis )
+Q: which is the eighth planet from the sun ( in order of increasing mean distance or semimajor axis )
+A: "Uranus"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1907
+describe the four major demands of the russian revolutionaries before the russian revolution of 1917
+Q: describe the four major demands of the russian revolutionaries before the russian revolution of 1917
+A: "the abolition of the monarchy, the abolition of the bourgeoisie, the abolition of the bourgeoisie and the abolition of the bourgeoisie"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1866
+when did the free school lunch program start
+Q: when did the free school lunch program start
+A: "June 1, 1946"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6279
+what is the name of first arctic station set up in 2008
+Q: what is the name of first arctic station set up in 2008
+A: "Amundsen Station"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2180
+who wrote the screenplay for the greatest showman
+Q: who wrote the screenplay for the greatest showman
+A: "Stephen Schwartz"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5665
+what are the 5 liberties of the first amendment
+Q: what are the 5 liberties of the first amendment
+A: "freedom of speech"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1008
+who said it is a tale told by an idiot full of sound and fury
+Q: who said it is a tale told by an idiot full of sound and fury
+A: "William Shakespeare"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1510
+where is the current season of survivor being played
+Q: where is the current season of survivor being played
+A: "in the Amazon rainforest"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1794
+who sings the song you dropped the bomb on me
+Q: who sings the song you dropped the bomb on me
+A: "The Temptations"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3288
+what kind of mantle activity causes volcanism on hawaii
+Q: what kind of mantle activity causes volcanism on hawaii
+A: "lava flow"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_346
+how much does a trump golf membership cost
+Q: how much does a trump golf membership cost
+A: "$500,000"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2893
+when was the first international women 's day celebrated
+Q: when was the first international women 's day celebrated
+A: 1908
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6404
+who plays the yoga instructor on orange is the new black
+Q: who plays the yoga instructor on orange is the new black
+A: "Jennifer Tilly"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5847
+who was the star spangled banner written by
+Q: who was the star spangled banner written by
+A: "John Stafford Smith"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1186
+when was the city of new york founded
+Q: when was the city of new york founded
+A: 1609
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2174
+what is the mouth of truth in rome
+Q: what is the mouth of truth in rome
+A: "Statue of Marcus Aurelius"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1495
+what was the assyrians form of writing known as
+Q: what was the assyrians form of writing known as
+A: "Sumerian"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_653
+what is the purpose of the sky tower
+Q: what is the purpose of the sky tower
+A: "to provide a communications platform"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5290
+who composed the music of the german national anthem
+Q: who composed the music of the german national anthem
+A: "Ludwig van Beethoven"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1482
+where did the outsiders take place in the book
+Q: where did the outsiders take place in the book
+A: "South Texas"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4259
+why does white stuff come out of my throat
+Q: why does white stuff come out of my throat
+A: "a swollen tonsil"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2741
+which term refers to linking a currency value to the value of gold
+Q: which term refers to linking a currency value to the value of gold
+A: "Gold standard"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3094
+who wrote the song superstar by the carpenters
+Q: who wrote the song superstar by the carpenters
+A: "Paul McCartney"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4584
+where does the euphrates river begin and end
+Q: where does the euphrates river begin and end
+A: "Euphrates River"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1928
+what is a natural source of salicylic acid
+Q: what is a natural source of salicylic acid
+A: "willow bark"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4942
+when did dwayne wade won his first championship
+Q: when did dwayne wade won his first championship
+A: 2003
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2971
+who made call of duty black ops 2
+Q: who made call of duty black ops 2
+A: "Treyarch"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1100
+what was the purpose of the maxwell land grant
+Q: what was the purpose of the maxwell land grant
+A: "to provide land for the Maxwell's"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4192
+who wrote the score for pirates of the caribbean
+Q: who wrote the score for pirates of the caribbean
+A: "John Williams"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5841
+who is the girl who plays eleven in stranger things
+Q: who is the girl who plays eleven in stranger things
+A: "Millie Bobby Brown"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4755
+who plays the girl in the longest ride
+Q: who plays the girl in the longest ride
+A: "Jennifer Jason Leigh"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3518
+who plays brody on one life to live
+Q: who plays brody on one life to live
+A: "Jason Priestley"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_935
+who played the scarecrow in the batman movie
+Q: who played the scarecrow in the batman movie
+A: "John Wesley Shipp"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4873
+who was the u.s. military officer that was at the head of the iranian arms deals
+Q: who was the u.s. military officer that was at the head of the iranian arms deals
+A: "General David Petraeus"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3214
+who plays the principle in f the prom
+Q: who plays the principle in f the prom
+A: "John Heard"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4709
+the element which is the most abundant in the human body is
+Q: the element which is the most abundant in the human body is
+A: "oxygen"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6032
+what episode of adventure time is lemongrab in
+Q: what episode of adventure time is lemongrab in
+A: "The Lemongrab"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4712
+what part did gal gadot play in fast and furious
+Q: what part did gal gadot play in fast and furious
+A: "Han"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3291
+who recorded ai n 't no mountain high enough
+Q: who recorded ai n 't no mountain high enough
+A: "The Everly Brothers"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2707
+what year did russia sell alaska to the united states
+Q: what year did russia sell alaska to the united states
+A: 1867
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6294
+first nobel gas in solar eclipse in india
+Q: first nobel gas in solar eclipse in india
+A: "helium"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4978
+how many stone blocks in the great pyramid of giza
+Q: how many stone blocks in the great pyramid of giza
+A: "2.3 million"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2608
+when is the last time the astros won a world series
+Q: when is the last time the astros won a world series
+A: 2017
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3572
+when did the hawks win the nba championship
+Q: when did the hawks win the nba championship
+A: 1995
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4663
+who printed the first complete edition of the bible
+Q: who printed the first complete edition of the bible
+A: "Johannes Gutenberg"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3491
+who plays the trans in orange is the new black
+Q: who plays the trans in orange is the new black
+A: "Jennifer Jason Leigh"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4332
+what is the name of the first sims 2 expansion pack
+Q: what is the name of the first sims 2 expansion pack
+A: "The Sims 2: Seasons"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1708
+who produces the most tires in the world
+Q: who produces the most tires in the world
+A: "Michelin"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_706
+when does the movie night school come out
+Q: when does the movie night school come out
+A: "September 28, 2017"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6291
+formation of the ina was the result of the great efforts made by
+Q: formation of the ina was the result of the great efforts made by
+A: "William Howard Taft"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4807
+who does the voice of fender in robots
+Q: who does the voice of fender in robots
+A: "John Dezso Ratzenberger"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1751
+how many seasons of gossip girl are there
+Q: how many seasons of gossip girl are there
+A: "six"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5699
+what is the most posterior structure of the atlas c1 vertebra
+Q: what is the most posterior structure of the atlas c1 vertebra
+A: "articular process"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5471
+who was president when we walked on the moon
+Q: who was president when we walked on the moon
+A: "Neil Armstrong"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5864
+what is meredith 's specialty in grey 's an
+Q: what is meredith 's specialty in grey 's an
+A: "obstetrics"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2929
+when a blood vessel is injured the first phase in hemostasis to occur is
+Q: when a blood vessel is injured the first phase in hemostasis to occur is
+A: "thrombophlebitis"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_730
+demonetisation of high denomination bank notes was in
+Q: demonetisation of high denomination bank notes was in
+A: "November 2016"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4203
+who played bree van de kamp in desperate housewives
+Q: who played bree van de kamp in desperate housewives
+A: "Ashley Tisdale"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5283
+who wrote it is well with my soul hymn
+Q: who wrote it is well with my soul hymn
+A: "John Newton"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3104
+who plays the voice of mavis in hotel transylvania
+Q: who plays the voice of mavis in hotel transylvania
+A: "Kristen Wiig"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2980
+during which time period did the third party system take place in american politics answers.com
+Q: during which time period did the third party system take place in american politics answers.com
+A: "1837 to 1848"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5145
+athens georgia was the home of this college rock band
+Q: athens georgia was the home of this college rock band
+A: "The Screaming Trees"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3181
+when did the original it movie take place
+Q: when did the original it movie take place
+A: 1990
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1970
+who is the constitutional presiding officer of the senate
+Q: who is the constitutional presiding officer of the senate
+A: "The President of the Senate"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3712
+who is the guitar player for fleetwood mac
+Q: who is the guitar player for fleetwood mac
+A: "Stevie Nicks"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_862
+who was the primary scientist that led the manhattan project
+Q: who was the primary scientist that led the manhattan project
+A: "John D. Rockefeller"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4031
+who were the perfect matches are you the one season 6
+Q: who were the perfect matches are you the one season 6
+A: "Alex and Alexa"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_643
+the credit ratings provided by standard & poor 's moody 's and fitch are intended to indicate
+Q: the credit ratings provided by standard & poor 's moody 's and fitch are intended to indicate
+A: "the creditworthiness of a company"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2107
+where does the m6 toll road start and finish
+Q: where does the m6 toll road start and finish
+A: "M6 motorway"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_859
+where are the headquarters of wizards of the coast
+Q: where are the headquarters of wizards of the coast
+A: "Las Vegas, Nevada"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5397
+what minute did mario gotze score in the world cup final
+Q: what minute did mario gotze score in the world cup final
+A: "89th minute"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4516
+land locked country in african great lakes region
+Q: land locked country in african great lakes region
+A: "Burundi"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3714
+where do i get a norwegian forest cat
+Q: where do i get a norwegian forest cat
+A: "Norwegian Forest Cat Association"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2847
+who wins hell 's kitchen all stars spoiler
+Q: who wins hell 's kitchen all stars spoiler
+A: "Alex Guarnaschelli"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1134
+which mountains would you cross to travel from northern italy to switzerland
+Q: which mountains would you cross to travel from northern italy to switzerland
+A: "The Alps"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1002
+when was celibacy introduced in the catholic church
+Q: when was celibacy introduced in the catholic church
+A: "In the early Middle Ages"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6428
+when did sendong enter the philippine area of responsibility
+Q: when did sendong enter the philippine area of responsibility
+A: 1945
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1129
+who 's the mayor of south bend indiana
+Q: who 's the mayor of south bend indiana
+A: "J. B. Pritchard"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6248
+the auditory canal is formed out of which bone of the skull
+Q: the auditory canal is formed out of which bone of the skull
+A: "tympanic membrane"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5002
+when is father 's day celebrated in the philippines
+Q: when is father 's day celebrated in the philippines
+A: "June 17"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6114
+what is the longest canal tunnel in uk
+Q: what is the longest canal tunnel in uk
+A: "The Leeds\u2013Bradford Canal Tunnel"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1384
+who plays as beast in beauty and the beast
+Q: who plays as beast in beauty and the beast
+A: "Dan Stevens"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5037
+who has the biggest contract in the nba
+Q: who has the biggest contract in the nba
+A: "Stephen Curry"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1085
+what are the type of genes that prevent other genes from showing their phenotype
+Q: what are the type of genes that prevent other genes from showing their phenotype
+A: "repressor genes"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5334
+who is the owner of audit working papers
+Q: who is the owner of audit working papers
+A: "the auditor"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4133
+who are the characters in rowan of rin
+Q: who are the characters in rowan of rin
+A: "Rowan"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_126
+the sum of the kinetic and potential energies of all particles in the system is called the
+Q: the sum of the kinetic and potential energies of all particles in the system is called the
+A: "total energy"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3230
+who plays gilbert blythe in anne of green gables
+Q: who plays gilbert blythe in anne of green gables
+A: "John Lithgow"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4651
+who plays the dad in the quiet place
+Q: who plays the dad in the quiet place
+A: "John Heard"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4912
+when do primary schools break up for easter
+Q: when do primary schools break up for easter
+A: "Good Friday"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2463
+how many seconds do you have to throw a grenade
+Q: how many seconds do you have to throw a grenade
+A: "a few seconds"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3743
+when does the new season of handmaids tale come out
+Q: when does the new season of handmaids tale come out
+A: "April 26, 2018"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6243
+groups of customers within a large market who share common characteristics
+Q: groups of customers within a large market who share common characteristics
+A: "target market"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_388
+where did the southern song have their capital
+Q: where did the southern song have their capital
+A: "Seoul"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1378
+who wrote the song fairytale of new york
+Q: who wrote the song fairytale of new york
+A: "John Lennon"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5630
+what is the meaning of ac dc current
+Q: what is the meaning of ac dc current
+A: "alternating current"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5382
+the secretary of state for foreign and commonwealth affairs of the united kingdom
+Q: the secretary of state for foreign and commonwealth affairs of the united kingdom
+A: "Philip Hammond"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2150
+who wrote the song bang bang you shot me down
+Q: who wrote the song bang bang you shot me down
+A: "Bob Dylan"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5264
+what does it mean when your drooling a lot
+Q: what does it mean when your drooling a lot
+A: "a condition in which the saliva is excessive"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1118
+who is prince charming in once upon a time
+Q: who is prince charming in once upon a time
+A: "Rumplestiltskin"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6016
+what is apollo the god of in roman mythology
+Q: what is apollo the god of in roman mythology
+A: "the Sun"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3526
+who holds the record for most jeopardy wins
+Q: who holds the record for most jeopardy wins
+A: "Brad Rutter"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3318
+where are the ping pong shows in phuket
+Q: where are the ping pong shows in phuket
+A: "The Grand Palace"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5769
+what position did deion sanders play in baseball
+Q: what position did deion sanders play in baseball
+A: "Second baseman"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1872
+who had the best record in mlb 2016
+Q: who had the best record in mlb 2016
+A: "Chicago Cubs"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3359
+who signed the order to build the transcontinental railroad
+Q: who signed the order to build the transcontinental railroad
+A: "President Lincoln"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6295
+when was the concept of gross domestic product ( gdp ) born
+Q: when was the concept of gross domestic product ( gdp ) born
+A: 1890
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1959
+where is castle on the hill based on
+Q: where is castle on the hill based on
+A: "Castle Hill"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5332
+when did the ipod touch 3 come out
+Q: when did the ipod touch 3 come out
+A: "September 29, 2007"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2628
+which artist is representative of the detroit blues style
+Q: which artist is representative of the detroit blues style
+A: "Robert Johnson"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4386
+who is the beluga whale in finding dory
+Q: who is the beluga whale in finding dory
+A: "Dory"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5389
+araiso private high school student council executive committee manga
+Q: araiso private high school student council executive committee manga
+A: "Araiso Private High School Student Council Executive Committee"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5138
+who composed the music for beauty and the beast
+Q: who composed the music for beauty and the beast
+A: "Alan Menken"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1303
+what type of writing is most similar to an autobiography a. poetry b. short story c. novel d. memoir
+Q: what type of writing is most similar to an autobiography a. poetry b. short story c. novel d. memoir
+A: "d."
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3989
+when did the first apple phone come out
+Q: when did the first apple phone come out
+A: "June 29, 2007"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3384
+where was the titanic headed before it sank
+Q: where was the titanic headed before it sank
+A: "Southampton"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_210
+when did the albany plan of union take place
+Q: when did the albany plan of union take place
+A: "January 1, 1787"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6296
+who sings sometimes i get a good feeling
+Q: who sings sometimes i get a good feeling
+A: "The Commodores"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4035
+who wrote if you love someone set them free
+Q: who wrote if you love someone set them free
+A: "John Lennon"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2573
+what cities are close to sugar land texas
+Q: what cities are close to sugar land texas
+A: "Sugar Land, Texas"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1935
+how much did it cost to make 12 strong
+Q: how much did it cost to make 12 strong
+A: "$90 million"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2050
+who was rhett butler in gone with the wind
+Q: who was rhett butler in gone with the wind
+A: "Rhett Butler"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1096
+what part of the chicken is general tso chicken
+Q: what part of the chicken is general tso chicken
+A: "drumstick"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5636
+who did dwayne wade play for last year
+Q: who did dwayne wade play for last year
+A: "Miami Heat"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5598
+who 's the only team that beat the eagles
+Q: who 's the only team that beat the eagles
+A: "New York Jets"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1427
+when did the phillies win the world series
+Q: when did the phillies win the world series
+A: 1995
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3699
+what is the capital of the nation that is completely surrounded by south africa
+Q: what is the capital of the nation that is completely surrounded by south africa
+A: "Durban"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2089
+phenothiazines such as chlorpromazine were the first type of
+Q: phenothiazines such as chlorpromazine were the first type of
+A: "antipsychotic"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3517
+who wrote have i told you that i love you
+Q: who wrote have i told you that i love you
+A: "George Michael"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1066
+when did the euro became the european currency
+Q: when did the euro became the european currency
+A: "1 January 1999"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_74
+when was the first time the word catholic was used
+Q: when was the first time the word catholic was used
+A: "in the late 14th century"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3728
+who fought in the sri lankan civil war
+Q: who fought in the sri lankan civil war
+A: "Tamil Tigers"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3643
+who has the most national championships college football
+Q: who has the most national championships college football
+A: "Alabama"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5375
+what type of literature from what period of history constitutes our earliest source of greek myths
+Q: what type of literature from what period of history constitutes our earliest source of greek myths
+A: "Homeric"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_634
+who sang you got a friend in me from toy story
+Q: who sang you got a friend in me from toy story
+A: "Andy Warhol"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1633
+when was the first laptop invented and by whom
+Q: when was the first laptop invented and by whom
+A: "Paul Allen"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6182
+how old do you have to be for a tatoo
+Q: how old do you have to be for a tatoo
+A: 18
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_35
+who wins the 2017 australian open men 's single title
+Q: who wins the 2017 australian open men 's single title
+A: "Rafael Nadal"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1666
+who sings make you feel my love in hope floats
+Q: who sings make you feel my love in hope floats
+A: "Bob Dylan"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2061
+when does the last star wars come out
+Q: when does the last star wars come out
+A: 2019
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1429
+who wrote the poem mary had a little lamb
+Q: who wrote the poem mary had a little lamb
+A: "John Bunch"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_47
+p diddy nicki minaj hello good morning lyrics
+Q: p diddy nicki minaj hello good morning lyrics
+A: "Hello Good Morning"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4465
+who sang lean on me in the 90s
+Q: who sang lean on me in the 90s
+A: "The Temptations"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2437
+who sang the song he stopped loving her today
+Q: who sang the song he stopped loving her today
+A: "The Temptations"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2527
+who was you make loving fun written about
+Q: who was you make loving fun written about
+A: "Freddie Mercury"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2709
+during which event of hemostasis do clotting factors
+Q: during which event of hemostasis do clotting factors
+A: "coagulation"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4587
+when did guardians of the galaxy vol 2 come out
+Q: when did guardians of the galaxy vol 2 come out
+A: "May 5, 2017"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_318
+when was the clear and present danger test replaced
+Q: when was the clear and present danger test replaced
+A: "December 1, 2005"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6163
+what is the style of st paul 's cathedral in london
+Q: what is the style of st paul 's cathedral in london
+A: "Gothic"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3368
+where was the first cricket match played in india
+Q: where was the first cricket match played in india
+A: "Kolkata"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3967
+who has final authority over the federal budget
+Q: who has final authority over the federal budget
+A: "The President"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_88
+who is the only kaurava who survived the kurukshetra war
+Q: who is the only kaurava who survived the kurukshetra war
+A: "Kuru"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6231
+when is opening day of major league baseball
+Q: when is opening day of major league baseball
+A: "March 29, 2018"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2497
+how many stars are on the chicago flag
+Q: how many stars are on the chicago flag
+A: "three"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1718
+who sang the original lights went out in georgia
+Q: who sang the original lights went out in georgia
+A: "The Temptations"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3387
+who was president when the civil war started
+Q: who was president when the civil war started
+A: "Abraham Lincoln"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5830
+when is game of thrones season 7 episode 7 releasing
+Q: when is game of thrones season 7 episode 7 releasing
+A: "April 16, 2017"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5130
+what two bodies of water does the isthmus of panama separate
+Q: what two bodies of water does the isthmus of panama separate
+A: "Panama Canal Zone"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6393
+when did guardians of the galaxy comic book come out
+Q: when did guardians of the galaxy comic book come out
+A: "June 1969"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2007
+when did season 12 of grey 's anatomy start
+Q: when did season 12 of grey 's anatomy start
+A: "April 1, 2017"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5707
+who did ben affleck play in dazed and confused
+Q: who did ben affleck play in dazed and confused
+A: "Ben"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_732
+what is the latest version of apple mail
+Q: what is the latest version of apple mail
+A: "iCloud Mail"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5034
+who played the roll of elizabeth swann in pirates of the caribbean
+Q: who played the roll of elizabeth swann in pirates of the caribbean
+A: "Elizabeth Taylor"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5679
+who wrote the score for blade runner 2049
+Q: who wrote the score for blade runner 2049
+A: "John Williams"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4340
+who plays tom builder in pillars of the earth
+Q: who plays tom builder in pillars of the earth
+A: "David Morrissey"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4834
+who sang the country version of black velvet
+Q: who sang the country version of black velvet
+A: "Loretta Lynn"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5572
+who plays belle in the original beauty and the beast
+Q: who plays belle in the original beauty and the beast
+A: "Paige O'Hara"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2749
+who starred in the 1988 christmas movie scrooged
+Q: who starred in the 1988 christmas movie scrooged
+A: "Bill Murray"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1445
+what season of greys anatomy was the plane crash
+Q: what season of greys anatomy was the plane crash
+A: "season eight"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1434
+who did doc hudson 's voice in cars
+Q: who did doc hudson 's voice in cars
+A: "John Travolta"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_842
+what mountain range has the highest mountains in all of europe
+Q: what mountain range has the highest mountains in all of europe
+A: "The Alps"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4579
+when is season 4 of blackish coming out
+Q: when is season 4 of blackish coming out
+A: "October 1, 2017"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6372
+where did the expression let them eat cake come from
+Q: where did the expression let them eat cake come from
+A: "\"Let them eat cake\" is a phrase from the play \"Let's Face the Music and Dance\" by George Gershwin."
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1282
+where does 10 things i hate about you take place
+Q: where does 10 things i hate about you take place
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3850
+which arc is a line of volcanoes on an oceanic plate
+Q: which arc is a line of volcanoes on an oceanic plate
+A: "The Hawaiian arc"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5673
+who did alshon jeffery play for before the eagles
+Q: who did alshon jeffery play for before the eagles
+A: "Philadelphia Eagles"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5384
+who plays stuart bloom on big bang theory
+Q: who plays stuart bloom on big bang theory
+A: "Kaley Cuoco"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3917
+who plays larrys wife on curb your enthusiasm
+Q: who plays larrys wife on curb your enthusiasm
+A: "Jennifer Marie Morrison"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3827
+where was sex and the city 2 filmed
+Q: where was sex and the city 2 filmed
+A: "Vancouver, British Columbia"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4526
+where did the third servile war take place
+Q: where did the third servile war take place
+A: "China"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2839
+who coined the phrase manifest destiny and what does it mean
+Q: who coined the phrase manifest destiny and what does it mean
+A: "Thomas Paine"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4224
+who won the big boss telugu season 2
+Q: who won the big boss telugu season 2
+A: "Ajay"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_658
+what kind of beans are in an english breakfast
+Q: what kind of beans are in an english breakfast
+A: "Black"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6418
+when was germany allowed into the league of nations
+Q: when was germany allowed into the league of nations
+A: 1926
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3558
+who plays kitty softpaws in puss in boots
+Q: who plays kitty softpaws in puss in boots
+A: "Yvonne De Carlo"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5438
+when was do n 't change by inxs released
+Q: when was do n 't change by inxs released
+A: "August 21, 1983"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4945
+when was the last juvenile executed in the us
+Q: when was the last juvenile executed in the us
+A: "June 18, 2007"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5284
+who does ann from parks and rec marry
+Q: who does ann from parks and rec marry
+A: "Tom"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2176
+the most abundant mineral group in earth 's crust is
+Q: the most abundant mineral group in earth 's crust is
+A: "silicates"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5065
+when does season 2 of legion come out
+Q: when does season 2 of legion come out
+A: 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2247
+who has the most home runs in the home run derby
+Q: who has the most home runs in the home run derby
+A: "Barry Bonds"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5509
+when is the world population expected to reach 8 billion
+Q: when is the world population expected to reach 8 billion
+A: 2050
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_446
+who sings the theme song for the vikings
+Q: who sings the theme song for the vikings
+A: "Freddie Mercury"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4297
+who are cain and abel in the bible
+Q: who are cain and abel in the bible
+A: "Abel"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4574
+who is the founder of ramoji film city
+Q: who is the founder of ramoji film city
+A: "Ramoji Rao"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5900
+who wrote i want it all by queen
+Q: who wrote i want it all by queen
+A: "Brian May"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1647
+when did south africa declare war on germany
+Q: when did south africa declare war on germany
+A: "7 May 1939"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1428
+when did daylight saving first start in australia
+Q: when did daylight saving first start in australia
+A: 1918
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6392
+who did the navajo code talkers work for
+Q: who did the navajo code talkers work for
+A: "United States Navy"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4058
+the habanera and the toreador song are two famous arias from which opera
+Q: the habanera and the toreador song are two famous arias from which opera
+A: "Carmen"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3188
+ship that sank off cape bowling green in 1911
+Q: ship that sank off cape bowling green in 1911
+A: "RMS Queen Mary"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1825
+when was the first guardians of the galaxy movie made
+Q: when was the first guardians of the galaxy movie made
+A: 2014
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_868
+who wrote what the hell did i say
+Q: who wrote what the hell did i say
+A: "John Lennon"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1400
+who is fifa and how many member countries do they have
+Q: who is fifa and how many member countries do they have
+A: "Federation Internationale de Football Association"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3845
+what does it mean if the wronskian is zero
+Q: what does it mean if the wronskian is zero
+A: "no scalar product"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5256
+where was disney 's beauty and the beast filmed
+Q: where was disney 's beauty and the beast filmed
+A: "Vancouver, British Columbia"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4476
+when did alexander graham bell invented the photophone
+Q: when did alexander graham bell invented the photophone
+A: 1876
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3538
+where is the world cup being held this year
+Q: where is the world cup being held this year
+A: "Russia"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_797
+who was the school shooter in sandy hook
+Q: who was the school shooter in sandy hook
+A: "Adam Lanza"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_348
+what are the two most successful teams in spains soccer clubs
+Q: what are the two most successful teams in spains soccer clubs
+A: "Real Madrid"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6312
+how can we classified the geographical location of liberia
+Q: how can we classified the geographical location of liberia
+A: "West Africa"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1862
+what is the role of a makeup artist
+Q: what is the role of a makeup artist
+A: "makeup artist"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1447
+what is the corn palace in mitchell south dakota
+Q: what is the corn palace in mitchell south dakota
+A: "a historic hotel"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_59
+who played mason on wizards of waverly place
+Q: who played mason on wizards of waverly place
+A: "Jason Earles"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1148
+who won the first academy award for best picture
+Q: who won the first academy award for best picture
+A: "The Treasure of the Sierra Madre"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4758
+what is the term for a chemical bond characterized by sharing three pairs of electrons
+Q: what is the term for a chemical bond characterized by sharing three pairs of electrons
+A: "triple bonds"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3242
+who wrote the book tale of two cities
+Q: who wrote the book tale of two cities
+A: "Charles Dickens"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3814
+who won best of the super juniors 2017
+Q: who won best of the super juniors 2017
+A: "Lee Sung-kyung"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6185
+who sang ava gardner 's part in showboat
+Q: who sang ava gardner 's part in showboat
+A: "Jennifer Jason Leigh"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1141
+who must approve the budget created by washington dc city council
+Q: who must approve the budget created by washington dc city council
+A: "Mayor"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_80
+who controlled blue cross when it was formed
+Q: who controlled blue cross when it was formed
+A: "the United States government"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4972
+who has played with the most mlb teams
+Q: who has played with the most mlb teams
+A: "Hank Aaron"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2783
+who is the most payed player in the nba
+Q: who is the most payed player in the nba
+A: "Stephen Curry"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1005
+how many teams are in the mlb national league
+Q: how many teams are in the mlb national league
+A: 16
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5019
+what do the colored rings on canon lenses mean
+Q: what do the colored rings on canon lenses mean
+A: "focusing ring"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3296
+where was the virtually unprotected area where german armies avoided the maginot line
+Q: where was the virtually unprotected area where german armies avoided the maginot line
+A: "the Ardennes"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5644
+how many movies of ip man are there
+Q: how many movies of ip man are there
+A: "three"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4607
+the body of the fungi that consists of a network of microscopic filaments is called the
+Q: the body of the fungi that consists of a network of microscopic filaments is called the
+A: "hyphae"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6360
+who has more power in turkey president or prime minister
+Q: who has more power in turkey president or prime minister
+A: "President of Turkey"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6193
+who advocated for supervising probationers and revoking probation if the accused returned to crime
+Q: who advocated for supervising probationers and revoking probation if the accused returned to crime
+A: "John Paul Stevens"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2476
+where did they film places in the heart
+Q: where did they film places in the heart
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2754
+what is mary warrens role in the crucible
+Q: what is mary warrens role in the crucible
+A: "a conspirator"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3482
+when did sacramento became the capital of california
+Q: when did sacramento became the capital of california
+A: 1850
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2514
+where did the saying man best friend come from
+Q: where did the saying man best friend come from
+A: "the 19th century"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2653
+who are the kane county cougars affiliated with
+Q: who are the kane county cougars affiliated with
+A: "Chicago Cubs"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2585
+when did the treaty of guadalupe hidalgo happen
+Q: when did the treaty of guadalupe hidalgo happen
+A: 1848
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3052
+who played harmonica on the wizard black sabbath
+Q: who played harmonica on the wizard black sabbath
+A: "Dave Mustaine"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3007
+when is the last time the astros been to the world series
+Q: when is the last time the astros been to the world series
+A: 2017
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5490
+who plays eli roosevelt in sons of anarchy
+Q: who plays eli roosevelt in sons of anarchy
+A: "David Morrissey"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1961
+who was the song think of laura written about
+Q: who was the song think of laura written about
+A: "Laura Bush"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1439
+what is the river that runs through nashville tn
+Q: what is the river that runs through nashville tn
+A: "Cumberland River"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_894
+who is the guy who voiced disney channel
+Q: who is the guy who voiced disney channel
+A: "John Dezso Ratzenberger"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3267
+when was the first atm installed in uk
+Q: when was the first atm installed in uk
+A: 1939
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_208
+who did sweeney todd meet on the ship back to london
+Q: who did sweeney todd meet on the ship back to london
+A: "Mrs. Todd"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1942
+where do dark elves live in norse mythology
+Q: where do dark elves live in norse mythology
+A: "in the underworld"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4946
+the ideology known as the open fields doctrine was first enunciated in the case of
+Q: the ideology known as the open fields doctrine was first enunciated in the case of
+A: "John Brown v. Board of Education"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1230
+where do cardiac impulses originate in the heart
+Q: where do cardiac impulses originate in the heart
+A: "the atria"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1383
+who led the great sioux uprising in 1862
+Q: who led the great sioux uprising in 1862
+A: "Crazy Horse"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2429
+when did the 5th circuit became the 11th circuit
+Q: when did the 5th circuit became the 11th circuit
+A: "October 1, 1971"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2288
+who sang bring it on home to me first
+Q: who sang bring it on home to me first
+A: "The Temptations"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1766
+when was the first captain america comic released
+Q: when was the first captain america comic released
+A: "June 1941"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1498
+where was ' top of the lake ' filmed
+Q: where was ' top of the lake ' filmed
+A: "Lake Geneva"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1865
+what year did the first ipod touch come out
+Q: what year did the first ipod touch come out
+A: "September 29, 2007"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_352
+who dies in season 2 of orange is the new black
+Q: who dies in season 2 of orange is the new black
+A: "a prisoner"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3926
+who plays tina 's voice in bob 's burgers
+Q: who plays tina 's voice in bob 's burgers
+A: "Jennifer Tilly"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_806
+where does the story of aladdin take place
+Q: where does the story of aladdin take place
+A: "Sultanate of Persia"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5390
+when did the states ratify the articles of confederation
+Q: when did the states ratify the articles of confederation
+A: "December 15, 1787"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6484
+th part of medicare that is the hospital insurance portion is
+Q: th part of medicare that is the hospital insurance portion is
+A: "Part A"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2531
+who was the voice of erica in hotel transylvania 3
+Q: who was the voice of erica in hotel transylvania 3
+A: "Kristen Wiig"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1875
+what language is eric speaking in true blood
+Q: what language is eric speaking in true blood
+A: "English"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5175
+who was the maid on the brady bunch
+Q: who was the maid on the brady bunch
+A: "Phyllis Diller"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2879
+where did the hemlock wooly adelgid come from
+Q: where did the hemlock wooly adelgid come from
+A: "China"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6147
+who provides the voice of the title character in the boss baby
+Q: who provides the voice of the title character in the boss baby
+A: "Jeremy Sumpter"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2182
+when does the dispicable me 3 come out
+Q: when does the dispicable me 3 come out
+A: "June 15, 2017"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1228
+who has won the us open golf 2018 title in new york
+Q: who has won the us open golf 2018 title in new york
+A: "Brooks Koepka"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5981
+who did julie marry on one day at a time
+Q: who did julie marry on one day at a time
+A: "Jack"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_339
+how many times france take the world cup
+Q: how many times france take the world cup
+A: "three"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2365
+who was crucified on an x shaped cross
+Q: who was crucified on an x shaped cross
+A: "Jesus of Nazareth"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3180
+what states honor washington state concealed weapons permit
+Q: what states honor washington state concealed weapons permit
+A: "New York"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_507
+who played duke in secret life of pets
+Q: who played duke in secret life of pets
+A: "Kevin Hart"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4537
+when did the challenger space shuttle blow up
+Q: when did the challenger space shuttle blow up
+A: 1986
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2037
+where are proteins digested in the digestive system
+Q: where are proteins digested in the digestive system
+A: "the small intestine"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4908
+who won today in the fifa world cup 2018
+Q: who won today in the fifa world cup 2018
+A: "Germany"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2864
+who is the captain of new zealand cricket team 2015
+Q: who is the captain of new zealand cricket team 2015
+A: "Tim Southee"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_238
+who was the winner of dancing with the stars season 21
+Q: who was the winner of dancing with the stars season 21
+A: "Jennifer Lopez"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5171
+who sings how far i 'll go from moana
+Q: who sings how far i 'll go from moana
+A: "Auli'i Cravalho"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4010
+michael douglas morgan freeman robert de niro movie
+Q: michael douglas morgan freeman robert de niro movie
+A: "The Departed"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4969
+who wrote tim mcgraw song humble and kind
+Q: who wrote tim mcgraw song humble and kind
+A: "Tim McGraw"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4114
+when was the last episode of er aired
+Q: when was the last episode of er aired
+A: "May 18, 2017"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4132
+how many episodes are there in season 2 of the crown
+Q: how many episodes are there in season 2 of the crown
+A: 10
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5455
+who painted the picture of dogs playing poker
+Q: who painted the picture of dogs playing poker
+A: "William Merritt Chase"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1090
+what is the distance of a point from y axis called
+Q: what is the distance of a point from y axis called
+A: "y-axis"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_993
+when is puss in boots season 6 coming out
+Q: when is puss in boots season 6 coming out
+A: "September 28, 2017"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_569
+when did mozart compose his first piece of music
+Q: when did mozart compose his first piece of music
+A: 1787
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3260
+who helped resolve the dispute between virginia and maryland
+Q: who helped resolve the dispute between virginia and maryland
+A: "Thomas Jefferson"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4180
+when did the us navy became the biggest
+Q: when did the us navy became the biggest
+A: 1898
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4719
+where was the setting for friday the 13th
+Q: where was the setting for friday the 13th
+A: "a fictitious boarding school"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2909
+what are three places that mainland greece imported ( brought in ) goods from
+Q: what are three places that mainland greece imported ( brought in ) goods from
+A: "Asia Minor"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2568
+who 's won the most national championships in college football
+Q: who 's won the most national championships in college football
+A: "Alabama"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3534
+who played the devil in storm of the century
+Q: who played the devil in storm of the century
+A: "John Carradine"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4500
+who was the scarecrow in wizard of oz
+Q: who was the scarecrow in wizard of oz
+A: "Dorothy Gale"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1783
+who plays hanna on the haves and the have nots
+Q: who plays hanna on the haves and the have nots
+A: "Jennifer Marie Morrison"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2675
+who sang with carly simon on you 're so vain
+Q: who sang with carly simon on you 're so vain
+A: "David Bowie"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2825
+who played lead guitar for the rolling stones
+Q: who played lead guitar for the rolling stones
+A: "Mick Jagger"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_76
+when did ipad pro 2nd generation come out
+Q: when did ipad pro 2nd generation come out
+A: "October 16, 2017"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1041
+north korea is bordered by what three bodies of water
+Q: north korea is bordered by what three bodies of water
+A: "the Yellow Sea, the Yellow Sea, and the East China Sea"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4824
+why group 2 elements called alkaline earth metals
+Q: why group 2 elements called alkaline earth metals
+A: "alkali metals are the most reactive of the group"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3119
+who hosts the friday sports panel on radio 5 live
+Q: who hosts the friday sports panel on radio 5 live
+A: "Chris Packham"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2735
+who do you play as in resident evil 7
+Q: who do you play as in resident evil 7
+A: "Leon S. Kennedy"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_871
+who is the president of international cricket council
+Q: who is the president of international cricket council
+A: "Sachin Tendulkar"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2137
+who wrote the game of thrones theme music
+Q: who wrote the game of thrones theme music
+A: "John Williams"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5214
+million dollar winner who wants to be a millionaire
+Q: million dollar winner who wants to be a millionaire
+A: "John Carpenter"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3751
+pontiac trans am in smokey and the bandit
+Q: pontiac trans am in smokey and the bandit
+A: "Smokey and the Bandit"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_602
+what did they use to build the great wall of china
+Q: what did they use to build the great wall of china
+A: "Stone"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5434
+what is a planets backward motion in the sky called
+Q: what is a planets backward motion in the sky called
+A: "retrograde motion"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4325
+the type of shop outlawed by the taft-hartley act was the -- -- -- -- shop
+Q: the type of shop outlawed by the taft-hartley act was the -- -- -- -- shop
+A: "pawnshop"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4511
+what is the head of a jail called
+Q: what is the head of a jail called
+A: "superintendent"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1347
+who played in the original yours mine and ours
+Q: who played in the original yours mine and ours
+A: "John Le Mesurier"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1668
+who is the girl dancing in sia videos
+Q: who is the girl dancing in sia videos
+A: "Taylor Swift"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1450
+when does season 2 of the gates come out
+Q: when does season 2 of the gates come out
+A: 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3016
+who plays erica on the last man on earth
+Q: who plays erica on the last man on earth
+A: "Jennifer Marie Morrison"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4195
+who is credited with discovering the effect of genetics on plant characteristics
+Q: who is credited with discovering the effect of genetics on plant characteristics
+A: "Carl Linnaeus"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6469
+who inspired the title of a raisin in the sun
+Q: who inspired the title of a raisin in the sun
+A: "Amos Fortune"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1188
+when did thirteen reasons why season 1 come out
+Q: when did thirteen reasons why season 1 come out
+A: "April 13, 2017"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3215
+who plays gandolf in the lord of the rings
+Q: who plays gandolf in the lord of the rings
+A: "Ian McDiarmid"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6073
+who owns the sands casino in bethlehem pa
+Q: who owns the sands casino in bethlehem pa
+A: "Sands China Limited"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4766
+who was selected as the sports illustrated best female athlete of the twentieth century
+Q: who was selected as the sports illustrated best female athlete of the twentieth century
+A: "Jackie Joyner-Kersee"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3622
+who sang you did n 't have to love me like you did
+Q: who sang you did n 't have to love me like you did
+A: "The Temptations"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3140
+india become member of un in the year
+Q: india become member of un in the year
+A: 1945
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1425
+what is the genre of holes by louis sachar
+Q: what is the genre of holes by louis sachar
+A: "non-fiction"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3105
+who warned the colonists that the british were coming
+Q: who warned the colonists that the british were coming
+A: "Samuel Adams"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1936
+when did dirty jobs go off the air
+Q: when did dirty jobs go off the air
+A: "September 30, 2017"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1068
+when was the first world happiness report released
+Q: when was the first world happiness report released
+A: 2006
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4660
+when did australia change from the imperial to the metric system of measurement
+Q: when did australia change from the imperial to the metric system of measurement
+A: 1966
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3955
+who wrote the song yes we have no bananas
+Q: who wrote the song yes we have no bananas
+A: "John Lennon"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3018
+who wrote i know a heartache when i see one
+Q: who wrote i know a heartache when i see one
+A: "John Lennon"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1555
+why is there a different girl in now you see me 2
+Q: why is there a different girl in now you see me 2
+A: "to be a part of the film"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4803
+in which year was the maratha confederacy defeated by british
+Q: in which year was the maratha confederacy defeated by british
+A: 1818
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6425
+where does the reed go on a clarinet
+Q: where does the reed go on a clarinet
+A: "mouthpiece"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4643
+who wrote the hymn when peace like a river
+Q: who wrote the hymn when peace like a river
+A: "John Newton"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4190
+stone monuments often collective tombs from europe 's neolithic period are often referred to as
+Q: stone monuments often collective tombs from europe 's neolithic period are often referred to as
+A: "Stonehenge"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1645
+who wrote the music to somewhere in time
+Q: who wrote the music to somewhere in time
+A: "John Williams"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3780
+what does an abscess look like on skin
+Q: what does an abscess look like on skin
+A: "a swelling"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6183
+who wrote the devil went down to georgia lyrics
+Q: who wrote the devil went down to georgia lyrics
+A: "Bob Dylan"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1906
+when does the last jedi come out digitally
+Q: when does the last jedi come out digitally
+A: "December 18, 2017"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5211
+who did mr drummond marry on diff'rent strokes
+Q: who did mr drummond marry on diff'rent strokes
+A: "Mrs. Drummond"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5703
+what came first the ferris wheel or the teddy bear
+Q: what came first the ferris wheel or the teddy bear
+A: "Ferris wheel"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3653
+where was the first power station built and why
+Q: where was the first power station built and why
+A: "the first power station was built in the United Kingdom in 1827 to provide electricity for the London area"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5289
+most road maps are what kind of map
+Q: most road maps are what kind of map
+A: "a map of the world"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2096
+how do you say young lady in german
+Q: how do you say young lady in german
+A: "Frau"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2383
+who produced toni braxton just be a man about it
+Q: who produced toni braxton just be a man about it
+A: "Roc-A-Fella Records"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_287
+who plays the ape in planet of the apes 2011
+Q: who plays the ape in planet of the apes 2011
+A: "Andy Serkis"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5617
+which is the highest peak of southern india
+Q: which is the highest peak of southern india
+A: "Mount Kanchenjunga"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_483
+where does the current off-broadway production of avenue q play
+Q: where does the current off-broadway production of avenue q play
+A: "Off-Broadway Theatre"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6221
+who developed most of our current understanding of planetary motion
+Q: who developed most of our current understanding of planetary motion
+A: "Johannes Kepler"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4458
+what year did the chevrolet camaro come out
+Q: what year did the chevrolet camaro come out
+A: 1967
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6475
+which department in the presidents cabinet is led by the attorney general
+Q: which department in the presidents cabinet is led by the attorney general
+A: "Department of Justice"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3765
+what is the name of the elf queen in lord of the rings
+Q: what is the name of the elf queen in lord of the rings
+A: "Elendil"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1023
+what is the only english speaking country in south america
+Q: what is the only english speaking country in south america
+A: "Brazil"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4948
+cognition about ones own cognitive process can be termed as
+Q: cognition about ones own cognitive process can be termed as
+A: "metacognition"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1375
+the voting rights act of 1965 was an effort to ensure voting rights for
+Q: the voting rights act of 1965 was an effort to ensure voting rights for
+A: "African Americans"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2315
+where was the train scene in fast five filmed
+Q: where was the train scene in fast five filmed
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2258
+who won the shc all-ireland final in 2016
+Q: who won the shc all-ireland final in 2016
+A: "Donegal"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_246
+who wrote the song smooth by florida georgia line
+Q: who wrote the song smooth by florida georgia line
+A: "Steve Goodman"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4674
+who introduced the term in group and out group
+Q: who introduced the term in group and out group
+A: "John Maynard Keynes"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3938
+who sang the song how can you mend a broken heart
+Q: who sang the song how can you mend a broken heart
+A: "The Temptations"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6028
+what type of mutation produces the bcr-abl chimeric protein
+Q: what type of mutation produces the bcr-abl chimeric protein
+A: "chromosomal translocation"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4746
+who is the guy who does thug notes
+Q: who is the guy who does thug notes
+A: "MC Lyte"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3420
+when does lexie grey join grey 's anatomy
+Q: when does lexie grey join grey 's anatomy
+A: "season six"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2094
+who played catwoman in the tv show batman
+Q: who played catwoman in the tv show batman
+A: "Judith Margaret Marlowe"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2566
+where were the first colonial settlements in australia founded
+Q: where were the first colonial settlements in australia founded
+A: "Sydney"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_879
+who wrote in the sweet bye and bye
+Q: who wrote in the sweet bye and bye
+A: "John Lennon"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_95
+who said and down the stretch they come
+Q: who said and down the stretch they come
+A: "Bill Walsh"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5632
+when did world war ii end in the pacific
+Q: when did world war ii end in the pacific
+A: 1945
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2362
+who died during the filming of flight of the phoenix
+Q: who died during the filming of flight of the phoenix
+A: "John Wayne"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3129
+who sang the opening line of do they know it 's christmas
+Q: who sang the opening line of do they know it 's christmas
+A: "The Script"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2796
+what bodies of water surround cabo san lucas
+Q: what bodies of water surround cabo san lucas
+A: "Baja California"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2831
+what is the hubble classification of the milky way galaxy
+Q: what is the hubble classification of the milky way galaxy
+A: "a spiral galaxy"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_340
+who played in the movie a star is born with judy garland
+Q: who played in the movie a star is born with judy garland
+A: "James Cagney"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5402
+who plays lily in the secret life of bees
+Q: who plays lily in the secret life of bees
+A: "Emily Browning"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2833
+if a meteoroid hits earth 's surface it is called
+Q: if a meteoroid hits earth 's surface it is called
+A: "meteorite"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3469
+when did jack mccoy start on law and order
+Q: when did jack mccoy start on law and order
+A: "September 13, 1996"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_912
+when was the lost colony of roanoke founded
+Q: when was the lost colony of roanoke founded
+A: 1607
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4594
+where does the heat in chillies come from
+Q: where does the heat in chillies come from
+A: "capsaicin"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_589
+who wrote the song it aint my fault
+Q: who wrote the song it aint my fault
+A: "Bob Dylan"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_163
+when did the first mammal appear on earth
+Q: when did the first mammal appear on earth
+A: "about 66 million years ago"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5137
+names of founding fathers of the united states
+Q: names of founding fathers of the united states
+A: "George Washington"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_618
+who was the composer who spanned the transition between classical and romantic eras
+Q: who was the composer who spanned the transition between classical and romantic eras
+A: "Joseph Haydn"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_830
+what percentage of the world 's population lives in east asia
+Q: what percentage of the world 's population lives in east asia
+A: "45%"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6342
+who is the head of the state of china
+Q: who is the head of the state of china
+A: "Xi Jinping"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_361
+what is the tallest residential building in nyc
+Q: what is the tallest residential building in nyc
+A: "The Chrysler Building"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5485
+who is the lead actor in the sinner
+Q: who is the lead actor in the sinner
+A: "Jason Statham"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2123
+who plays sherman in mr peabody and sherman
+Q: who plays sherman in mr peabody and sherman
+A: "David Spade"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5226
+who did alicia keys win the voice with
+Q: who did alicia keys win the voice with
+A: "Kelly Clarkson"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3468
+who plays gwen in the amazing spider man
+Q: who plays gwen in the amazing spider man
+A: "Kirsten Dunst"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_261
+who goes first in chess black or white
+Q: who goes first in chess black or white
+A: "Black"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3032
+when was the last time the winter olympics were in the usa
+Q: when was the last time the winter olympics were in the usa
+A: 2002
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_773
+who sings you got a friend in me in toy story 2
+Q: who sings you got a friend in me in toy story 2
+A: "Andy Warhol"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6285
+when did star wars episode 2 come out
+Q: when did star wars episode 2 come out
+A: "December 15, 1977"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1242
+guardians of the galaxy cast gamora 's sister
+Q: guardians of the galaxy cast gamora 's sister
+A: "Zoe Saldana"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4580
+who was the writer for the force awakens
+Q: who was the writer for the force awakens
+A: "J. J. Abrams"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6260
+winner of america 's got talent 2015 final results
+Q: winner of america 's got talent 2015 final results
+A: "Darci Lynne Farmer"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2536
+where is most of the water in the body located
+Q: where is most of the water in the body located
+A: "the lungs"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_10
+which apostle had a thorn in his side
+Q: which apostle had a thorn in his side
+A: "Paul"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5684
+who served as the foundation for wundts work
+Q: who served as the foundation for wundts work
+A: "Wilhelm Wundt"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5723
+who played the preacher in the film tommy
+Q: who played the preacher in the film tommy
+A: "John Travolta"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6311
+who appoints the speaker of parliament in ghana
+Q: who appoints the speaker of parliament in ghana
+A: "President of the Republic"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2483
+who sings that was then this is now
+Q: who sings that was then this is now
+A: "The Script"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4008
+who is the girl that plays in good luck charlie
+Q: who is the girl that plays in good luck charlie
+A: "Emily Browning"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2888
+who plays the punisher on the netflix show
+Q: who plays the punisher on the netflix show
+A: "Matt Damon"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2436
+what are the muscle fibers under the control of a single motor axon
+Q: what are the muscle fibers under the control of a single motor axon
+A: "sarcomeres"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2542
+who defeated the new york jets on the first televised monday night football game
+Q: who defeated the new york jets on the first televised monday night football game
+A: "the New York Giants"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6341
+who was the first person to get a driver 's license
+Q: who was the first person to get a driver 's license
+A: "John D. Rockefeller"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_531
+when do you need a medallion signature guarantee
+Q: when do you need a medallion signature guarantee
+A: "when the signature is required by law"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4745
+when does sean bean die game of thrones
+Q: when does sean bean die game of thrones
+A: "The Dragon and the Wolf"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1380
+when did the last season of jersey shore air
+Q: when did the last season of jersey shore air
+A: "May 18, 2018"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4675
+first earth summit 1992 was held at which country
+Q: first earth summit 1992 was held at which country
+A: "Switzerland"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2583
+who is the author of delta of venus
+Q: who is the author of delta of venus
+A: "John Herschel"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2345
+who played doc brown on back to the future
+Q: who played doc brown on back to the future
+A: "Christopher Lloyd"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3951
+when did the republic of ireland leave the commonwealth
+Q: when did the republic of ireland leave the commonwealth
+A: "1 January 1949"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3624
+how old do you have to be to drink in wisconsin with a parent
+Q: how old do you have to be to drink in wisconsin with a parent
+A: 18
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_835
+what is the language of antigua and barbuda
+Q: what is the language of antigua and barbuda
+A: "English Language"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4690
+the interaction between teacher and students creates a zone of proximal
+Q: the interaction between teacher and students creates a zone of proximal
+A: "interaction"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1807
+the cochlea semicircular canals and vestibular sacs make up the
+Q: the cochlea semicircular canals and vestibular sacs make up the
+A: "vestibular system"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_662
+who is narrating how i met your mother
+Q: who is narrating how i met your mother
+A: "Tracy McConnell"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3865
+when was the first internal combustion engine made
+Q: when was the first internal combustion engine made
+A: 1815
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_549
+at the constitutional convention who did the delegates agree should elect the president
+Q: at the constitutional convention who did the delegates agree should elect the president
+A: "the states"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_923
+who has made the longest field goal ever
+Q: who has made the longest field goal ever
+A: "Matt Prater"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_356
+who sang i love rock and roll original
+Q: who sang i love rock and roll original
+A: "The Everly Brothers"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4871
+who played quinn in how i met your mother
+Q: who played quinn in how i met your mother
+A: "Alex Borstein"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2984
+when was alice in chains jar of flies released
+Q: when was alice in chains jar of flies released
+A: "April 18, 1990"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3015
+who sang the orange is the new black theme song
+Q: who sang the orange is the new black theme song
+A: "The Roots"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4158
+who plays faith on buffy the vampire slayer
+Q: who plays faith on buffy the vampire slayer
+A: "Jennifer Marie Morrison"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1202
+who sang when a man loves a woman first
+Q: who sang when a man loves a woman first
+A: "The Temptations"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5518
+where is the tenderloin located on a cow
+Q: where is the tenderloin located on a cow
+A: "the ribs"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4103
+role of mercuric chloride in plant tissue culture
+Q: role of mercuric chloride in plant tissue culture
+A: "a nutrient"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3287
+who won the big 10 football championship in 2016
+Q: who won the big 10 football championship in 2016
+A: "Michigan"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3590
+who played hercules wife in the 2014 movie
+Q: who played hercules wife in the 2014 movie
+A: "Ida Lupino"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5771
+who played for man u man city liverpool and everton
+Q: who played for man u man city liverpool and everton
+A: "John Terry"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5884
+who stated that animals and plants are made of cells
+Q: who stated that animals and plants are made of cells
+A: "Carl Linnaeus"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2565
+where did they film the movie in the heat of the night
+Q: where did they film the movie in the heat of the night
+A: "Atlanta, Georgia"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3561
+who does selena gomez play in bubble guppies
+Q: who does selena gomez play in bubble guppies
+A: "Bubbles"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1861
+what is the last name of the current english royal family
+Q: what is the last name of the current english royal family
+A: "Windsor"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4151
+when was their eyes are watching god set
+Q: when was their eyes are watching god set
+A: 1939
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3020
+who argued that class struggles were what led to historical progress and development
+Q: who argued that class struggles were what led to historical progress and development
+A: "Karl Marx"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2592
+who sang the song she 's got betty davis eyes
+Q: who sang the song she 's got betty davis eyes
+A: "The Temptations"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2823
+where do i go to get a background check done
+Q: where do i go to get a background check done
+A: "the National Crime Information Center"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6473
+what is the main train station in munich
+Q: what is the main train station in munich
+A: "Munich Main Station"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3763
+how many games do la liga teams play
+Q: how many games do la liga teams play
+A: 380
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2129
+how big is 1 acre in square feet
+Q: how big is 1 acre in square feet
+A: "1 acre"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1403
+who sings the new girl in town hairspray
+Q: who sings the new girl in town hairspray
+A: "The Commodores"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4960
+who plays the voice of creek on trolls
+Q: who plays the voice of creek on trolls
+A: "Matt Damon"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2582
+when release na peru surya na illu india
+Q: when release na peru surya na illu india
+A: "May 18, 2017"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1682
+how many europa league places does england get
+Q: how many europa league places does england get
+A: "two"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4344
+when did the movie cool runnings come out
+Q: when did the movie cool runnings come out
+A: "November 17, 2007"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2916
+who led the revolt of 1857 in allahabad
+Q: who led the revolt of 1857 in allahabad
+A: "Bhimrao Ramji Ambedkar"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2659
+who did fsu beat for the 2013 championship
+Q: who did fsu beat for the 2013 championship
+A: "Florida State"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4622
+who sang the song brandy in the 70s
+Q: who sang the song brandy in the 70s
+A: "The Temptations"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4917
+when was the universal declaration of human rights created
+Q: when was the universal declaration of human rights created
+A: 1948
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_537
+new york times co v sullivan held that there must be proof of
+Q: new york times co v sullivan held that there must be proof of
+A: "a causal link between the alleged infringement and the alleged copyright infringement"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3884
+when did the i 9 form became a requirement
+Q: when did the i 9 form became a requirement
+A: "January 1, 2010"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_550
+what cheese is used to make the sicilian dessert cannoli
+Q: what cheese is used to make the sicilian dessert cannoli
+A: "ricotta"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3409
+which general served during the mexican war and the civil war
+Q: which general served during the mexican war and the civil war
+A: "General Robert E. Lee"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3031
+who sings came in like a wrecking ball
+Q: who sings came in like a wrecking ball
+A: "The Script"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_424
+who translated the song we shall overcome in bengali
+Q: who translated the song we shall overcome in bengali
+A: "Amitav Ghosh"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_762
+how many institutions of higher education in the us
+Q: how many institutions of higher education in the us
+A: "over 4,000"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5310
+who played girl max in wizards of waverly place
+Q: who played girl max in wizards of waverly place
+A: "Alex Borstein"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3868
+when did the 8 track tape come out
+Q: when did the 8 track tape come out
+A: "September 1977"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1779
+what is the name of the president of trinidad and tobago
+Q: what is the name of the president of trinidad and tobago
+A: "Winston Peters"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4293
+who wrote the song i hung my head
+Q: who wrote the song i hung my head
+A: "John Lennon"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5040
+who is ganesh the god who is celebrated at the ganesh chaturthi festival
+Q: who is ganesh the god who is celebrated at the ganesh chaturthi festival
+A: "Lord Vishnu"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1520
+when did the us join world war ii
+Q: when did the us join world war ii
+A: 1941
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1523
+who plays cane on the young and the restless
+Q: who plays cane on the young and the restless
+A: "Michael Damian"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1874
+who 's the dad of blair waldorf 's baby
+Q: who 's the dad of blair waldorf 's baby
+A: "Paul Rudd"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5817
+what movie is the song cake by the ocean in
+Q: what movie is the song cake by the ocean in
+A: "Cake"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2249
+who wrote the song forever and ever amen
+Q: who wrote the song forever and ever amen
+A: "Paul McCartney"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5134
+when was the first $ 5 bill made
+Q: when was the first $ 5 bill made
+A: 1861
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3788
+who is required to file a flight plan
+Q: who is required to file a flight plan
+A: "pilots"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4171
+did pokemon start as a game or a show
+Q: did pokemon start as a game or a show
+A: "game"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2293
+what is a set of kettledrums in an orchestra called
+Q: what is a set of kettledrums in an orchestra called
+A: "timpani"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1284
+who wrote an essay on the principle of population
+Q: who wrote an essay on the principle of population
+A: "Thomas Malthus"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5685
+actor who sang i talk to the trees in the movie musical paint your wagon
+Q: actor who sang i talk to the trees in the movie musical paint your wagon
+A: "John Travolta"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3239
+this term means a state has supreme and absolute authority within its own borders
+Q: this term means a state has supreme and absolute authority within its own borders
+A: "Sovereignty"
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_840
+what is the name of son of hanuman
+Q: what is the name of son of hanuman
+A: "Rama"
+Q: [EOQ]
+S: 0.0

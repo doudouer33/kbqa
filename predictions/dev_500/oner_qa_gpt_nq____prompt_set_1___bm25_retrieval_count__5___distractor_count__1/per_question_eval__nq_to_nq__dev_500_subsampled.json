@@ -1,0 +1,5110 @@
+[
+    {
+        "id": "single_nq_dev_2393",
+        "prediction": "Park Sung-hyun",
+        "predicted_answer": "Park Sung-hyun",
+        "gold_answers": [
+            "Brooks Koepka"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6360",
+        "prediction": "president",
+        "predicted_answer": "president",
+        "gold_answers": [
+            "Prime Minister"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6217",
+        "prediction": "The information provided does not include details about a movie featuring a character named Belle or her father. Therefore, I cannot provide an answer to your question based on the given text. If you are referring to the live-action adaptation of \\\"Beauty and the Beast,\\\" Belle's father, Maurice, is played by Kevin Kline. Please clarify if you meant a different movie or character",
+        "predicted_answer": "The information provided does not include details about a movie featuring a character named Belle or her father. Therefore, I cannot provide an answer to your question based on the given text. If you are referring to the live-action adaptation of \\\"Beauty and the Beast,\\\" Belle's father, Maurice, is played by Kevin Kline. Please clarify if you meant a different movie or character",
+        "gold_answers": [
+            "Kevin Kline"
+        ],
+        "em": 0,
+        "f1": 0.07017543859649122
+    },
+    {
+        "id": "single_nq_dev_5035",
+        "prediction": "1956",
+        "predicted_answer": "1956",
+        "gold_answers": [
+            "1956"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2437",
+        "prediction": "George Jones",
+        "predicted_answer": "George Jones",
+        "gold_answers": [
+            "He Stopped Loving Her Today"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1259",
+        "prediction": "atoms",
+        "predicted_answer": "atoms",
+        "gold_answers": [
+            "atoms"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2451",
+        "prediction": "Christine Baranski",
+        "predicted_answer": "Christine Baranski",
+        "gold_answers": [
+            "Christine Jane Baranski"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_291",
+        "prediction": "The objective of the Tour de France is to compete in a multi-stage bicycle race that covers a significant distance across various terrains, including flat, hilly, and mountainous routes. Cyclists aim to complete the race in the shortest cumulative time over the stages, with the overall winner being the rider with the lowest total time. Additionally, the race includes various classifications, such as the points classification and the mountains classification, which reward different aspects of cycling performance. The Tour de France is not only a test of speed and endurance but also strategy, teamwork, and navigation through challenging conditions",
+        "predicted_answer": "The objective of the Tour de France is to compete in a multi-stage bicycle race that covers a significant distance across various terrains, including flat, hilly, and mountainous routes. Cyclists aim to complete the race in the shortest cumulative time over the stages, with the overall winner being the rider with the lowest total time. Additionally, the race includes various classifications, such as the points classification and the mountains classification, which reward different aspects of cycling performance. The Tour de France is not only a test of speed and endurance but also strategy, teamwork, and navigation through challenging conditions",
+        "gold_answers": [
+            "bicycle race"
+        ],
+        "em": 0,
+        "f1": 0.046511627906976744
+    },
+    {
+        "id": "single_nq_dev_1841",
+        "prediction": "The typical term for a mortgage loan is usually 15 to 30 years. This duration allows borrowers to repay the loan over an extended period, making monthly payments more manageable",
+        "predicted_answer": "The typical term for a mortgage loan is usually 15 to 30 years. This duration allows borrowers to repay the loan over an extended period, making monthly payments more manageable",
+        "gold_answers": [
+            "mortgage"
+        ],
+        "em": 0,
+        "f1": 0.07407407407407407
+    },
+    {
+        "id": "single_nq_dev_3970",
+        "prediction": "The term for the colder, denser water below the thermocline in a freshwater lake is called the hypolimnion",
+        "predicted_answer": "The term for the colder, denser water below the thermocline in a freshwater lake is called the hypolimnion",
+        "gold_answers": [
+            "hypolimnion"
+        ],
+        "em": 0,
+        "f1": 0.14285714285714288
+    },
+    {
+        "id": "single_nq_dev_3968",
+        "prediction": "Montreal Canadiens",
+        "predicted_answer": "Montreal Canadiens",
+        "gold_answers": [
+            "Montreal Canadiens"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_929",
+        "prediction": "The information provided does not specify the total number of games won by the East or West in NBA All-Star history. However, based on the individual game summaries, the East won the 1996 NBA All-Star Game, while the West won the 1992 NBA All-Star Game. To determine which conference has won more games overall, one would need to look at the complete historical records of all NBA All-Star Games. Therefore, the answer cannot be determined from the provided information",
+        "predicted_answer": "The information provided does not specify the total number of games won by the East or West in NBA All-Star history. However, based on the individual game summaries, the East won the 1996 NBA All-Star Game, while the West won the 1992 NBA All-Star Game. To determine which conference has won more games overall, one would need to look at the complete historical records of all NBA All-Star Games. Therefore, the answer cannot be determined from the provided information",
+        "gold_answers": [
+            "Eastern Conference"
+        ],
+        "em": 0,
+        "f1": 0.028571428571428574
+    },
+    {
+        "id": "single_nq_dev_120",
+        "prediction": "electrocorticography",
+        "predicted_answer": "electrocorticography",
+        "gold_answers": [
+            "Electroencephalography ( EEG )"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6236",
+        "prediction": "The method of separating two liquids in a solution is known as liquid\\u2013liquid extraction (LLE). This technique is based on the relative solubilities of compounds in two different immiscible liquids, typically water (polar) and an organic solvent (non-polar)",
+        "predicted_answer": "The method of separating two liquids in a solution is known as liquid\\u2013liquid extraction (LLE). This technique is based on the relative solubilities of compounds in two different immiscible liquids, typically water (polar) and an organic solvent (non-polar)",
+        "gold_answers": [
+            "Decantation"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1130",
+        "prediction": "September 5, 2018",
+        "predicted_answer": "September 5, 2018",
+        "gold_answers": [
+            "September 5 , 2018"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5118",
+        "prediction": "1534",
+        "predicted_answer": "1534",
+        "gold_answers": [
+            "1534"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6080",
+        "prediction": "April 15, 2018",
+        "predicted_answer": "April 15, 2018",
+        "gold_answers": [
+            "April 15 , 2018"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3553",
+        "prediction": "1775",
+        "predicted_answer": "1775",
+        "gold_answers": [
+            "1792"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_477",
+        "prediction": "The United Kingdom",
+        "predicted_answer": "The United Kingdom",
+        "gold_answers": [
+            "Universal Orlando",
+            "Walt Disney World",
+            "The London Studios"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1838",
+        "prediction": "1999 and 2003",
+        "predicted_answer": "1999 and 2003",
+        "gold_answers": [
+            "1999",
+            "1991"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_5845",
+        "prediction": "Windsor",
+        "predicted_answer": "Windsor",
+        "gold_answers": [
+            "Windsor"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5913",
+        "prediction": "Harry Nilsson",
+        "predicted_answer": "Harry Nilsson",
+        "gold_answers": [
+            "Harry Nilsson"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3995",
+        "prediction": "corporate America (marketing and sales)",
+        "predicted_answer": "corporate America (marketing and sales)",
+        "gold_answers": [
+            "executive"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_640",
+        "prediction": "Melissa on \\\"Two and a Half Men\\\" was played by actress Melanie Lynskey",
+        "predicted_answer": "Melissa on \\\"Two and a Half Men\\\" was played by actress Melanie Lynskey",
+        "gold_answers": [
+            "Kelly Stables"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5548",
+        "prediction": "Independence Hall",
+        "predicted_answer": "Independence Hall",
+        "gold_answers": [
+            "Independence Hall"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4712",
+        "prediction": "Gisele Yashar",
+        "predicted_answer": "Gisele Yashar",
+        "gold_answers": [
+            "Gisele Yashar"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2920",
+        "prediction": "The characteristic that is related to a star's temperature is its spectral classification, which can be determined by the intensity of certain spectral lines, such as ZrO (zirconium oxide) and TiO (titanium oxide) bands. For S-type stars, their temperatures average about 2,300 K for Mira S stars and 3,100 K for non-Mira S stars, which are a few hundred K warmer than oxygen-rich AGB stars and a few hundred K cooler than carbon stars. The temperature class of S-type stars is represented by a digit between 1 and 9, corresponding approximately to the sequence of M1 to M9",
+        "predicted_answer": "The characteristic that is related to a star's temperature is its spectral classification, which can be determined by the intensity of certain spectral lines, such as ZrO (zirconium oxide) and TiO (titanium oxide) bands. For S-type stars, their temperatures average about 2,300 K for Mira S stars and 3,100 K for non-Mira S stars, which are a few hundred K warmer than oxygen-rich AGB stars and a few hundred K cooler than carbon stars. The temperature class of S-type stars is represented by a digit between 1 and 9, corresponding approximately to the sequence of M1 to M9",
+        "gold_answers": [
+            "color"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1909",
+        "prediction": "Ariya Jutanugarn",
+        "predicted_answer": "Ariya Jutanugarn",
+        "gold_answers": [
+            "Brooks Koepka"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1866",
+        "prediction": "1946",
+        "predicted_answer": "1946",
+        "gold_answers": [
+            "June 4 , 1946"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_6278",
+        "prediction": "1,600",
+        "predicted_answer": "1,600",
+        "gold_answers": [
+            "1,600"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2179",
+        "prediction": "Billy Redden",
+        "predicted_answer": "Billy Redden",
+        "gold_answers": [
+            "Lonnie"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5662",
+        "prediction": "240 million years",
+        "predicted_answer": "240 million years",
+        "gold_answers": [
+            "cosmic year",
+            "galactic year"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1010",
+        "prediction": "promiscuous mode",
+        "predicted_answer": "promiscuous mode",
+        "gold_answers": [
+            "promiscuous"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_1509",
+        "prediction": "2011",
+        "predicted_answer": "2011",
+        "gold_answers": [
+            "2011"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1797",
+        "prediction": "Rose Royce",
+        "predicted_answer": "Rose Royce",
+        "gold_answers": [
+            "Rose Royce"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3292",
+        "prediction": "The winner of RuPaul's Drag Race season 8 was Bob the Drag Queen",
+        "predicted_answer": "The winner of RuPaul's Drag Race season 8 was Bob the Drag Queen",
+        "gold_answers": [
+            "Bob the Drag Queen"
+        ],
+        "em": 0,
+        "f1": 0.42857142857142855
+    },
+    {
+        "id": "single_nq_dev_346",
+        "prediction": "$300,000",
+        "predicted_answer": "$300,000",
+        "gold_answers": [
+            "at the most $300,000"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_2894",
+        "prediction": "Nancy Birtwhistle",
+        "predicted_answer": "Nancy Birtwhistle",
+        "gold_answers": [
+            "Nancy Birtwhistle"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6407",
+        "prediction": "Ed Sheeran for \\\"I See Fire\\\" and The Marmalade for \\\"I See the Rain.\\\"",
+        "predicted_answer": "Ed Sheeran for \\\"I See Fire\\\" and The Marmalade for \\\"I See the Rain.\\\"",
+        "gold_answers": [
+            "James Taylor"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5853",
+        "prediction": "Pinellas County, Florida",
+        "predicted_answer": "Pinellas County, Florida",
+        "gold_answers": [
+            "Pinellas County"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_1186",
+        "prediction": "1624",
+        "predicted_answer": "1624",
+        "gold_answers": [
+            "1624"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2173",
+        "prediction": "Barcelona",
+        "predicted_answer": "Barcelona",
+        "gold_answers": [
+            "Beijing"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1494",
+        "prediction": "The information provided does not specify which contestants are left on \\\"RuPaul's Drag Race\\\" season 10. To find out the current status of contestants, you may need to refer to the latest episodes or official updates from the show",
+        "predicted_answer": "The information provided does not specify which contestants are left on \\\"RuPaul's Drag Race\\\" season 10. To find out the current status of contestants, you may need to refer to the latest episodes or official updates from the show",
+        "gold_answers": [
+            "Kameron Michaels",
+            "Aquaria",
+            "Eureka",
+            "Asia O'Hara"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_653",
+        "prediction": "The purpose of the Sky Mile Tower, as proposed in Tokyo, Japan, is to serve as a megatall building that is part of an initiative called Next Tokyo 2045 for research and developmental purposes. It is designed to be occupied by around 55,000 people and is intended to be a centerpiece of a reclamation project in Tokyo Bay. The project aims to enhance the value of new waterfront properties in the area, which could help finance its construction",
+        "predicted_answer": "The purpose of the Sky Mile Tower, as proposed in Tokyo, Japan, is to serve as a megatall building that is part of an initiative called Next Tokyo 2045 for research and developmental purposes. It is designed to be occupied by around 55,000 people and is intended to be a centerpiece of a reclamation project in Tokyo Bay. The project aims to enhance the value of new waterfront properties in the area, which could help finance its construction",
+        "gold_answers": [
+            "observation and telecommunications"
+        ],
+        "em": 0,
+        "f1": 0.027777777777777776
+    },
+    {
+        "id": "single_nq_dev_5293",
+        "prediction": "The man of the tournament in the 2011 Cricket World Cup was Yuvraj Singh from India",
+        "predicted_answer": "The man of the tournament in the 2011 Cricket World Cup was Yuvraj Singh from India",
+        "gold_answers": [
+            "India 's Yuvraj Singh"
+        ],
+        "em": 0,
+        "f1": 0.3529411764705882
+    },
+    {
+        "id": "single_nq_dev_1481",
+        "prediction": "The information provided does not specify when photo driving licences started in the UK. However, it is known that the introduction of photo driving licences in the UK began in 1998. If you need more detailed information or specific dates, please let me know!",
+        "predicted_answer": "The information provided does not specify when photo driving licences started in the UK. However, it is known that the introduction of photo driving licences in the UK began in 1998. If you need more detailed information or specific dates, please let me know!",
+        "gold_answers": [
+            "July 1998"
+        ],
+        "em": 0,
+        "f1": 0.047619047619047616
+    },
+    {
+        "id": "single_nq_dev_4261",
+        "prediction": "October 3, 2017",
+        "predicted_answer": "October 3, 2017",
+        "gold_answers": [
+            "October 3 , 2017"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2737",
+        "prediction": "The specific filming locations for Baz Luhrmann's \\\"Romeo + Juliet\\\" are not detailed in the provided excerpts. However, it is known that the film was primarily shot in and around Los Angeles, California, with some scenes filmed in Mexico. If you need more detailed information about specific locations, please let me know!",
+        "predicted_answer": "The specific filming locations for Baz Luhrmann's \\\"Romeo + Juliet\\\" are not detailed in the provided excerpts. However, it is known that the film was primarily shot in and around Los Angeles, California, with some scenes filmed in Mexico. If you need more detailed information about specific locations, please let me know!",
+        "gold_answers": [
+            "Miami",
+            "Mexico City",
+            "Boca del Rio , Veracruz"
+        ],
+        "em": 0,
+        "f1": 0.039999999999999994
+    },
+    {
+        "id": "single_nq_dev_3091",
+        "prediction": "1948",
+        "predicted_answer": "1948",
+        "gold_answers": [
+            "14 May 1948"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_4585",
+        "prediction": "The information provided does not specify the release date for a new season of \\\"My Little Pony.\\\" For the most accurate and up-to-date information regarding new seasons or episodes, it is recommended to check official sources such as the show's website or social media channels",
+        "predicted_answer": "The information provided does not specify the release date for a new season of \\\"My Little Pony.\\\" For the most accurate and up-to-date information regarding new seasons or episodes, it is recommended to check official sources such as the show's website or social media channels",
+        "gold_answers": [
+            "March 24 , 2018"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1928",
+        "prediction": "meadowsweet (Filipendula ulmaria)",
+        "predicted_answer": "meadowsweet (Filipendula ulmaria)",
+        "gold_answers": [
+            "willow tree"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4942",
+        "prediction": "2006",
+        "predicted_answer": "2006",
+        "gold_answers": [
+            "2006"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2972",
+        "prediction": "In the context of a CBC (Complete Blood Count) test, \\\"MPV\\\" stands for \\\"Mean Platelet Volume.\\\" It is a measure of the average size of platelets in the blood and can provide information about platelet production and function",
+        "predicted_answer": "In the context of a CBC (Complete Blood Count) test, \\\"MPV\\\" stands for \\\"Mean Platelet Volume.\\\" It is a measure of the average size of platelets in the blood and can provide information about platelet production and function",
+        "gold_answers": [
+            "Mean platelet volume"
+        ],
+        "em": 0,
+        "f1": 0.16666666666666669
+    },
+    {
+        "id": "single_nq_dev_1102",
+        "prediction": "The actress who played Dorothy in \\\"The Wizard of Oz\\\" (1939) is Judy Garland",
+        "predicted_answer": "The actress who played Dorothy in \\\"The Wizard of Oz\\\" (1939) is Judy Garland",
+        "gold_answers": [
+            "Garland"
+        ],
+        "em": 0,
+        "f1": 0.15384615384615385
+    },
+    {
+        "id": "single_nq_dev_4192",
+        "prediction": "Hans Zimmer",
+        "predicted_answer": "Hans Zimmer",
+        "gold_answers": [
+            "Klaus Badelt"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5848",
+        "prediction": "South Korea",
+        "predicted_answer": "South Korea",
+        "gold_answers": [
+            "South Korea"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4754",
+        "prediction": "Jack Dee",
+        "predicted_answer": "Jack Dee",
+        "gold_answers": [
+            "Jack Dee"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3516",
+        "prediction": "December 1886",
+        "predicted_answer": "December 1886",
+        "gold_answers": [
+            "December 8 , 1886"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_938",
+        "prediction": "Bloodhound Gang",
+        "predicted_answer": "Bloodhound Gang",
+        "gold_answers": [
+            "Bloodhound Gang"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4872",
+        "prediction": "Dallas",
+        "predicted_answer": "Dallas",
+        "gold_answers": [
+            "Chicago"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3212",
+        "prediction": "around 1440",
+        "predicted_answer": "around 1440",
+        "gold_answers": [
+            "1234"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4707",
+        "prediction": "the ancient Canaanites",
+        "predicted_answer": "the ancient Canaanites",
+        "gold_answers": [
+            "Canaanites"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_6029",
+        "prediction": "Two major causes of World War II were the political takeover in Germany by Adolf Hitler and his Nazi Party in 1933, and the aggressive foreign policy pursued by Germany, which included the invasion of Poland on September 1, 1939. Additionally, Italian fascism in the 1920s and Japanese militarism and invasion of China in the 1930s also contributed to the outbreak of the war",
+        "predicted_answer": "Two major causes of World War II were the political takeover in Germany by Adolf Hitler and his Nazi Party in 1933, and the aggressive foreign policy pursued by Germany, which included the invasion of Poland on September 1, 1939. Additionally, Italian fascism in the 1920s and Japanese militarism and invasion of China in the 1930s also contributed to the outbreak of the war",
+        "gold_answers": [
+            "Italian fascism in the 1920s"
+        ],
+        "em": 0,
+        "f1": 0.13114754098360656
+    },
+    {
+        "id": "single_nq_dev_4710",
+        "prediction": "Sloane Stephens",
+        "predicted_answer": "Sloane Stephens",
+        "gold_answers": [
+            "Sloane Stephens"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3295",
+        "prediction": "Ludwig G\\u00f6ransson",
+        "predicted_answer": "Ludwig G\\u00f6ransson",
+        "gold_answers": [
+            "Ludwig G\u00f6ransson"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_2707",
+        "prediction": "1867",
+        "predicted_answer": "1867",
+        "gold_answers": [
+            "1867"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6292",
+        "prediction": "Cairn Terrier",
+        "predicted_answer": "Cairn Terrier",
+        "gold_answers": [
+            "Cairn terrier"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4979",
+        "prediction": "Freelon Group, Adjaye Associates, and Davis Brody Bond",
+        "predicted_answer": "Freelon Group, Adjaye Associates, and Davis Brody Bond",
+        "gold_answers": [
+            "Freelon Group",
+            "Davis Brody Bond",
+            "Adjaye Associates"
+        ],
+        "em": 0,
+        "f1": 0.5454545454545454
+    },
+    {
+        "id": "single_nq_dev_2607",
+        "prediction": "In \\\"To Catch a Thief,\\\" the main character, John \\\"The Cat\\\" Robie, drives a 1953 Cadillac. The car is notable for its luxurious design, which fits the glamorous setting of the French Riviera in the film",
+        "predicted_answer": "In \\\"To Catch a Thief,\\\" the main character, John \\\"The Cat\\\" Robie, drives a 1953 Cadillac. The car is notable for its luxurious design, which fits the glamorous setting of the French Riviera in the film",
+        "gold_answers": [
+            "Alpine"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3571",
+        "prediction": "Lisa Whelchel",
+        "predicted_answer": "Lisa Whelchel",
+        "gold_answers": [
+            "Lisa Diane Whelchel"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_4663",
+        "prediction": "Soncino printing-house",
+        "predicted_answer": "Soncino printing-house",
+        "gold_answers": [
+            "Miles Coverdale"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3491",
+        "prediction": "Laverne Cox",
+        "predicted_answer": "Laverne Cox",
+        "gold_answers": [
+            "Laverne Cox"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4334",
+        "prediction": "The dog's name in \\\"The Wizard of Oz\\\" is Toto",
+        "predicted_answer": "The dog's name in \\\"The Wizard of Oz\\\" is Toto",
+        "gold_answers": [
+            "Toto"
+        ],
+        "em": 0,
+        "f1": 0.2222222222222222
+    },
+    {
+        "id": "single_nq_dev_1710",
+        "prediction": "Hudson River and Lake Erie",
+        "predicted_answer": "Hudson River and Lake Erie",
+        "gold_answers": [
+            "Hudson River",
+            "Niagara River"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_706",
+        "prediction": "The information provided does not include any details about a movie titled \\\"Night School.\\\" Therefore, I cannot provide a release date for that film. If you have any other questions or need information on a different topic, feel free to ask!",
+        "predicted_answer": "The information provided does not include any details about a movie titled \\\"Night School.\\\" Therefore, I cannot provide a release date for that film. If you have any other questions or need information on a different topic, feel free to ask!",
+        "gold_answers": [
+            "September 28 , 2018"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6290",
+        "prediction": "necessity",
+        "predicted_answer": "necessity",
+        "gold_answers": [
+            "Necessity"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4806",
+        "prediction": "An example of an animal that has a segmented body is an earthworm, which belongs to the phylum Annelida. Other examples include arthropods such as insects, spiders, and crustaceans",
+        "predicted_answer": "An example of an animal that has a segmented body is an earthworm, which belongs to the phylum Annelida. Other examples include arthropods such as insects, spiders, and crustaceans",
+        "gold_answers": [
+            "fruit fly"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1752",
+        "prediction": "Pakistan",
+        "predicted_answer": "Pakistan",
+        "gold_answers": [
+            "Iran"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5697",
+        "prediction": "24,733",
+        "predicted_answer": "24,733",
+        "gold_answers": [
+            "24,733"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5473",
+        "prediction": "Siddaramaiah",
+        "predicted_answer": "Siddaramaiah",
+        "gold_answers": [
+            "Pawan Chamling"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5869",
+        "prediction": "White Pine Bay, Oregon",
+        "predicted_answer": "White Pine Bay, Oregon",
+        "gold_answers": [
+            "White Pine Bay , Oregon"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2926",
+        "prediction": "Berlin, Germany",
+        "predicted_answer": "Berlin, Germany",
+        "gold_answers": [
+            "Germany"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_731",
+        "prediction": "The setting of the story of Robin Hood is primarily in Sherwood Forest and Nottinghamshire, England, during the medieval period. The tales often revolve around Robin Hood's interactions with the Sheriff of Nottingham, his band of Merry Men, and his efforts to aid the poor and fight against injustice",
+        "predicted_answer": "The setting of the story of Robin Hood is primarily in Sherwood Forest and Nottinghamshire, England, during the medieval period. The tales often revolve around Robin Hood's interactions with the Sheriff of Nottingham, his band of Merry Men, and his efforts to aid the poor and fight against injustice",
+        "gold_answers": [
+            "Sherwood Forest"
+        ],
+        "em": 0,
+        "f1": 0.08888888888888888
+    },
+    {
+        "id": "single_nq_dev_4203",
+        "prediction": "Marcia Cross",
+        "predicted_answer": "Marcia Cross",
+        "gold_answers": [
+            "Marcia Cross"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5286",
+        "prediction": "Cruz",
+        "predicted_answer": "Cruz",
+        "gold_answers": [
+            "Paco"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3102",
+        "prediction": "The information provided does not specify who has won the most MVP awards in basketball. However, it is widely known that Kareem Abdul-Jabbar holds the record for the most NBA Most Valuable Player Awards, having won it six times. If you are referring to a specific league or context, please clarify for a more accurate answer",
+        "predicted_answer": "The information provided does not specify who has won the most MVP awards in basketball. However, it is widely known that Kareem Abdul-Jabbar holds the record for the most NBA Most Valuable Player Awards, having won it six times. If you are referring to a specific league or context, please clarify for a more accurate answer",
+        "gold_answers": [
+            "Kareem Abdul - Jabbar"
+        ],
+        "em": 0,
+        "f1": 0.03773584905660377
+    },
+    {
+        "id": "single_nq_dev_2979",
+        "prediction": "The information provided does not include details about the top goal scorer for Brazil. To find the current top goal scorer for the Brazilian national football team, you may need to refer to the latest sports news or official football statistics",
+        "predicted_answer": "The information provided does not include details about the top goal scorer for Brazil. To find the current top goal scorer for the Brazilian national football team, you may need to refer to the latest sports news or official football statistics",
+        "gold_answers": [
+            "Pel\u00e9"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5142",
+        "prediction": "Scholars of human development",
+        "predicted_answer": "Scholars of human development",
+        "gold_answers": [
+            "Francis Galton"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3178",
+        "prediction": "March 1862",
+        "predicted_answer": "March 1862",
+        "gold_answers": [
+            "1862"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_1971",
+        "prediction": "May 29, 2004",
+        "predicted_answer": "May 29, 2004",
+        "gold_answers": [
+            "May 29 , 2004"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3714",
+        "prediction": "To get a Norwegian Forest cat, you can consider the following options:",
+        "predicted_answer": "To get a Norwegian Forest cat, you can consider the following options:",
+        "gold_answers": [
+            "from a registered breeder"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_863",
+        "prediction": "1860",
+        "predicted_answer": "1860",
+        "gold_answers": [
+            "1857"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4029",
+        "prediction": "six United States Marines",
+        "predicted_answer": "six United States Marines",
+        "gold_answers": [
+            "Michael Strank",
+            "Rene Gagnon",
+            "Harlon Block",
+            "Harold Schultz",
+            "Ira Hayes",
+            "Franklin Sousley"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_643",
+        "prediction": "The credit ratings provided by Standard & Poor's, Moody's, and Fitch are intended to indicate the creditworthiness of corporate or government bonds. These ratings serve as a financial indicator to potential investors regarding the likelihood that the debt will be repaid",
+        "predicted_answer": "The credit ratings provided by Standard & Poor's, Moody's, and Fitch are intended to indicate the creditworthiness of corporate or government bonds. These ratings serve as a financial indicator to potential investors regarding the likelihood that the debt will be repaid",
+        "gold_answers": [
+            "probability of default"
+        ],
+        "em": 0,
+        "f1": 0.05263157894736842
+    },
+    {
+        "id": "single_nq_dev_2107",
+        "prediction": "It starts at M6 Junction 3a at the Coleshill Interchange and finishes at M6 Junction 11A at Wolverhampton",
+        "predicted_answer": "It starts at M6 Junction 3a at the Coleshill Interchange and finishes at M6 Junction 11A at Wolverhampton",
+        "gold_answers": [
+            "M6 Junction 11A at Wolverhampton"
+        ],
+        "em": 0,
+        "f1": 0.45454545454545453
+    },
+    {
+        "id": "single_nq_dev_859",
+        "prediction": "Renton, Washington",
+        "predicted_answer": "Renton, Washington",
+        "gold_answers": [
+            "Renton , Washington"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5394",
+        "prediction": "Tracy Lawrence",
+        "predicted_answer": "Tracy Lawrence",
+        "gold_answers": [
+            "Tracy Lawrence"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4515",
+        "prediction": "The provided text does not contain any information about an old man in a pawn shop or any related events. Therefore, I cannot answer your question based on the information given. If you have a specific context or additional details, please provide them, and I'll do my best to assist you",
+        "predicted_answer": "The provided text does not contain any information about an old man in a pawn shop or any related events. Therefore, I cannot answer your question based on the information given. If you have a specific context or additional details, please provide them, and I'll do my best to assist you",
+        "gold_answers": [
+            "June 25 , 2018"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3715",
+        "prediction": "The term \\\"flameover\\\" is also known as \\\"flashover.\\\"",
+        "predicted_answer": "The term \\\"flameover\\\" is also known as \\\"flashover.\\\"",
+        "gold_answers": [
+            "Rollover"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2844",
+        "prediction": "June 2018",
+        "predicted_answer": "June 2018",
+        "gold_answers": [
+            "March 4 , 2018"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_1134",
+        "prediction": "the Alps",
+        "predicted_answer": "the Alps",
+        "gold_answers": [
+            "The Alps"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1002",
+        "prediction": "The specific introduction of clerical celibacy in the Catholic Church is not precisely dated, as it evolved over time. However, the practice became more formally established in the Latin Church during the Middle Ages, particularly in the 12th century, when the Second Lateran Council in 1139 declared that priests must remain celibate. This was part of a broader movement to reform the clergy and ensure that they were fully dedicated to their spiritual duties. So, while there isn't a single date for the introduction of celibacy, the 12th century marks a significant point in its formalization",
+        "predicted_answer": "The specific introduction of clerical celibacy in the Catholic Church is not precisely dated, as it evolved over time. However, the practice became more formally established in the Latin Church during the Middle Ages, particularly in the 12th century, when the Second Lateran Council in 1139 declared that priests must remain celibate. This was part of a broader movement to reform the clergy and ensure that they were fully dedicated to their spiritual duties. So, while there isn't a single date for the introduction of celibacy, the 12th century marks a significant point in its formalization",
+        "gold_answers": [
+            "in the fourth - century"
+        ],
+        "em": 0,
+        "f1": 0.046511627906976744
+    },
+    {
+        "id": "single_nq_dev_6431",
+        "prediction": "April 22, 2017",
+        "predicted_answer": "April 22, 2017",
+        "gold_answers": [
+            "September 7 , 2017"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_nq_dev_1129",
+        "prediction": "The provided information does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the latest sources or the official South Bend city website",
+        "predicted_answer": "The provided information does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the latest sources or the official South Bend city website",
+        "gold_answers": [
+            "Peter Paul Montgomery Buttigieg"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6247",
+        "prediction": "Istanbul",
+        "predicted_answer": "Istanbul",
+        "gold_answers": [
+            "\u0130stanbul"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5003",
+        "prediction": "Paige O'Hara",
+        "predicted_answer": "Paige O'Hara",
+        "gold_answers": [
+            "Paige O'Hara"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6111",
+        "prediction": "The provided text does not mention a well-known photographer of Telangana. Therefore, I cannot provide an answer based on the information given. If you have any other questions or need information on a different topic, feel free to ask!",
+        "predicted_answer": "The provided text does not mention a well-known photographer of Telangana. Therefore, I cannot provide an answer based on the information given. If you have any other questions or need information on a different topic, feel free to ask!",
+        "gold_answers": [
+            "Bandi Rajan Babu"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1385",
+        "prediction": "Anne Ramsey",
+        "predicted_answer": "Anne Ramsey",
+        "gold_answers": [
+            "Anne Ramsey"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5040",
+        "prediction": "Ganesh, also known as Ganesha, is a Hindu god celebrated at the Ganesh Chaturthi festival. He is revered as the remover of obstacles, the god of wisdom, and the patron of arts and sciences. Ganesh is typically depicted with an elephant head and a human body, symbolizing intelligence and strength",
+        "predicted_answer": "Ganesh, also known as Ganesha, is a Hindu god celebrated at the Ganesh Chaturthi festival. He is revered as the remover of obstacles, the god of wisdom, and the patron of arts and sciences. Ganesh is typically depicted with an elephant head and a human body, symbolizing intelligence and strength",
+        "gold_answers": [
+            "the God of New Beginnings",
+            "the Remover of Obstacles"
+        ],
+        "em": 0,
+        "f1": 0.13043478260869565
+    },
+    {
+        "id": "single_nq_dev_1085",
+        "prediction": "The type of genes that prevent other genes from showing their phenotype are known as \\\"suppressor genes.\\\" These genes can inhibit the expression of other genes, thereby masking their phenotypic effects. In the context of homeotic genes, certain genes may act as tumor suppressors, preventing the development of tumors when expressed properly",
+        "predicted_answer": "The type of genes that prevent other genes from showing their phenotype are known as \\\"suppressor genes.\\\" These genes can inhibit the expression of other genes, thereby masking their phenotypic effects. In the context of homeotic genes, certain genes may act as tumor suppressors, preventing the development of tumors when expressed properly",
+        "gold_answers": [
+            "Dominance"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5332",
+        "prediction": "The iPod Touch 3rd generation was released on September 9, 2009",
+        "predicted_answer": "The iPod Touch 3rd generation was released on September 9, 2009",
+        "gold_answers": [
+            "June 17 , 2009"
+        ],
+        "em": 0,
+        "f1": 0.15384615384615383
+    },
+    {
+        "id": "single_nq_dev_4130",
+        "prediction": "David Prowse",
+        "predicted_answer": "David Prowse",
+        "gold_answers": [
+            "David Prowse"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_126",
+        "prediction": "Hamiltonian",
+        "predicted_answer": "Hamiltonian",
+        "gold_answers": [
+            "internal energy"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3230",
+        "prediction": "Various actors, including Tom Brown, Jonathan Crombie, and Lucas Jade Zumann",
+        "predicted_answer": "Various actors, including Tom Brown, Jonathan Crombie, and Lucas Jade Zumann",
+        "gold_answers": [
+            "Jonathan Crombie"
+        ],
+        "em": 0,
+        "f1": 0.3076923076923077
+    },
+    {
+        "id": "single_nq_dev_4653",
+        "prediction": "Theodore Roosevelt",
+        "predicted_answer": "Theodore Roosevelt",
+        "gold_answers": [
+            "Theodore Roosevelt Jr."
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_4912",
+        "prediction": "around Easter, varying by location",
+        "predicted_answer": "around Easter, varying by location",
+        "gold_answers": [
+            "March or April"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2461",
+        "prediction": "South Carolina Gamecocks",
+        "predicted_answer": "South Carolina Gamecocks",
+        "gold_answers": [
+            "South Carolina"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_3743",
+        "prediction": "As of my last knowledge update in October 2023, the latest season of \\\"The Handmaid's Tale\\\" was Season 5, which premiered on September 14, 2022. However, I do not have information on the release date for any new seasons beyond that. For the most current information, I recommend checking official announcements or streaming platforms",
+        "predicted_answer": "As of my last knowledge update in October 2023, the latest season of \\\"The Handmaid's Tale\\\" was Season 5, which premiered on September 14, 2022. However, I do not have information on the release date for any new seasons beyond that. For the most current information, I recommend checking official announcements or streaming platforms",
+        "gold_answers": [
+            "2018"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6242",
+        "prediction": "Charles Darwin and Alfred Russel Wallace",
+        "predicted_answer": "Charles Darwin and Alfred Russel Wallace",
+        "gold_answers": [
+            "Charles Darwin"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_388",
+        "prediction": "Lin'an (present-day Hangzhou)",
+        "predicted_answer": "Lin'an (present-day Hangzhou)",
+        "gold_answers": [
+            "Lin'an"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_1378",
+        "prediction": "Jem Finer and Shane MacGowan",
+        "predicted_answer": "Jem Finer and Shane MacGowan",
+        "gold_answers": [
+            "Jem Finer",
+            "Shane MacGowan"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_5629",
+        "prediction": "July 1996",
+        "predicted_answer": "July 1996",
+        "gold_answers": [
+            "1996"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_5378",
+        "prediction": "Neil Thrasher, Brantley Gilbert, and Michael Dulaney",
+        "predicted_answer": "Neil Thrasher, Brantley Gilbert, and Michael Dulaney",
+        "gold_answers": [
+            "Brantley Gilbert"
+        ],
+        "em": 0,
+        "f1": 0.4444444444444445
+    },
+    {
+        "id": "single_nq_dev_2149",
+        "prediction": "The winner of Sa Re Ga Ma Pa L'il Champs 2017 is not mentioned in the provided information. Therefore, I cannot provide an answer to that question",
+        "predicted_answer": "The winner of Sa Re Ga Ma Pa L'il Champs 2017 is not mentioned in the provided information. Therefore, I cannot provide an answer to that question",
+        "gold_answers": [
+            "Shreyan Bhattacharya"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5267",
+        "prediction": "Aloe Blacc",
+        "predicted_answer": "Aloe Blacc",
+        "gold_answers": [
+            "Avicii",
+            "Mike Einziger",
+            "Aloe Blacc"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1119",
+        "prediction": "Sarah McCreanor (for the live shows) and America Ferrera (for the films)",
+        "predicted_answer": "Sarah McCreanor (for the live shows) and America Ferrera (for the films)",
+        "gold_answers": [
+            "America Ferrera"
+        ],
+        "em": 0,
+        "f1": 0.33333333333333337
+    },
+    {
+        "id": "single_nq_dev_6016",
+        "prediction": "In Roman mythology, Apollo is recognized as the god of music, poetry, art, the sun, truth and prophecy, healing, plague, and archery. He is considered one of the most important and complex deities in classical mythology",
+        "predicted_answer": "In Roman mythology, Apollo is recognized as the god of music, poetry, art, the sun, truth and prophecy, healing, plague, and archery. He is considered one of the most important and complex deities in classical mythology",
+        "gold_answers": [
+            "poetry",
+            "plague",
+            "the sun and light",
+            "truth and prophecy",
+            "healing",
+            "music"
+        ],
+        "em": 0,
+        "f1": 0.16666666666666669
+    },
+    {
+        "id": "single_nq_dev_3523",
+        "prediction": "Gary Cole",
+        "predicted_answer": "Gary Cole",
+        "gold_answers": [
+            "Gary Cole"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3319",
+        "prediction": "August 25, 2006",
+        "predicted_answer": "August 25, 2006",
+        "gold_answers": [
+            "August 25 , 2006"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5774",
+        "prediction": "Rachel Shelley",
+        "predicted_answer": "Rachel Shelley",
+        "gold_answers": [
+            "Rachel Shelley"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1872",
+        "prediction": "Chicago Cubs",
+        "predicted_answer": "Chicago Cubs",
+        "gold_answers": [
+            "The Cubs"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_3358",
+        "prediction": "Nick Kroll",
+        "predicted_answer": "Nick Kroll",
+        "gold_answers": [
+            "Nick Kroll"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6293",
+        "prediction": "Yogi Berra",
+        "predicted_answer": "Yogi Berra",
+        "gold_answers": [
+            "Yogi Berra"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1961",
+        "prediction": "Laura",
+        "predicted_answer": "Laura",
+        "gold_answers": [
+            "Luke and Laura"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_5330",
+        "prediction": "October 15, 2018",
+        "predicted_answer": "October 15, 2018",
+        "gold_answers": [
+            "15 October 2018"
+        ],
+        "em": 0,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2630",
+        "prediction": "The Iran\\u2013Iraq War involved two main countries: Iran and Iraq. The conflict began on September 22, 1980, when Iraq invaded Iran, and it lasted until August 20, 1988, when Iran accepted a UN-brokered ceasefire. Additionally, the Soviet Union was involved in the war by providing military support to Iraq, while also maintaining an official stance of neutrality. Other countries, such as China, North Korea, and various Western nations, were also involved in providing military assistance to either side during the conflict",
+        "predicted_answer": "The Iran\\u2013Iraq War involved two main countries: Iran and Iraq. The conflict began on September 22, 1980, when Iraq invaded Iran, and it lasted until August 20, 1988, when Iran accepted a UN-brokered ceasefire. Additionally, the Soviet Union was involved in the war by providing military support to Iraq, while also maintaining an official stance of neutrality. Other countries, such as China, North Korea, and various Western nations, were also involved in providing military assistance to either side during the conflict",
+        "gold_answers": [
+            "Iran",
+            "Iraq"
+        ],
+        "em": 0,
+        "f1": 0.026666666666666665
+    },
+    {
+        "id": "single_nq_dev_4388",
+        "prediction": "As of my last knowledge update in October 2023, the President of Nicaragua is Daniel Ortega. He has been in office since January 10, 2007. Please verify with up-to-date sources, as political situations can change",
+        "predicted_answer": "As of my last knowledge update in October 2023, the President of Nicaragua is Daniel Ortega. He has been in office since January 10, 2007. Please verify with up-to-date sources, as political situations can change",
+        "gold_answers": [
+            "Jos\u00e9 Daniel Ortega Saavedra"
+        ],
+        "em": 0,
+        "f1": 0.10526315789473684
+    },
+    {
+        "id": "single_nq_dev_5385",
+        "prediction": "The largest source of national income in India is the agriculture sector",
+        "predicted_answer": "The largest source of national income in India is the agriculture sector",
+        "gold_answers": [
+            "Textile industry"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5137",
+        "prediction": "The Founding Fathers of the United States identified as key figures include:",
+        "predicted_answer": "The Founding Fathers of the United States identified as key figures include:",
+        "gold_answers": [
+            "Thomas Jefferson",
+            "James Madison",
+            "John Jay",
+            "George Washington",
+            "John Adams",
+            "Benjamin Franklin",
+            "Alexander Hamilton"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1304",
+        "prediction": "Traditionally, Moses is credited with writing them",
+        "predicted_answer": "Traditionally, Moses is credited with writing them",
+        "gold_answers": [
+            "many authors over many centuries"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3986",
+        "prediction": "May 23, 1949",
+        "predicted_answer": "May 23, 1949",
+        "gold_answers": [
+            "1949"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_3384",
+        "prediction": "New York City",
+        "predicted_answer": "New York City",
+        "gold_answers": [
+            "New York"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_210",
+        "prediction": "July 10, 1754",
+        "predicted_answer": "July 10, 1754",
+        "gold_answers": [
+            "1754"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_6294",
+        "prediction": "The provided text does not contain any information regarding Nobel gases or their relation to solar eclipses in India. If you have a specific question or need information on a different topic, please let me know!",
+        "predicted_answer": "The provided text does not contain any information regarding Nobel gases or their relation to solar eclipses in India. If you have a specific question or need information on a different topic, please let me know!",
+        "gold_answers": [
+            "helium"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4033",
+        "prediction": "eight",
+        "predicted_answer": "eight",
+        "gold_answers": [
+            "eight"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2572",
+        "prediction": "The information provided does not specify where it rains the most in Texas. However, generally, the areas that receive the most rainfall in Texas are typically found in the eastern part of the state, particularly in regions such as the Piney Woods and along the Gulf Coast. Cities like Houston and Beaumont are known for having higher average annual rainfall compared to other areas in Texas. For a precise answer, one would need to refer to meteorological data or studies on rainfall distribution in Texas",
+        "predicted_answer": "The information provided does not specify where it rains the most in Texas. However, generally, the areas that receive the most rainfall in Texas are typically found in the eastern part of the state, particularly in regions such as the Piney Woods and along the Gulf Coast. Cities like Houston and Beaumont are known for having higher average annual rainfall compared to other areas in Texas. For a precise answer, one would need to refer to meteorological data or studies on rainfall distribution in Texas",
+        "gold_answers": [
+            "The Piney Woods"
+        ],
+        "em": 0,
+        "f1": 0.05128205128205127
+    },
+    {
+        "id": "single_nq_dev_1935",
+        "prediction": "$35 million",
+        "predicted_answer": "$35 million",
+        "gold_answers": [
+            "$35 million"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2048",
+        "prediction": "Milan",
+        "predicted_answer": "Milan",
+        "gold_answers": [
+            "Milan"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1096",
+        "prediction": "bite-sized pieces of chicken, often from the breast or thigh",
+        "predicted_answer": "bite-sized pieces of chicken, often from the breast or thigh",
+        "gold_answers": [
+            "thigh meat"
+        ],
+        "em": 0,
+        "f1": 0.1818181818181818
+    },
+    {
+        "id": "single_nq_dev_5635",
+        "prediction": "Denver Broncos",
+        "predicted_answer": "Denver Broncos",
+        "gold_answers": [
+            "Pittsburgh Steelers",
+            "New England Patriots",
+            "Denver Broncos"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5596",
+        "prediction": "TD Garden",
+        "predicted_answer": "TD Garden",
+        "gold_answers": [
+            "the TD Garden"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1426",
+        "prediction": "The National Institutes of Health (NIH) is a federal agency responsible for biomedical and public health research. It conducts and coordinates research across different disciplines of biomedical science through its 27 separate institutes and centers",
+        "predicted_answer": "The National Institutes of Health (NIH) is a federal agency responsible for biomedical and public health research. It conducts and coordinates research across different disciplines of biomedical science through its 27 separate institutes and centers",
+        "gold_answers": [
+            "biomedical and public health research"
+        ],
+        "em": 0,
+        "f1": 0.2631578947368421
+    },
+    {
+        "id": "single_nq_dev_3701",
+        "prediction": "Yogi Berra",
+        "predicted_answer": "Yogi Berra",
+        "gold_answers": [
+            "Yogi Berra"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2088",
+        "prediction": "July 25, 2017",
+        "predicted_answer": "July 25, 2017",
+        "gold_answers": [
+            "2017"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_3515",
+        "prediction": "Narcissus",
+        "predicted_answer": "Narcissus",
+        "gold_answers": [
+            "Narcissus"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1068",
+        "prediction": "April 1, 2012",
+        "predicted_answer": "April 1, 2012",
+        "gold_answers": [
+            "April 1 , 2012"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_74",
+        "prediction": "The term \\\"catholic\\\" comes from the Greek word \\\"katholikos,\\\" which means \\\"universal.\\\" It was first used in the early Christian context in the early 2nd century. The earliest known use of the term \\\"catholic\\\" to refer to the Christian Church is attributed to Ignatius of Antioch in his letter to the Smyrnaeans, written around 110 AD. Therefore, the first time the word \\\"catholic\\\" was used in this context can be traced back to the early 2nd century",
+        "predicted_answer": "The term \\\"catholic\\\" comes from the Greek word \\\"katholikos,\\\" which means \\\"universal.\\\" It was first used in the early Christian context in the early 2nd century. The earliest known use of the term \\\"catholic\\\" to refer to the Christian Church is attributed to Ignatius of Antioch in his letter to the Smyrnaeans, written around 110 AD. Therefore, the first time the word \\\"catholic\\\" was used in this context can be traced back to the early 2nd century",
+        "gold_answers": [
+            "in the early 2nd century"
+        ],
+        "em": 0,
+        "f1": 0.1142857142857143
+    },
+    {
+        "id": "single_nq_dev_3729",
+        "prediction": "1946",
+        "predicted_answer": "1946",
+        "gold_answers": [
+            "January 7 , 1947"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3641",
+        "prediction": "If two organisms have the same name in their binomial name, then they are in the same species. The binomial nomenclature system consists of two parts: the genus name and the species name. If both parts of the name are identical, it indicates that the organisms belong to the same species",
+        "predicted_answer": "If two organisms have the same name in their binomial name, then they are in the same species. The binomial nomenclature system consists of two parts: the genus name and the species name. If both parts of the name are identical, it indicates that the organisms belong to the same species",
+        "gold_answers": [
+            "species"
+        ],
+        "em": 0,
+        "f1": 0.04545454545454545
+    },
+    {
+        "id": "single_nq_dev_5371",
+        "prediction": "Ralph Waldo Emerson",
+        "predicted_answer": "Ralph Waldo Emerson",
+        "gold_answers": [
+            "Ralph Waldo Emerson 's"
+        ],
+        "em": 0,
+        "f1": 0.8571428571428571
+    },
+    {
+        "id": "single_nq_dev_634",
+        "prediction": "Randy Newman",
+        "predicted_answer": "Randy Newman",
+        "gold_answers": [
+            "Randy Newman"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1634",
+        "prediction": "Calcium ion storage occurs in intracellular organelles, including the mitochondria and the endoplasmic reticulum. These organelles accumulate Ca ions and release them during certain cellular events",
+        "predicted_answer": "Calcium ion storage occurs in intracellular organelles, including the mitochondria and the endoplasmic reticulum. These organelles accumulate Ca ions and release them during certain cellular events",
+        "gold_answers": [
+            "endoplasmic reticulum",
+            "mitochondria"
+        ],
+        "em": 0,
+        "f1": 0.15384615384615385
+    },
+    {
+        "id": "single_nq_dev_6183",
+        "prediction": "Charlie Daniels Band",
+        "predicted_answer": "Charlie Daniels Band",
+        "gold_answers": [
+            "The Charlie Daniels Band"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_35",
+        "prediction": "Roger Federer",
+        "predicted_answer": "Roger Federer",
+        "gold_answers": [
+            "Roger Federer"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1667",
+        "prediction": "Michigan State",
+        "predicted_answer": "Michigan State",
+        "gold_answers": [
+            "Michigan State"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2059",
+        "prediction": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a 1968 Dodge Charger, which is a signature vehicle for his character. Additionally, he also drives a modified 2016 Dodge Charger during the film's action sequences. The film features various other cars as well, but these two are particularly associated with Dom's character",
+        "predicted_answer": "In \\\"The Fate of the Furious,\\\" Dominic Toretto, played by Vin Diesel, drives several cars throughout the film. Notably, he drives a 1968 Dodge Charger, which is a signature vehicle for his character. Additionally, he also drives a modified 2016 Dodge Charger during the film's action sequences. The film features various other cars as well, but these two are particularly associated with Dom's character",
+        "gold_answers": [
+            "1970 Dodge Charger"
+        ],
+        "em": 0,
+        "f1": 0.06779661016949153
+    },
+    {
+        "id": "single_nq_dev_1428",
+        "prediction": "during World War I",
+        "predicted_answer": "during World War I",
+        "gold_answers": [
+            "1968"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_47",
+        "prediction": "Sorry, but I can't provide the lyrics to \\\"Hello Good Morning\\\" by Diddy featuring Nicki Minaj. However, I can summarize the song or discuss its themes if you'd like!",
+        "predicted_answer": "Sorry, but I can't provide the lyrics to \\\"Hello Good Morning\\\" by Diddy featuring Nicki Minaj. However, I can summarize the song or discuss its themes if you'd like!",
+        "gold_answers": [
+            "Official Remix"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4464",
+        "prediction": "The Observer",
+        "predicted_answer": "The Observer",
+        "gold_answers": [
+            "The Observer"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2436",
+        "prediction": "motor unit",
+        "predicted_answer": "motor unit",
+        "gold_answers": [
+            "A motor unit"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2527",
+        "prediction": "Curry Grant",
+        "predicted_answer": "Curry Grant",
+        "gold_answers": [
+            "Curry Grant"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2708",
+        "prediction": "June 22, 2018",
+        "predicted_answer": "June 22, 2018",
+        "gold_answers": [
+            "June 22 , 2018"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4589",
+        "prediction": "The National Song of India, \\\"Vande Mataram,\\\" was translated into English by various individuals over time. One notable translation was done by the poet and writer Aurobindo Ghosh. However, there may be other translations as well, as the song has been interpreted and translated by different people. If you are looking for a specific translation or translator, please provide more details",
+        "predicted_answer": "The National Song of India, \\\"Vande Mataram,\\\" was translated into English by various individuals over time. One notable translation was done by the poet and writer Aurobindo Ghosh. However, there may be other translations as well, as the song has been interpreted and translated by different people. If you are looking for a specific translation or translator, please provide more details",
+        "gold_answers": [
+            "Tagore"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_318",
+        "prediction": "1969",
+        "predicted_answer": "1969",
+        "gold_answers": [
+            "May 1950"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6164",
+        "prediction": "Significant education reform efforts began in the 20th century, particularly from the 1980s",
+        "predicted_answer": "Significant education reform efforts began in the 20th century, particularly from the 1980s",
+        "gold_answers": [
+            "1980s"
+        ],
+        "em": 0,
+        "f1": 0.16666666666666669
+    },
+    {
+        "id": "single_nq_dev_3367",
+        "prediction": "The girl who plays Leslie in the film \\\"Bridge to Terabithia\\\" is AnnaSophia Robb",
+        "predicted_answer": "The girl who plays Leslie in the film \\\"Bridge to Terabithia\\\" is AnnaSophia Robb",
+        "gold_answers": [
+            "AnnaSophia Robb"
+        ],
+        "em": 0,
+        "f1": 0.2857142857142857
+    },
+    {
+        "id": "single_nq_dev_3963",
+        "prediction": "1997",
+        "predicted_answer": "1997",
+        "gold_answers": [
+            "April 10 , 1997"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_88",
+        "prediction": "The only Kaurava who survived the Kurukshetra War is Yuyutsu. He was the son of Dhritarashtra and a maidservant, and he chose to side with the Pandavas during the war",
+        "predicted_answer": "The only Kaurava who survived the Kurukshetra War is Yuyutsu. He was the son of Dhritarashtra and a maidservant, and he chose to side with the Pandavas during the war",
+        "gold_answers": [
+            "Yuyutsu"
+        ],
+        "em": 0,
+        "f1": 0.07999999999999999
+    },
+    {
+        "id": "single_nq_dev_6231",
+        "prediction": "first week of April",
+        "predicted_answer": "first week of April",
+        "gold_answers": [
+            "Thursday , March 29"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2495",
+        "prediction": "To obtain a patent, you typically need to file an application with the relevant government authority responsible for intellectual property in your country. In the United States, for example, you would file a patent application with the United States Patent and Trademark Office (USPTO). In other countries, you would go to the respective patent office, such as the European Patent Office (EPO) in Europe or the Intellectual Property Office (IPO) in the UK. It's advisable to consult with a patent attorney or agent to navigate the process effectively",
+        "predicted_answer": "To obtain a patent, you typically need to file an application with the relevant government authority responsible for intellectual property in your country. In the United States, for example, you would file a patent application with the United States Patent and Trademark Office (USPTO). In other countries, you would go to the respective patent office, such as the European Patent Office (EPO) in Europe or the Intellectual Property Office (IPO) in the UK. It's advisable to consult with a patent attorney or agent to navigate the process effectively",
+        "gold_answers": [
+            "the relevant patent office"
+        ],
+        "em": 0,
+        "f1": 0.07594936708860758
+    },
+    {
+        "id": "single_nq_dev_1721",
+        "prediction": "Thomas Doherty",
+        "predicted_answer": "Thomas Doherty",
+        "gold_answers": [
+            "Thomas Doherty"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3387",
+        "prediction": "Abraham Lincoln",
+        "predicted_answer": "Abraham Lincoln",
+        "gold_answers": [
+            "Abraham Lincoln"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5839",
+        "prediction": "49%",
+        "predicted_answer": "49%",
+        "gold_answers": [
+            "8.6 %"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5129",
+        "prediction": "The Tampa Bay Buccaneers went to the Super Bowl in 2003 and 2021",
+        "predicted_answer": "The Tampa Bay Buccaneers went to the Super Bowl in 2003 and 2021",
+        "gold_answers": [
+            "January 26 , 2003"
+        ],
+        "em": 0,
+        "f1": 0.14285714285714288
+    },
+    {
+        "id": "single_nq_dev_6397",
+        "prediction": "Claude Joseph Rouget de Lisle",
+        "predicted_answer": "Claude Joseph Rouget de Lisle",
+        "gold_answers": [
+            "Claude Joseph Rouget de Lisle"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2006",
+        "prediction": "The Dukes of Hazzard takes place in Hazard County, Georgia",
+        "predicted_answer": "The Dukes of Hazzard takes place in Hazard County, Georgia",
+        "gold_answers": [
+            "Hazzard County , Georgia"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_5704",
+        "prediction": "The movie about Frankie Valli and The Four Seasons is titled \\\"Jersey Boys.\\\" It is an adaptation of the musical of the same name, which dramatizes the lives and careers of the band members, including Frankie Valli. The film was directed by Clint Eastwood and was released in 2014",
+        "predicted_answer": "The movie about Frankie Valli and The Four Seasons is titled \\\"Jersey Boys.\\\" It is an adaptation of the musical of the same name, which dramatizes the lives and careers of the band members, including Frankie Valli. The film was directed by Clint Eastwood and was released in 2014",
+        "gold_answers": [
+            "Jersey Boys"
+        ],
+        "em": 0,
+        "f1": 0.09302325581395349
+    },
+    {
+        "id": "single_nq_dev_732",
+        "prediction": "The provided text does not specify the latest version of Apple Mail. Therefore, I cannot provide an answer based on the information given. For the most accurate and up-to-date information, please refer to Apple's official website or documentation regarding Apple Mail",
+        "predicted_answer": "The provided text does not specify the latest version of Apple Mail. Therefore, I cannot provide an answer based on the information given. For the most accurate and up-to-date information, please refer to Apple's official website or documentation regarding Apple Mail",
+        "gold_answers": [
+            "OS X El Capitan"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5036",
+        "prediction": "a statue by Ron Adamson",
+        "predicted_answer": "a statue by Ron Adamson",
+        "gold_answers": [
+            "Glenn Frey"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5676",
+        "prediction": "October 13, 2017",
+        "predicted_answer": "October 13, 2017",
+        "gold_answers": [
+            "October 13 , 2017"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4342",
+        "prediction": "Bob Saget",
+        "predicted_answer": "Bob Saget",
+        "gold_answers": [
+            "Bob Saget"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4833",
+        "prediction": "September 1, 2008",
+        "predicted_answer": "September 1, 2008",
+        "gold_answers": [
+            "September 1 , 2008"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5570",
+        "prediction": "Andy Gibb",
+        "predicted_answer": "Andy Gibb",
+        "gold_answers": [
+            "Natalie Cole"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2746",
+        "prediction": "Black Sea",
+        "predicted_answer": "Black Sea",
+        "gold_answers": [
+            "Black Sea"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1445",
+        "prediction": "season 8",
+        "predicted_answer": "season 8",
+        "gold_answers": [
+            "the eighth season"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_1433",
+        "prediction": "The song \\\"I'm Coming Over\\\" is performed by Chris Young",
+        "predicted_answer": "The song \\\"I'm Coming Over\\\" is performed by Chris Young",
+        "gold_answers": [
+            "Chris Young"
+        ],
+        "em": 0,
+        "f1": 0.3636363636363636
+    },
+    {
+        "id": "single_nq_dev_842",
+        "prediction": "The mountain range that contains the highest mountains in all of Europe is the Alps. The Alps are known for their towering peaks, including Mont Blanc, which is the highest mountain in the range and in Europe",
+        "predicted_answer": "The mountain range that contains the highest mountains in all of Europe is the Alps. The Alps are known for their towering peaks, including Mont Blanc, which is the highest mountain in the range and in Europe",
+        "gold_answers": [
+            "The Alps"
+        ],
+        "em": 0,
+        "f1": 0.0625
+    },
+    {
+        "id": "single_nq_dev_4580",
+        "prediction": "John Williams",
+        "predicted_answer": "John Williams",
+        "gold_answers": [
+            "Lawrence Kasdan",
+            "Michael Arndt",
+            "J.J. Abrams"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6375",
+        "prediction": "2005",
+        "predicted_answer": "2005",
+        "gold_answers": [
+            "2005"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1287",
+        "prediction": "Paul Simon",
+        "predicted_answer": "Paul Simon",
+        "gold_answers": [
+            "Paul Simon"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3850",
+        "prediction": "volcanic arc",
+        "predicted_answer": "volcanic arc",
+        "gold_answers": [
+            "continental volcanic arcs"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_5670",
+        "prediction": "June 22, 2018",
+        "predicted_answer": "June 22, 2018",
+        "gold_answers": [
+            "June 22 , 2018"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5380",
+        "prediction": "December 28, 2016",
+        "predicted_answer": "December 28, 2016",
+        "gold_answers": [
+            "December 28 , 2016"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3918",
+        "prediction": "February 5, 2017",
+        "predicted_answer": "February 5, 2017",
+        "gold_answers": [
+            "Super Bowl LI"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3826",
+        "prediction": "The last season of \\\"Samurai Jack,\\\" which is Season 5, premiered on March 11, 2017, and concluded on May 20, 2017. There have been no new episodes released since then, as the series has officially ended. If you are looking for new content related to \\\"Samurai Jack,\\\" you may want to check for any potential spin-offs or related projects, but as of now, there are no new episodes scheduled",
+        "predicted_answer": "The last season of \\\"Samurai Jack,\\\" which is Season 5, premiered on March 11, 2017, and concluded on May 20, 2017. There have been no new episodes released since then, as the series has officially ended. If you are looking for new content related to \\\"Samurai Jack,\\\" you may want to check for any potential spin-offs or related projects, but as of now, there are no new episodes scheduled",
+        "gold_answers": [
+            "March 11 , 2017"
+        ],
+        "em": 0,
+        "f1": 0.08571428571428572
+    },
+    {
+        "id": "single_nq_dev_4524",
+        "prediction": "The second movie of the Pirates of the Caribbean series is \\\"Pirates of the Caribbean: Dead Man's Chest.\\\"",
+        "predicted_answer": "The second movie of the Pirates of the Caribbean series is \\\"Pirates of the Caribbean: Dead Man's Chest.\\\"",
+        "gold_answers": [
+            "Dead Man 's Chest"
+        ],
+        "em": 0,
+        "f1": 0.22222222222222224
+    },
+    {
+        "id": "single_nq_dev_2836",
+        "prediction": "Ove Johansson holds the record for the longest field goal",
+        "predicted_answer": "Ove Johansson holds the record for the longest field goal",
+        "gold_answers": [
+            "Matt Prater"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4222",
+        "prediction": "2000",
+        "predicted_answer": "2000",
+        "gold_answers": [
+            "2000"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_658",
+        "prediction": "haricot beans (navy beans)",
+        "predicted_answer": "haricot beans (navy beans)",
+        "gold_answers": [
+            "baked beans"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_nq_dev_6421",
+        "prediction": "To convert polyunsaturated fats into saturated fats, a process called hydrogenation is typically used. This process involves adding hydrogen atoms to the unsaturated fat molecules, which effectively removes the double bonds in the fatty acid chains. Here\\u2019s a brief overview of how it works:",
+        "predicted_answer": "To convert polyunsaturated fats into saturated fats, a process called hydrogenation is typically used. This process involves adding hydrogen atoms to the unsaturated fat molecules, which effectively removes the double bonds in the fatty acid chains. Here\\u2019s a brief overview of how it works:",
+        "gold_answers": [
+            "Full hydrogenation"
+        ],
+        "em": 0,
+        "f1": 0.048780487804878044
+    },
+    {
+        "id": "single_nq_dev_3557",
+        "prediction": "Moctezuma II",
+        "predicted_answer": "Moctezuma II",
+        "gold_answers": [
+            "emperor Cuauhtemoc"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5437",
+        "prediction": "In Pok\\u00e9mon Yellow, you play as a character named Ash Ketchum, who is based on the protagonist from the Pok\\u00e9mon anime series. The game follows Ash's journey to become a Pok\\u00e9mon Master, and it features Pikachu as your starter Pok\\u00e9mon, which follows you around in the game",
+        "predicted_answer": "In Pok\\u00e9mon Yellow, you play as a character named Ash Ketchum, who is based on the protagonist from the Pok\\u00e9mon anime series. The game follows Ash's journey to become a Pok\\u00e9mon Master, and it features Pikachu as your starter Pok\\u00e9mon, which follows you around in the game",
+        "gold_answers": [
+            "a wild Pikachu"
+        ],
+        "em": 0,
+        "f1": 0.046511627906976744
+    },
+    {
+        "id": "single_nq_dev_4945",
+        "prediction": "The provided information does not specify the date of the last juvenile executed in the United States. Therefore, I cannot provide an answer based on the given text. If you need information on this topic, I recommend checking reliable sources or databases that track executions in the U.S",
+        "predicted_answer": "The provided information does not specify the date of the last juvenile executed in the United States. Therefore, I cannot provide an answer based on the given text. If you need information on this topic, I recommend checking reliable sources or databases that track executions in the U.S",
+        "gold_answers": [
+            "April 10 , 1959"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5287",
+        "prediction": "August 1, 2014",
+        "predicted_answer": "August 1, 2014",
+        "gold_answers": [
+            "August 1 , 2014"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2175",
+        "prediction": "The first Indian woman who climbed Mt. Everest twice is Anshu Jamsenpa",
+        "predicted_answer": "The first Indian woman who climbed Mt. Everest twice is Anshu Jamsenpa",
+        "gold_answers": [
+            "Santosh Yadav"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5063",
+        "prediction": "The movie \\\"Jurassic World\\\" was released on June 12, 2015",
+        "predicted_answer": "The movie \\\"Jurassic World\\\" was released on June 12, 2015",
+        "gold_answers": [
+            "2015"
+        ],
+        "em": 0,
+        "f1": 0.19999999999999998
+    },
+    {
+        "id": "single_nq_dev_2246",
+        "prediction": "The Seven Wonders of the Ancient World traditionally include:",
+        "predicted_answer": "The Seven Wonders of the Ancient World traditionally include:",
+        "gold_answers": [
+            "Colossus of Rhodes",
+            "Great Pyramid of Giza",
+            "Temple of Artemis",
+            "Lighthouse of Alexandria",
+            "Mausoleum at Halicarnassus",
+            "Hanging Gardens",
+            "Statue of Zeus"
+        ],
+        "em": 0,
+        "f1": 0.2
+    },
+    {
+        "id": "single_nq_dev_5506",
+        "prediction": "\\\"Halo Wars 2\\\" is set in the year 2559, which is 28 years after the events of the original \\\"Halo Wars\\\" (2009) and shortly after the events of \\\"Halo 5: Guardians\\\" (2015)",
+        "predicted_answer": "\\\"Halo Wars 2\\\" is set in the year 2559, which is 28 years after the events of the original \\\"Halo Wars\\\" (2009) and shortly after the events of \\\"Halo 5: Guardians\\\" (2015)",
+        "gold_answers": [
+            "in 2559"
+        ],
+        "em": 0,
+        "f1": 0.13333333333333333
+    },
+    {
+        "id": "single_nq_dev_447",
+        "prediction": "Jackie DeShannon",
+        "predicted_answer": "Jackie DeShannon",
+        "gold_answers": [
+            "Jackie DeShannon"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4296",
+        "prediction": "The primary difference between minority and majority government lies in the number of seats held by the governing party or coalition in the parliament:",
+        "predicted_answer": "The primary difference between minority and majority government lies in the number of seats held by the governing party or coalition in the parliament:",
+        "gold_answers": [
+            "much less stable"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4575",
+        "prediction": "The information provided does not specify the most recent year Scotland won the Calcutta Cup. It only states that Scotland were the most recent winners at the time of the writing. Therefore, I cannot provide a specific year for the last time Scotland won the Calcutta Cup based on the given text",
+        "predicted_answer": "The information provided does not specify the most recent year Scotland won the Calcutta Cup. It only states that Scotland were the most recent winners at the time of the writing. Therefore, I cannot provide a specific year for the last time Scotland won the Calcutta Cup based on the given text",
+        "gold_answers": [
+            "2018"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5905",
+        "prediction": "Gale",
+        "predicted_answer": "Gale",
+        "gold_answers": [
+            "Gale"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1647",
+        "prediction": "6 September 1939",
+        "predicted_answer": "6 September 1939",
+        "gold_answers": [
+            "September 1939"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_1427",
+        "prediction": "1980 and 2008",
+        "predicted_answer": "1980 and 2008",
+        "gold_answers": [
+            "1980",
+            "2008"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_6396",
+        "prediction": "Grover Cleveland",
+        "predicted_answer": "Grover Cleveland",
+        "gold_answers": [
+            "President Grover Cleveland"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_4056",
+        "prediction": "Manuel Avila Camacho",
+        "predicted_answer": "Manuel Avila Camacho",
+        "gold_answers": [
+            "President L\u00e1zaro C\u00e1rdenas"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3185",
+        "prediction": "The actress who plays Callie on \\\"The Fosters\\\" is Maia Mitchell",
+        "predicted_answer": "The actress who plays Callie on \\\"The Fosters\\\" is Maia Mitchell",
+        "gold_answers": [
+            "Maia Mitchell"
+        ],
+        "em": 0,
+        "f1": 0.3636363636363636
+    },
+    {
+        "id": "single_nq_dev_1827",
+        "prediction": "His father's funeral takes place on his 19th birthday, the same day as the Harlem Riot of 1943",
+        "predicted_answer": "His father's funeral takes place on his 19th birthday, the same day as the Harlem Riot of 1943",
+        "gold_answers": [
+            "his father 's funeral"
+        ],
+        "em": 0,
+        "f1": 0.2
+    },
+    {
+        "id": "single_nq_dev_870",
+        "prediction": "Kygo featuring Parson James",
+        "predicted_answer": "Kygo featuring Parson James",
+        "gold_answers": [
+            "Parson James"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_1402",
+        "prediction": "Petula Clark",
+        "predicted_answer": "Petula Clark",
+        "gold_answers": [
+            "Chicago"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3844",
+        "prediction": "glaciers",
+        "predicted_answer": "glaciers",
+        "gold_answers": [
+            "glacier"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5259",
+        "prediction": "The Righteous Brothers",
+        "predicted_answer": "The Righteous Brothers",
+        "gold_answers": [
+            "Bobby Hatfield"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4475",
+        "prediction": "1983",
+        "predicted_answer": "1983",
+        "gold_answers": [
+            "1983"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3535",
+        "prediction": "Los Angeles",
+        "predicted_answer": "Los Angeles",
+        "gold_answers": [
+            "Los Angeles"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_797",
+        "prediction": "The school shooter in the Sandy Hook Elementary School shooting was Adam Peter Lanza",
+        "predicted_answer": "The school shooter in the Sandy Hook Elementary School shooting was Adam Peter Lanza",
+        "gold_answers": [
+            "Adam Lanza"
+        ],
+        "em": 0,
+        "f1": 0.2857142857142857
+    },
+    {
+        "id": "single_nq_dev_348",
+        "prediction": "The two most successful teams in Spain's soccer clubs are typically considered to be FC Barcelona and Real Madrid. These clubs have a rich history of success in both domestic and international competitions",
+        "predicted_answer": "The two most successful teams in Spain's soccer clubs are typically considered to be FC Barcelona and Real Madrid. These clubs have a rich history of success in both domestic and international competitions",
+        "gold_answers": [
+            "Real Madrid",
+            "Barcelona"
+        ],
+        "em": 0,
+        "f1": 0.12121212121212122
+    },
+    {
+        "id": "single_nq_dev_6313",
+        "prediction": "May 11, 2011",
+        "predicted_answer": "May 11, 2011",
+        "gold_answers": [
+            "May 11 , 2011"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1862",
+        "prediction": "The role of a makeup artist involves applying makeup to enhance or alter the appearance of individuals, particularly in the context of theater, film, television, fashion, and photography. Makeup artists are responsible for creating the desired look for characters or models, which may include techniques such as contouring, highlighting, and special effects makeup. They must have a strong understanding of color theory, skin types, and the effects of lighting on makeup. Additionally, makeup artists often work closely with directors, photographers, and other artists to achieve the best visual results for performances or shoots. They may also be involved in maintaining hygiene and sanitation standards, especially when working with multiple clients",
+        "predicted_answer": "The role of a makeup artist involves applying makeup to enhance or alter the appearance of individuals, particularly in the context of theater, film, television, fashion, and photography. Makeup artists are responsible for creating the desired look for characters or models, which may include techniques such as contouring, highlighting, and special effects makeup. They must have a strong understanding of color theory, skin types, and the effects of lighting on makeup. Additionally, makeup artists often work closely with directors, photographers, and other artists to achieve the best visual results for performances or shoots. They may also be involved in maintaining hygiene and sanitation standards, especially when working with multiple clients",
+        "gold_answers": [
+            "applying makeup and prosthetics"
+        ],
+        "em": 0,
+        "f1": 0.056603773584905655
+    },
+    {
+        "id": "single_nq_dev_1447",
+        "prediction": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known as \\\"The World's Only Corn Palace.\\\" It features a Moorish Revival architectural style and is decorated with crop art, with murals and designs made from corn and other grains. Each year, a new design is constructed, making it a popular tourist destination that attracts up to 500,000 visitors annually. The Corn Palace serves as a venue for concerts, sports events, exhibits, and community activities, and it is celebrated with an annual festival known as the Corn Palace Festival",
+        "predicted_answer": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known as \\\"The World's Only Corn Palace.\\\" It features a Moorish Revival architectural style and is decorated with crop art, with murals and designs made from corn and other grains. Each year, a new design is constructed, making it a popular tourist destination that attracts up to 500,000 visitors annually. The Corn Palace serves as a venue for concerts, sports events, exhibits, and community activities, and it is celebrated with an annual festival known as the Corn Palace Festival",
+        "gold_answers": [
+            "a multi-purpose arena / facility"
+        ],
+        "em": 0,
+        "f1": 0.07058823529411765
+    },
+    {
+        "id": "single_nq_dev_59",
+        "prediction": "Mason on \\\"Wizards of Waverly Place\\\" was played by actor Gregg Sulkin",
+        "predicted_answer": "Mason on \\\"Wizards of Waverly Place\\\" was played by actor Gregg Sulkin",
+        "gold_answers": [
+            "Sulkin"
+        ],
+        "em": 0,
+        "f1": 0.15384615384615385
+    },
+    {
+        "id": "single_nq_dev_1150",
+        "prediction": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "predicted_answer": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+        "gold_answers": [
+            "C.V. Raman",
+            "Sarvepalli Radhakrishnan",
+            "C. Rajagopalachari"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_4757",
+        "prediction": "1352",
+        "predicted_answer": "1352",
+        "gold_answers": [
+            "12 December 1911"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3242",
+        "prediction": "Charles Dickens",
+        "predicted_answer": "Charles Dickens",
+        "gold_answers": [
+            "Charles Dickens"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3811",
+        "prediction": "Jim Croce",
+        "predicted_answer": "Jim Croce",
+        "gold_answers": [
+            "singer - songwriter Jim Croce"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_6186",
+        "prediction": "The intellectuals of the Enlightenment were known by the French term \\\"les Lumi\\u00e8res.\\\"",
+        "predicted_answer": "The intellectuals of the Enlightenment were known by the French term \\\"les Lumi\\u00e8res.\\\"",
+        "gold_answers": [
+            "Age of Enlightenment"
+        ],
+        "em": 0,
+        "f1": 0.30769230769230765
+    },
+    {
+        "id": "single_nq_dev_1143",
+        "prediction": "University of California, Berkeley",
+        "predicted_answer": "University of California, Berkeley",
+        "gold_answers": [
+            "University of Albuquerque"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_80",
+        "prediction": "Blue Cross Blue Shield Association",
+        "predicted_answer": "Blue Cross Blue Shield Association",
+        "gold_answers": [
+            "1929"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4971",
+        "prediction": "Vincent van Gogh is known for his post-impressionist style of art. His work is characterized by bold colors, expressive brushwork, and emotional depth, often focusing on themes of nature, peasant life, and personal experiences",
+        "predicted_answer": "Vincent van Gogh is known for his post-impressionist style of art. His work is characterized by bold colors, expressive brushwork, and emotional depth, often focusing on themes of nature, peasant life, and personal experiences",
+        "gold_answers": [
+            "Post-Impressionist"
+        ],
+        "em": 0,
+        "f1": 0.05714285714285715
+    },
+    {
+        "id": "single_nq_dev_2785",
+        "prediction": "The character Brick Heck is played by actor Atticus Shaffer in the television series \\\"The Middle.\\\"",
+        "predicted_answer": "The character Brick Heck is played by actor Atticus Shaffer in the television series \\\"The Middle.\\\"",
+        "gold_answers": [
+            "Atticus Shaffer"
+        ],
+        "em": 0,
+        "f1": 0.2666666666666667
+    },
+    {
+        "id": "single_nq_dev_1006",
+        "prediction": "May 1945",
+        "predicted_answer": "May 1945",
+        "gold_answers": [
+            "1945"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_5022",
+        "prediction": "The Leap.",
+        "predicted_answer": "The Leap.",
+        "gold_answers": [
+            "The Leap"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3299",
+        "prediction": "one",
+        "predicted_answer": "one",
+        "gold_answers": [
+            "1"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5642",
+        "prediction": "1973",
+        "predicted_answer": "1973",
+        "gold_answers": [
+            "1949"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4609",
+        "prediction": "Bryan Dattilo",
+        "predicted_answer": "Bryan Dattilo",
+        "gold_answers": [
+            "Bryan Ronald Dattilo"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_6364",
+        "prediction": "circular",
+        "predicted_answer": "circular",
+        "gold_answers": [
+            "circular"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6193",
+        "prediction": "The text provided does not specify a particular individual who advocated for supervising probationers and revoking probation if the accused returned to crime. It discusses the general practices and legal frameworks surrounding probation, including the role of probation officers and the conditions under which probation may be revoked. Therefore, there is no specific answer to your question based on the information given",
+        "predicted_answer": "The text provided does not specify a particular individual who advocated for supervising probationers and revoking probation if the accused returned to crime. It discusses the general practices and legal frameworks surrounding probation, including the role of probation officers and the conditions under which probation may be revoked. Therefore, there is no specific answer to your question based on the information given",
+        "gold_answers": [
+            "John Augustus"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2475",
+        "prediction": "R\\u00e5sunda Stadium, Solna, Sweden",
+        "predicted_answer": "R\\u00e5sunda Stadium, Solna, Sweden",
+        "gold_answers": [
+            "Uruguay"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2752",
+        "prediction": "Khal Drogo",
+        "predicted_answer": "Khal Drogo",
+        "gold_answers": [
+            "Dothraki horselord Khal Drogo"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_3482",
+        "prediction": "1854",
+        "predicted_answer": "1854",
+        "gold_answers": [
+            "1879"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2513",
+        "prediction": "April 1972",
+        "predicted_answer": "April 1972",
+        "gold_answers": [
+            "April 1972"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2651",
+        "prediction": "Dolly Parton",
+        "predicted_answer": "Dolly Parton",
+        "gold_answers": [
+            "Dolly Parton"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2584",
+        "prediction": "common law",
+        "predicted_answer": "common law",
+        "gold_answers": [
+            "Common law"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3054",
+        "prediction": "Animals that live in water are commonly referred to as \\\"aquatic animals.\\\" This category includes a wide variety of species such as fish, amphibians, marine mammals, and invertebrates",
+        "predicted_answer": "Animals that live in water are commonly referred to as \\\"aquatic animals.\\\" This category includes a wide variety of species such as fish, amphibians, marine mammals, and invertebrates",
+        "gold_answers": [
+            "aquatic animal"
+        ],
+        "em": 0,
+        "f1": 0.06896551724137931
+    },
+    {
+        "id": "single_nq_dev_3007",
+        "prediction": "2017",
+        "predicted_answer": "2017",
+        "gold_answers": [
+            "2017"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5488",
+        "prediction": "The captain of a cruise ship typically sits in the ship's bridge, which is the command center where navigation and operations are managed. The bridge is equipped with various instruments and controls necessary for steering the ship and monitoring its systems",
+        "predicted_answer": "The captain of a cruise ship typically sits in the ship's bridge, which is the command center where navigation and operations are managed. The bridge is equipped with various instruments and controls necessary for steering the ship and monitoring its systems",
+        "gold_answers": [
+            "The bridge"
+        ],
+        "em": 0,
+        "f1": 0.05555555555555556
+    },
+    {
+        "id": "single_nq_dev_1964",
+        "prediction": "southern France",
+        "predicted_answer": "southern France",
+        "gold_answers": [
+            "Central Europe"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1438",
+        "prediction": "Wally Johnson and Bob Brown",
+        "predicted_answer": "Wally Johnson and Bob Brown",
+        "gold_answers": [
+            "Wally Johnson"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_894",
+        "prediction": "The information provided does not specify a particular individual who voiced the Disney Channel. The Disney Channel has featured various voice-over artists and announcers over the years, but no specific name is mentioned in the text. If you are looking for a specific voice actor or announcer associated with the Disney Channel, please provide more context or specify which aspect you are referring to",
+        "predicted_answer": "The information provided does not specify a particular individual who voiced the Disney Channel. The Disney Channel has featured various voice-over artists and announcers over the years, but no specific name is mentioned in the text. If you are looking for a specific voice actor or announcer associated with the Disney Channel, please provide more context or specify which aspect you are referring to",
+        "gold_answers": [
+            "Cameron",
+            "`` Buzz '' Brainard"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3269",
+        "prediction": "H. Jon Benjamin",
+        "predicted_answer": "H. Jon Benjamin",
+        "gold_answers": [
+            "H. Jon Benjamin"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_208",
+        "prediction": "The information provided does not specify who Sweeney Todd met on the ship back to London. The details about Sweeney Todd primarily focus on his character as a barber and the various adaptations of his story, but do not include specific encounters during his journey. Therefore, I cannot provide an answer to that question based on the available information",
+        "predicted_answer": "The information provided does not specify who Sweeney Todd met on the ship back to London. The details about Sweeney Todd primarily focus on his character as a barber and the various adaptations of his story, but do not include specific encounters during his journey. Therefore, I cannot provide an answer to that question based on the available information",
+        "gold_answers": [
+            "Anthony Hope"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1944",
+        "prediction": "Dean Winters",
+        "predicted_answer": "Dean Winters",
+        "gold_answers": [
+            "Winters"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_4946",
+        "prediction": "Hester v. United States",
+        "predicted_answer": "Hester v. United States",
+        "gold_answers": [
+            "Hester v. United States"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1230",
+        "prediction": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of cardiac muscle and control the heart rate",
+        "predicted_answer": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of cardiac muscle and control the heart rate",
+        "gold_answers": [
+            "sinoatrial node"
+        ],
+        "em": 0,
+        "f1": 0.13333333333333333
+    },
+    {
+        "id": "single_nq_dev_1384",
+        "prediction": "Robby Benson",
+        "predicted_answer": "Robby Benson",
+        "gold_answers": [
+            "Dan Stevens"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2427",
+        "prediction": "The Asian girl in \\\"Deadpool 2\\\" is played by actress Zazie Beetz, who portrays the character Domino",
+        "predicted_answer": "The Asian girl in \\\"Deadpool 2\\\" is played by actress Zazie Beetz, who portrays the character Domino",
+        "gold_answers": [
+            "Shioli Kutsuna"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2289",
+        "prediction": "Shruti Haasan",
+        "predicted_answer": "Shruti Haasan",
+        "gold_answers": [
+            "Sona"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1767",
+        "prediction": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages, often with a Southwestern or Mexican motif, and is popular in Latin America and Spain",
+        "predicted_answer": "In English, \\\"cantina\\\" translates to \\\"bar\\\" or \\\"tavern.\\\" It refers to a type of establishment that serves alcoholic beverages, often with a Southwestern or Mexican motif, and is popular in Latin America and Spain",
+        "gold_answers": [
+            "bar room",
+            "saloon"
+        ],
+        "em": 0,
+        "f1": 0.058823529411764705
+    },
+    {
+        "id": "single_nq_dev_1497",
+        "prediction": "November 26, 1949",
+        "predicted_answer": "November 26, 1949",
+        "gold_answers": [
+            "26 November 1949"
+        ],
+        "em": 0,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1865",
+        "prediction": "2007",
+        "predicted_answer": "2007",
+        "gold_answers": [
+            "2007"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_352",
+        "prediction": "In season 2 of \\\"Orange Is the New Black,\\\" the character Vee Parker, played by Lorraine Toussaint, dies. She is killed by another inmate, Suzanne \\\"Crazy Eyes\\\" Warren, in the season finale",
+        "predicted_answer": "In season 2 of \\\"Orange Is the New Black,\\\" the character Vee Parker, played by Lorraine Toussaint, dies. She is killed by another inmate, Suzanne \\\"Crazy Eyes\\\" Warren, in the season finale",
+        "gold_answers": [
+            "Vee"
+        ],
+        "em": 0,
+        "f1": 0.06666666666666667
+    },
+    {
+        "id": "single_nq_dev_3926",
+        "prediction": "Dan Mintz",
+        "predicted_answer": "Dan Mintz",
+        "gold_answers": [
+            "Daniel Alexander Mintz"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_809",
+        "prediction": "nanometers (nm)",
+        "predicted_answer": "nanometers (nm)",
+        "gold_answers": [
+            "wave packet"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5386",
+        "prediction": "Caity Lotz",
+        "predicted_answer": "Caity Lotz",
+        "gold_answers": [
+            "Caity Lotz"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6487",
+        "prediction": "The provided excerpts do not specify a particular year when the federal law providing benefits for the unemployed was passed. They mention various temporary programs and extensions related to unemployment benefits, but do not give a definitive date for the original legislation. Therefore, I cannot provide an answer based on the information available",
+        "predicted_answer": "The provided excerpts do not specify a particular year when the federal law providing benefits for the unemployed was passed. They mention various temporary programs and extensions related to unemployment benefits, but do not give a definitive date for the original legislation. Therefore, I cannot provide an answer based on the information available",
+        "gold_answers": [
+            "1920"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2532",
+        "prediction": "Part of Oregon is in the Mountain Time Zone due to its proximity to Boise, Idaho. Specifically, most of the sparsely populated Malheur County, including its largest city, Ontario, and its county seat, Vale, observe Mountain Time. This time zone division occurs at the southwest corner of township 35S, range 37E, and continues east to the state line, then south along the Oregon-Idaho border to the Nevada state line. Local businesses and the Oregon Department of Transportation enforce the practice of Pacific Time, but some residents unofficially observe Mountain Time",
+        "predicted_answer": "Part of Oregon is in the Mountain Time Zone due to its proximity to Boise, Idaho. Specifically, most of the sparsely populated Malheur County, including its largest city, Ontario, and its county seat, Vale, observe Mountain Time. This time zone division occurs at the southwest corner of township 35S, range 37E, and continues east to the state line, then south along the Oregon-Idaho border to the Nevada state line. Local businesses and the Oregon Department of Transportation enforce the practice of Pacific Time, but some residents unofficially observe Mountain Time",
+        "gold_answers": [
+            "proximity to Boise , Idaho"
+        ],
+        "em": 0,
+        "f1": 0.09302325581395349
+    },
+    {
+        "id": "single_nq_dev_1875",
+        "prediction": "Swedish",
+        "predicted_answer": "Swedish",
+        "gold_answers": [
+            "Old Norse"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5171",
+        "prediction": "Auli\\u02bbi Cravalho and Alessia Cara",
+        "predicted_answer": "Auli\\u02bbi Cravalho and Alessia Cara",
+        "gold_answers": [
+            "Auli\u02bbi Cravalho"
+        ],
+        "em": 0,
+        "f1": 0.28571428571428575
+    },
+    {
+        "id": "single_nq_dev_2879",
+        "prediction": "East Asia",
+        "predicted_answer": "East Asia",
+        "gold_answers": [
+            "Japan"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6144",
+        "prediction": "Jeri Ryan",
+        "predicted_answer": "Jeri Ryan",
+        "gold_answers": [
+            "Jeri Lynn Ryan"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_2181",
+        "prediction": "The Trump Organization",
+        "predicted_answer": "The Trump Organization",
+        "gold_answers": [
+            "The Trump Organization",
+            "Donald Trump"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1228",
+        "prediction": "Brooks Koepka",
+        "predicted_answer": "Brooks Koepka",
+        "gold_answers": [
+            "Brooks Koepka"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5983",
+        "prediction": "Christopher Sieber",
+        "predicted_answer": "Christopher Sieber",
+        "gold_answers": [
+            "Haven Burton",
+            "Nikki Bentley",
+            "Kristine Yde Eriksen",
+            "Aymee Garcia",
+            "Alice Fearn"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_339",
+        "prediction": "twice",
+        "predicted_answer": "twice",
+        "gold_answers": [
+            "France"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2367",
+        "prediction": "1998",
+        "predicted_answer": "1998",
+        "gold_answers": [
+            "1998"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3177",
+        "prediction": "Alan Burgess",
+        "predicted_answer": "Alan Burgess",
+        "gold_answers": [
+            "Alan Burgess"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_507",
+        "prediction": "Eric Stonestreet",
+        "predicted_answer": "Eric Stonestreet",
+        "gold_answers": [
+            "Eric Stonestreet"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4535",
+        "prediction": "The morning after pill, also known as emergency contraception, was first approved for use in the United States in 1999. However, the specific formulation known as mifepristone (RU-486) was developed earlier and became available in France in 1988. The availability and regulations surrounding the morning after pill have evolved over the years",
+        "predicted_answer": "The morning after pill, also known as emergency contraception, was first approved for use in the United States in 1999. However, the specific formulation known as mifepristone (RU-486) was developed earlier and became available in France in 1988. The availability and regulations surrounding the morning after pill have evolved over the years",
+        "gold_answers": [
+            "October 1984"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2039",
+        "prediction": "January 16, 2018",
+        "predicted_answer": "January 16, 2018",
+        "gold_answers": [
+            "January 16 , 2018"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4908",
+        "prediction": "France",
+        "predicted_answer": "France",
+        "gold_answers": [
+            "France"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2861",
+        "prediction": "Texas",
+        "predicted_answer": "Texas",
+        "gold_answers": [
+            "Republic of Texas"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_238",
+        "prediction": "Bindi Irwin",
+        "predicted_answer": "Bindi Irwin",
+        "gold_answers": [
+            "Derek Hough",
+            "Bindi Irwin"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5167",
+        "prediction": "2020",
+        "predicted_answer": "2020",
+        "gold_answers": [
+            "2020"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4008",
+        "prediction": "Mia Talerico",
+        "predicted_answer": "Mia Talerico",
+        "gold_answers": [
+            "Bridgit Mendler"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4966",
+        "prediction": "mid-1950s",
+        "predicted_answer": "mid-1950s",
+        "gold_answers": [
+            "the mid-1950s"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4109",
+        "prediction": "In the movie \\\"Hook,\\\" Captain Hook is played by Dustin Hoffman",
+        "predicted_answer": "In the movie \\\"Hook,\\\" Captain Hook is played by Dustin Hoffman",
+        "gold_answers": [
+            "Dustin Hoffman"
+        ],
+        "em": 0,
+        "f1": 0.33333333333333337
+    },
+    {
+        "id": "single_nq_dev_4129",
+        "prediction": "2016",
+        "predicted_answer": "2016",
+        "gold_answers": [
+            "July 8 , 2016"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_5456",
+        "prediction": "September 2008",
+        "predicted_answer": "September 2008",
+        "gold_answers": [
+            "September 2008"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1090",
+        "prediction": "x-coordinate",
+        "predicted_answer": "x-coordinate",
+        "gold_answers": [
+            "the ordinate"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_995",
+        "prediction": "The faun in \\\"Pan's Labyrinth\\\" is played by Doug Jones",
+        "predicted_answer": "The faun in \\\"Pan's Labyrinth\\\" is played by Doug Jones",
+        "gold_answers": [
+            "Doug Jones"
+        ],
+        "em": 0,
+        "f1": 0.3636363636363636
+    },
+    {
+        "id": "single_nq_dev_569",
+        "prediction": "at the age of five",
+        "predicted_answer": "at the age of five",
+        "gold_answers": [
+            "age of five"
+        ],
+        "em": 0,
+        "f1": 0.8571428571428571
+    },
+    {
+        "id": "single_nq_dev_3262",
+        "prediction": "1858",
+        "predicted_answer": "1858",
+        "gold_answers": [
+            "1858"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4180",
+        "prediction": "The provided excerpts do not contain information regarding when the U.S. Navy became the biggest. Therefore, I cannot provide an answer based on the given text. If you have a specific time period or context in mind, please provide more details",
+        "predicted_answer": "The provided excerpts do not contain information regarding when the U.S. Navy became the biggest. Therefore, I cannot provide an answer based on the given text. If you have a specific time period or context in mind, please provide more details",
+        "gold_answers": [
+            "the 1920s"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4715",
+        "prediction": "Japan",
+        "predicted_answer": "Japan",
+        "gold_answers": [
+            "Swindon , England"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2908",
+        "prediction": "Olympic National Park is located on the Olympic Peninsula in the State of Washington, USA",
+        "predicted_answer": "Olympic National Park is located on the Olympic Peninsula in the State of Washington, USA",
+        "gold_answers": [
+            "Olympic Peninsula"
+        ],
+        "em": 0,
+        "f1": 0.2666666666666667
+    },
+    {
+        "id": "single_nq_dev_2567",
+        "prediction": "large urban areas like New York City and Miami",
+        "predicted_answer": "large urban areas like New York City and Miami",
+        "gold_answers": [
+            "New York City"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_3531",
+        "prediction": "1603",
+        "predicted_answer": "1603",
+        "gold_answers": [
+            "24 March 1603"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_4501",
+        "prediction": "tahr",
+        "predicted_answer": "tahr",
+        "gold_answers": [
+            "Asian artiodactyl ungulates"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1785",
+        "prediction": "In Georgia, the legal age to get a tattoo is 18 years old. Minors (those under 18) typically require parental consent to receive a tattoo. However, it's always best to check with local regulations or specific tattoo parlors, as policies may vary",
+        "predicted_answer": "In Georgia, the legal age to get a tattoo is 18 years old. Minors (those under 18) typically require parental consent to receive a tattoo. However, it's always best to check with local regulations or specific tattoo parlors, as policies may vary",
+        "gold_answers": [
+            "18"
+        ],
+        "em": 0,
+        "f1": 0.05
+    },
+    {
+        "id": "single_nq_dev_2675",
+        "prediction": "no one",
+        "predicted_answer": "no one",
+        "gold_answers": [
+            "Mick Jagger"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2824",
+        "prediction": "Asuka",
+        "predicted_answer": "Asuka",
+        "gold_answers": [
+            "Asuka",
+            "Shinsuke Nakamura"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_76",
+        "prediction": "June 15, 2017",
+        "predicted_answer": "June 15, 2017",
+        "gold_answers": [
+            "June 5 , 2017"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_1042",
+        "prediction": "The information provided does not specify who plays the character Sage in \\\"Step Up: High Water.\\\" Therefore, I cannot provide an answer based on the available data",
+        "predicted_answer": "The information provided does not specify who plays the character Sage in \\\"Step Up: High Water.\\\" Therefore, I cannot provide an answer based on the available data",
+        "gold_answers": [
+            "Ne - Yo"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4822",
+        "prediction": "The team with the most World Series wins in MLB history is the New York Yankees, with a total of 27 championships",
+        "predicted_answer": "The team with the most World Series wins in MLB history is the New York Yankees, with a total of 27 championships",
+        "gold_answers": [
+            "New York Yankees"
+        ],
+        "em": 0,
+        "f1": 0.2857142857142857
+    },
+    {
+        "id": "single_nq_dev_3117",
+        "prediction": "West",
+        "predicted_answer": "West",
+        "gold_answers": [
+            "West"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2732",
+        "prediction": "342",
+        "predicted_answer": "342",
+        "gold_answers": [
+            "342"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_873",
+        "prediction": "Columbia Pictures and Sony Pictures Animation",
+        "predicted_answer": "Columbia Pictures and Sony Pictures Animation",
+        "gold_answers": [
+            "Sony Pictures Animation"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_2136",
+        "prediction": "John Astin",
+        "predicted_answer": "John Astin",
+        "gold_answers": [
+            "John Astin"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5214",
+        "prediction": "The first million rand winner on the South African version of \\\"Who Wants to Be a Millionaire?\\\" was David Paterson, who won on March 19, 2000. He was the first winner outside of the United States",
+        "predicted_answer": "The first million rand winner on the South African version of \\\"Who Wants to Be a Millionaire?\\\" was David Paterson, who won on March 19, 2000. He was the first winner outside of the United States",
+        "gold_answers": [
+            "John Carpenter"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3751",
+        "prediction": "The Pontiac Trans Am is a significant element in the \\\"Smokey and the Bandit\\\" film series. It is portrayed as the Bandit's car, which is a character in the movie. The film features several 1977 Pontiac Trans Ams, although they were actually modified 1976-model cars with 1977 front ends. The Trans Am became iconic due to its association with the film and has been celebrated in various adaptations and commercials inspired by the movie. The car is known for its distinctive design and performance, contributing to the film's popularity and cultural impact",
+        "predicted_answer": "The Pontiac Trans Am is a significant element in the \\\"Smokey and the Bandit\\\" film series. It is portrayed as the Bandit's car, which is a character in the movie. The film features several 1977 Pontiac Trans Ams, although they were actually modified 1976-model cars with 1977 front ends. The Trans Am became iconic due to its association with the film and has been celebrated in various adaptations and commercials inspired by the movie. The car is known for its distinctive design and performance, contributing to the film's popularity and cultural impact",
+        "gold_answers": [
+            "1977 Pontiac Trans Am"
+        ],
+        "em": 0,
+        "f1": 0.09638554216867469
+    },
+    {
+        "id": "single_nq_dev_603",
+        "prediction": "Timon is a meerkat in \\\"The Lion King.\\\"",
+        "predicted_answer": "Timon is a meerkat in \\\"The Lion King.\\\"",
+        "gold_answers": [
+            "meerkat"
+        ],
+        "em": 0,
+        "f1": 0.2857142857142857
+    },
+    {
+        "id": "single_nq_dev_5433",
+        "prediction": "1903",
+        "predicted_answer": "1903",
+        "gold_answers": [
+            "1903"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4326",
+        "prediction": "Sam Cooke wrote \\\"Another Saturday Night,\\\" and Roger A. Graham and Spencer Williams wrote \\\"I Ain't Got Nobody.\\\"",
+        "predicted_answer": "Sam Cooke wrote \\\"Another Saturday Night,\\\" and Roger A. Graham and Spencer Williams wrote \\\"I Ain't Got Nobody.\\\"",
+        "gold_answers": [
+            "Sam Cooke"
+        ],
+        "em": 0,
+        "f1": 0.21052631578947367
+    },
+    {
+        "id": "single_nq_dev_4510",
+        "prediction": "18 number one hits",
+        "predicted_answer": "18 number one hits",
+        "gold_answers": [
+            "18"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_1349",
+        "prediction": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "predicted_answer": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+        "gold_answers": [
+            "The Battle of Bunker Hill"
+        ],
+        "em": 0,
+        "f1": 0.4444444444444445
+    },
+    {
+        "id": "single_nq_dev_1669",
+        "prediction": "Josh Dallas",
+        "predicted_answer": "Josh Dallas",
+        "gold_answers": [
+            "Joshua Paul Dallas"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_1450",
+        "prediction": "The information provided does not include any details about a show called \\\"The Gates\\\" or its release schedule for season 2. Therefore, I cannot provide an answer to your question. If you have any other questions or need information on a different topic, feel free to ask!",
+        "predicted_answer": "The information provided does not include any details about a show called \\\"The Gates\\\" or its release schedule for season 2. Therefore, I cannot provide an answer to your question. If you have any other questions or need information on a different topic, feel free to ask!",
+        "gold_answers": [
+            "cancelled after its first season"
+        ],
+        "em": 0,
+        "f1": 0.0851063829787234
+    },
+    {
+        "id": "single_nq_dev_3015",
+        "prediction": "not explicitly available",
+        "predicted_answer": "not explicitly available",
+        "gold_answers": [
+            "Regina Spektor"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4195",
+        "prediction": "Gregor Mendel",
+        "predicted_answer": "Gregor Mendel",
+        "gold_answers": [
+            "Gregor Mendel"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6471",
+        "prediction": "2013",
+        "predicted_answer": "2013",
+        "gold_answers": [
+            "2013"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1188",
+        "prediction": "The first season of \\\"Thirteen Reasons Why\\\" was released on March 31, 2017",
+        "predicted_answer": "The first season of \\\"Thirteen Reasons Why\\\" was released on March 31, 2017",
+        "gold_answers": [
+            "March 31 , 2017"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_3214",
+        "prediction": "The information provided does not specify who plays the principal in \\\"F the Prom.\\\" Therefore, I cannot provide an answer based on the available data",
+        "predicted_answer": "The information provided does not specify who plays the principal in \\\"F the Prom.\\\" Therefore, I cannot provide an answer based on the available data",
+        "gold_answers": [
+            "Nicholle Tom"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6068",
+        "prediction": "The Premier League is a corporation in which the member clubs act as shareholders. Therefore, there is no single individual in charge; rather, it is governed collectively by the clubs that participate in the league. The Premier League also has a Chief Executive Officer (CEO) who oversees its operations, but the overall governance is shared among the member clubs",
+        "predicted_answer": "The Premier League is a corporation in which the member clubs act as shareholders. Therefore, there is no single individual in charge; rather, it is governed collectively by the clubs that participate in the league. The Premier League also has a Chief Executive Officer (CEO) who oversees its operations, but the overall governance is shared among the member clubs",
+        "gold_answers": [
+            "by the 20 member clubs"
+        ],
+        "em": 0,
+        "f1": 0.1111111111111111
+    },
+    {
+        "id": "single_nq_dev_4765",
+        "prediction": "10 seasons",
+        "predicted_answer": "10 seasons",
+        "gold_answers": [
+            "5"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3618",
+        "prediction": "The information provided does not specify which team has won the most Champions League games. However, it mentions that Mexican clubs have accumulated the highest number of victories in the CONCACAF Champions League, with 34 titles in total. For the UEFA Champions League, Real Madrid is known to have the most titles. If you are looking for a specific league or competition, please clarify",
+        "predicted_answer": "The information provided does not specify which team has won the most Champions League games. However, it mentions that Mexican clubs have accumulated the highest number of victories in the CONCACAF Champions League, with 34 titles in total. For the UEFA Champions League, Real Madrid is known to have the most titles. If you are looking for a specific league or competition, please clarify",
+        "gold_answers": [
+            "Real Madrid"
+        ],
+        "em": 0,
+        "f1": 0.06779661016949151
+    },
+    {
+        "id": "single_nq_dev_3140",
+        "prediction": "1945",
+        "predicted_answer": "1945",
+        "gold_answers": [
+            "1 January 1942"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1424",
+        "prediction": "Civilians who built Fort Mann",
+        "predicted_answer": "Civilians who built Fort Mann",
+        "gold_answers": [
+            "civilians"
+        ],
+        "em": 0,
+        "f1": 0.33333333333333337
+    },
+    {
+        "id": "single_nq_dev_3103",
+        "prediction": "The musculoskeletal system is an organ system in the human body that provides form, support, stability, and movement. It is composed of bones, muscles, cartilage, tendons, ligaments, joints, and other connective tissues that support and bind tissues and organs together. The primary functions of the musculoskeletal system include:",
+        "predicted_answer": "The musculoskeletal system is an organ system in the human body that provides form, support, stability, and movement. It is composed of bones, muscles, cartilage, tendons, ligaments, joints, and other connective tissues that support and bind tissues and organs together. The primary functions of the musculoskeletal system include:",
+        "gold_answers": [
+            "organ system"
+        ],
+        "em": 0,
+        "f1": 0.08888888888888888
+    },
+    {
+        "id": "single_nq_dev_1937",
+        "prediction": "Siddh\\u0101rtha Gautama, born around the 5th to 4th century BCE",
+        "predicted_answer": "Siddh\\u0101rtha Gautama, born around the 5th to 4th century BCE",
+        "gold_answers": [
+            "Gautama Buddha"
+        ],
+        "em": 0,
+        "f1": 0.1818181818181818
+    },
+    {
+        "id": "single_nq_dev_1070",
+        "prediction": "The Longest Yard",
+        "predicted_answer": "The Longest Yard",
+        "gold_answers": [
+            "The Longest Yard"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4660",
+        "prediction": "1971",
+        "predicted_answer": "1971",
+        "gold_answers": [
+            "began in 1966"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3952",
+        "prediction": "David Thewlis",
+        "predicted_answer": "David Thewlis",
+        "gold_answers": [
+            "David Thewlis"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3018",
+        "prediction": "M. L. Cummings and K. T. Oslin",
+        "predicted_answer": "M. L. Cummings and K. T. Oslin",
+        "gold_answers": [
+            "Charlie Black",
+            "Chater"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1556",
+        "prediction": "Chicago",
+        "predicted_answer": "Chicago",
+        "gold_answers": [
+            "The Marshall Tucker Band"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4803",
+        "prediction": "1818",
+        "predicted_answer": "1818",
+        "gold_answers": [
+            "1818"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6428",
+        "prediction": "December 15, 2011",
+        "predicted_answer": "December 15, 2011",
+        "gold_answers": [
+            "Early on December 15"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_4643",
+        "prediction": "Horatio Spafford",
+        "predicted_answer": "Horatio Spafford",
+        "gold_answers": [
+            "Horatio Spafford"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4190",
+        "prediction": "Stone monuments that often served as collective tombs from Europe's Neolithic period are commonly referred to as megalithic tombs",
+        "predicted_answer": "Stone monuments that often served as collective tombs from Europe's Neolithic period are commonly referred to as megalithic tombs",
+        "gold_answers": [
+            "stone circle"
+        ],
+        "em": 0,
+        "f1": 0.09523809523809525
+    },
+    {
+        "id": "single_nq_dev_1645",
+        "prediction": "John Barry",
+        "predicted_answer": "John Barry",
+        "gold_answers": [
+            "John Barry"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3776",
+        "prediction": "Clint Walker, Martha Hyer, Keenan Wynn, Jack Elam, and Nancy Kulp",
+        "predicted_answer": "Clint Walker, Martha Hyer, Keenan Wynn, Jack Elam, and Nancy Kulp",
+        "gold_answers": [
+            "Keenan Wynn",
+            "Martha Hyer",
+            "Jack Elam",
+            "Clint Walker",
+            "Nancy Kulp"
+        ],
+        "em": 0,
+        "f1": 0.3076923076923077
+    },
+    {
+        "id": "single_nq_dev_6184",
+        "prediction": "Robert Duvall",
+        "predicted_answer": "Robert Duvall",
+        "gold_answers": [
+            "Robert Duvall"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1908",
+        "prediction": "1926",
+        "predicted_answer": "1926",
+        "gold_answers": [
+            "1926"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5211",
+        "prediction": "Mr. Drummond did not marry anyone on \\\"Diff'rent Strokes.\\\"",
+        "predicted_answer": "Mr. Drummond did not marry anyone on \\\"Diff'rent Strokes.\\\"",
+        "gold_answers": [
+            "Maggie"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5700",
+        "prediction": "Texans",
+        "predicted_answer": "Texans",
+        "gold_answers": [
+            "New England",
+            "Kansas City"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3653",
+        "prediction": "Deptford Power Station, built to supply electricity",
+        "predicted_answer": "Deptford Power Station, built to supply electricity",
+        "gold_answers": [
+            "Cragside , England"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5291",
+        "prediction": "Fungi",
+        "predicted_answer": "Fungi",
+        "gold_answers": [
+            "Eumycota"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2096",
+        "prediction": "The phrase \\\"young lady\\\" in German is \\\"junge Dame.\\\"",
+        "predicted_answer": "The phrase \\\"young lady\\\" in German is \\\"junge Dame.\\\"",
+        "gold_answers": [
+            "Fr\u00e4ulein"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2386",
+        "prediction": "Harry Vardon and Ted Ray",
+        "predicted_answer": "Harry Vardon and Ted Ray",
+        "gold_answers": [
+            "Ted Ray",
+            "Harry Vardon"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_287",
+        "prediction": "Andy Serkis",
+        "predicted_answer": "Andy Serkis",
+        "gold_answers": [
+            "Tim Roth"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5615",
+        "prediction": "The book \\\"Because of Mr. Terupt\\\" takes place at the fictitious Snow Hill School in Connecticut",
+        "predicted_answer": "The book \\\"Because of Mr. Terupt\\\" takes place at the fictitious Snow Hill School in Connecticut",
+        "gold_answers": [
+            "fictitious Snow Hill School"
+        ],
+        "em": 0,
+        "f1": 0.4444444444444445
+    },
+    {
+        "id": "single_nq_dev_483",
+        "prediction": "New World Stages",
+        "predicted_answer": "New World Stages",
+        "gold_answers": [
+            "the New World Stages complex"
+        ],
+        "em": 0,
+        "f1": 0.8571428571428571
+    },
+    {
+        "id": "single_nq_dev_6220",
+        "prediction": "Michael Socha",
+        "predicted_answer": "Michael Socha",
+        "gold_answers": [
+            "Sebastian Stan"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4457",
+        "prediction": "The character Aladdin in \\\"Once Upon a Time\\\" is played by Deniz Akdeniz",
+        "predicted_answer": "The character Aladdin in \\\"Once Upon a Time\\\" is played by Deniz Akdeniz",
+        "gold_answers": [
+            "Deniz Akdeniz"
+        ],
+        "em": 0,
+        "f1": 0.3076923076923077
+    },
+    {
+        "id": "single_nq_dev_6478",
+        "prediction": "In \\\"How to Train Your Dragon 2,\\\" Stoick the Vast, who is Hiccup's father, dies during the film. He sacrifices himself to save Hiccup and the other characters from the main villain, Grimmel",
+        "predicted_answer": "In \\\"How to Train Your Dragon 2,\\\" Stoick the Vast, who is Hiccup's father, dies during the film. He sacrifices himself to save Hiccup and the other characters from the main villain, Grimmel",
+        "gold_answers": [
+            "Stoick"
+        ],
+        "em": 0,
+        "f1": 0.06666666666666667
+    },
+    {
+        "id": "single_nq_dev_3763",
+        "prediction": "38 games",
+        "predicted_answer": "38 games",
+        "gold_answers": [
+            "38"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_1025",
+        "prediction": "Russia",
+        "predicted_answer": "Russia",
+        "gold_answers": [
+            "Russia"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4948",
+        "prediction": "metacognition",
+        "predicted_answer": "metacognition",
+        "gold_answers": [
+            "metacognition"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1375",
+        "prediction": "The Voting Rights Act of 1965 was an effort to ensure voting rights for racial minorities throughout the United States, especially in the South",
+        "predicted_answer": "The Voting Rights Act of 1965 was an effort to ensure voting rights for racial minorities throughout the United States, especially in the South",
+        "gold_answers": [
+            "racial minorities"
+        ],
+        "em": 0,
+        "f1": 0.18181818181818182
+    },
+    {
+        "id": "single_nq_dev_2316",
+        "prediction": "South Africa and Namibia",
+        "predicted_answer": "South Africa and Namibia",
+        "gold_answers": [
+            "South Africa and Lesotho",
+            "South Africa and Namibia"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2260",
+        "prediction": "Darryl Keen",
+        "predicted_answer": "Darryl Keen",
+        "gold_answers": [
+            "Darryl Keen"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_246",
+        "prediction": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "predicted_answer": "Tyler Hubbard, Brian Kelley, Nicolle Galyon, and Jordan Schmidt",
+        "gold_answers": [
+            "Tyler Hubbard",
+            "Nicolle Galyon",
+            "Jordan Schmidt",
+            "Brian Kelley"
+        ],
+        "em": 0,
+        "f1": 0.3636363636363636
+    },
+    {
+        "id": "single_nq_dev_4673",
+        "prediction": "Akkadian",
+        "predicted_answer": "Akkadian",
+        "gold_answers": [
+            "Sumerian"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3935",
+        "prediction": "Toby Stephens, Molly Parker, Maxwell Jenkins, Taylor Russell, and Mina Sundwall",
+        "predicted_answer": "Toby Stephens, Molly Parker, Maxwell Jenkins, Taylor Russell, and Mina Sundwall",
+        "gold_answers": [
+            "Molly Parker",
+            "Mina Sundwall",
+            "Brian Steele",
+            "Taylor Russell",
+            "Toby Stephens",
+            "Maxwell Jenkins",
+            "Ignacio Serricchio",
+            "Parker Posey"
+        ],
+        "em": 0,
+        "f1": 0.3076923076923077
+    },
+    {
+        "id": "single_nq_dev_6026",
+        "prediction": "November 10, 2001",
+        "predicted_answer": "November 10, 2001",
+        "gold_answers": [
+            "16 November 2001"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_4744",
+        "prediction": "The information provided does not specify which sport has the most concussions in the world. However, it mentions that women's ice hockey has a high concussion rate of 2.72 per 1,000 player hours, and that contact sports like Australian rules football and rugby also have prevalent issues with concussions. For a definitive answer, further research would be needed to determine which sport has the highest overall concussion rates globally",
+        "predicted_answer": "The information provided does not specify which sport has the most concussions in the world. However, it mentions that women's ice hockey has a high concussion rate of 2.72 per 1,000 player hours, and that contact sports like Australian rules football and rugby also have prevalent issues with concussions. For a definitive answer, further research would be needed to determine which sport has the highest overall concussion rates globally",
+        "gold_answers": [
+            "Women 's ice hockey"
+        ],
+        "em": 0,
+        "f1": 0.05970149253731343
+    },
+    {
+        "id": "single_nq_dev_3418",
+        "prediction": "Sparta, Illinois",
+        "predicted_answer": "Sparta, Illinois",
+        "gold_answers": [
+            "Sparta , Illinois"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2094",
+        "prediction": "Julie Newmar, Lee Meriwether, and Eartha Kitt",
+        "predicted_answer": "Julie Newmar, Lee Meriwether, and Eartha Kitt",
+        "gold_answers": [
+            "Julie Newmar",
+            "Lee Meriwether",
+            "Eartha Kitt"
+        ],
+        "em": 0,
+        "f1": 0.4444444444444445
+    },
+    {
+        "id": "single_nq_dev_2565",
+        "prediction": "The specific filming locations for \\\"In the Heat of the Night\\\" are not mentioned in the provided text. However, it is known that the film was primarily shot in and around Sparta, Mississippi. If you need more detailed information about the filming locations, please let me know!",
+        "predicted_answer": "The specific filming locations for \\\"In the Heat of the Night\\\" are not mentioned in the provided text. However, it is known that the film was primarily shot in and around Sparta, Mississippi. If you need more detailed information about the filming locations, please let me know!",
+        "gold_answers": [
+            "Sparta , Illinois"
+        ],
+        "em": 0,
+        "f1": 0.046511627906976744
+    },
+    {
+        "id": "single_nq_dev_880",
+        "prediction": "The last time an astronaut went to the Moon was during the Apollo 17 mission, which took place in December 1972. Apollo 17 was the final mission of NASA's Apollo program, and it marked the last time humans have set foot on the lunar surface",
+        "predicted_answer": "The last time an astronaut went to the Moon was during the Apollo 17 mission, which took place in December 1972. Apollo 17 was the final mission of NASA's Apollo program, and it marked the last time humans have set foot on the lunar surface",
+        "gold_answers": [
+            "December 1972"
+        ],
+        "em": 0,
+        "f1": 0.1
+    },
+    {
+        "id": "single_nq_dev_95",
+        "prediction": "not explicitly available in the given information",
+        "predicted_answer": "not explicitly available in the given information",
+        "gold_answers": [
+            "Dave Johnson"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5631",
+        "prediction": "The information provided does not specify any player who won both the Rookie of the Year and the Cy Young Award at the same time. Therefore, based on the available data, I cannot provide an answer to that question",
+        "predicted_answer": "The information provided does not specify any player who won both the Rookie of the Year and the Cy Young Award at the same time. Therefore, based on the available data, I cannot provide an answer to that question",
+        "gold_answers": [
+            "Fernando Valenzuela"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2364",
+        "prediction": "Baltimore Ravens and San Francisco 49ers",
+        "predicted_answer": "Baltimore Ravens and San Francisco 49ers",
+        "gold_answers": [
+            "Baltimore Ravens",
+            "San Francisco 49ers"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_3129",
+        "prediction": "Tony Hadley",
+        "predicted_answer": "Tony Hadley",
+        "gold_answers": [
+            "Chris Martin"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2798",
+        "prediction": "Sauron",
+        "predicted_answer": "Sauron",
+        "gold_answers": [
+            "Sauron the Dark Lord"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_2829",
+        "prediction": "The currency used in Russia is the Russian Ruble, abbreviated as RUB",
+        "predicted_answer": "The currency used in Russia is the Russian Ruble, abbreviated as RUB",
+        "gold_answers": [
+            "kopeks",
+            "ruble"
+        ],
+        "em": 0,
+        "f1": 0.18181818181818182
+    },
+    {
+        "id": "single_nq_dev_340",
+        "prediction": "James Mason",
+        "predicted_answer": "James Mason",
+        "gold_answers": [
+            "James Mason",
+            "Charles Bickford",
+            "Jack Carson"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5400",
+        "prediction": "France",
+        "predicted_answer": "France",
+        "gold_answers": [
+            "Paris , France"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_2831",
+        "prediction": "The Hubble classification of the Milky Way galaxy is type Sbc, which represents spiral galaxies with relatively loosely wound arms",
+        "predicted_answer": "The Hubble classification of the Milky Way galaxy is type Sbc, which represents spiral galaxies with relatively loosely wound arms",
+        "gold_answers": [
+            "SBb or SBc"
+        ],
+        "em": 0,
+        "f1": 0.09523809523809525
+    },
+    {
+        "id": "single_nq_dev_3470",
+        "prediction": "545",
+        "predicted_answer": "545",
+        "gold_answers": [
+            "545"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_912",
+        "prediction": "1585",
+        "predicted_answer": "1585",
+        "gold_answers": [
+            "1585"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4598",
+        "prediction": "Ben Mackay",
+        "predicted_answer": "Ben Mackay",
+        "gold_answers": [
+            "Lyndall Bass",
+            "Victor David Brenner"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_589",
+        "prediction": "John and T.J. Osborne, Kennedy Kelley, and Lee Thomas Miller",
+        "predicted_answer": "John and T.J. Osborne, Kennedy Kelley, and Lee Thomas Miller",
+        "gold_answers": [
+            "John and T.J. Osborne",
+            "Kennedy Kelley",
+            "Lee Thomas Miller"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_163",
+        "prediction": "around 85 million years ago",
+        "predicted_answer": "around 85 million years ago",
+        "gold_answers": [
+            "late Carboniferous period"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5136",
+        "prediction": "If you are Persian, you are from Iran. The term \\\"Persian\\\" typically refers to the ethnic group and cultural heritage associated with Iran, as well as the historical region of Persia",
+        "predicted_answer": "If you are Persian, you are from Iran. The term \\\"Persian\\\" typically refers to the ethnic group and cultural heritage associated with Iran, as well as the historical region of Persia",
+        "gold_answers": [
+            "Iran"
+        ],
+        "em": 0,
+        "f1": 0.0689655172413793
+    },
+    {
+        "id": "single_nq_dev_620",
+        "prediction": "During World War II, the United States was primarily at war with the Axis powers, which included Germany, Italy, and Japan. The U.S. entered the war after the Japanese attack on Pearl Harbor on December 7, 1941",
+        "predicted_answer": "During World War II, the United States was primarily at war with the Axis powers, which included Germany, Italy, and Japan. The U.S. entered the war after the Japanese attack on Pearl Harbor on December 7, 1941",
+        "gold_answers": [
+            "Japan",
+            "Italy",
+            "Germany"
+        ],
+        "em": 0,
+        "f1": 0.06060606060606061
+    },
+    {
+        "id": "single_nq_dev_830",
+        "prediction": "22%",
+        "predicted_answer": "22%",
+        "gold_answers": [
+            "22 %"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6347",
+        "prediction": "the political party or coalition that commands a majority in the House of Representatives",
+        "predicted_answer": "the political party or coalition that commands a majority in the House of Representatives",
+        "gold_answers": [
+            "enrolled voters"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_362",
+        "prediction": "Moreton Bay district (Queensland), South Australia, and Victoria",
+        "predicted_answer": "Moreton Bay district (Queensland), South Australia, and Victoria",
+        "gold_answers": [
+            "Liberty Plains"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5484",
+        "prediction": "William Robinson",
+        "predicted_answer": "William Robinson",
+        "gold_answers": [
+            "William"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_2122",
+        "prediction": "M&T Bank Stadium in Baltimore, Maryland",
+        "predicted_answer": "M&T Bank Stadium in Baltimore, Maryland",
+        "gold_answers": [
+            "M&T Bank Stadium"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_5226",
+        "prediction": "The provided information does not mention Alicia Keys winning \\\"The Voice\\\" or any details related to her participation in the show. Therefore, I cannot provide an answer to that question based on the available data",
+        "predicted_answer": "The provided information does not mention Alicia Keys winning \\\"The Voice\\\" or any details related to her participation in the show. Therefore, I cannot provide an answer to that question based on the available data",
+        "gold_answers": [
+            "Chris Blue"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3469",
+        "prediction": "1994",
+        "predicted_answer": "1994",
+        "gold_answers": [
+            "1994"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_261",
+        "prediction": "White",
+        "predicted_answer": "White",
+        "gold_answers": [
+            "White"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3031",
+        "prediction": "Miley Cyrus (for \\\"Wrecking Ball\\\")",
+        "predicted_answer": "Miley Cyrus (for \\\"Wrecking Ball\\\")",
+        "gold_answers": [
+            "Miley Cyrus"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_774",
+        "prediction": "David Foster, Carole Bayer Sager, Alberto Testa, and Tony Renis",
+        "predicted_answer": "David Foster, Carole Bayer Sager, Alberto Testa, and Tony Renis",
+        "gold_answers": [
+            "Alberto Testa",
+            "David Foster",
+            "Carole Bayer Sager",
+            "Tony Renis"
+        ],
+        "em": 0,
+        "f1": 0.4615384615384615
+    },
+    {
+        "id": "single_nq_dev_6284",
+        "prediction": "within the Shawnee National Forest in Hardin, Pope, Saline, and Gallatin counties, Illinois",
+        "predicted_answer": "within the Shawnee National Forest in Hardin, Pope, Saline, and Gallatin counties, Illinois",
+        "gold_answers": [
+            "Shawnee",
+            "within the Shawnee National Forest"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_1242",
+        "prediction": "Nebula",
+        "predicted_answer": "Nebula",
+        "gold_answers": [
+            "Karen Gillan"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4581",
+        "prediction": "1995",
+        "predicted_answer": "1995",
+        "gold_answers": [
+            "1995"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6259",
+        "prediction": "Alaknanda River",
+        "predicted_answer": "Alaknanda River",
+        "gold_answers": [
+            "Alaknanda River"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2535",
+        "prediction": "1984",
+        "predicted_answer": "1984",
+        "gold_answers": [
+            "July 17 , 1984"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_10",
+        "prediction": "Paul the Apostle",
+        "predicted_answer": "Paul the Apostle",
+        "gold_answers": [
+            "Paul"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_5682",
+        "prediction": "The principles adhered to by the Six-Principle Baptists, as mentioned in the context of the General Six-Principle Baptists, are based on Hebrews 6:1\\u20132. They are:",
+        "predicted_answer": "The principles adhered to by the Six-Principle Baptists, as mentioned in the context of the General Six-Principle Baptists, are based on Hebrews 6:1\\u20132. They are:",
+        "gold_answers": [
+            "Resurrection of the dead",
+            "Final judgment",
+            "Repentance",
+            "Faith",
+            "Laying on of hands",
+            "Baptism"
+        ],
+        "em": 0,
+        "f1": 0.16
+    },
+    {
+        "id": "single_nq_dev_5724",
+        "prediction": "Maureen McCormick played Marcia Brady in \\\"The Brady Bunch\\\" TV show",
+        "predicted_answer": "Maureen McCormick played Marcia Brady in \\\"The Brady Bunch\\\" TV show",
+        "gold_answers": [
+            "Maureen Denise McCormick"
+        ],
+        "em": 0,
+        "f1": 0.30769230769230765
+    },
+    {
+        "id": "single_nq_dev_6312",
+        "prediction": "The geographical location of Liberia can be classified using Geographic Locator Codes (GLCs), which are standard codes used by federal agencies and some companies to designate geographic locations. These codes facilitate the interchange of machine-readable data and can be applied to various locations, including Liberia. Additionally, Liberia can be described in terms of its administrative divisions, such as the 20 Districts that make up the Liberia Annual Conference of the United Methodist Church, which are spread across different regions of the country",
+        "predicted_answer": "The geographical location of Liberia can be classified using Geographic Locator Codes (GLCs), which are standard codes used by federal agencies and some companies to designate geographic locations. These codes facilitate the interchange of machine-readable data and can be applied to various locations, including Liberia. Additionally, Liberia can be described in terms of its administrative divisions, such as the 20 Districts that make up the Liberia Annual Conference of the United Methodist Church, which are spread across different regions of the country",
+        "gold_answers": [
+            "Sub-Saharan nation in West Africa"
+        ],
+        "em": 0,
+        "f1": 0.024691358024691357
+    },
+    {
+        "id": "single_nq_dev_2481",
+        "prediction": "The Danube River is located in Central and Eastern Europe. It flows through or touches the borders of 10 countries, including Germany, Austria, Slovakia, Hungary, Croatia, Serbia, Romania, Bulgaria, Moldova, and Ukraine, before draining into the Black Sea",
+        "predicted_answer": "The Danube River is located in Central and Eastern Europe. It flows through or touches the borders of 10 countries, including Germany, Austria, Slovakia, Hungary, Croatia, Serbia, Romania, Bulgaria, Moldova, and Ukraine, before draining into the Black Sea",
+        "gold_answers": [
+            "Central and Eastern Europe ."
+        ],
+        "em": 0,
+        "f1": 0.20512820512820512
+    },
+    {
+        "id": "single_nq_dev_4006",
+        "prediction": "September 15, 2015",
+        "predicted_answer": "September 15, 2015",
+        "gold_answers": [
+            "May 15 , 2015"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_2889",
+        "prediction": "Rohit Sharma",
+        "predicted_answer": "Rohit Sharma",
+        "gold_answers": [
+            "Chris Gayle"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2435",
+        "prediction": "The boy and girl in \\\"The Cat in the Hat\\\" are named Sally and her brother, who serves as the narrator of the story. They are home alone on a rainy day when the Cat in the Hat arrives to entertain them",
+        "predicted_answer": "The boy and girl in \\\"The Cat in the Hat\\\" are named Sally and her brother, who serves as the narrator of the story. They are home alone on a rainy day when the Cat in the Hat arrives to entertain them",
+        "gold_answers": [
+            "Dakota Fanning",
+            "1971 TV special"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2543",
+        "prediction": "General Louis-Joseph de Montcalm",
+        "predicted_answer": "General Louis-Joseph de Montcalm",
+        "gold_answers": [
+            "Louis - Joseph de Montcalm"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_6346",
+        "prediction": "Stephen Curry",
+        "predicted_answer": "Stephen Curry",
+        "gold_answers": [
+            "LeBron James"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_531",
+        "prediction": "A medallion signature guarantee is needed for the transfer of securities to ensure that the signature on the documents is genuine. It is typically required when shareholders are transferring ownership of securities, such as stocks or bonds, to protect against unauthorized transfers and potential investor losses. Financial institutions may require a medallion signature guarantee when a shareholder is changing ownership of securities, and it is often necessary for transactions involving significant monetary value. Additionally, it may be required when executing certain legal documents that involve the transfer of assets",
+        "predicted_answer": "A medallion signature guarantee is needed for the transfer of securities to ensure that the signature on the documents is genuine. It is typically required when shareholders are transferring ownership of securities, such as stocks or bonds, to protect against unauthorized transfers and potential investor losses. Financial institutions may require a medallion signature guarantee when a shareholder is changing ownership of securities, and it is often necessary for transactions involving significant monetary value. Additionally, it may be required when executing certain legal documents that involve the transfer of assets",
+        "gold_answers": [
+            "for the transfer of securities"
+        ],
+        "em": 0,
+        "f1": 0.09302325581395349
+    },
+    {
+        "id": "single_nq_dev_4741",
+        "prediction": "The first horror movie made in America is generally considered to be \\\"The Haunted Castle,\\\" which was released in 1896. Directed by Georges M\\u00e9li\\u00e8s, it is a short silent film that features supernatural elements and is often cited as one of the earliest examples of the horror genre in cinema",
+        "predicted_answer": "The first horror movie made in America is generally considered to be \\\"The Haunted Castle,\\\" which was released in 1896. Directed by Georges M\\u00e9li\\u00e8s, it is a short silent film that features supernatural elements and is often cited as one of the earliest examples of the horror genre in cinema",
+        "gold_answers": [
+            "1910"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1380",
+        "prediction": "The last season of \\\"Jersey Shore: Family Vacation\\\" was confirmed for 2019, but the specific air date for the final season is not provided in the information. Therefore, I cannot provide an exact date for when the last season aired. If you need the exact air date, please check a reliable source for the most current information",
+        "predicted_answer": "The last season of \\\"Jersey Shore: Family Vacation\\\" was confirmed for 2019, but the specific air date for the final season is not provided in the information. Therefore, I cannot provide an exact date for when the last season aired. If you need the exact air date, please check a reliable source for the most current information",
+        "gold_answers": [
+            "December 20 , 2012"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4675",
+        "prediction": "Brazil",
+        "predicted_answer": "Brazil",
+        "gold_answers": [
+            "Rio de Janeiro"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2582",
+        "prediction": "4 May 2018",
+        "predicted_answer": "4 May 2018",
+        "gold_answers": [
+            "4 May 2018"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2347",
+        "prediction": "According to the Mahabharata, the unparalleled palace of the Pandavas was constructed by the architect Maya Danava. This palace, known as Indraprastha, was built during the time when the Pandavas were in exile and is described as a magnificent and luxurious structure",
+        "predicted_answer": "According to the Mahabharata, the unparalleled palace of the Pandavas was constructed by the architect Maya Danava. This palace, known as Indraprastha, was built during the time when the Pandavas were in exile and is described as a magnificent and luxurious structure",
+        "gold_answers": [
+            "Mayasura"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3948",
+        "prediction": "genetics",
+        "predicted_answer": "genetics",
+        "gold_answers": [
+            "genetics"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3620",
+        "prediction": "The part of the bacterial cell that is most involved in gram staining is the cell wall. The Gram stain differentiates bacteria based on the chemical and physical properties of their cell walls, particularly the presence and thickness of peptidoglycan. Gram-positive bacteria have a thick layer of peptidoglycan that retains the purple stain, while Gram-negative bacteria have a thinner layer of peptidoglycan and do not retain the purple stain, appearing pink after counter-staining",
+        "predicted_answer": "The part of the bacterial cell that is most involved in gram staining is the cell wall. The Gram stain differentiates bacteria based on the chemical and physical properties of their cell walls, particularly the presence and thickness of peptidoglycan. Gram-positive bacteria have a thick layer of peptidoglycan that retains the purple stain, while Gram-negative bacteria have a thinner layer of peptidoglycan and do not retain the purple stain, appearing pink after counter-staining",
+        "gold_answers": [
+            "peptidoglycan"
+        ],
+        "em": 0,
+        "f1": 0.03125
+    },
+    {
+        "id": "single_nq_dev_836",
+        "prediction": "nine",
+        "predicted_answer": "nine",
+        "gold_answers": [
+            "nine"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4689",
+        "prediction": "Phil Harris",
+        "predicted_answer": "Phil Harris",
+        "gold_answers": [
+            "Wonga Philip Harris"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_1810",
+        "prediction": "The last steam train used in regular service in the UK was on August 11, 1968, when the British Railways operated its final scheduled steam service. This marked the end of the steam era in British rail transport",
+        "predicted_answer": "The last steam train used in regular service in the UK was on August 11, 1968, when the British Railways operated its final scheduled steam service. This marked the end of the steam era in British rail transport",
+        "gold_answers": [
+            "11 August 1968"
+        ],
+        "em": 0,
+        "f1": 0.16666666666666669
+    },
+    {
+        "id": "single_nq_dev_663",
+        "prediction": "Drew Henson",
+        "predicted_answer": "Drew Henson",
+        "gold_answers": [
+            "Brian Griese"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3864",
+        "prediction": "Sarvepalli Radhakrishnan",
+        "predicted_answer": "Sarvepalli Radhakrishnan",
+        "gold_answers": [
+            "Indira Gandhi"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_549",
+        "prediction": "the president should be elected by an Electoral College",
+        "predicted_answer": "the president should be elected by an Electoral College",
+        "gold_answers": [
+            "an electoral college"
+        ],
+        "em": 0,
+        "f1": 0.4444444444444445
+    },
+    {
+        "id": "single_nq_dev_923",
+        "prediction": "Matt Prater",
+        "predicted_answer": "Matt Prater",
+        "gold_answers": [
+            "Matt Prater"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_356",
+        "prediction": "The Arrows",
+        "predicted_answer": "The Arrows",
+        "gold_answers": [
+            "Alan Merrill"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4870",
+        "prediction": "The decimal currency system was introduced in India on April 1, 1957. This system replaced the previous currency system, which was based on the Indian rupee subdivided into annas, with a new system where the rupee was divided into 100 paise",
+        "predicted_answer": "The decimal currency system was introduced in India on April 1, 1957. This system replaced the previous currency system, which was based on the Indian rupee subdivided into annas, with a new system where the rupee was divided into 100 paise",
+        "gold_answers": [
+            "1 April 1957"
+        ],
+        "em": 0,
+        "f1": 0.15384615384615385
+    },
+    {
+        "id": "single_nq_dev_2984",
+        "prediction": "January 25, 1994",
+        "predicted_answer": "January 25, 1994",
+        "gold_answers": [
+            "January 25 , 1994"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3014",
+        "prediction": "The specific ports on an HP EliteBook can vary depending on the model and generation. However, common ports found on many HP EliteBook models include:",
+        "predicted_answer": "The specific ports on an HP EliteBook can vary depending on the model and generation. However, common ports found on many HP EliteBook models include:",
+        "gold_answers": [
+            "DisplayPort",
+            "USB 3.0"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4157",
+        "prediction": "Fran\\u00e7ois Dominique Toussaint-Louverture and Jean-Jacques Dessalines",
+        "predicted_answer": "Fran\\u00e7ois Dominique Toussaint-Louverture and Jean-Jacques Dessalines",
+        "gold_answers": [
+            "Dutty Boukman"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1203",
+        "prediction": "Nicolaus Copernicus",
+        "predicted_answer": "Nicolaus Copernicus",
+        "gold_answers": [
+            "Nicolaus Copernicus"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5515",
+        "prediction": "\\\"Star Wars: The Last Jedi\\\" was released on December 15, 2017",
+        "predicted_answer": "\\\"Star Wars: The Last Jedi\\\" was released on December 15, 2017",
+        "gold_answers": [
+            "December 15 , 2017"
+        ],
+        "em": 0,
+        "f1": 0.4615384615384615
+    },
+    {
+        "id": "single_nq_dev_4099",
+        "prediction": "George Michael's \\\"Freedom! '90\\\" music video features several prominent supermodels of the time, including Naomi Campbell, Linda Evangelista, Christy Turlington, Cindy Crawford, and Tatjana Patitz. The video is notable for its iconic imagery and the models lip-syncing to the song, representing themes of liberation and self-identity",
+        "predicted_answer": "George Michael's \\\"Freedom! '90\\\" music video features several prominent supermodels of the time, including Naomi Campbell, Linda Evangelista, Christy Turlington, Cindy Crawford, and Tatjana Patitz. The video is notable for its iconic imagery and the models lip-syncing to the song, representing themes of liberation and self-identity",
+        "gold_answers": [
+            "Christy Turlington",
+            "Tatjana Patitz",
+            "Cindy Crawford",
+            "Linda Evangelista",
+            "Naomi Campbell"
+        ],
+        "em": 0,
+        "f1": 0.0909090909090909
+    },
+    {
+        "id": "single_nq_dev_3291",
+        "prediction": "Marvin Gaye and Tammi Terrell",
+        "predicted_answer": "Marvin Gaye and Tammi Terrell",
+        "gold_answers": [
+            "Nickolas Ashford",
+            "Valerie Simpson"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3588",
+        "prediction": "July 16, 2005",
+        "predicted_answer": "July 16, 2005",
+        "gold_answers": [
+            "in 2005"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_5776",
+        "prediction": "The author of \\\"One Flew Over the Cuckoo's Nest\\\" is Ken Kesey",
+        "predicted_answer": "The author of \\\"One Flew Over the Cuckoo's Nest\\\" is Ken Kesey",
+        "gold_answers": [
+            "Ken Kesey"
+        ],
+        "em": 0,
+        "f1": 0.33333333333333337
+    },
+    {
+        "id": "single_nq_dev_5891",
+        "prediction": "The catchphrase associated with \\\"Queer Eye for the Straight Guy\\\" is \\\"Make better.\\\" This phrase encapsulates the show's premise of helping individuals improve various aspects of their lives, including fashion, grooming, and lifestyle",
+        "predicted_answer": "The catchphrase associated with \\\"Queer Eye for the Straight Guy\\\" is \\\"Make better.\\\" This phrase encapsulates the show's premise of helping individuals improve various aspects of their lives, including fashion, grooming, and lifestyle",
+        "gold_answers": [
+            "American reality television series"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2564",
+        "prediction": "In the context of Gollum's character from \\\"The Lord of the Rings,\\\" the \\\"she\\\" that Gollum refers to is Shelob, a giant spider who resides in the pass of Cirith Ungol. Gollum plans to lead Frodo and Sam to Shelob in order to feed them to her and retrieve the One Ring for himself",
+        "predicted_answer": "In the context of Gollum's character from \\\"The Lord of the Rings,\\\" the \\\"she\\\" that Gollum refers to is Shelob, a giant spider who resides in the pass of Cirith Ungol. Gollum plans to lead Frodo and Sam to Shelob in order to feed them to her and retrieve the One Ring for himself",
+        "gold_answers": [
+            "Shelob"
+        ],
+        "em": 0,
+        "f1": 0.04166666666666667
+    },
+    {
+        "id": "single_nq_dev_3560",
+        "prediction": "Brussels",
+        "predicted_answer": "Brussels",
+        "gold_answers": [
+            "Brussels"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1861",
+        "prediction": "Windsor",
+        "predicted_answer": "Windsor",
+        "gold_answers": [
+            "Mountbatten - Windsor"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_4149",
+        "prediction": "2019",
+        "predicted_answer": "2019",
+        "gold_answers": [
+            "2020"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3020",
+        "prediction": "Karl Marx and Friedrich Engels",
+        "predicted_answer": "Karl Marx and Friedrich Engels",
+        "gold_answers": [
+            "Mikhail Bakunin"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2591",
+        "prediction": "Massachusetts",
+        "predicted_answer": "Massachusetts",
+        "gold_answers": [
+            "Cohasset , Massachusetts"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_2823",
+        "prediction": "To get a background check done, you can go to several places depending on the type of check you need:",
+        "predicted_answer": "To get a background check done, you can go to several places depending on the type of check you need:",
+        "gold_answers": [
+            "Many commercial sites"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6476",
+        "prediction": "Nadiya Hussain",
+        "predicted_answer": "Nadiya Hussain",
+        "gold_answers": [
+            "Nadiya Hussain"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3761",
+        "prediction": "Pom Klementieff",
+        "predicted_answer": "Pom Klementieff",
+        "gold_answers": [
+            "Pom Klementieff"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2128",
+        "prediction": "Anthony Trollope",
+        "predicted_answer": "Anthony Trollope",
+        "gold_answers": [
+            "Anthony Trollope"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1404",
+        "prediction": "Honeybus",
+        "predicted_answer": "Honeybus",
+        "gold_answers": [
+            "Honeybus"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4956",
+        "prediction": "Vince Gill",
+        "predicted_answer": "Vince Gill",
+        "gold_answers": [
+            "Vince Gill"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2581",
+        "prediction": "Lipa",
+        "predicted_answer": "Lipa",
+        "gold_answers": [
+            "Jamaican rapper Sean Paul",
+            "English singer Dua Lipa"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_1682",
+        "prediction": "England typically receives a total of seven places in the UEFA Europa League. This includes the winners of the domestic cup competitions and teams based on their league positions. However, the exact number can vary depending on specific circumstances, such as teams qualifying for the UEFA Champions League",
+        "predicted_answer": "England typically receives a total of seven places in the UEFA Europa League. This includes the winners of the domestic cup competitions and teams based on their league positions. However, the exact number can vary depending on specific circumstances, such as teams qualifying for the UEFA Champions League",
+        "gold_answers": [
+            "five"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4346",
+        "prediction": "The dog in \\\"Smokey and the Bandit\\\" is named \\\"Fred.\\\"",
+        "predicted_answer": "The dog in \\\"Smokey and the Bandit\\\" is named \\\"Fred.\\\"",
+        "gold_answers": [
+            "Fred"
+        ],
+        "em": 0,
+        "f1": 0.2222222222222222
+    },
+    {
+        "id": "single_nq_dev_2915",
+        "prediction": "June 15, 2012",
+        "predicted_answer": "June 15, 2012",
+        "gold_answers": [
+            "June 15 , 2012"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2658",
+        "prediction": "Magnus Carlsen",
+        "predicted_answer": "Magnus Carlsen",
+        "gold_answers": [
+            "Magnus Carlsen"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4625",
+        "prediction": "Elton John",
+        "predicted_answer": "Elton John",
+        "gold_answers": [
+            "Elton John"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4917",
+        "prediction": "December 10, 1948",
+        "predicted_answer": "December 10, 1948",
+        "gold_answers": [
+            "10 December 1948"
+        ],
+        "em": 0,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_537",
+        "prediction": "New York Times Co. v. Sullivan held that there must be proof of \\\"actual malice\\\" in defamation cases involving public officials or public figures. This means that the plaintiff must demonstrate that the statement was made with knowledge of its falsity or with reckless disregard for the truth",
+        "predicted_answer": "New York Times Co. v. Sullivan held that there must be proof of \\\"actual malice\\\" in defamation cases involving public officials or public figures. This means that the plaintiff must demonstrate that the statement was made with knowledge of its falsity or with reckless disregard for the truth",
+        "gold_answers": [
+            "actual malice"
+        ],
+        "em": 0,
+        "f1": 0.0851063829787234
+    },
+    {
+        "id": "single_nq_dev_3885",
+        "prediction": "24 characters (in the original version)",
+        "predicted_answer": "24 characters (in the original version)",
+        "gold_answers": [
+            "24"
+        ],
+        "em": 0,
+        "f1": 0.33333333333333337
+    },
+    {
+        "id": "single_nq_dev_550",
+        "prediction": "ricotta",
+        "predicted_answer": "ricotta",
+        "gold_answers": [
+            "ricotta"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3407",
+        "prediction": "supervolcanism",
+        "predicted_answer": "supervolcanism",
+        "gold_answers": [
+            "hotspot"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3030",
+        "prediction": "India and China",
+        "predicted_answer": "India and China",
+        "gold_answers": [
+            "India",
+            "China"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_424",
+        "prediction": "The provided excerpts do not contain information about who translated the song \\\"We Shall Overcome\\\" into Bengali. Therefore, I cannot provide an answer based on the given text",
+        "predicted_answer": "The provided excerpts do not contain information about who translated the song \\\"We Shall Overcome\\\" into Bengali. Therefore, I cannot provide an answer based on the given text",
+        "gold_answers": [
+            "Bengali folk singer Hemanga Biswas"
+        ],
+        "em": 0,
+        "f1": 0.06896551724137931
+    },
+    {
+        "id": "single_nq_dev_762",
+        "prediction": "The provided text does not contain specific information about the number of institutions of higher education in the United States. Therefore, I cannot provide an answer based on the given content. If you need information on this topic, I recommend checking official educational statistics or resources such as the National Center for Education Statistics (NCES) in the U.S",
+        "predicted_answer": "The provided text does not contain specific information about the number of institutions of higher education in the United States. Therefore, I cannot provide an answer based on the given content. If you need information on this topic, I recommend checking official educational statistics or resources such as the National Center for Education Statistics (NCES) in the U.S",
+        "gold_answers": [
+            "4,726"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5312",
+        "prediction": "Taylor Swift",
+        "predicted_answer": "Taylor Swift",
+        "gold_answers": [
+            "Taylor Swift"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3868",
+        "prediction": "1964",
+        "predicted_answer": "1964",
+        "gold_answers": [
+            "1964"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1780",
+        "prediction": "Emergency \u2013 Ward 10.",
+        "predicted_answer": "Emergency \u2013 Ward 10.",
+        "gold_answers": [
+            "Elizabeth MacLennan",
+            "Lloyd Reckord"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4292",
+        "prediction": "Roberts Blossom",
+        "predicted_answer": "Roberts Blossom",
+        "gold_answers": [
+            "Roberts Scott Blossom"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_5042",
+        "prediction": "Gregory Peck",
+        "predicted_answer": "Gregory Peck",
+        "gold_answers": [
+            "Gregory Peck"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1520",
+        "prediction": "December 7, 1941",
+        "predicted_answer": "December 7, 1941",
+        "gold_answers": [
+            "1941"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_1523",
+        "prediction": "Daniel Goddard",
+        "predicted_answer": "Daniel Goddard",
+        "gold_answers": [
+            "Daniel Richard Goddard"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_1874",
+        "prediction": "The father of Blair Waldorf's baby is Chuck Bass, a character from the television series \\\"Gossip Girl.\\\"",
+        "predicted_answer": "The father of Blair Waldorf's baby is Chuck Bass, a character from the television series \\\"Gossip Girl.\\\"",
+        "gold_answers": [
+            "Chuck"
+        ],
+        "em": 0,
+        "f1": 0.13333333333333333
+    },
+    {
+        "id": "single_nq_dev_5824",
+        "prediction": "England",
+        "predicted_answer": "England",
+        "gold_answers": [
+            "England"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2251",
+        "prediction": "Salzach",
+        "predicted_answer": "Salzach",
+        "gold_answers": [
+            "Salzach"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5133",
+        "prediction": "The provided text does not contain any information regarding a specific event or time related to \\\"the last time we went to the moo.\\\" Therefore, I cannot provide an answer to that question. If you have a different question or need information on another topic, feel free to ask!",
+        "predicted_answer": "The provided text does not contain any information regarding a specific event or time related to \\\"the last time we went to the moo.\\\" Therefore, I cannot provide an answer to that question. If you have a different question or need information on another topic, feel free to ask!",
+        "gold_answers": [
+            "1972"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3784",
+        "prediction": "Snowball",
+        "predicted_answer": "Snowball",
+        "gold_answers": [
+            "Snowball and Napoleon"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_4172",
+        "prediction": "Salt Lake City",
+        "predicted_answer": "Salt Lake City",
+        "gold_answers": [
+            "Beijing"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2295",
+        "prediction": "Tamar Braxton and others",
+        "predicted_answer": "Tamar Braxton and others",
+        "gold_answers": [
+            "LaShawn Daniels",
+            "Tamar Braxton",
+            "Darhyl Camper , Jr .",
+            "Makeba Riddick"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_1288",
+        "prediction": "Water stops flowing from a hypotonic solution to a hypertonic solution when equilibrium is reached, meaning the concentrations of solutes on both sides of the cell membrane are equal. At this point, the osmotic pressure is balanced, and there is no net movement of water in either direction. In a biological context, this is often referred to as isotonic conditions, where the solute concentration inside the cell is equal to that outside the cell",
+        "predicted_answer": "Water stops flowing from a hypotonic solution to a hypertonic solution when equilibrium is reached, meaning the concentrations of solutes on both sides of the cell membrane are equal. At this point, the osmotic pressure is balanced, and there is no net movement of water in either direction. In a biological context, this is often referred to as isotonic conditions, where the solute concentration inside the cell is equal to that outside the cell",
+        "gold_answers": [
+            "full turgor"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5683",
+        "prediction": "1994",
+        "predicted_answer": "1994",
+        "gold_answers": [
+            "1962"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3239",
+        "prediction": "The term that means a state has supreme and absolute authority within its own borders is \\\"sovereignty.\\\"",
+        "predicted_answer": "The term that means a state has supreme and absolute authority within its own borders is \\\"sovereignty.\\\"",
+        "gold_answers": [
+            "Sovereignty"
+        ],
+        "em": 0,
+        "f1": 0.125
+    },
+    {
+        "id": "single_nq_dev_840",
+        "prediction": "Makardhwaja (or Matsyagarbha)",
+        "predicted_answer": "Makardhwaja (or Matsyagarbha)",
+        "gold_answers": [
+            "Makardhwaja"
+        ],
+        "em": 0,
+        "f1": 0.5
+    }
+]

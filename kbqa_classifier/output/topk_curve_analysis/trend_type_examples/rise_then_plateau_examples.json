@@ -1,0 +1,707 @@
+[
+  {
+    "id": "single_nq_dev_1068",
+    "question": "when was the first world happiness report released",
+    "dataset_name": "nq",
+    "best_k": 3,
+    "best_em": 1,
+    "best_f1": 1.0,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.8
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.5
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.5
+      },
+      "3": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "4": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "5": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "6": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "7": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "8": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "9": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "10": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "11": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "12": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "13": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "14": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "15": {
+        "em": 1,
+        "f1": 1.0
+      }
+    },
+    "predictions": {
+      "0": "April 2012",
+      "1": "2012",
+      "2": "2012",
+      "3": "April 1, 2012",
+      "4": "April 1, 2012",
+      "5": "April 1, 2012",
+      "6": "April 1, 2012",
+      "7": "April 1, 2012",
+      "8": "April 1, 2012",
+      "9": "April 1, 2012",
+      "10": "April 1, 2012",
+      "11": "April 1, 2012",
+      "12": "April 1, 2012",
+      "13": "April 1, 2012",
+      "14": "April 1, 2012",
+      "15": "April 1, 2012"
+    },
+    "curve_analysis": {
+      "trend_type": "rise_then_plateau",
+      "stability_type": "mildly_oscillating",
+      "best_k": 3,
+      "max_f1": 1.0,
+      "f1_at_0": 0.8,
+      "gain_to_best": 0.19999999999999996,
+      "first_reach_best_k": 3,
+      "plateau_length": 13,
+      "post_peak_drop": 0.0,
+      "sign_changes": 1,
+      "volatility": 0.8,
+      "trend_curve": [
+        0.8,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prefix_best_curve": [
+        0.8,
+        0.8,
+        0.8,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1129",
+    "question": "who 's the mayor of south bend indiana",
+    "dataset_name": "nq",
+    "best_k": 15,
+    "best_em": 0,
+    "best_f1": 0.16666666666666666,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.16666666666666666
+      }
+    },
+    "predictions": {
+      "0": "James Mueller",
+      "1": "The information provided does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the latest sources or the official South Bend city website",
+      "2": "The provided information does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the latest sources or the official South Bend city website",
+      "3": "The provided text does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information regarding the current mayor, it would be best to check official city resources or recent news articles",
+      "4": "The provided information does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the latest sources or the official South Bend city website",
+      "5": "The provided information does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the latest sources or the official South Bend city website",
+      "6": "The information provided does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the official South Bend city website or recent news sources",
+      "7": "The information provided does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the official South Bend city website or recent news sources",
+      "8": "The provided information does not specify the current mayor of South Bend, Indiana. For the most accurate and up-to-date information, it is recommended to check official city resources or news outlets",
+      "9": "The information provided does not specify the current mayor of South Bend, Indiana. However, as of my last knowledge update, the mayor was James Mueller, who took office in January 2020. For the most accurate and up-to-date information, please check the latest sources",
+      "10": "The information provided does not specify the current mayor of South Bend, Indiana. However, as of my last knowledge update, the mayor was James Mueller, who took office in January 2020. For the most accurate and up-to-date information, please check the latest sources",
+      "11": "The provided information does not specify the current mayor of South Bend, Indiana. However, it mentions that every South Bend mayor since 1972 has been a Democrat. For the most accurate and up-to-date information, it would be best to check the latest sources or the official South Bend city website",
+      "12": "The information provided does not specify the current mayor of South Bend, Indiana. However, as of my last knowledge update, the mayor was James Mueller, who took office in January 2020. For the most accurate and up-to-date information, please check the latest sources",
+      "13": "The provided information does not specify the current mayor of South Bend, Indiana. To find the most accurate and up-to-date information regarding the mayor, it is recommended to check official city resources or recent news articles",
+      "14": "The information provided does not specify the current mayor of South Bend, Indiana. However, as of my last knowledge update, the mayor was James Mueller, who took office in January 2020. For the most accurate and up-to-date information, please check the latest sources",
+      "15": "The mayor of South Bend, Indiana, is Pete Buttigieg"
+    },
+    "curve_analysis": {
+      "trend_type": "rise_then_plateau",
+      "stability_type": "stable",
+      "best_k": 15,
+      "max_f1": 0.16666666666666666,
+      "f1_at_0": 0.0,
+      "gain_to_best": 0.16666666666666666,
+      "first_reach_best_k": 15,
+      "plateau_length": 1,
+      "post_peak_drop": 0.0,
+      "sign_changes": 0,
+      "volatility": 0.16666666666666666,
+      "trend_curve": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.16666666666666666
+      ],
+      "prefix_best_curve": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.16666666666666666
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1404",
+    "question": "who sang i ca n 't let maggie go",
+    "dataset_name": "nq",
+    "best_k": 2,
+    "best_em": 1,
+    "best_f1": 1.0,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "2": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "3": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "4": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "5": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "6": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "7": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "8": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "9": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "10": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "11": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "12": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "13": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "14": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "15": {
+        "em": 1,
+        "f1": 1.0
+      }
+    },
+    "predictions": {
+      "0": "The Honeycombs",
+      "1": "The Honeycombs",
+      "2": "Honeybus",
+      "3": "Honeybus",
+      "4": "Honeybus",
+      "5": "Honeybus",
+      "6": "Honeybus",
+      "7": "Honeybus",
+      "8": "Honeybus",
+      "9": "Honeybus",
+      "10": "Honeybus",
+      "11": "Honeybus",
+      "12": "Honeybus",
+      "13": "Honeybus",
+      "14": "Honeybus",
+      "15": "Honeybus"
+    },
+    "curve_analysis": {
+      "trend_type": "rise_then_plateau",
+      "stability_type": "mildly_oscillating",
+      "best_k": 2,
+      "max_f1": 1.0,
+      "f1_at_0": 0.0,
+      "gain_to_best": 1.0,
+      "first_reach_best_k": 2,
+      "plateau_length": 14,
+      "post_peak_drop": 0.0,
+      "sign_changes": 0,
+      "volatility": 1.0,
+      "trend_curve": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prefix_best_curve": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1447",
+    "question": "what is the corn palace in mitchell south dakota",
+    "dataset_name": "nq",
+    "best_k": 3,
+    "best_em": 0,
+    "best_f1": 0.08450704225352113,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.08333333333333333
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.08450704225352113
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.07058823529411765
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.07058823529411765
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.061224489795918366
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.06185567010309278
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.06741573033707865
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.06741573033707865
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.06060606060606061
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.06521739130434782
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.06451612903225806
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.06382978723404255
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.058252427184466014
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.055045871559633024
+      }
+    },
+    "predictions": {
+      "0": "The Corn Palace in Mitchell, South Dakota, is a unique building and tourist attraction known for its exterior murals made entirely of corn and other grains. It was originally built in 1892 as a way to promote the local agricultural industry and has since become a symbol of the city. The Corn Palace hosts various events, including concerts and festivals, and features an interior that showcases local art and culture. Each year, the exterior is redesigned with new corn murals, reflecting different themes and designs",
+      "1": "The Corn Palace in Mitchell, South Dakota, is a building originally constructed in 1892 to showcase the rich soil of the region and encourage settlement. It is known for its unique design, featuring murals and decorations made from corn and other grains. The Corn Palace serves as a venue for various events and festivals, celebrating the agricultural heritage of the area",
+      "2": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known as \\\"The World's Only Corn Palace.\\\" It is a Moorish Revival-style building decorated with crop art, featuring murals and designs made from corn and other grains. The original Corn Palace, called \\\"The Corn Belt Exposition,\\\" was built in 1892 to showcase the rich soil of South Dakota and encourage settlement in the area. The building serves as a unique cultural and tourist attraction in Mitchell",
+      "3": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known as \\\"The World's Only Corn Palace.\\\" It is a Moorish Revival building decorated with crop art, featuring murals and designs made from corn and other grains. A new design is created each year. The Corn Palace is a popular tourist destination, attracting up to 500,000 visitors annually. It serves the community as a venue for concerts, sports events, exhibits, and other community activities",
+      "4": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known as \\\"The World's Only Corn Palace.\\\" It features a Moorish Revival architectural style and is decorated with crop art, including murals and designs made from corn and other grains. Each year, a new design is constructed, making it a popular tourist destination that attracts up to 500,000 visitors annually. The Corn Palace serves as a venue for concerts, sports events, exhibits, and community events, and it is celebrated with the Corn Palace Festival, among other annual events",
+      "5": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known as \\\"The World's Only Corn Palace.\\\" It features a Moorish Revival architectural style and is decorated with crop art, with murals and designs made from corn and other grains. Each year, a new design is constructed, making it a popular tourist destination that attracts up to 500,000 visitors annually. The Corn Palace serves as a venue for concerts, sports events, exhibits, and community activities, and it is celebrated with an annual festival known as the Corn Palace Festival",
+      "6": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known for its unique Moorish Revival architecture and decorative crop art. The building is adorned with murals and designs made from corn and other grains, which are replaced and redesigned each year with a new theme. It serves as a popular tourist destination, attracting up to 500,000 visitors annually, and hosts various events such as concerts, sports, and community activities. The Corn Palace is also home to the Dakota Wesleyan University Tigers and the Mitchell High School Kernels basketball teams. Additionally, it is celebrated with an annual festival, the Corn Palace Festival",
+      "7": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known as \\\"The World's Only Corn Palace.\\\" It is decorated with crop art, featuring murals and designs made from corn and other grains, which are reconstructed each year. The Corn Palace serves as a popular tourist destination, attracting up to 500,000 visitors annually, and hosts various events such as concerts, sports, and community activities. It is also home to the Dakota Wesleyan University Tigers and the Mitchell High School Kernels basketball teams. The Corn Palace Festival, celebrated at harvest time, is one of the notable annual events associated with the venue",
+      "8": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known for its unique decoration with crop art, including murals and designs made from corn and other grains. It is commonly advertised as \\\"The World's Only Corn Palace\\\" and serves as a popular tourist destination, attracting up to 500,000 visitors each year. The Corn Palace hosts various events, including concerts, sports events, and community activities, and is celebrated with an annual festival. The building features a Moorish Revival architectural style and has undergone several renovations since its original construction in 1892",
+      "9": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known for its unique decoration with crop art, including murals and designs made from corn and other grains. It is commonly advertised as \\\"The World's Only Corn Palace\\\" and serves as a popular tourist destination, attracting up to 500,000 visitors each year. The Corn Palace hosts various events, including concerts, sports events, and community activities, and is celebrated with an annual festival. The building features a Moorish Revival architectural style and has undergone several renovations since its original construction in 1892",
+      "10": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known for its unique decoration with crop art, specifically murals and designs made from corn and other grains. It is commonly advertised as \\\"The World's Only Corn Palace\\\" and serves as a popular tourist destination, attracting up to 500,000 visitors each year. The Corn Palace hosts various events, including concerts, sports events, and community activities, and features an annual festival known as the Corn Palace Festival. The building has undergone several renovations since its original construction in 1892, with its distinctive Moorish Revival architecture and annual theme changes for the exterior murals",
+      "11": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility that is famously decorated with crop art, including murals and designs made from corn and other grains. It is commonly advertised as \\\"The World's Only Corn Palace\\\" and serves as a popular tourist destination, attracting up to 500,000 visitors each year. The Corn Palace hosts various events, including concerts, sports events, and community activities, and features a new design each year for its exterior corn murals. It is also home to the Dakota Wesleyan University Tigers and the Mitchell High School Kernels basketball teams",
+      "12": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known for its unique decoration with crop art, specifically murals and designs made from corn and other grains. It is commonly advertised as \\\"The World's Only Corn Palace\\\" and serves as a popular tourist destination, attracting up to 500,000 visitors each year. The Corn Palace hosts various community events, concerts, and sports activities, and features a new design each year for its exterior corn murals. The building has a distinctive Moorish Revival architectural style and has undergone several renovations since its original construction in 1892",
+      "13": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility known for its unique decoration with crop art, specifically murals and designs made from corn and other grains. It is commonly advertised as \\\"The World's Only Corn Palace\\\" and serves as a popular tourist destination, attracting up to 500,000 visitors each year. The Corn Palace hosts various events, including concerts, sports events, and community activities, and features a new design each year for its exterior corn murals. The building has a Moorish Revival architectural style and has undergone several renovations since its original construction in 1892",
+      "14": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility that is commonly advertised as \\\"The World's Only Corn Palace.\\\" It is a Moorish Revival building decorated with crop art, featuring murals and designs made from corn and other grains. Each year, a new design is constructed, making it a popular tourist destination that attracts up to 500,000 visitors annually. The Corn Palace serves as a venue for concerts, sports events, exhibits, and community activities, and it is celebrated with a citywide festival known as the Corn Palace Festival. The building has undergone several renovations since its original construction in 1892, with distinctive architectural features added over the years",
+      "15": "The Corn Palace in Mitchell, South Dakota, is a multi-purpose arena and facility that is commonly advertised as \\\"The World's Only Corn Palace.\\\" It is decorated with crop art, featuring murals and designs made from corn and other grains, which are replaced and redesigned each year with a new theme. The Corn Palace serves as a popular tourist destination, attracting up to 500,000 visitors annually, and hosts various events such as concerts, sports events, and community activities. It is also home to the Dakota Wesleyan University Tigers and the Mitchell High School Kernels basketball teams. The Corn Palace has a rich history, with its original structure built in 1892 to showcase the agricultural bounty of South Dakota"
+    },
+    "curve_analysis": {
+      "trend_type": "rise_then_plateau",
+      "stability_type": "stable",
+      "best_k": 3,
+      "max_f1": 0.08450704225352113,
+      "f1_at_0": 0.0,
+      "gain_to_best": 0.08450704225352113,
+      "first_reach_best_k": 3,
+      "plateau_length": 13,
+      "post_peak_drop": 0.0294611706938881,
+      "sign_changes": 0,
+      "volatility": 0.13557335542630425,
+      "trend_curve": [
+        0.0,
+        0.0,
+        0.08333333333333333,
+        0.08450704225352113,
+        0.07058823529411765,
+        0.07058823529411765,
+        0.061224489795918366,
+        0.06185567010309278,
+        0.06741573033707865,
+        0.06741573033707865,
+        0.06060606060606061,
+        0.06521739130434782,
+        0.06451612903225806,
+        0.06382978723404255,
+        0.058252427184466014,
+        0.055045871559633024
+      ],
+      "prefix_best_curve": [
+        0.0,
+        0.0,
+        0.08333333333333333,
+        0.08450704225352113,
+        0.08450704225352113,
+        0.08450704225352113,
+        0.08450704225352113,
+        0.08450704225352113,
+        0.08450704225352113,
+        0.08450704225352113,
+        0.08450704225352113,
+        0.08450704225352113,
+        0.08450704225352113,
+        0.08450704225352113,
+        0.08450704225352113,
+        0.08450704225352113
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1752",
+    "question": "which country 's head visit to pakistan first",
+    "dataset_name": "nq",
+    "best_k": 7,
+    "best_em": 1,
+    "best_f1": 1.0,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "7": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "8": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "9": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "10": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "11": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "12": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "13": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "14": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "15": {
+        "em": 1,
+        "f1": 1.0
+      }
+    },
+    "predictions": {
+      "0": "United States",
+      "1": "The question seems to be incomplete or unclear. However, if you are asking about which country's head of state or government first visited Pakistan, that information is not provided in the text. If you need specific historical information regarding visits by heads of state to Pakistan, please clarify or provide additional context",
+      "2": "China",
+      "3": "China",
+      "4": "China",
+      "5": "Pakistan",
+      "6": "China",
+      "7": "Iran",
+      "8": "Iran",
+      "9": "Iran",
+      "10": "Iran",
+      "11": "Iran",
+      "12": "Iran",
+      "13": "Iran",
+      "14": "Iran",
+      "15": "Iran"
+    },
+    "curve_analysis": {
+      "trend_type": "rise_then_plateau",
+      "stability_type": "mildly_oscillating",
+      "best_k": 7,
+      "max_f1": 1.0,
+      "f1_at_0": 0.0,
+      "gain_to_best": 1.0,
+      "first_reach_best_k": 7,
+      "plateau_length": 9,
+      "post_peak_drop": 0.0,
+      "sign_changes": 0,
+      "volatility": 1.0,
+      "trend_curve": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prefix_best_curve": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  }
+]

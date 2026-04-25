@@ -1,0 +1,5093 @@
+[
+    {
+        "id": "single_nq_dev_6297",
+        "prediction": "$99.093 million",
+        "predicted_answer": "$99.093 million",
+        "gold_answers": [
+            "$94.14 million"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_2208",
+        "prediction": "Jesse",
+        "predicted_answer": "Jesse",
+        "gold_answers": [
+            "Jesse"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5874",
+        "prediction": "multiple teams, including the Boston Celtics and Denver Nuggets",
+        "predicted_answer": "multiple teams, including the Boston Celtics and Denver Nuggets",
+        "gold_answers": [
+            "Cleveland Cavaliers"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5745",
+        "prediction": "West Virginia",
+        "predicted_answer": "West Virginia",
+        "gold_answers": [
+            "Atlanta , Georgia",
+            "Huntington , West Virginia"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_6148",
+        "prediction": "monkey",
+        "predicted_answer": "monkey",
+        "gold_answers": [
+            "anthropomorphic monkey"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_4648",
+        "prediction": "Chris Tarrant",
+        "predicted_answer": "Chris Tarrant",
+        "gold_answers": [
+            "Jeremy Clarkson"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2250",
+        "prediction": "October 19, 2016",
+        "predicted_answer": "October 19, 2016",
+        "gold_answers": [
+            "October 19 , 2016"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1168",
+        "prediction": "Ben Rector's new album, titled \\\"The Joy of Music / The Joy of Painting,\\\" was released on August 28, 2020. If you are referring to a different album, please provide the album name or more details",
+        "predicted_answer": "Ben Rector's new album, titled \\\"The Joy of Music / The Joy of Painting,\\\" was released on August 28, 2020. If you are referring to a different album, please provide the album name or more details",
+        "gold_answers": [
+            "June 2018"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6174",
+        "prediction": "diaphragm area",
+        "predicted_answer": "diaphragm area",
+        "gold_answers": [
+            "lower belly"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2263",
+        "prediction": "Oakland Athletics and San Francisco Giants",
+        "predicted_answer": "Oakland Athletics and San Francisco Giants",
+        "gold_answers": [
+            "San Francisco Giants",
+            "Oakland Athletics"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_272",
+        "prediction": "Nathan Hale",
+        "predicted_answer": "Nathan Hale",
+        "gold_answers": [
+            "Nathan Hale"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1700",
+        "prediction": "right ventricle",
+        "predicted_answer": "right ventricle",
+        "gold_answers": [
+            "venous circulation"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3667",
+        "prediction": "The main industries in Papua New Guinea include:",
+        "predicted_answer": "The main industries in Papua New Guinea include:",
+        "gold_answers": [
+            "fishing",
+            "minerals and energy extraction",
+            "forestry",
+            "agricultural"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3665",
+        "prediction": "one",
+        "predicted_answer": "one",
+        "gold_answers": [
+            "1"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_865",
+        "prediction": "Dakota Johnson and Jamie Dornan",
+        "predicted_answer": "Dakota Johnson and Jamie Dornan",
+        "gold_answers": [
+            "Jamie Dornan",
+            "Dakota Johnson"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_109",
+        "prediction": "Article I, Section 2 of the U.S. Constitution",
+        "predicted_answer": "Article I, Section 2 of the U.S. Constitution",
+        "gold_answers": [
+            "Article I , Section 2"
+        ],
+        "em": 0,
+        "f1": 0.7272727272727273
+    },
+    {
+        "id": "single_nq_dev_5762",
+        "prediction": "This Old Man",
+        "predicted_answer": "This Old Man",
+        "gold_answers": [
+            "Yankee Doodle"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1046",
+        "prediction": "San Diego Chargers",
+        "predicted_answer": "San Diego Chargers",
+        "gold_answers": [
+            "Oakland Athletics"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4725",
+        "prediction": "The main reason for the establishment of the Truth and Reconciliation Commission (TRC) in South Africa was to address the human rights violations that occurred during the apartheid era. The TRC aimed to promote national unity and reconciliation by uncovering the truth about past atrocities, providing a platform for victims to share their experiences, and offering amnesty to perpetrators who fully disclosed their involvement in politically motivated crimes. The TRC sought to foster healing and understanding in a society deeply divided by years of racial conflict",
+        "predicted_answer": "The main reason for the establishment of the Truth and Reconciliation Commission (TRC) in South Africa was to address the human rights violations that occurred during the apartheid era. The TRC aimed to promote national unity and reconciliation by uncovering the truth about past atrocities, providing a platform for victims to share their experiences, and offering amnesty to perpetrators who fully disclosed their involvement in politically motivated crimes. The TRC sought to foster healing and understanding in a society deeply divided by years of racial conflict",
+        "gold_answers": [
+            "reparation and rehabilitation"
+        ],
+        "em": 0,
+        "f1": 0.02531645569620253
+    },
+    {
+        "id": "single_nq_dev_5618",
+        "prediction": "Monroe Doctrine",
+        "predicted_answer": "Monroe Doctrine",
+        "gold_answers": [
+            "The Roosevelt Corollary"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3280",
+        "prediction": "Simon Cowell, Heidi Klum, Mel B, and Howie Mandel",
+        "predicted_answer": "Simon Cowell, Heidi Klum, Mel B, and Howie Mandel",
+        "gold_answers": [
+            "Howie Mandel",
+            "Heidi Klum",
+            "Simon Cowell",
+            "Mel B"
+        ],
+        "em": 0,
+        "f1": 0.3636363636363636
+    },
+    {
+        "id": "single_nq_dev_6155",
+        "prediction": "rectifier",
+        "predicted_answer": "rectifier",
+        "gold_answers": [
+            "rectifier"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_445",
+        "prediction": "transitional epithelium",
+        "predicted_answer": "transitional epithelium",
+        "gold_answers": [
+            "Transitional epithelium"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6093",
+        "prediction": "Great Lakes and Mississippi River Basin, and various states across the U.S",
+        "predicted_answer": "Great Lakes and Mississippi River Basin, and various states across the U.S",
+        "gold_answers": [
+            "Hudson River",
+            "Great Lakes"
+        ],
+        "em": 0,
+        "f1": 0.3076923076923077
+    },
+    {
+        "id": "single_nq_dev_1697",
+        "prediction": "June 2, 1774",
+        "predicted_answer": "June 2, 1774",
+        "gold_answers": [
+            "1765"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5398",
+        "prediction": "April 19, 1930",
+        "predicted_answer": "April 19, 1930",
+        "gold_answers": [
+            "1930"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_5459",
+        "prediction": "clitellum; it contains reproductive organs",
+        "predicted_answer": "clitellum; it contains reproductive organs",
+        "gold_answers": [
+            "anus",
+            "periproct"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6469",
+        "prediction": "Langston Hughes",
+        "predicted_answer": "Langston Hughes",
+        "gold_answers": [
+            "Langston Hughes"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3691",
+        "prediction": "Joey Scarbury",
+        "predicted_answer": "Joey Scarbury",
+        "gold_answers": [
+            "American singer Joey Scarbury"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_596",
+        "prediction": "October 18, 1961",
+        "predicted_answer": "October 18, 1961",
+        "gold_answers": [
+            "October 18 , 1961"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5128",
+        "prediction": "January 17, 1920, to December 5, 1933",
+        "predicted_answer": "January 17, 1920, to December 5, 1933",
+        "gold_answers": [
+            "from 1920 to 1933"
+        ],
+        "em": 0,
+        "f1": 0.5454545454545454
+    },
+    {
+        "id": "single_nq_dev_4352",
+        "prediction": "Las Vegas Raiders",
+        "predicted_answer": "Las Vegas Raiders",
+        "gold_answers": [
+            "Detroit Lions"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2695",
+        "prediction": "Gal Gadot",
+        "predicted_answer": "Gal Gadot",
+        "gold_answers": [
+            "Gal Gadot"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1764",
+        "prediction": "Pharaoh Senusret I",
+        "predicted_answer": "Pharaoh Senusret I",
+        "gold_answers": [
+            "Senusret I"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_1724",
+        "prediction": "Roxette",
+        "predicted_answer": "Roxette",
+        "gold_answers": [
+            "Roxette"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5801",
+        "prediction": "Taylor Lautner",
+        "predicted_answer": "Taylor Lautner",
+        "gold_answers": [
+            "Taylor Lautner"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2018",
+        "prediction": "8 (for most tournaments) or 12 (for the upcoming 2026 tournament)",
+        "predicted_answer": "8 (for most tournaments) or 12 (for the upcoming 2026 tournament)",
+        "gold_answers": [
+            "8"
+        ],
+        "em": 0,
+        "f1": 0.18181818181818182
+    },
+    {
+        "id": "single_nq_dev_5236",
+        "prediction": "James Marsters",
+        "predicted_answer": "James Marsters",
+        "gold_answers": [
+            "Hinton Battle"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_937",
+        "prediction": "Hendrick Motorsports",
+        "predicted_answer": "Hendrick Motorsports",
+        "gold_answers": [
+            "JR Motorsports"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_1398",
+        "prediction": "2008",
+        "predicted_answer": "2008",
+        "gold_answers": [
+            "2008"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6265",
+        "prediction": "William Sadler",
+        "predicted_answer": "William Sadler",
+        "gold_answers": [
+            "William Thomas Sadler"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_1659",
+        "prediction": "Ian Hawke",
+        "predicted_answer": "Ian Hawke",
+        "gold_answers": [
+            "David Cross"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3036",
+        "prediction": "near the poles (Arctic and Antarctic Circles)",
+        "predicted_answer": "near the poles (Arctic and Antarctic Circles)",
+        "gold_answers": [
+            "higher middle latitudes"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_319",
+        "prediction": "from the environment, food, drinks, air, and other parts of the body",
+        "predicted_answer": "from the environment, food, drinks, air, and other parts of the body",
+        "gold_answers": [
+            "saliva"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2670",
+        "prediction": "Joe Fontaine",
+        "predicted_answer": "Joe Fontaine",
+        "gold_answers": [
+            "Joe"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_5917",
+        "prediction": "Bombay",
+        "predicted_answer": "Bombay",
+        "gold_answers": [
+            "Bombay"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5406",
+        "prediction": "a fictional elementary school in the United States",
+        "predicted_answer": "a fictional elementary school in the United States",
+        "gold_answers": [
+            "Snow Hill School in Connecticut"
+        ],
+        "em": 0,
+        "f1": 0.3636363636363636
+    },
+    {
+        "id": "single_nq_dev_1098",
+        "prediction": "Frank W. W. Weller",
+        "predicted_answer": "Frank W. W. Weller",
+        "gold_answers": [
+            "Art Walunas"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2012",
+        "prediction": "Jefferson Davis",
+        "predicted_answer": "Jefferson Davis",
+        "gold_answers": [
+            "Jefferson Davis"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1383",
+        "prediction": "Chief Little Crow",
+        "predicted_answer": "Chief Little Crow",
+        "gold_answers": [
+            "Shakopee",
+            "Big Eagle",
+            "Wabasha",
+            "Little Crow"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_609",
+        "prediction": "Edmund Cartwright",
+        "predicted_answer": "Edmund Cartwright",
+        "gold_answers": [
+            "Edmund Cartwright"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4884",
+        "prediction": "The U.S. food stamp program, officially known as the Supplemental Nutrition Assistance Program (SNAP), provides eligible individuals and families with coupons or electronic benefits to purchase food. The program aims to alleviate hunger and improve nutrition among low-income households. SNAP benefits can be used at authorized retailers to buy food items, but cannot be used for non-food items, alcohol, or hot prepared foods",
+        "predicted_answer": "The U.S. food stamp program, officially known as the Supplemental Nutrition Assistance Program (SNAP), provides eligible individuals and families with coupons or electronic benefits to purchase food. The program aims to alleviate hunger and improve nutrition among low-income households. SNAP benefits can be used at authorized retailers to buy food items, but cannot be used for non-food items, alcohol, or hot prepared foods",
+        "gold_answers": [
+            "Supplemental Nutrition Assistance Program"
+        ],
+        "em": 0,
+        "f1": 0.125
+    },
+    {
+        "id": "single_nq_dev_1370",
+        "prediction": "Max Boyce",
+        "predicted_answer": "Max Boyce",
+        "gold_answers": [
+            "David Alexander"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3938",
+        "prediction": "Bee Gees",
+        "predicted_answer": "Bee Gees",
+        "gold_answers": [
+            "the Bee Gees"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2528",
+        "prediction": "Typically in March, varying by school",
+        "predicted_answer": "Typically in March, varying by school",
+        "gold_answers": [
+            "from March to April"
+        ],
+        "em": 0,
+        "f1": 0.2
+    },
+    {
+        "id": "single_nq_dev_2852",
+        "prediction": "December 16, 1689",
+        "predicted_answer": "December 16, 1689",
+        "gold_answers": [
+            "16 December 1689"
+        ],
+        "em": 0,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6301",
+        "prediction": "1959",
+        "predicted_answer": "1959",
+        "gold_answers": [
+            "1959"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4234",
+        "prediction": "John Carpenter",
+        "predicted_answer": "John Carpenter",
+        "gold_answers": [
+            "John Carpenter"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1783",
+        "prediction": "Crystal Fox",
+        "predicted_answer": "Crystal Fox",
+        "gold_answers": [
+            "Crystal R. Fox"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_4564",
+        "prediction": "As of the end of the 2022-2023 NBA season, Stephen Curry averaged approximately 29.4 points per game. However, this number can vary from season to season, so it's best to check the latest statistics for the most current average",
+        "predicted_answer": "As of the end of the 2022-2023 NBA season, Stephen Curry averaged approximately 29.4 points per game. However, this number can vary from season to season, so it's best to check the latest statistics for the most current average",
+        "gold_answers": [
+            "22.9 points"
+        ],
+        "em": 0,
+        "f1": 0.05405405405405405
+    },
+    {
+        "id": "single_nq_dev_2742",
+        "prediction": "Nikola Tesla",
+        "predicted_answer": "Nikola Tesla",
+        "gold_answers": [
+            "Nikola Tesla"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1019",
+        "prediction": "the White House",
+        "predicted_answer": "the White House",
+        "gold_answers": [
+            "Executive Residence"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3876",
+        "prediction": "The statement refers to the situation in Ukraine regarding the Antonov aircraft manufacturer, which is known for producing large cargo aircraft, including the Antonov An-225 Mriya. The company has faced challenges due to the ongoing conflict in Ukraine, particularly since the Russian invasion in 2022. The liquidation of such a legendary manufacturer would signify significant economic and industrial impacts on the country. However, as of my last knowledge update in October 2023, specific details about the liquidation process or its current status would need to be verified with the latest news sources",
+        "predicted_answer": "The statement refers to the situation in Ukraine regarding the Antonov aircraft manufacturer, which is known for producing large cargo aircraft, including the Antonov An-225 Mriya. The company has faced challenges due to the ongoing conflict in Ukraine, particularly since the Russian invasion in 2022. The liquidation of such a legendary manufacturer would signify significant economic and industrial impacts on the country. However, as of my last knowledge update in October 2023, specific details about the liquidation process or its current status would need to be verified with the latest news sources",
+        "gold_answers": [
+            "19 July 2017"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5401",
+        "prediction": "Buffalo Springfield",
+        "predicted_answer": "Buffalo Springfield",
+        "gold_answers": [
+            "Buffalo Springfield"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4389",
+        "prediction": "March 22, 1963",
+        "predicted_answer": "March 22, 1963",
+        "gold_answers": [
+            "22 March 1963"
+        ],
+        "em": 0,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3246",
+        "prediction": "nuclear family",
+        "predicted_answer": "nuclear family",
+        "gold_answers": [
+            "nuclear"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_6295",
+        "prediction": "1930s",
+        "predicted_answer": "1930s",
+        "gold_answers": [
+            "between 1652 and 1674"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_871",
+        "prediction": "Greg Barclay",
+        "predicted_answer": "Greg Barclay",
+        "gold_answers": [
+            "Shashank Manohar"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4500",
+        "prediction": "Ray Bolger",
+        "predicted_answer": "Ray Bolger",
+        "gold_answers": [
+            "Raymond Wallace Bolger"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_2966",
+        "prediction": "Christopher Lee",
+        "predicted_answer": "Christopher Lee",
+        "gold_answers": [
+            "Corey Burton"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4347",
+        "prediction": "Robert Romanus",
+        "predicted_answer": "Robert Romanus",
+        "gold_answers": [
+            "Robert Romanus"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5568",
+        "prediction": "Adoor Gopalakrishnan",
+        "predicted_answer": "Adoor Gopalakrishnan",
+        "gold_answers": [
+            "Sreekumaran Thampi"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4350",
+        "prediction": "Audrey II",
+        "predicted_answer": "Audrey II",
+        "gold_answers": [
+            "Audrey II"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3039",
+        "prediction": "Homer, Alaska",
+        "predicted_answer": "Homer, Alaska",
+        "gold_answers": [
+            "11 miles outside of Homer"
+        ],
+        "em": 0,
+        "f1": 0.28571428571428575
+    },
+    {
+        "id": "single_nq_dev_2498",
+        "prediction": "1983",
+        "predicted_answer": "1983",
+        "gold_answers": [
+            "1918"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5815",
+        "prediction": "Wilmer Valderrama",
+        "predicted_answer": "Wilmer Valderrama",
+        "gold_answers": [
+            "Wilmer Eduardo Valderrama"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_4596",
+        "prediction": "Chandra Wilson",
+        "predicted_answer": "Chandra Wilson",
+        "gold_answers": [
+            "Chandra Danette Wilson"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_2409",
+        "prediction": "March 30, 2018",
+        "predicted_answer": "March 30, 2018",
+        "gold_answers": [
+            "March 30 , 2018"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6337",
+        "prediction": "New Zealand",
+        "predicted_answer": "New Zealand",
+        "gold_answers": [
+            "Waitangi"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3296",
+        "prediction": "Ardennes Forest",
+        "predicted_answer": "Ardennes Forest",
+        "gold_answers": [
+            "the Ardennes forest"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4304",
+        "prediction": "Season 15",
+        "predicted_answer": "Season 15",
+        "gold_answers": [
+            "the eighth season"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_3221",
+        "prediction": "Bob Marley",
+        "predicted_answer": "Bob Marley",
+        "gold_answers": [
+            "The Wailers"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4004",
+        "prediction": "The length of a year, defined as the time it takes for the Earth to complete one orbit around the Sun, has been understood for thousands of years. Ancient civilizations, such as the Egyptians and Babylonians, were able to approximate the length of a year as 365 days. The modern understanding of a year, which is approximately 365.25 days, was refined with the introduction of the Julian calendar in 45 BCE by Julius Caesar, which included a leap year every four years to account for the extra quarter of a day. The Gregorian calendar, introduced in 1582, further adjusted the calculation to better align with the solar year. So, while the concept of a year has been known for millennia, the precise measurement and adjustments have evolved over time",
+        "predicted_answer": "The length of a year, defined as the time it takes for the Earth to complete one orbit around the Sun, has been understood for thousands of years. Ancient civilizations, such as the Egyptians and Babylonians, were able to approximate the length of a year as 365 days. The modern understanding of a year, which is approximately 365.25 days, was refined with the introduction of the Julian calendar in 45 BCE by Julius Caesar, which included a leap year every four years to account for the extra quarter of a day. The Gregorian calendar, introduced in 1582, further adjusted the calculation to better align with the solar year. So, while the concept of a year has been known for millennia, the precise measurement and adjustments have evolved over time",
+        "gold_answers": [
+            "2nd century BC"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1584",
+        "prediction": "Bart Millard",
+        "predicted_answer": "Bart Millard",
+        "gold_answers": [
+            "Bart Millard"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_659",
+        "prediction": "April Hoffman",
+        "predicted_answer": "April Hoffman",
+        "gold_answers": [
+            "April"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_5813",
+        "prediction": "Emily Blunt",
+        "predicted_answer": "Emily Blunt",
+        "gold_answers": [
+            "Emily Blunt"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4439",
+        "prediction": "The Animals",
+        "predicted_answer": "The Animals",
+        "gold_answers": [
+            "The Animals"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1620",
+        "prediction": "Shane Black",
+        "predicted_answer": "Shane Black",
+        "gold_answers": [
+            "Shane Black"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5269",
+        "prediction": "Adoor Gopalakrishnan",
+        "predicted_answer": "Adoor Gopalakrishnan",
+        "gold_answers": [
+            "Mohanlal"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5054",
+        "prediction": "1987",
+        "predicted_answer": "1987",
+        "gold_answers": [
+            "March 31 , 1987"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_5420",
+        "prediction": "John Stafford Smith",
+        "predicted_answer": "John Stafford Smith",
+        "gold_answers": [
+            "John Stafford Smith"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2701",
+        "prediction": "Emily Davison",
+        "predicted_answer": "Emily Davison",
+        "gold_answers": [
+            "Emily Wilding Davison"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_683",
+        "prediction": "Nishiyama Onsen Keiunkan",
+        "predicted_answer": "Nishiyama Onsen Keiunkan",
+        "gold_answers": [
+            "Nishiyama Onsen Keiunkan"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3887",
+        "prediction": "April 26, 1995",
+        "predicted_answer": "April 26, 1995",
+        "gold_answers": [
+            "1980s"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4878",
+        "prediction": "August 16, 1999",
+        "predicted_answer": "August 16, 1999",
+        "gold_answers": [
+            "August 16 , 1999"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2862",
+        "prediction": "Lisa Robin Kelly",
+        "predicted_answer": "Lisa Robin Kelly",
+        "gold_answers": [
+            "Lisa Robin Kelly"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2749",
+        "prediction": "Bill Murray",
+        "predicted_answer": "Bill Murray",
+        "gold_answers": [
+            "Carol Kane",
+            "Michael J. Pollard",
+            "Bill Murray",
+            "Robert Mitchum",
+            "John Forsythe",
+            "Bobcat Goldthwait",
+            "Alfre Woodard",
+            "Karen Allen"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4748",
+        "prediction": "Teresa Palmer",
+        "predicted_answer": "Teresa Palmer",
+        "gold_answers": [
+            "Teresa Palmer"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2934",
+        "prediction": "Death Valley, California, USA",
+        "predicted_answer": "Death Valley, California, USA",
+        "gold_answers": [
+            "Mitribah , Kuwait",
+            "Death Valley"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_1821",
+        "prediction": "Paul Dukas",
+        "predicted_answer": "Paul Dukas",
+        "gold_answers": [
+            "Paul Dukas"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3427",
+        "prediction": "King Edward VIII",
+        "predicted_answer": "King Edward VIII",
+        "gold_answers": [
+            "Edward VIII"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_802",
+        "prediction": "Tyrion Lannister",
+        "predicted_answer": "Tyrion Lannister",
+        "gold_answers": [
+            "Peter Dinklage"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3722",
+        "prediction": "1976",
+        "predicted_answer": "1976",
+        "gold_answers": [
+            "the late 1980s"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_599",
+        "prediction": "Trixie Mattel",
+        "predicted_answer": "Trixie Mattel",
+        "gold_answers": [
+            "Trixie Mattel"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1949",
+        "prediction": "Three 6 Mafia",
+        "predicted_answer": "Three 6 Mafia",
+        "gold_answers": [
+            "Three 6 Mafia"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_799",
+        "prediction": "blood",
+        "predicted_answer": "blood",
+        "gold_answers": [
+            "Blood"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4982",
+        "prediction": "Wakanda",
+        "predicted_answer": "Wakanda",
+        "gold_answers": [
+            "Wakanda"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4170",
+        "prediction": "once",
+        "predicted_answer": "once",
+        "gold_answers": [
+            "18"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6434",
+        "prediction": "Richard O'Brien",
+        "predicted_answer": "Richard O'Brien",
+        "gold_answers": [
+            "Richard Hartley"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_3428",
+        "prediction": "The name of the dog in \\\"Ferdinand\\\" is Una",
+        "predicted_answer": "The name of the dog in \\\"Ferdinand\\\" is Una",
+        "gold_answers": [
+            "Paco"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2625",
+        "prediction": "28 March 1924",
+        "predicted_answer": "28 March 1924",
+        "gold_answers": [
+            "on 28 July 1923"
+        ],
+        "em": 0,
+        "f1": 0.28571428571428575
+    },
+    {
+        "id": "single_nq_dev_1050",
+        "prediction": "Republic Studios, Hollywood, California",
+        "predicted_answer": "Republic Studios, Hollywood, California",
+        "gold_answers": [
+            "the Samuel Goldwyn Studio"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_931",
+        "prediction": "Kristin Chenoweth",
+        "predicted_answer": "Kristin Chenoweth",
+        "gold_answers": [
+            "Melanie Paxson"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5939",
+        "prediction": "December 1941",
+        "predicted_answer": "December 1941",
+        "gold_answers": [
+            "October 1941"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_1045",
+        "prediction": "87.5 MHz",
+        "predicted_answer": "87.5 MHz",
+        "gold_answers": [
+            "87.5"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_5773",
+        "prediction": "Steve Goodman",
+        "predicted_answer": "Steve Goodman",
+        "gold_answers": [
+            "Steve Goodman"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4618",
+        "prediction": "Les Habitants.",
+        "predicted_answer": "Les Habitants.",
+        "gold_answers": [
+            "Les Habitants"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5646",
+        "prediction": "Mark-Paul Gosselaar",
+        "predicted_answer": "Mark-Paul Gosselaar",
+        "gold_answers": [
+            "Mark - Paul Harry Gosselaar"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_nq_dev_1277",
+        "prediction": "Stuart Hamblen",
+        "predicted_answer": "Stuart Hamblen",
+        "gold_answers": [
+            "Hamblen"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_4652",
+        "prediction": "Washington, D.C",
+        "predicted_answer": "Washington, D.C",
+        "gold_answers": [
+            "Basel , Switzerland"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6160",
+        "prediction": "2005",
+        "predicted_answer": "2005",
+        "gold_answers": [
+            "2005"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1004",
+        "prediction": "7",
+        "predicted_answer": "7",
+        "gold_answers": [
+            "6"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4923",
+        "prediction": "Piper Laurie",
+        "predicted_answer": "Piper Laurie",
+        "gold_answers": [
+            "Piper Laurie"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3820",
+        "prediction": "In the Mahabharata, the character who was born in two halves is Bhima. He was born to Kunti and the god Vayu, and his twin brother Arjuna was born shortly after. However, if you are referring to a character who was literally born in two halves, that would be the demon Hiranyakashipu, who was split in half by Lord Narasimha. Please clarify if you meant a different character or context",
+        "predicted_answer": "In the Mahabharata, the character who was born in two halves is Bhima. He was born to Kunti and the god Vayu, and his twin brother Arjuna was born shortly after. However, if you are referring to a character who was literally born in two halves, that would be the demon Hiranyakashipu, who was split in half by Lord Narasimha. Please clarify if you meant a different character or context",
+        "gold_answers": [
+            "Jarasandha"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_115",
+        "prediction": "1934 and 1990",
+        "predicted_answer": "1934 and 1990",
+        "gold_answers": [
+            "1934",
+            "1990"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_2982",
+        "prediction": "spurious correlation",
+        "predicted_answer": "spurious correlation",
+        "gold_answers": [
+            "lurking variable"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4294",
+        "prediction": "self-employed individuals and certain public sector employees",
+        "predicted_answer": "self-employed individuals and certain public sector employees",
+        "gold_answers": [
+            "self - employed"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4536",
+        "prediction": "John Wesley Shipp",
+        "predicted_answer": "John Wesley Shipp",
+        "gold_answers": [
+            "John Wesley Shipp"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2273",
+        "prediction": "regular",
+        "predicted_answer": "regular",
+        "gold_answers": [
+            "equilateral"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3454",
+        "prediction": "The bird you are describing sounds like a Red-crowned Crane or possibly a Red-headed Woodpecker, depending on the specific characteristics and location. However, if you are looking for a more common bird, it could also refer to a type of sparrow or finch with a reddish marking. More context or details about the bird's size, habitat, or behavior would help narrow it down further",
+        "predicted_answer": "The bird you are describing sounds like a Red-crowned Crane or possibly a Red-headed Woodpecker, depending on the specific characteristics and location. However, if you are looking for a more common bird, it could also refer to a type of sparrow or finch with a reddish marking. More context or details about the bird's size, habitat, or behavior would help narrow it down further",
+        "gold_answers": [
+            "northern flicker"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5768",
+        "prediction": "October 5, 2018",
+        "predicted_answer": "October 5, 2018",
+        "gold_answers": [
+            "October 5 , 2018"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_360",
+        "prediction": "Midway City",
+        "predicted_answer": "Midway City",
+        "gold_answers": [
+            "Midway City"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1271",
+        "prediction": "Nelly",
+        "predicted_answer": "Nelly",
+        "gold_answers": [
+            "Nelly"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5204",
+        "prediction": "Danny Kaye",
+        "predicted_answer": "Danny Kaye",
+        "gold_answers": [
+            "the Ken Darby Singers"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4967",
+        "prediction": "John Rawls",
+        "predicted_answer": "John Rawls",
+        "gold_answers": [
+            "John Rawls"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6119",
+        "prediction": "1893",
+        "predicted_answer": "1893",
+        "gold_answers": [
+            "1769"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1989",
+        "prediction": "Middle East",
+        "predicted_answer": "Middle East",
+        "gold_answers": [
+            "Middle East ,"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4862",
+        "prediction": "West Indies",
+        "predicted_answer": "West Indies",
+        "gold_answers": [
+            "West Indies"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1035",
+        "prediction": "Pay",
+        "predicted_answer": "Pay",
+        "gold_answers": [
+            "PAYE"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5555",
+        "prediction": "Ernie Isley",
+        "predicted_answer": "Ernie Isley",
+        "gold_answers": [
+            "Ernie"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_3252",
+        "prediction": "Candice Brown",
+        "predicted_answer": "Candice Brown",
+        "gold_answers": [
+            "Candice Brown"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3061",
+        "prediction": "2016",
+        "predicted_answer": "2016",
+        "gold_answers": [
+            "2013"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5336",
+        "prediction": "1925",
+        "predicted_answer": "1925",
+        "gold_answers": [
+            "1925"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1730",
+        "prediction": "United States and Soviet Union",
+        "predicted_answer": "United States and Soviet Union",
+        "gold_answers": [
+            "the Soviet Union",
+            "the United States"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_3098",
+        "prediction": "Kyle Chandler",
+        "predicted_answer": "Kyle Chandler",
+        "gold_answers": [
+            "Kyle Chandler"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5816",
+        "prediction": "late 20th century, specifically with the Gun-Free School Zones Act of 1990",
+        "predicted_answer": "late 20th century, specifically with the Gun-Free School Zones Act of 1990",
+        "gold_answers": [
+            "1990"
+        ],
+        "em": 0,
+        "f1": 0.16666666666666669
+    },
+    {
+        "id": "single_nq_dev_1812",
+        "prediction": "Asha Bhosle",
+        "predicted_answer": "Asha Bhosle",
+        "gold_answers": [
+            "Asha Bhosle"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4921",
+        "prediction": "November 26, 1989",
+        "predicted_answer": "November 26, 1989",
+        "gold_answers": [
+            "November 26 , 1989"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2428",
+        "prediction": "Barry, Wales",
+        "predicted_answer": "Barry, Wales",
+        "gold_answers": [
+            "Barry Island"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_4052",
+        "prediction": "July 1, 1968",
+        "predicted_answer": "July 1, 1968",
+        "gold_answers": [
+            "1970"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4974",
+        "prediction": "reptiles and mammals",
+        "predicted_answer": "reptiles and mammals",
+        "gold_answers": [
+            "synapsids",
+            "sauropsids"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4743",
+        "prediction": "Kenny Gamble and Leon Huff",
+        "predicted_answer": "Kenny Gamble and Leon Huff",
+        "gold_answers": [
+            "Aretha Franklin"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1207",
+        "prediction": "September 13, 1969",
+        "predicted_answer": "September 13, 1969",
+        "gold_answers": [
+            "September 13 , 1969"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3682",
+        "prediction": "early 19th century, starting in 1812",
+        "predicted_answer": "early 19th century, starting in 1812",
+        "gold_answers": [
+            "1812"
+        ],
+        "em": 0,
+        "f1": 0.2857142857142857
+    },
+    {
+        "id": "single_nq_dev_3122",
+        "prediction": "Jinkx Monsoon",
+        "predicted_answer": "Jinkx Monsoon",
+        "gold_answers": [
+            "Jinkx Monsoon"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_196",
+        "prediction": "January 23, 2018",
+        "predicted_answer": "January 23, 2018",
+        "gold_answers": [
+            "January 12 , 2018"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_5817",
+        "prediction": "Fifty Shades Darker",
+        "predicted_answer": "Fifty Shades Darker",
+        "gold_answers": [
+            "Pitch Perfect 3",
+            "Bad Moms"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3726",
+        "prediction": "Max von Sydow",
+        "predicted_answer": "Max von Sydow",
+        "gold_answers": [
+            "Max von Sydow"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2376",
+        "prediction": "The American Idol finale has featured many contestants over the years. To provide a specific answer, I would need to know which season you are referring to. For example, in Season 20, the finalists were HunterGirl and Noah Thompson. Please specify the season for a more accurate answer",
+        "predicted_answer": "The American Idol finale has featured many contestants over the years. To provide a specific answer, I would need to know which season you are referring to. For example, in Season 20, the finalists were HunterGirl and Noah Thompson. Please specify the season for a more accurate answer",
+        "gold_answers": [
+            "Maddie Poppe",
+            "Caleb Lee Hutchinson",
+            "Gabby Barrett"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1789",
+        "prediction": "September 3, 1953",
+        "predicted_answer": "September 3, 1953",
+        "gold_answers": [
+            "3 September 1953"
+        ],
+        "em": 0,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1892",
+        "prediction": "FedEx",
+        "predicted_answer": "FedEx",
+        "gold_answers": [
+            "FedEx"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1015",
+        "prediction": "Manchester United",
+        "predicted_answer": "Manchester United",
+        "gold_answers": [
+            "1968"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5210",
+        "prediction": "Bruce Springsteen",
+        "predicted_answer": "Bruce Springsteen",
+        "gold_answers": [
+            "Bruce Springsteen"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5173",
+        "prediction": "Mahatma Gandhi",
+        "predicted_answer": "Mahatma Gandhi",
+        "gold_answers": [
+            "Mahatma Gandhi"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1316",
+        "prediction": "continental crust and oceanic crust",
+        "predicted_answer": "continental crust and oceanic crust",
+        "gold_answers": [
+            "continental",
+            "oceanic"
+        ],
+        "em": 0,
+        "f1": 0.33333333333333337
+    },
+    {
+        "id": "single_nq_dev_3415",
+        "prediction": "Piper Kerman",
+        "predicted_answer": "Piper Kerman",
+        "gold_answers": [
+            "Piper Eressea Kerman"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_1931",
+        "prediction": "California",
+        "predicted_answer": "California",
+        "gold_answers": [
+            "Apache Junction in Arizona"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3245",
+        "prediction": "Pisa, Italy",
+        "predicted_answer": "Pisa, Italy",
+        "gold_answers": [
+            "Pisa"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_987",
+        "prediction": "Brisbane Lions",
+        "predicted_answer": "Brisbane Lions",
+        "gold_answers": [
+            "the Western Bulldogs"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_67",
+        "prediction": "Jamie Dornan",
+        "predicted_answer": "Jamie Dornan",
+        "gold_answers": [
+            "James Dornan"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_3440",
+        "prediction": "23",
+        "predicted_answer": "23",
+        "gold_answers": [
+            "23"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3363",
+        "prediction": "December 15, 2017",
+        "predicted_answer": "December 15, 2017",
+        "gold_answers": [
+            "December 15 , 2017"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4960",
+        "prediction": "Justin Timberlake",
+        "predicted_answer": "Justin Timberlake",
+        "gold_answers": [
+            "Matt Lowe"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_590",
+        "prediction": "Haiti and Suriname",
+        "predicted_answer": "Haiti and Suriname",
+        "gold_answers": [
+            "Haiti",
+            "Cayman Islands",
+            "Bermuda"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_1514",
+        "prediction": "plywood (Duramold)",
+        "predicted_answer": "plywood (Duramold)",
+        "gold_answers": [
+            "almost entirely of birch"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6423",
+        "prediction": "John Carroll Lynch",
+        "predicted_answer": "John Carroll Lynch",
+        "gold_answers": [
+            "John Carroll Lynch"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5712",
+        "prediction": "April 1, 1982",
+        "predicted_answer": "April 1, 1982",
+        "gold_answers": [
+            "1983"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_33",
+        "prediction": "Australia",
+        "predicted_answer": "Australia",
+        "gold_answers": [
+            "England"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1545",
+        "prediction": "the Industrial Revolution",
+        "predicted_answer": "the Industrial Revolution",
+        "gold_answers": [
+            "Industrial Revolution"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1903",
+        "prediction": "Evvie McKinney",
+        "predicted_answer": "Evvie McKinney",
+        "gold_answers": [
+            "Evvie McKinney"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1318",
+        "prediction": "Nepal",
+        "predicted_answer": "Nepal",
+        "gold_answers": [
+            "Nepal"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_44",
+        "prediction": "Roger Miller",
+        "predicted_answer": "Roger Miller",
+        "gold_answers": [
+            "Roger Miller"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4121",
+        "prediction": "1990",
+        "predicted_answer": "1990",
+        "gold_answers": [
+            "1990"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2249",
+        "prediction": "Paul Overstreet and Don Schlitz",
+        "predicted_answer": "Paul Overstreet and Don Schlitz",
+        "gold_answers": [
+            "Paul Overstreet",
+            "Don Schlitz"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_2335",
+        "prediction": "1975",
+        "predicted_answer": "1975",
+        "gold_answers": [
+            "1974"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2499",
+        "prediction": "in clocks, bicycles, and machinery",
+        "predicted_answer": "in clocks, bicycles, and machinery",
+        "gold_answers": [
+            "Automobile drivetrains"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4237",
+        "prediction": "February 20, 2017",
+        "predicted_answer": "February 20, 2017",
+        "gold_answers": [
+            "February 20 , 2017"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_296",
+        "prediction": "1900",
+        "predicted_answer": "1900",
+        "gold_answers": [
+            "1900"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6446",
+        "prediction": "Haddaway",
+        "predicted_answer": "Haddaway",
+        "gold_answers": [
+            "Haddaway"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5694",
+        "prediction": "Daniel Boone",
+        "predicted_answer": "Daniel Boone",
+        "gold_answers": [
+            "Daniel Boone"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3106",
+        "prediction": "March 27, 2018",
+        "predicted_answer": "March 27, 2018",
+        "gold_answers": [
+            "March 27 , 2018"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6043",
+        "prediction": "Warren G",
+        "predicted_answer": "Warren G",
+        "gold_answers": [
+            "Parliament - Funkadelic"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3660",
+        "prediction": "Lake Sutton",
+        "predicted_answer": "Lake Sutton",
+        "gold_answers": [
+            "Summersville Lake"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_79",
+        "prediction": "Tina Charles",
+        "predicted_answer": "Tina Charles",
+        "gold_answers": [
+            "Tina Charles"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6506",
+        "prediction": "Akiko Wakabayashi",
+        "predicted_answer": "Akiko Wakabayashi",
+        "gold_answers": [
+            "Kissy Suzuki"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5758",
+        "prediction": "Peter Reckell",
+        "predicted_answer": "Peter Reckell",
+        "gold_answers": [
+            "Robert Kelker - Kelly",
+            "Peter Reckell"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2306",
+        "prediction": "a hitman hired by a rival character",
+        "predicted_answer": "a hitman hired by a rival character",
+        "gold_answers": [
+            "Portman"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1593",
+        "prediction": "April 10, 2008",
+        "predicted_answer": "April 10, 2008",
+        "gold_answers": [
+            "May 28 , 2008"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_nq_dev_3125",
+        "prediction": "North America",
+        "predicted_answer": "North America",
+        "gold_answers": [
+            "Europe"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5392",
+        "prediction": "Green Lawn",
+        "predicted_answer": "Green Lawn",
+        "gold_answers": [
+            "Connecticut"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4735",
+        "prediction": "1871",
+        "predicted_answer": "1871",
+        "gold_answers": [
+            "10 May 1871"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_5909",
+        "prediction": "Paul Young",
+        "predicted_answer": "Paul Young",
+        "gold_answers": [
+            "Paul Young"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1854",
+        "prediction": "16",
+        "predicted_answer": "16",
+        "gold_answers": [
+            "16"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5276",
+        "prediction": "supercharger",
+        "predicted_answer": "supercharger",
+        "gold_answers": [
+            "supercharged"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_684",
+        "prediction": "1991",
+        "predicted_answer": "1991",
+        "gold_answers": [
+            "1991"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4649",
+        "prediction": "Julie Andrews (for the Broadway version)",
+        "predicted_answer": "Julie Andrews (for the Broadway version)",
+        "gold_answers": [
+            "Rex Harrison",
+            "Audrey Hepburn"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6109",
+        "prediction": "John Altman",
+        "predicted_answer": "John Altman",
+        "gold_answers": [
+            "William Boyde"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5250",
+        "prediction": "The invention of the television cannot be attributed to a single individual, as it was developed through the contributions of many inventors over time. However, one of the key figures in the invention of the television is Philo Farnsworth, who made significant advancements in the development of electronic television. He transmitted the first electronic television image on September 7, 1927. Other notable inventors include John Logie Baird, who demonstrated the first working television system in 1926. So, while there is no single inventor, Philo Farnsworth is often credited with the invention of the electronic television",
+        "predicted_answer": "The invention of the television cannot be attributed to a single individual, as it was developed through the contributions of many inventors over time. However, one of the key figures in the invention of the television is Philo Farnsworth, who made significant advancements in the development of electronic television. He transmitted the first electronic television image on September 7, 1927. Other notable inventors include John Logie Baird, who demonstrated the first working television system in 1926. So, while there is no single inventor, Philo Farnsworth is often credited with the invention of the electronic television",
+        "gold_answers": [
+            "1927",
+            "Philo Taylor Farnsworth"
+        ],
+        "em": 0,
+        "f1": 0.046511627906976744
+    },
+    {
+        "id": "single_nq_dev_4012",
+        "prediction": "128",
+        "predicted_answer": "128",
+        "gold_answers": [
+            "128"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4463",
+        "prediction": "1,800 acres",
+        "predicted_answer": "1,800 acres",
+        "gold_answers": [
+            "1,800"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_5147",
+        "prediction": "The French word for French toast is \\\"pain perdu.\\\"",
+        "predicted_answer": "The French word for French toast is \\\"pain perdu.\\\"",
+        "gold_answers": [
+            "pain perdu"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_2536",
+        "prediction": "inside the cells (intracellular fluid)",
+        "predicted_answer": "inside the cells (intracellular fluid)",
+        "gold_answers": [
+            "Intracellular fluid"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_1334",
+        "prediction": "March 1, 2018",
+        "predicted_answer": "March 1, 2018",
+        "gold_answers": [
+            "March 1 , 2018"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1323",
+        "prediction": "Jason Isaacs",
+        "predicted_answer": "Jason Isaacs",
+        "gold_answers": [
+            "Jason Isaacs"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6198",
+        "prediction": "Peter",
+        "predicted_answer": "Peter",
+        "gold_answers": [
+            "Simon Peter"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_783",
+        "prediction": "July 1, 1988",
+        "predicted_answer": "July 1, 1988",
+        "gold_answers": [
+            "mid-1988"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4229",
+        "prediction": "third place",
+        "predicted_answer": "third place",
+        "gold_answers": [
+            "2011"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5888",
+        "prediction": "Karl Benz",
+        "predicted_answer": "Karl Benz",
+        "gold_answers": [
+            "Nicolas - Joseph Cugnot"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1191",
+        "prediction": "Tornado Alley in the central United States",
+        "predicted_answer": "Tornado Alley in the central United States",
+        "gold_answers": [
+            "east of the Rocky Mountains"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6342",
+        "prediction": "Xi Jinping",
+        "predicted_answer": "Xi Jinping",
+        "gold_answers": [
+            "Xi Jinping"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3554",
+        "prediction": "As of my last knowledge update in October 2023, the Minister of State for Environment, Forest and Climate Change (Independent Charge) in India is Bhupender Yadav. Please verify with the latest sources for any updates or changes",
+        "predicted_answer": "As of my last knowledge update in October 2023, the Minister of State for Environment, Forest and Climate Change (Independent Charge) in India is Bhupender Yadav. Please verify with the latest sources for any updates or changes",
+        "gold_answers": [
+            "Dr. Harsh Vardhan"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5244",
+        "prediction": "December 17, 1989",
+        "predicted_answer": "December 17, 1989",
+        "gold_answers": [
+            "December 17 , 1989"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4969",
+        "prediction": "Lori McKenna",
+        "predicted_answer": "Lori McKenna",
+        "gold_answers": [
+            "Lori McKenna"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3616",
+        "prediction": "Fiona",
+        "predicted_answer": "Fiona",
+        "gold_answers": [
+            "the irritating folk singer"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3532",
+        "prediction": "corrosive",
+        "predicted_answer": "corrosive",
+        "gold_answers": [
+            "corrosives"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4179",
+        "prediction": "The two main types of law in Australia are:",
+        "predicted_answer": "The two main types of law in Australia are:",
+        "gold_answers": [
+            "state",
+            "federal"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2617",
+        "prediction": "May 17, 1928",
+        "predicted_answer": "May 17, 1928",
+        "gold_answers": [
+            "May 1928"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_3906",
+        "prediction": "October 7, 2014",
+        "predicted_answer": "October 7, 2014",
+        "gold_answers": [
+            "October 7 , 2014"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_614",
+        "prediction": "Neil Patrick Harris",
+        "predicted_answer": "Neil Patrick Harris",
+        "gold_answers": [
+            "Neil Patrick Harris"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5930",
+        "prediction": "Talion",
+        "predicted_answer": "Talion",
+        "gold_answers": [
+            "the ranger Talion"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_3283",
+        "prediction": "Don Adams",
+        "predicted_answer": "Don Adams",
+        "gold_answers": [
+            "Don Adams"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5021",
+        "prediction": "January 9, 1977; January 25, 1981; January 22, 1984",
+        "predicted_answer": "January 9, 1977; January 25, 1981; January 22, 1984",
+        "gold_answers": [
+            "3"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4567",
+        "prediction": "Alan Merrill",
+        "predicted_answer": "Alan Merrill",
+        "gold_answers": [
+            "Alan Merrill of the Arrows"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_4879",
+        "prediction": "The name of the new series that is a sequel to \\\"That's So Raven\\\" is \\\"Raven's Home.\\\"",
+        "predicted_answer": "The name of the new series that is a sequel to \\\"That's So Raven\\\" is \\\"Raven's Home.\\\"",
+        "gold_answers": [
+            "Raven 's Home"
+        ],
+        "em": 0,
+        "f1": 0.23529411764705882
+    },
+    {
+        "id": "single_nq_dev_2014",
+        "prediction": "Philippe Gentil",
+        "predicted_answer": "Philippe Gentil",
+        "gold_answers": [
+            "Philippe Gentil"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4674",
+        "prediction": "Henri Tajfel",
+        "predicted_answer": "Henri Tajfel",
+        "gold_answers": [
+            "Henri Tajfel"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2080",
+        "prediction": "Death, Judgment, Heaven, and Hell",
+        "predicted_answer": "Death, Judgment, Heaven, and Hell",
+        "gold_answers": [
+            "Heaven",
+            "Death",
+            "Judgment",
+            "Hell"
+        ],
+        "em": 0,
+        "f1": 0.33333333333333337
+    },
+    {
+        "id": "single_nq_dev_5087",
+        "prediction": "November 18, 1999",
+        "predicted_answer": "November 18, 1999",
+        "gold_answers": [
+            "2001"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6317",
+        "prediction": "France",
+        "predicted_answer": "France",
+        "gold_answers": [
+            "French victory"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_417",
+        "prediction": "Stanley Hotel",
+        "predicted_answer": "Stanley Hotel",
+        "gold_answers": [
+            "The Stanley Hotel"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3971",
+        "prediction": "Spain",
+        "predicted_answer": "Spain",
+        "gold_answers": [
+            "Spain"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4224",
+        "prediction": "Kaushal Manda",
+        "predicted_answer": "Kaushal Manda",
+        "gold_answers": [
+            "Kaushal Manda"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5453",
+        "prediction": "Ed Bruce and Patsy Bruce",
+        "predicted_answer": "Ed Bruce and Patsy Bruce",
+        "gold_answers": [
+            "Patsy Bruce",
+            "Ed Bruce"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_1527",
+        "prediction": "Rajpath, New Delhi",
+        "predicted_answer": "Rajpath, New Delhi",
+        "gold_answers": [
+            "New Delhi"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_1317",
+        "prediction": "the Midwest",
+        "predicted_answer": "the Midwest",
+        "gold_answers": [
+            "from the east coast"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5908",
+        "prediction": "As of October 2023, J. Cole's latest album is titled \\\"The Off-Season,\\\" which was released on May 14, 2021. If there have been any new releases after that date, I do not have that information. Please check the latest sources for any updates",
+        "predicted_answer": "As of October 2023, J. Cole's latest album is titled \\\"The Off-Season,\\\" which was released on May 14, 2021. If there have been any new releases after that date, I do not have that information. Please check the latest sources for any updates",
+        "gold_answers": [
+            "KOD"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3748",
+        "prediction": "Judges",
+        "predicted_answer": "Judges",
+        "gold_answers": [
+            "judges"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6253",
+        "prediction": "The United States",
+        "predicted_answer": "The United States",
+        "gold_answers": [
+            "U.S. Congress"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2941",
+        "prediction": "Art and Craft",
+        "predicted_answer": "Art and Craft",
+        "gold_answers": [
+            "arts and crafts"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_nq_dev_1686",
+        "prediction": "2018",
+        "predicted_answer": "2018",
+        "gold_answers": [
+            "2006"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_808",
+        "prediction": "approximately 2,967",
+        "predicted_answer": "approximately 2,967",
+        "gold_answers": [
+            "3,890"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1292",
+        "prediction": "17 times",
+        "predicted_answer": "17 times",
+        "gold_answers": [
+            "16"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3549",
+        "prediction": "along mid-ocean ridges",
+        "predicted_answer": "along mid-ocean ridges",
+        "gold_answers": [
+            "between oceanic plates"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4854",
+        "prediction": "2008",
+        "predicted_answer": "2008",
+        "gold_answers": [
+            "2008"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4132",
+        "prediction": "10",
+        "predicted_answer": "10",
+        "gold_answers": [
+            "10 one - hour episodes"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_3263",
+        "prediction": "James Hargreaves",
+        "predicted_answer": "James Hargreaves",
+        "gold_answers": [
+            "James Hargreaves"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_744",
+        "prediction": "Lou Reed",
+        "predicted_answer": "Lou Reed",
+        "gold_answers": [
+            "Lou Reed"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_321",
+        "prediction": "University of South Carolina",
+        "predicted_answer": "University of South Carolina",
+        "gold_answers": [
+            "South Carolina"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_5833",
+        "prediction": "April 21, 2000",
+        "predicted_answer": "April 21, 2000",
+        "gold_answers": [
+            "April 21 , 2000"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1720",
+        "prediction": "John L. Cacavas",
+        "predicted_answer": "John L. Cacavas",
+        "gold_answers": [
+            "Sid Tepper"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1336",
+        "prediction": "Pain on the right side of the back when breathing can be caused by various conditions, including:",
+        "predicted_answer": "Pain on the right side of the back when breathing can be caused by various conditions, including:",
+        "gold_answers": [
+            "pleurisy"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_55",
+        "prediction": "Galatians 5:22-23",
+        "predicted_answer": "Galatians 5:22-23",
+        "gold_answers": [
+            "Epistle to the Galatians"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_1064",
+        "prediction": "pyloric sphincter",
+        "predicted_answer": "pyloric sphincter",
+        "gold_answers": [
+            "the pyloric valve"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_4392",
+        "prediction": "a bottle of ketchup (Dawson)",
+        "predicted_answer": "a bottle of ketchup (Dawson)",
+        "gold_answers": [
+            "douche"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6403",
+        "prediction": "radar",
+        "predicted_answer": "radar",
+        "gold_answers": [
+            "Radar"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2994",
+        "prediction": "curling",
+        "predicted_answer": "curling",
+        "gold_answers": [
+            "curling"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3519",
+        "prediction": "The highest-ranking officer in the United States Air Force is the Chief of Staff of the Air Force. As of my last knowledge update in October 2023, the Chief of Staff is General Charles Q. Brown Jr. However, please verify this information as it may change over time",
+        "predicted_answer": "The highest-ranking officer in the United States Air Force is the Chief of Staff of the Air Force. As of my last knowledge update in October 2023, the Chief of Staff is General Charles Q. Brown Jr. However, please verify this information as it may change over time",
+        "gold_answers": [
+            "General David L. Goldfein"
+        ],
+        "em": 0,
+        "f1": 0.0425531914893617
+    },
+    {
+        "id": "single_nq_dev_5715",
+        "prediction": "Glenne Headly",
+        "predicted_answer": "Glenne Headly",
+        "gold_answers": [
+            "Glenne Headly"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1057",
+        "prediction": "four-eyed fish",
+        "predicted_answer": "four-eyed fish",
+        "gold_answers": [
+            "Anableps"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_72",
+        "prediction": "rest cure",
+        "predicted_answer": "rest cure",
+        "gold_answers": [
+            "rest cure"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4590",
+        "prediction": "Great Britain",
+        "predicted_answer": "Great Britain",
+        "gold_answers": [
+            "Kingdom of Great Britain"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_2569",
+        "prediction": "Merry Clayton",
+        "predicted_answer": "Merry Clayton",
+        "gold_answers": [
+            "Merry Clayton"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_934",
+        "prediction": "Brian Thompson",
+        "predicted_answer": "Brian Thompson",
+        "gold_answers": [
+            "Brian Earl Thompson"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_4635",
+        "prediction": "Dorothy Dwan",
+        "predicted_answer": "Dorothy Dwan",
+        "gold_answers": [
+            "Dorothy Dwan"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3042",
+        "prediction": "Montana",
+        "predicted_answer": "Montana",
+        "gold_answers": [
+            "Montana"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5217",
+        "prediction": "Zach Young",
+        "predicted_answer": "Zach Young",
+        "gold_answers": [
+            "Eddie Orlofsky"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4255",
+        "prediction": "Euclid",
+        "predicted_answer": "Euclid",
+        "gold_answers": [
+            "Euclid"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5877",
+        "prediction": "The progressives addressed a variety of social, political, and economic issues during the Progressive Era in the late 19th and early 20th centuries. These issues included:",
+        "predicted_answer": "The progressives addressed a variety of social, political, and economic issues during the Progressive Era in the late 19th and early 20th centuries. These issues included:",
+        "gold_answers": [
+            "prohibition of alcoholic beverages",
+            "women 's suffrage was promoted",
+            "building an Efficiency Movement"
+        ],
+        "em": 0,
+        "f1": 0.07692307692307693
+    },
+    {
+        "id": "single_nq_dev_5722",
+        "prediction": "The last part of \\\"The Lord of the Rings\\\" is \\\"The Return of the King.\\\" It is the third volume in J.R.R. Tolkien's epic fantasy trilogy, which concludes the story of the quest to destroy the One Ring and the battle against Sauron",
+        "predicted_answer": "The last part of \\\"The Lord of the Rings\\\" is \\\"The Return of the King.\\\" It is the third volume in J.R.R. Tolkien's epic fantasy trilogy, which concludes the story of the quest to destroy the One Ring and the battle against Sauron",
+        "gold_answers": [
+            "The Return of the King"
+        ],
+        "em": 0,
+        "f1": 0.16666666666666669
+    },
+    {
+        "id": "single_nq_dev_2286",
+        "prediction": "at the end of ventricular systole",
+        "predicted_answer": "at the end of ventricular systole",
+        "gold_answers": [
+            "during inhalation"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6081",
+        "prediction": "April 6 and April 7, 2024",
+        "predicted_answer": "April 6 and April 7, 2024",
+        "gold_answers": [
+            "April 8 , 2018"
+        ],
+        "em": 0,
+        "f1": 0.2222222222222222
+    },
+    {
+        "id": "single_nq_dev_2541",
+        "prediction": "Gerry Bertier",
+        "predicted_answer": "Gerry Bertier",
+        "gold_answers": [
+            "Bertier"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_3213",
+        "prediction": "Portugal, under Prince Henry the Navigator",
+        "predicted_answer": "Portugal, under Prince Henry the Navigator",
+        "gold_answers": [
+            "Italian"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2322",
+        "prediction": "astrocyte",
+        "predicted_answer": "astrocyte",
+        "gold_answers": [
+            "endothelial cells"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2448",
+        "prediction": "from the vanilla bean",
+        "predicted_answer": "from the vanilla bean",
+        "gold_answers": [
+            "phenolic compounds crystallize",
+            "as it dries"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2387",
+        "prediction": "late 8th to early 11th centuries",
+        "predicted_answer": "late 8th to early 11th centuries",
+        "gold_answers": [
+            "793"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6233",
+        "prediction": "Mike McClure",
+        "predicted_answer": "Mike McClure",
+        "gold_answers": [
+            "Craig Morgan"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2816",
+        "prediction": "Gayla Peevey",
+        "predicted_answer": "Gayla Peevey",
+        "gold_answers": [
+            "Gayla Peevey"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6333",
+        "prediction": "Lynn Whitfield",
+        "predicted_answer": "Lynn Whitfield",
+        "gold_answers": [
+            "Georgia Allen"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2775",
+        "prediction": "1990s",
+        "predicted_answer": "1990s",
+        "gold_answers": [
+            "1920"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5069",
+        "prediction": "in her second year",
+        "predicted_answer": "in her second year",
+        "gold_answers": [
+            "Half - Blood Prince"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1814",
+        "prediction": "Cochin International Airport",
+        "predicted_answer": "Cochin International Airport",
+        "gold_answers": [
+            "Cochin International Airport"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6251",
+        "prediction": "12",
+        "predicted_answer": "12",
+        "gold_answers": [
+            "12"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1328",
+        "prediction": "Ahmad Shah Durrani",
+        "predicted_answer": "Ahmad Shah Durrani",
+        "gold_answers": [
+            "Ahmad Shah Durrani"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_831",
+        "prediction": "The honorary degree of Doctor of Civil Law (DCL) was conferred by Oxford University to several notable individuals. One prominent recipient is former U.S. President Bill Clinton, who received the degree in 2001. If you are looking for a specific individual, please provide more context or details",
+        "predicted_answer": "The honorary degree of Doctor of Civil Law (DCL) was conferred by Oxford University to several notable individuals. One prominent recipient is former U.S. President Bill Clinton, who received the degree in 2001. If you are looking for a specific individual, please provide more context or details",
+        "gold_answers": [
+            "Queen"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3016",
+        "prediction": "Cleopatra Coleman",
+        "predicted_answer": "Cleopatra Coleman",
+        "gold_answers": [
+            "Cleopatra Coleman"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_194",
+        "prediction": "June 15, 2018",
+        "predicted_answer": "June 15, 2018",
+        "gold_answers": [
+            "June 15 , 2018"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6452",
+        "prediction": "zero",
+        "predicted_answer": "zero",
+        "gold_answers": [
+            "2"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1796",
+        "prediction": "Lara Jill Miller",
+        "predicted_answer": "Lara Jill Miller",
+        "gold_answers": [
+            "Lauri Hendler"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4568",
+        "prediction": "51 goals",
+        "predicted_answer": "51 goals",
+        "gold_answers": [
+            "10"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1140",
+        "prediction": "Jesse Fuller",
+        "predicted_answer": "Jesse Fuller",
+        "gold_answers": [
+            "Jesse Fuller"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1276",
+        "prediction": "Klymaxx",
+        "predicted_answer": "Klymaxx",
+        "gold_answers": [
+            "Klymaxx"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2241",
+        "prediction": "2014",
+        "predicted_answer": "2014",
+        "gold_answers": [
+            "2018"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2117",
+        "prediction": "Boise, Idaho",
+        "predicted_answer": "Boise, Idaho",
+        "gold_answers": [
+            "Boise"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_1633",
+        "prediction": "1982, by Bill Moggridge",
+        "predicted_answer": "1982, by Bill Moggridge",
+        "gold_answers": [
+            "July 1980",
+            "Yukio Yokozawa"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1386",
+        "prediction": "Castiel",
+        "predicted_answer": "Castiel",
+        "gold_answers": [
+            "Death"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1723",
+        "prediction": "Jeff Gordon",
+        "predicted_answer": "Jeff Gordon",
+        "gold_answers": [
+            "Jeff Gordon"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6474",
+        "prediction": "Adam Schlesinger",
+        "predicted_answer": "Adam Schlesinger",
+        "gold_answers": [
+            "Adam Schlesinger"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_325",
+        "prediction": "approximately 5,388",
+        "predicted_answer": "approximately 5,388",
+        "gold_answers": [
+            "4,038"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3624",
+        "prediction": "18 years old",
+        "predicted_answer": "18 years old",
+        "gold_answers": [
+            "18 - 20"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_753",
+        "prediction": "zero",
+        "predicted_answer": "zero",
+        "gold_answers": [
+            "once"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4975",
+        "prediction": "about 85 minutes",
+        "predicted_answer": "about 85 minutes",
+        "gold_answers": [
+            "80 minutes"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_5988",
+        "prediction": "bale",
+        "predicted_answer": "bale",
+        "gold_answers": [
+            "bales"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2339",
+        "prediction": "genetic bottleneck",
+        "predicted_answer": "genetic bottleneck",
+        "gold_answers": [
+            "population bottleneck"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_1733",
+        "prediction": "University of Central Arkansas",
+        "predicted_answer": "University of Central Arkansas",
+        "gold_answers": [
+            "University of Central Arkansas"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4776",
+        "prediction": "vagina",
+        "predicted_answer": "vagina",
+        "gold_answers": [
+            "vagina"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2656",
+        "prediction": "Louis Hynes",
+        "predicted_answer": "Louis Hynes",
+        "gold_answers": [
+            "Louis Hynes"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5678",
+        "prediction": "Emma Lazarus",
+        "predicted_answer": "Emma Lazarus",
+        "gold_answers": [
+            "Emma Lazarus"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2020",
+        "prediction": "21",
+        "predicted_answer": "21",
+        "gold_answers": [
+            "21"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1138",
+        "prediction": "1853",
+        "predicted_answer": "1853",
+        "gold_answers": [
+            "1837"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5523",
+        "prediction": "Season 4",
+        "predicted_answer": "Season 4",
+        "gold_answers": [
+            "fourth"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_312",
+        "prediction": "1938",
+        "predicted_answer": "1938",
+        "gold_answers": [
+            "1938"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2188",
+        "prediction": "Kimbra",
+        "predicted_answer": "Kimbra",
+        "gold_answers": [
+            "Kimbra"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2933",
+        "prediction": "United States",
+        "predicted_answer": "United States",
+        "gold_answers": [
+            "post-apocalyptic United States"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_474",
+        "prediction": "Steve Coogan",
+        "predicted_answer": "Steve Coogan",
+        "gold_answers": [
+            "David Keith"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4189",
+        "prediction": "Isabelle Allen",
+        "predicted_answer": "Isabelle Allen",
+        "gold_answers": [
+            "Samantha Barks"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6145",
+        "prediction": "Tiger Stadium",
+        "predicted_answer": "Tiger Stadium",
+        "gold_answers": [
+            "Tiger Stadium"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1883",
+        "prediction": "42",
+        "predicted_answer": "42",
+        "gold_answers": [
+            "42"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6483",
+        "prediction": "Charles III",
+        "predicted_answer": "Charles III",
+        "gold_answers": [
+            "Charles , Prince of Wales"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_nq_dev_6331",
+        "prediction": "1986",
+        "predicted_answer": "1986",
+        "gold_answers": [
+            "1986"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4532",
+        "prediction": "King Crab, Snow Crab, and Opilio Crab",
+        "predicted_answer": "King Crab, Snow Crab, and Opilio Crab",
+        "gold_answers": [
+            "opilio crab",
+            "king crab"
+        ],
+        "em": 0,
+        "f1": 0.4444444444444445
+    },
+    {
+        "id": "single_nq_dev_2641",
+        "prediction": "mid-15th century",
+        "predicted_answer": "mid-15th century",
+        "gold_answers": [
+            "1458"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_222",
+        "prediction": "Anglican, with representation of other religions",
+        "predicted_answer": "Anglican, with representation of other religions",
+        "gold_answers": [
+            "Anglican"
+        ],
+        "em": 0,
+        "f1": 0.2857142857142857
+    },
+    {
+        "id": "single_nq_dev_4772",
+        "prediction": "Everyone present at the Sikh service",
+        "predicted_answer": "Everyone present at the Sikh service",
+        "gold_answers": [
+            "all the visitors"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3702",
+        "prediction": "Paul Simon",
+        "predicted_answer": "Paul Simon",
+        "gold_answers": [
+            "Paul Simon"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4587",
+        "prediction": "May 5, 2017",
+        "predicted_answer": "May 5, 2017",
+        "gold_answers": [
+            "May 5 , 2017"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3801",
+        "prediction": "Hunter King",
+        "predicted_answer": "Hunter King",
+        "gold_answers": [
+            "Hunter Haley King"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_3819",
+        "prediction": "Andy Serkis",
+        "predicted_answer": "Andy Serkis",
+        "gold_answers": [
+            "Andy Serkis"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5038",
+        "prediction": "Royal Cheese",
+        "predicted_answer": "Royal Cheese",
+        "gold_answers": [
+            "Royal Cheese"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1009",
+        "prediction": "The Four Preps",
+        "predicted_answer": "The Four Preps",
+        "gold_answers": [
+            "Streetband"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_924",
+        "prediction": "Mary Hopkin",
+        "predicted_answer": "Mary Hopkin",
+        "gold_answers": [
+            "Mary Hopkin"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_532",
+        "prediction": "District of Columbia",
+        "predicted_answer": "District of Columbia",
+        "gold_answers": [
+            "District of Columbia"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3010",
+        "prediction": "Napoleon Bonaparte",
+        "predicted_answer": "Napoleon Bonaparte",
+        "gold_answers": [
+            "Napoleon"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_3865",
+        "prediction": "1860",
+        "predicted_answer": "1860",
+        "gold_answers": [
+            "1807"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4355",
+        "prediction": "Central City",
+        "predicted_answer": "Central City",
+        "gold_answers": [
+            "Central City"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2683",
+        "prediction": "genome",
+        "predicted_answer": "genome",
+        "gold_answers": [
+            "genome"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2372",
+        "prediction": "Austria",
+        "predicted_answer": "Austria",
+        "gold_answers": [
+            "1938"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3260",
+        "prediction": "Charles Mason and Jeremiah Dixon",
+        "predicted_answer": "Charles Mason and Jeremiah Dixon",
+        "gold_answers": [
+            "William R. Day"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4156",
+        "prediction": "within the cytoplasm of eukaryotic cells",
+        "predicted_answer": "within the cytoplasm of eukaryotic cells",
+        "gold_answers": [
+            "found in eukaryotic cells"
+        ],
+        "em": 0,
+        "f1": 0.4444444444444445
+    },
+    {
+        "id": "single_nq_dev_1650",
+        "prediction": "military alliances",
+        "predicted_answer": "military alliances",
+        "gold_answers": [
+            "a collective defence treaty"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2469",
+        "prediction": "Karaoke",
+        "predicted_answer": "Karaoke",
+        "gold_answers": [
+            "Deric Battiste",
+            "Guy Moon"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2605",
+        "prediction": "Maurice",
+        "predicted_answer": "Maurice",
+        "gold_answers": [
+            "sex - based shoulder angels"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_69",
+        "prediction": "1941",
+        "predicted_answer": "1941",
+        "gold_answers": [
+            "1941"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_966",
+        "prediction": "The French Revolution, which began in 1789, is significant in world history for several reasons:",
+        "predicted_answer": "The French Revolution, which began in 1789, is significant in world history for several reasons:",
+        "gold_answers": [
+            "spread of French culture",
+            "conservative counter-reaction that defeated Napoleon",
+            "reinstalled the Bourbon kings",
+            "bringing liberalism",
+            "reversed the new reforms",
+            "policies regulating immigration"
+        ],
+        "em": 0,
+        "f1": 0.11111111111111112
+    },
+    {
+        "id": "single_nq_dev_4453",
+        "prediction": "Sean Connery",
+        "predicted_answer": "Sean Connery",
+        "gold_answers": [
+            "Barry Nelson"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2876",
+        "prediction": "Vicki Lawrence",
+        "predicted_answer": "Vicki Lawrence",
+        "gold_answers": [
+            "Bobby Russell"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2523",
+        "prediction": "the Lieutenant Governor of Texas",
+        "predicted_answer": "the Lieutenant Governor of Texas",
+        "gold_answers": [
+            "Dan Patrick",
+            "Lieutenant Governor"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_810",
+        "prediction": "1881",
+        "predicted_answer": "1881",
+        "gold_answers": [
+            "1876"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6381",
+        "prediction": "Peyton Sawyer",
+        "predicted_answer": "Peyton Sawyer",
+        "gold_answers": [
+            "Peyton"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_1977",
+        "prediction": "Carrie Underwood",
+        "predicted_answer": "Carrie Underwood",
+        "gold_answers": [
+            "Carrie Underwood"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4814",
+        "prediction": "Poems that use the first letter of a word to create a pattern or convey a message are often referred to as \\\"acrostic poems.\\\" In an acrostic poem, the first letter of each line or stanza spells out a word or message when read vertically. This form of poetry can be a creative way to express themes or ideas related to the word being spelled out",
+        "predicted_answer": "Poems that use the first letter of a word to create a pattern or convey a message are often referred to as \\\"acrostic poems.\\\" In an acrostic poem, the first letter of each line or stanza spells out a word or message when read vertically. This form of poetry can be a creative way to express themes or ideas related to the word being spelled out",
+        "gold_answers": [
+            "acrostic"
+        ],
+        "em": 0,
+        "f1": 0.034482758620689655
+    },
+    {
+        "id": "single_nq_dev_3461",
+        "prediction": "The TV show about three magical sisters who battle against the forces of evil is \\\"Charmed.\\\"",
+        "predicted_answer": "The TV show about three magical sisters who battle against the forces of evil is \\\"Charmed.\\\"",
+        "gold_answers": [
+            "Charmed"
+        ],
+        "em": 0,
+        "f1": 0.13333333333333333
+    },
+    {
+        "id": "single_nq_dev_562",
+        "prediction": "February 22, 1980",
+        "predicted_answer": "February 22, 1980",
+        "gold_answers": [
+            "1980"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_5017",
+        "prediction": "September 7, 2023",
+        "predicted_answer": "September 7, 2023",
+        "gold_answers": [
+            "September 7 , 2017"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_3997",
+        "prediction": "Will Smith",
+        "predicted_answer": "Will Smith",
+        "gold_answers": [
+            "Ross Bagley",
+            "Karyn Parsons",
+            "Daphne Maxwell Reid",
+            "Janet Hubert - Whitten",
+            "James Avery",
+            "Will Smith",
+            "Joseph Marcell",
+            "Alfonso Ribeiro",
+            "Tatyana M. Ali"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4165",
+        "prediction": "September 9, 2011",
+        "predicted_answer": "September 9, 2011",
+        "gold_answers": [
+            "2011"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_1243",
+        "prediction": "Taro Yamamoto",
+        "predicted_answer": "Taro Yamamoto",
+        "gold_answers": [
+            "Shea Whigham"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1547",
+        "prediction": "February 13, 2015",
+        "predicted_answer": "February 13, 2015",
+        "gold_answers": [
+            "2015"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_1339",
+        "prediction": "James Fleet",
+        "predicted_answer": "James Fleet",
+        "gold_answers": [
+            "James Edward Fleet"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_2782",
+        "prediction": "January 1, 1919",
+        "predicted_answer": "January 1, 1919",
+        "gold_answers": [
+            "1919"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_3879",
+        "prediction": "August 18, 2017",
+        "predicted_answer": "August 18, 2017",
+        "gold_answers": [
+            "August 18 , 2017"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5974",
+        "prediction": "1914",
+        "predicted_answer": "1914",
+        "gold_answers": [
+            "Around 1860"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1100",
+        "prediction": "The purpose of the Maxwell Land Grant was to provide a large tract of land in New Mexico to a private individual, specifically to promote settlement and development in the region. The grant was issued in the mid-19th century to a group of investors led by William H. Maxwell, allowing them to establish a ranching and agricultural enterprise. The land grant aimed to encourage economic growth and development in the area, which was part of the United States' efforts to expand and settle the western territories",
+        "predicted_answer": "The purpose of the Maxwell Land Grant was to provide a large tract of land in New Mexico to a private individual, specifically to promote settlement and development in the region. The grant was issued in the mid-19th century to a group of investors led by William H. Maxwell, allowing them to establish a ranching and agricultural enterprise. The land grant aimed to encourage economic growth and development in the area, which was part of the United States' efforts to expand and settle the western territories",
+        "gold_answers": [
+            "encouraging settlement"
+        ],
+        "em": 0,
+        "f1": 0.02666666666666666
+    },
+    {
+        "id": "single_nq_dev_2967",
+        "prediction": "February 14, 2009",
+        "predicted_answer": "February 14, 2009",
+        "gold_answers": [
+            "season 20"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5606",
+        "prediction": "Dave Dudley",
+        "predicted_answer": "Dave Dudley",
+        "gold_answers": [
+            "Dave Dudley",
+            "Paul Davis"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4400",
+        "prediction": "proteins",
+        "predicted_answer": "proteins",
+        "gold_answers": [
+            "amino acids"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3342",
+        "prediction": "victory gardens",
+        "predicted_answer": "victory gardens",
+        "gold_answers": [
+            "Victory gardens"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2897",
+        "prediction": "Carroll O'Connor and Jean Stapleton",
+        "predicted_answer": "Carroll O'Connor and Jean Stapleton",
+        "gold_answers": [
+            "Carroll O'Connor",
+            "Jean Stapleton"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_1314",
+        "prediction": "1874",
+        "predicted_answer": "1874",
+        "gold_answers": [
+            "1874"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2863",
+        "prediction": "Ronnie O'Sullivan",
+        "predicted_answer": "Ronnie O'Sullivan",
+        "gold_answers": [
+            "Joe Davis"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_6324",
+        "prediction": "around 19 BCE",
+        "predicted_answer": "around 19 BCE",
+        "gold_answers": [
+            "19 BCE"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_1790",
+        "prediction": "16",
+        "predicted_answer": "16",
+        "gold_answers": [
+            "Two"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_989",
+        "prediction": "The practice of women shaving their legs became more common in the United States during the 1920s, particularly after the introduction of shorter hemlines and the popularity of sleeveless dresses. However, the exact date of when the first woman shaved her legs is not documented, as it likely varied by culture and individual preference. So, while there isn't a specific date, the trend gained significant popularity in the 1920s",
+        "predicted_answer": "The practice of women shaving their legs became more common in the United States during the 1920s, particularly after the introduction of shorter hemlines and the popularity of sleeveless dresses. However, the exact date of when the first woman shaved her legs is not documented, as it likely varied by culture and individual preference. So, while there isn't a specific date, the trend gained significant popularity in the 1920s",
+        "gold_answers": [
+            "the early 20th century"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4301",
+        "prediction": "E.H. Shepard",
+        "predicted_answer": "E.H. Shepard",
+        "gold_answers": [
+            "Ernest Howard Shepard"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_3649",
+        "prediction": "Stellar Awards",
+        "predicted_answer": "Stellar Awards",
+        "gold_answers": [
+            "GMA Dove Awards"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_2784",
+        "prediction": "Johnny Lee",
+        "predicted_answer": "Johnny Lee",
+        "gold_answers": [
+            "Daryl Mosley"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1440",
+        "prediction": "The International Red Cross was established on February 17, 1863. It was founded in response to the need for humanitarian assistance during wartime, particularly to provide care for wounded soldiers and to ensure that they were treated humanely. The organization was inspired by the experiences of Henry Dunant, who witnessed the suffering of soldiers at the Battle of Solferino in 1859 and advocated for the establishment of voluntary relief organizations to aid those in need during conflicts",
+        "predicted_answer": "The International Red Cross was established on February 17, 1863. It was founded in response to the need for humanitarian assistance during wartime, particularly to provide care for wounded soldiers and to ensure that they were treated humanely. The organization was inspired by the experiences of Henry Dunant, who witnessed the suffering of soldiers at the Battle of Solferino in 1859 and advocated for the establishment of voluntary relief organizations to aid those in need during conflicts",
+        "gold_answers": [
+            "1863"
+        ],
+        "em": 0,
+        "f1": 0.028169014084507043
+    },
+    {
+        "id": "single_nq_dev_4436",
+        "prediction": "meiosis",
+        "predicted_answer": "meiosis",
+        "gold_answers": [
+            "meiosis"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5936",
+        "prediction": "Gerry Bertier",
+        "predicted_answer": "Gerry Bertier",
+        "gold_answers": [
+            "Gerry Bertier"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4287",
+        "prediction": "United Nations General Assembly, with Eleanor Roosevelt as the chair of the drafting committee",
+        "predicted_answer": "United Nations General Assembly, with Eleanor Roosevelt as the chair of the drafting committee",
+        "gold_answers": [
+            "the United Nations General Assembly"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_3874",
+        "prediction": "Joaquin Phoenix",
+        "predicted_answer": "Joaquin Phoenix",
+        "gold_answers": [
+            "Joaquin Phoenix"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1525",
+        "prediction": "Geena Davis",
+        "predicted_answer": "Geena Davis",
+        "gold_answers": [
+            "Lynn Cartwright"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3486",
+        "prediction": "Charlie Ward",
+        "predicted_answer": "Charlie Ward",
+        "gold_answers": [
+            "Charlie Ward Jr."
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_5713",
+        "prediction": "Ed Sheeran and Si Hulbert",
+        "predicted_answer": "Ed Sheeran and Si Hulbert",
+        "gold_answers": [
+            "Mike Needle",
+            "Liam Payne",
+            "Daniel Bryer",
+            "Louis Tomlinson",
+            "Jamie Scott"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1763",
+        "prediction": "in a car accident",
+        "predicted_answer": "in a car accident",
+        "gold_answers": [
+            "a brain haemorrhage"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4811",
+        "prediction": "Sami Gayle",
+        "predicted_answer": "Sami Gayle",
+        "gold_answers": [
+            "Sami Gayle"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5272",
+        "prediction": "Joe Brooks",
+        "predicted_answer": "Joe Brooks",
+        "gold_answers": [
+            "Joseph Brooks"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_3373",
+        "prediction": "John Cabot",
+        "predicted_answer": "John Cabot",
+        "gold_answers": [
+            "John Cabot"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4883",
+        "prediction": "The Beach Boys",
+        "predicted_answer": "The Beach Boys",
+        "gold_answers": [
+            "Brian Wilson",
+            "Mike Love"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1938",
+        "prediction": "John Lennon and Paul McCartney",
+        "predicted_answer": "John Lennon and Paul McCartney",
+        "gold_answers": [
+            "John Lennon",
+            "Paul McCartney"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_2202",
+        "prediction": "Florida",
+        "predicted_answer": "Florida",
+        "gold_answers": [
+            "Florida"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_268",
+        "prediction": "Germany, Italy, and Japan",
+        "predicted_answer": "Germany, Italy, and Japan",
+        "gold_answers": [
+            "Japan",
+            "Italy",
+            "Germany"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_5191",
+        "prediction": "2001",
+        "predicted_answer": "2001",
+        "gold_answers": [
+            "November 2001"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_451",
+        "prediction": "Big & Rich",
+        "predicted_answer": "Big & Rich",
+        "gold_answers": [
+            "Big & Rich"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5748",
+        "prediction": "The name comes from the locks on the River Hamble and the heathland in the area",
+        "predicted_answer": "The name comes from the locks on the River Hamble and the heathland in the area",
+        "gold_answers": [
+            "heathland surrounding Locks Farm"
+        ],
+        "em": 0,
+        "f1": 0.26666666666666666
+    },
+    {
+        "id": "single_nq_dev_4115",
+        "prediction": "Michael Raymond-James",
+        "predicted_answer": "Michael Raymond-James",
+        "gold_answers": [
+            "Michael Raymond - James"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_5980",
+        "prediction": "Julia Stiles",
+        "predicted_answer": "Julia Stiles",
+        "gold_answers": [
+            "Julia Stiles"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3473",
+        "prediction": "middle class",
+        "predicted_answer": "middle class",
+        "gold_answers": [
+            "middle"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_950",
+        "prediction": "1907",
+        "predicted_answer": "1907",
+        "gold_answers": [
+            "1856"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4570",
+        "prediction": "Lord Cornwallis",
+        "predicted_answer": "Lord Cornwallis",
+        "gold_answers": [
+            "the British East India Company"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1268",
+        "prediction": "two",
+        "predicted_answer": "two",
+        "gold_answers": [
+            "2"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2142",
+        "prediction": "Mark Ruffalo",
+        "predicted_answer": "Mark Ruffalo",
+        "gold_answers": [
+            "Mark Ruffalo"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2091",
+        "prediction": "Lilliput",
+        "predicted_answer": "Lilliput",
+        "gold_answers": [
+            "Lilliput"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_229",
+        "prediction": "1978",
+        "predicted_answer": "1978",
+        "gold_answers": [
+            "first published in 1978"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_4314",
+        "prediction": "Howard Keel",
+        "predicted_answer": "Howard Keel",
+        "gold_answers": [
+            "Matt Mattox"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3633",
+        "prediction": "The Sultan Azlan Shah Hockey Tournament has been won by various countries over the years. As of 2023, the most recent winner was Australia, who won the tournament in 2023. However, for the specific year you are inquiring about, please provide the year for a more accurate answer",
+        "predicted_answer": "The Sultan Azlan Shah Hockey Tournament has been won by various countries over the years. As of 2023, the most recent winner was Australia, who won the tournament in 2023. However, for the specific year you are inquiring about, please provide the year for a more accurate answer",
+        "gold_answers": [
+            "Australia"
+        ],
+        "em": 0,
+        "f1": 0.047619047619047616
+    },
+    {
+        "id": "single_nq_dev_5565",
+        "prediction": "Jason Donovan",
+        "predicted_answer": "Jason Donovan",
+        "gold_answers": [
+            "Jason Donovan"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4380",
+        "prediction": "gonadotroph",
+        "predicted_answer": "gonadotroph",
+        "gold_answers": [
+            "gonadotropes"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3155",
+        "prediction": "The three layers of a typical Carnatic music piece are:",
+        "predicted_answer": "The three layers of a typical Carnatic music piece are:",
+        "gold_answers": [
+            "Charana",
+            "Pallavi",
+            "Anupallavi"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_1936",
+        "prediction": "September 12, 2012",
+        "predicted_answer": "September 12, 2012",
+        "gold_answers": [
+            "September 12 , 2012"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2370",
+        "prediction": "April 1, 2000",
+        "predicted_answer": "April 1, 2000",
+        "gold_answers": [
+            "29 September 1829"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_817",
+        "prediction": "gravity",
+        "predicted_answer": "gravity",
+        "gold_answers": [
+            "gravity"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_86",
+        "prediction": "December 15, 1791",
+        "predicted_answer": "December 15, 1791",
+        "gold_answers": [
+            "December 15 , 1791"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6399",
+        "prediction": "Michael Damian",
+        "predicted_answer": "Michael Damian",
+        "gold_answers": [
+            "Michael Damian"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5206",
+        "prediction": "The Controller of Budget in Kenya is a position held by a designated individual responsible for overseeing the budgetary process and ensuring that public funds are used effectively and in accordance with the law. As of my last knowledge update, the current Controller of Budget is Margaret Nyakang'o, who has been in office since 2018. However, please verify this information as it may have changed",
+        "predicted_answer": "The Controller of Budget in Kenya is a position held by a designated individual responsible for overseeing the budgetary process and ensuring that public funds are used effectively and in accordance with the law. As of my last knowledge update, the current Controller of Budget is Margaret Nyakang'o, who has been in office since 2018. However, please verify this information as it may have changed",
+        "gold_answers": [
+            "Agnes Nangira Odhiambo"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2185",
+        "prediction": "The main characters in \\\"How the Grinch Stole Christmas\\\" include:",
+        "predicted_answer": "The main characters in \\\"How the Grinch Stole Christmas\\\" include:",
+        "gold_answers": [
+            "The Grinch",
+            "dog , Max"
+        ],
+        "em": 0,
+        "f1": 0.2222222222222222
+    },
+    {
+        "id": "single_nq_dev_2886",
+        "prediction": "Dylan and Cole Sprouse",
+        "predicted_answer": "Dylan and Cole Sprouse",
+        "gold_answers": [
+            "British singer Steve Rushton"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2580",
+        "prediction": "9 years",
+        "predicted_answer": "9 years",
+        "gold_answers": [
+            "nine"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2610",
+        "prediction": "the Book of Joshua",
+        "predicted_answer": "the Book of Joshua",
+        "gold_answers": [
+            "Joshua"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_313",
+        "prediction": "40",
+        "predicted_answer": "40",
+        "gold_answers": [
+            "40"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4987",
+        "prediction": "Wrightsville Beach, North Carolina",
+        "predicted_answer": "Wrightsville Beach, North Carolina",
+        "gold_answers": [
+            "Wrightsville Beach , NC",
+            "New York"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_6221",
+        "prediction": "Johannes Kepler",
+        "predicted_answer": "Johannes Kepler",
+        "gold_answers": [
+            "Johannes Kepler"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2612",
+        "prediction": "Zooey Deschanel",
+        "predicted_answer": "Zooey Deschanel",
+        "gold_answers": [
+            "Zooey Deschanel"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3202",
+        "prediction": "Chicago, Illinois",
+        "predicted_answer": "Chicago, Illinois",
+        "gold_answers": [
+            "RKO Studios in Hollywood"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_849",
+        "prediction": "Matera, Italy",
+        "predicted_answer": "Matera, Italy",
+        "gold_answers": [
+            "Anguillara Sabazia"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4244",
+        "prediction": "when you reach the age of 16 and plan to work or claim benefits",
+        "predicted_answer": "when you reach the age of 16 and plan to work or claim benefits",
+        "gold_answers": [
+            "shortly after birth"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_551",
+        "prediction": "geothermal springs",
+        "predicted_answer": "geothermal springs",
+        "gold_answers": [
+            "nearby geothermal power plant Svartsengi"
+        ],
+        "em": 0,
+        "f1": 0.28571428571428575
+    },
+    {
+        "id": "single_nq_dev_151",
+        "prediction": "Emily Blunt and John Krasinski",
+        "predicted_answer": "Emily Blunt and John Krasinski",
+        "gold_answers": [
+            "John Krasinski",
+            "Noah Jupe",
+            "Emily Blunt",
+            "Millicent Simmonds"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_4742",
+        "prediction": "electrical generator",
+        "predicted_answer": "electrical generator",
+        "gold_answers": [
+            "magnetos"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_576",
+        "prediction": "The Korean War, which lasted from 1950 to 1953, ended in an armistice rather than a formal peace treaty. As a result, North Korea and South Korea remain technically at war. The war did not result in a clear victory for either side, but South Korea, supported by United Nations forces, was able to maintain its sovereignty and prevent the spread of communism into the southern part of the peninsula. So, while there was no definitive winner, South Korea and its allies were able to achieve their primary objective of defending against North Korean aggression",
+        "predicted_answer": "The Korean War, which lasted from 1950 to 1953, ended in an armistice rather than a formal peace treaty. As a result, North Korea and South Korea remain technically at war. The war did not result in a clear victory for either side, but South Korea, supported by United Nations forces, was able to maintain its sovereignty and prevent the spread of communism into the southern part of the peninsula. So, while there was no definitive winner, South Korea and its allies were able to achieve their primary objective of defending against North Korean aggression",
+        "gold_answers": [
+            "technically still at war"
+        ],
+        "em": 0,
+        "f1": 0.06666666666666667
+    },
+    {
+        "id": "single_nq_dev_6362",
+        "prediction": "1957",
+        "predicted_answer": "1957",
+        "gold_answers": [
+            "1957"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_772",
+        "prediction": "No, they do not sell beer at gas stations in NJ",
+        "predicted_answer": "No, they do not sell beer at gas stations in NJ",
+        "gold_answers": [
+            "rarely"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5861",
+        "prediction": "Father Dominic",
+        "predicted_answer": "Father Dominic",
+        "gold_answers": [
+            "Durning"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_334",
+        "prediction": "Season 6, Episode 4 of \\\"The Office.\\\"",
+        "predicted_answer": "Season 6, Episode 4 of \\\"The Office.\\\"",
+        "gold_answers": [
+            "beginning of Season 8"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_nq_dev_5065",
+        "prediction": "April 3, 2018",
+        "predicted_answer": "April 3, 2018",
+        "gold_answers": [
+            "on April 2 , 2018"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_1963",
+        "prediction": "1950s",
+        "predicted_answer": "1950s",
+        "gold_answers": [
+            "1983"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4825",
+        "prediction": "Kanpur",
+        "predicted_answer": "Kanpur",
+        "gold_answers": [
+            "Kanpur"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3201",
+        "prediction": "October 5, 2018",
+        "predicted_answer": "October 5, 2018",
+        "gold_answers": [
+            "5 October 2018"
+        ],
+        "em": 0,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_244",
+        "prediction": "December 6, 1865",
+        "predicted_answer": "December 6, 1865",
+        "gold_answers": [
+            "December 6 , 1865"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2797",
+        "prediction": "misophonia",
+        "predicted_answer": "misophonia",
+        "gold_answers": [
+            "misophonia"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_723",
+        "prediction": "January 3, 1959",
+        "predicted_answer": "January 3, 1959",
+        "gold_answers": [
+            "January 3 , 1959"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5807",
+        "prediction": "February 23, 2018",
+        "predicted_answer": "February 23, 2018",
+        "gold_answers": [
+            "23 February 2018"
+        ],
+        "em": 0,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1152",
+        "prediction": "1973",
+        "predicted_answer": "1973",
+        "gold_answers": [
+            "1973"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4230",
+        "prediction": "The original \\\"Star Wars\\\" film, later titled \\\"Star Wars: Episode IV - A New Hope,\\\" was released in theaters on May 25, 1977. If you are referring to a specific Star Wars film or a new release, please provide the title or year for more accurate information",
+        "predicted_answer": "The original \\\"Star Wars\\\" film, later titled \\\"Star Wars: Episode IV - A New Hope,\\\" was released in theaters on May 25, 1977. If you are referring to a specific Star Wars film or a new release, please provide the title or year for more accurate information",
+        "gold_answers": [
+            "May 25 , 2018"
+        ],
+        "em": 0,
+        "f1": 0.0909090909090909
+    },
+    {
+        "id": "single_nq_dev_5783",
+        "prediction": "Taylor Kitsch",
+        "predicted_answer": "Taylor Kitsch",
+        "gold_answers": [
+            "Taylor Kitsch"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2342",
+        "prediction": "Luke",
+        "predicted_answer": "Luke",
+        "gold_answers": [
+            "Luke"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_9",
+        "prediction": "Hippolyta",
+        "predicted_answer": "Hippolyta",
+        "gold_answers": [
+            "Queen Hippolyta"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_5255",
+        "prediction": "San Jose",
+        "predicted_answer": "San Jose",
+        "gold_answers": [
+            "Fremont"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_5292",
+        "prediction": "Lillo Brancato",
+        "predicted_answer": "Lillo Brancato",
+        "gold_answers": [
+            "Lillo Brancato Jr."
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_6409",
+        "prediction": "Daryl Sabara",
+        "predicted_answer": "Daryl Sabara",
+        "gold_answers": [
+            "Daryl Sabara"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5832",
+        "prediction": "12",
+        "predicted_answer": "12",
+        "gold_answers": [
+            "eight"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2292",
+        "prediction": "As of my last knowledge update, airlines that have operated out of Long Beach Airport (LGB) include:",
+        "predicted_answer": "As of my last knowledge update, airlines that have operated out of Long Beach Airport (LGB) include:",
+        "gold_answers": [
+            "American Eagle",
+            "Delta Connection",
+            "JetBlue Airways",
+            "Southwest Airlines",
+            "Hawaiian Airlines"
+        ],
+        "em": 0,
+        "f1": 0.10526315789473684
+    },
+    {
+        "id": "single_nq_dev_3700",
+        "prediction": "Gimli is a character in J.R.R. Tolkien's \\\"The Lord of the Rings.\\\" He is a Dwarf and a member of the Fellowship of the Ring, which is formed to help Frodo Baggins in his quest to destroy the One Ring. Gimli is known for his bravery, loyalty, and strong sense of honor, as well as his skills in battle. He often provides comic relief with his interactions with other members of the Fellowship, particularly Legolas, the Elf. Gimli also represents the Dwarven race in the story",
+        "predicted_answer": "Gimli is a character in J.R.R. Tolkien's \\\"The Lord of the Rings.\\\" He is a Dwarf and a member of the Fellowship of the Ring, which is formed to help Frodo Baggins in his quest to destroy the One Ring. Gimli is known for his bravery, loyalty, and strong sense of honor, as well as his skills in battle. He often provides comic relief with his interactions with other members of the Fellowship, particularly Legolas, the Elf. Gimli also represents the Dwarven race in the story",
+        "gold_answers": [
+            "A dwarf warrior"
+        ],
+        "em": 0,
+        "f1": 0.026315789473684213
+    },
+    {
+        "id": "single_nq_dev_2665",
+        "prediction": "his grandparents",
+        "predicted_answer": "his grandparents",
+        "gold_answers": [
+            "William Sheeran",
+            "Anne Mulligan"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2248",
+        "prediction": "The Bow Room in Buckingham Palace is a formal reception room located on the ground floor of the palace. It is used for official functions and events, and it features elegant decor, including a collection of fine art and furnishings. The room is named for its bow-shaped windows that provide a view of the palace gardens. It is often used for hosting guests and is part of the public tours of Buckingham Palace when the State Rooms are open to visitors",
+        "predicted_answer": "The Bow Room in Buckingham Palace is a formal reception room located on the ground floor of the palace. It is used for official functions and events, and it features elegant decor, including a collection of fine art and furnishings. The room is named for its bow-shaped windows that provide a view of the palace gardens. It is often used for hosting guests and is part of the public tours of Buckingham Palace when the State Rooms are open to visitors",
+        "gold_answers": [
+            "Directly underneath the State Apartments"
+        ],
+        "em": 0,
+        "f1": 0.02666666666666667
+    },
+    {
+        "id": "single_nq_dev_2348",
+        "prediction": "launched on April 24, 1990; expected to stop operating around 2025",
+        "predicted_answer": "launched on April 24, 1990; expected to stop operating around 2025",
+        "gold_answers": [
+            "remains in operation",
+            "1990"
+        ],
+        "em": 0,
+        "f1": 0.16666666666666669
+    },
+    {
+        "id": "single_nq_dev_5860",
+        "prediction": "John Le Mesurier",
+        "predicted_answer": "John Le Mesurier",
+        "gold_answers": [
+            "John Talfryn Thomas"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_nq_dev_497",
+        "prediction": "ethnic Germans",
+        "predicted_answer": "ethnic Germans",
+        "gold_answers": [
+            "European"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4379",
+        "prediction": "1996",
+        "predicted_answer": "1996",
+        "gold_answers": [
+            "February 18 , 1996"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_nq_dev_1273",
+        "prediction": "three",
+        "predicted_answer": "three",
+        "gold_answers": [
+            "three"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_4315",
+        "prediction": "1903",
+        "predicted_answer": "1903",
+        "gold_answers": [
+            "1903"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_6436",
+        "prediction": "southwestern Brooklyn",
+        "predicted_answer": "southwestern Brooklyn",
+        "gold_answers": [
+            "Brooklyn"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_2385",
+        "prediction": "Several Purdue football players have been inducted into the Pro Football Hall of Fame. Notable inductees include:",
+        "predicted_answer": "Several Purdue football players have been inducted into the Pro Football Hall of Fame. Notable inductees include:",
+        "gold_answers": [
+            "Four"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_2169",
+        "prediction": "Antonie van Leeuwenhoek",
+        "predicted_answer": "Antonie van Leeuwenhoek",
+        "gold_answers": [
+            "Antonie van Leeuwenhoek"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3645",
+        "prediction": "Rocky Mountains, Colorado",
+        "predicted_answer": "Rocky Mountains, Colorado",
+        "gold_answers": [
+            "La Poudre Pass"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3344",
+        "prediction": "Glastonbury is located in Somerset, England, in the southwest region of the United Kingdom. It is situated approximately 23 miles (37 km) south of Bristol and 5 miles (8 km) from the town of Wells. Glastonbury is known for its historical and cultural significance, including the famous Glastonbury Tor and the annual Glastonbury Festival",
+        "predicted_answer": "Glastonbury is located in Somerset, England, in the southwest region of the United Kingdom. It is situated approximately 23 miles (37 km) south of Bristol and 5 miles (8 km) from the town of Wells. Glastonbury is known for its historical and cultural significance, including the famous Glastonbury Tor and the annual Glastonbury Festival",
+        "gold_answers": [
+            "in the Mendip district"
+        ],
+        "em": 0,
+        "f1": 0.03846153846153846
+    },
+    {
+        "id": "single_nq_dev_777",
+        "prediction": "Justin Berfield",
+        "predicted_answer": "Justin Berfield",
+        "gold_answers": [
+            "Justin Tyler Berfield"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_nq_dev_4329",
+        "prediction": "1987",
+        "predicted_answer": "1987",
+        "gold_answers": [
+            "1987"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1672",
+        "prediction": "February 1, 2009",
+        "predicted_answer": "February 1, 2009",
+        "gold_answers": [
+            "2008"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_618",
+        "prediction": "Ludwig van Beethoven",
+        "predicted_answer": "Ludwig van Beethoven",
+        "gold_answers": [
+            "Ludwig van Beethoven"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3568",
+        "prediction": "Lotte Lenya",
+        "predicted_answer": "Lotte Lenya",
+        "gold_answers": [
+            "Lotte Lenya",
+            "Walter Gotell",
+            "Robert Shaw",
+            "Eric Pohlmann",
+            "Vladek Sheybal",
+            "Anthony Dawson"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_514",
+        "prediction": "Randall Flagg",
+        "predicted_answer": "Randall Flagg",
+        "gold_answers": [
+            "Randall Flagg"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_860",
+        "prediction": "Colorado River",
+        "predicted_answer": "Colorado River",
+        "gold_answers": [
+            "Colorado River"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_329",
+        "prediction": "18",
+        "predicted_answer": "18",
+        "gold_answers": [
+            "ten"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_4498",
+        "prediction": "The Friends of Distinction",
+        "predicted_answer": "The Friends of Distinction",
+        "gold_answers": [
+            "The Friends of Distinction"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2753",
+        "prediction": "Carol Ann Susi",
+        "predicted_answer": "Carol Ann Susi",
+        "gold_answers": [
+            "Carol Ann Susi"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2781",
+        "prediction": "Lemony Snicket (Daniel Handler)",
+        "predicted_answer": "Lemony Snicket (Daniel Handler)",
+        "gold_answers": [
+            "Daniel Handler"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_nq_dev_3845",
+        "prediction": "The functions are linearly dependent",
+        "predicted_answer": "The functions are linearly dependent",
+        "gold_answers": [
+            "the functions are linearly dependent"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1114",
+        "prediction": "September 9, 1850",
+        "predicted_answer": "September 9, 1850",
+        "gold_answers": [
+            "September 9 , 1850"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5096",
+        "prediction": "Billy Preston and Bruce Fisher",
+        "predicted_answer": "Billy Preston and Bruce Fisher",
+        "gold_answers": [
+            "Bruce Fisher",
+            "Billy Preston"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_nq_dev_3791",
+        "prediction": "Taraji P. Henson",
+        "predicted_answer": "Taraji P. Henson",
+        "gold_answers": [
+            "Taraji P. Henson"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3035",
+        "prediction": "Maurice White",
+        "predicted_answer": "Maurice White",
+        "gold_answers": [
+            "Maurice White"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_3313",
+        "prediction": "420.",
+        "predicted_answer": "420.",
+        "gold_answers": [
+            "420"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5338",
+        "prediction": "Andy Murray",
+        "predicted_answer": "Andy Murray",
+        "gold_answers": [
+            "Andy Murray"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_5439",
+        "prediction": "the United States",
+        "predicted_answer": "the United States",
+        "gold_answers": [
+            "the United States"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_2369",
+        "prediction": "The Washington Redskins won the Super Bowl three times:",
+        "predicted_answer": "The Washington Redskins won the Super Bowl three times:",
+        "gold_answers": [
+            "XVII",
+            "XXVI",
+            "XXII"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3286",
+        "prediction": "Kevin Peter Hall",
+        "predicted_answer": "Kevin Peter Hall",
+        "gold_answers": [
+            "Kevin Peter Hall"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_nq_dev_1719",
+        "prediction": "late 1960s",
+        "predicted_answer": "late 1960s",
+        "gold_answers": [
+            "1970s"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_nq_dev_3838",
+        "prediction": "in the Earth's lithosphere",
+        "predicted_answer": "in the Earth's lithosphere",
+        "gold_answers": [
+            "the Earth 's lithosphere"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_nq_dev_2786",
+        "prediction": "Han Seung-yeon",
+        "predicted_answer": "Han Seung-yeon",
+        "gold_answers": [
+            "Park Hye - soo"
+        ],
+        "em": 0,
+        "f1": 0
+    }
+]

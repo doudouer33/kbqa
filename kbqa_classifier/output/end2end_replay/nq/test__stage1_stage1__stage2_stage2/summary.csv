@@ -1,0 +1,9 @@
+system_name,avg_em,avg_f1,avg_topk,retrieval_rate,retrieval_rate_total_input,stage1_acc,stage2_acc,stage2_acc_type,input_sample_count,k_determined_sample_count,aligned_sample_count,evaluated_sample_count,skipped_missing_alignment_count,skipped_missing_score_count,retrieval_count
+fixed_k_0,0.37,0.5164807033285178,0.0,0.0,0.0,,,,500,500,500,500,0,0,0
+fixed_k_1,0.234,0.3807433676642822,1.0,1.0,1.0,,,,500,500,500,500,0,0,500
+fixed_k_3,0.306,0.4398329725575764,3.0,1.0,1.0,,,,500,500,500,500,0,0,500
+fixed_k_5,0.29,0.4342312028698101,5.0,1.0,1.0,,,,500,500,500,500,0,0,500
+fixed_k_10,0.298,0.43147624962675246,10.0,1.0,1.0,,,,500,500,500,500,0,0,500
+fixed_k_15,0.302,0.4494129021977651,15.0,1.0,1.0,,,,500,500,500,500,0,0,500
+two_stage_dynamic_topk,0.338,0.4757450630018791,2.87,0.478,0.478,0.556,0.19767441860465115,bucket_accuracy,500,500,500,500,0,0,239
+oracle_best_k,0.512,0.6774638965422359,1.628,0.31,0.31,,,,500,500,500,500,0,0,155

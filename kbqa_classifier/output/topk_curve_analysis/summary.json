@@ -1,0 +1,29 @@
+{
+  "num_questions": 1500,
+  "datasets": {
+    "nq": 500,
+    "trivia": 500,
+    "squad": 500
+  },
+  "trend_type_distribution": {
+    "oscillating": 416,
+    "rise_then_fall": 68,
+    "flat": 533,
+    "rise_then_plateau": 131,
+    "other": 199,
+    "rise_then_plateau_then_fall": 31,
+    "fall_then_plateau": 122
+  },
+  "stability_type_distribution": {
+    "highly_oscillating": 294,
+    "mildly_oscillating": 615,
+    "stable": 591
+  },
+  "avg_best_k": 1.3706666666666667,
+  "avg_max_f1": 0.6741899534786296,
+  "avg_f1_at_0": 0.5239518556860442,
+  "avg_gain_to_best": 0.1502380977925854,
+  "avg_post_peak_drop": 0.35690936373347876,
+  "avg_sign_changes": 1.6013333333333333,
+  "avg_volatility": 1.2296241345775583
+}

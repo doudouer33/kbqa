@@ -1,0 +1,707 @@
+[
+  {
+    "id": "single_nq_dev_1150",
+    "question": "who got first bharat ratna award in 1954",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 0,
+    "best_f1": 0.4444444444444445,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.4
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.4
+      }
+    },
+    "predictions": {
+      "0": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C.V. Raman",
+      "1": "The Bharat Ratna was instituted in 1954 as the highest civilian award of the Republic of India. The first recipients of the Bharat Ratna in 1954 were:",
+      "2": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+      "3": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+      "4": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+      "5": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+      "6": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+      "7": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+      "8": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+      "9": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+      "10": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+      "11": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+      "12": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+      "13": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+      "14": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman",
+      "15": "C. Rajagopalachari, Sarvepalli Radhakrishnan, and C. V. Raman"
+    },
+    "curve_analysis": {
+      "trend_type": "other",
+      "stability_type": "mildly_oscillating",
+      "best_k": 0,
+      "max_f1": 0.4444444444444445,
+      "f1_at_0": 0.4444444444444445,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 1,
+      "post_peak_drop": 0.4444444444444445,
+      "sign_changes": 1,
+      "volatility": 0.8444444444444446,
+      "trend_curve": [
+        0.4444444444444445,
+        0.0,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4
+      ],
+      "prefix_best_curve": [
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1186",
+    "question": "when was the city of new york founded",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 1,
+    "best_f1": 1.0,
+    "scores": {
+      "0": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "1": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "2": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "3": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "4": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "5": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "6": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "7": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "8": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "9": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "10": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "11": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.05128205128205127
+      },
+      "13": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "14": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "15": {
+        "em": 1,
+        "f1": 1.0
+      }
+    },
+    "predictions": {
+      "0": "1624",
+      "1": "1624",
+      "2": "1624",
+      "3": "1624",
+      "4": "1624",
+      "5": "1624",
+      "6": "1624",
+      "7": "1624",
+      "8": "1624",
+      "9": "1624",
+      "10": "1624",
+      "11": "1624",
+      "12": "The city of New York traces its origins to a trading post founded by colonists from the Dutch Republic in 1624 on Lower Manhattan, and the post was named New Amsterdam in 1626. So, the city of New York was founded in 1624",
+      "13": "1624",
+      "14": "1624",
+      "15": "1624"
+    },
+    "curve_analysis": {
+      "trend_type": "other",
+      "stability_type": "mildly_oscillating",
+      "best_k": 0,
+      "max_f1": 1.0,
+      "f1_at_0": 1.0,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 12,
+      "post_peak_drop": 0.9487179487179487,
+      "sign_changes": 1,
+      "volatility": 1.8974358974358974,
+      "trend_curve": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.05128205128205127,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prefix_best_curve": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1230",
+    "question": "where do cardiac impulses originate in the heart",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 0,
+    "best_f1": 0.8,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.8
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.8
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.13333333333333333
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.8
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.13793103448275862
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.13333333333333333
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.12903225806451613
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.12121212121212122
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.13333333333333333
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.15384615384615385
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.125
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.12121212121212122
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.09756097560975609
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.0909090909090909
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.11764705882352941
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.10526315789473684
+      }
+    },
+    "predictions": {
+      "0": "sinoatrial (SA) node",
+      "1": "the sinoatrial (SA) node",
+      "2": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of cardiac muscle and control the heart rate",
+      "3": "the sinoatrial (SA) node",
+      "4": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of cardiac muscle, controlling the heart rate",
+      "5": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of cardiac muscle and control the heart rate",
+      "6": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of cardiac muscle, setting the pace for the heart rate",
+      "7": "Cardiac impulses originate in the heart at the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of cardiac muscle, setting the pace for the heart rate",
+      "8": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of cardiac muscle and control the heart rate",
+      "9": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of the heart muscle",
+      "10": "Cardiac impulses originate in the sinoatrial (SA) node, which is the natural pacemaker of the heart. The SA node generates electrical impulses that initiate the contraction of the heart muscle and set the pace for the heart rate",
+      "11": "Cardiac impulses originate in the sinoatrial (SA) node, which is located in the right atrium of the heart. The SA node acts as the natural pacemaker, generating electrical impulses that initiate the heartbeat and regulate the heart rate",
+      "12": "Cardiac impulses originate in the sinoatrial (SA) node, which is a small area of specialized pacemaker cells located in the right atrium of the heart. The SA node generates electrical impulses that set the pace for the heart's rhythm, causing the atria to contract and initiating the heartbeat",
+      "13": "Cardiac impulses originate in the sinoatrial (SA) node, which is a small area of specialized pacemaker cells located in the upper wall of the right atrium of the heart. The SA node generates electrical impulses that set the pace for the heart's rhythm, causing the atria to contract and initiating the heartbeat",
+      "14": "Cardiac impulses originate in the heart at a small area of tissue in the right atrium called the sinoatrial (SA) node. The SA node is known as the natural pacemaker of the heart, generating electrical impulses that initiate the heartbeat",
+      "15": "Cardiac impulses originate in the sinoatrial (SA) node, which is located in the upper wall of the right atrium of the heart. The SA node acts as the natural pacemaker of the heart, generating electrical impulses that initiate the heartbeat and regulate the heart rate"
+    },
+    "curve_analysis": {
+      "trend_type": "other",
+      "stability_type": "mildly_oscillating",
+      "best_k": 0,
+      "max_f1": 0.8,
+      "f1_at_0": 0.8,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 2,
+      "post_peak_drop": 0.7090909090909091,
+      "sign_changes": 2,
+      "volatility": 2.146814176535539,
+      "trend_curve": [
+        0.8,
+        0.8,
+        0.13333333333333333,
+        0.8,
+        0.13793103448275862,
+        0.13333333333333333,
+        0.12903225806451613,
+        0.12121212121212122,
+        0.13333333333333333,
+        0.15384615384615385,
+        0.125,
+        0.12121212121212122,
+        0.09756097560975609,
+        0.0909090909090909,
+        0.11764705882352941,
+        0.10526315789473684
+      ],
+      "prefix_best_curve": [
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1349",
+    "question": "what battle took place at breeds hill near boston",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 1,
+    "best_f1": 1.0,
+    "scores": {
+      "0": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "4": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.4444444444444445
+      }
+    },
+    "predictions": {
+      "0": "Battle of Bunker Hill",
+      "1": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+      "2": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+      "3": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+      "4": "Battle of Bunker Hill",
+      "5": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+      "6": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+      "7": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+      "8": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+      "9": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+      "10": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+      "11": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+      "12": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+      "13": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+      "14": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill",
+      "15": "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill"
+    },
+    "curve_analysis": {
+      "trend_type": "other",
+      "stability_type": "mildly_oscillating",
+      "best_k": 0,
+      "max_f1": 1.0,
+      "f1_at_0": 1.0,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 1,
+      "post_peak_drop": 0.5555555555555556,
+      "sign_changes": 2,
+      "volatility": 1.6666666666666667,
+      "trend_curve": [
+        1.0,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        1.0,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445,
+        0.4444444444444445
+      ],
+      "prefix_best_curve": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1481",
+    "question": "when did photo driving licences start in uk",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 0,
+    "best_f1": 0.8,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.8
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.6666666666666666
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.05263157894736842
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.05555555555555555
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.05555555555555555
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.047619047619047616
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.06666666666666667
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.6666666666666666
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.6666666666666666
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.6666666666666666
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.6666666666666666
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.6666666666666666
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.6666666666666666
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.6666666666666666
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.6666666666666666
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.1818181818181818
+      }
+    },
+    "predictions": {
+      "0": "July 1, 1998",
+      "1": "1998",
+      "2": "The information provided does not include details about when photo driving licences started in the UK. However, photo driving licences were introduced in the UK in 1998. If you need more specific information or details, please let me know!",
+      "3": "The information provided does not specify when photo driving licenses started in the UK. However, photo driving licenses were introduced in the UK in 1998. If you need more detailed information or context, please let me know!",
+      "4": "The information provided does not specify when photo driving licences started in the UK. However, photo driving licences were introduced in the UK in 1998. If you need more detailed information or context, please let me know!",
+      "5": "The information provided does not specify when photo driving licences started in the UK. However, it is known that the introduction of photo driving licences in the UK began in 1998. If you need more detailed information or specific dates, please let me know!",
+      "6": "The introduction of photo driving licences in the UK began in 1998. The new style of driving licence, which includes a photograph of the holder, was implemented to enhance security and reduce fraud",
+      "7": "1998",
+      "8": "1998",
+      "9": "1998",
+      "10": "1998",
+      "11": "1998",
+      "12": "1998",
+      "13": "1998",
+      "14": "1998",
+      "15": "Photo driving licences in the UK were introduced in 1998"
+    },
+    "curve_analysis": {
+      "trend_type": "other",
+      "stability_type": "mildly_oscillating",
+      "best_k": 0,
+      "max_f1": 0.8,
+      "f1_at_0": 0.8,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 1,
+      "post_peak_drop": 0.7523809523809524,
+      "sign_changes": 2,
+      "volatility": 1.8621250094934305,
+      "trend_curve": [
+        0.8,
+        0.6666666666666666,
+        0.05263157894736842,
+        0.05555555555555555,
+        0.05555555555555555,
+        0.047619047619047616,
+        0.06666666666666667,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.1818181818181818
+      ],
+      "prefix_best_curve": [
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  }
+]

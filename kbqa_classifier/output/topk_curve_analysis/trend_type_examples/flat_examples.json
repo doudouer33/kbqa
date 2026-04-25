@@ -1,0 +1,707 @@
+[
+  {
+    "id": "single_nq_dev_1025",
+    "question": "where will the fifa world cup be held in 2018",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 1,
+    "best_f1": 1.0,
+    "scores": {
+      "0": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "1": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "2": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "3": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "4": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "5": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "6": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "7": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "8": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "9": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "10": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "11": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "12": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "13": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "14": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "15": {
+        "em": 1,
+        "f1": 1.0
+      }
+    },
+    "predictions": {
+      "0": "Russia",
+      "1": "Russia",
+      "2": "Russia",
+      "3": "Russia",
+      "4": "Russia",
+      "5": "Russia",
+      "6": "Russia",
+      "7": "Russia",
+      "8": "Russia",
+      "9": "Russia",
+      "10": "Russia",
+      "11": "Russia",
+      "12": "Russia",
+      "13": "Russia",
+      "14": "Russia",
+      "15": "Russia"
+    },
+    "curve_analysis": {
+      "trend_type": "flat",
+      "stability_type": "stable",
+      "best_k": 0,
+      "max_f1": 1.0,
+      "f1_at_0": 1.0,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 16,
+      "post_peak_drop": 0.0,
+      "sign_changes": 0,
+      "volatility": 0.0,
+      "trend_curve": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prefix_best_curve": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1042",
+    "question": "who plays sage in step up high water",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 0,
+    "best_f1": 0.0,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.0
+      }
+    },
+    "predictions": {
+      "0": "Naya Rivera",
+      "1": "The character Sage in \\\"Step Up: High Water\\\" is played by actress and dancer, Naya Rivera",
+      "2": "The character Sage in \\\"Step Up: High Water\\\" is played by actress and dancer, Jade Chynoweth",
+      "3": "The character Sage in \\\"Step Up: High Water\\\" is played by actress and dancer, Naya Rivera",
+      "4": "The information provided does not specify who plays the character Sage in \\\"Step Up: High Water.\\\" Therefore, I cannot provide an answer based on the available data",
+      "5": "The information provided does not specify who plays the character Sage in \\\"Step Up: High Water.\\\" Therefore, I cannot provide an answer based on the available data",
+      "6": "The information provided does not specify who plays the character Sage in \\\"Step Up: High Water.\\\" Therefore, I cannot provide an answer based on the available data",
+      "7": "Jade Chynoweth",
+      "8": "The information provided does not specify who plays the character Sage in \\\"Step Up: High Water.\\\" Therefore, I cannot provide an answer based on the available data",
+      "9": "The character Sage in \\\"Step Up: High Water\\\" is played by Jade Chynoweth",
+      "10": "The character Sage in \\\"Step Up: High Water\\\" is played by Jade Chynoweth",
+      "11": "The character Sage in \\\"Step Up: High Water\\\" is played by Jade Chynoweth",
+      "12": "Jade Chynoweth",
+      "13": "The provided documents do not include information about the actor who plays Sage in \\\"Step Up: High Water.\\\" Therefore, based on the given data, I cannot determine who plays Sage in \\\"Step Up: High Water.\\\"",
+      "14": "Jade Chynoweth",
+      "15": "The information provided does not specify who plays the character Sage in \\\"Step Up: High Water.\\\" Therefore, I cannot provide an answer based on the available data"
+    },
+    "curve_analysis": {
+      "trend_type": "flat",
+      "stability_type": "stable",
+      "best_k": 0,
+      "max_f1": 0.0,
+      "f1_at_0": 0.0,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 16,
+      "post_peak_drop": 0.0,
+      "sign_changes": 0,
+      "volatility": 0.0,
+      "trend_curve": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prefix_best_curve": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1085",
+    "question": "what are the type of genes that prevent other genes from showing their phenotype",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 0,
+    "best_f1": 0.0,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.0
+      }
+    },
+    "predictions": {
+      "0": "recessive genes",
+      "1": "The type of genes that prevent other genes from showing their phenotype are called **homeotic genes**. Homeotic genes regulate the expression of other genes and control the development of anatomical structures, often by turning on or off certain genes, thereby preventing or enabling the expression of specific phenotypes",
+      "2": "The type of genes that prevent other genes from showing their phenotype are known as \\\"suppressor genes.\\\" These genes can inhibit the expression of other genes, thereby affecting the phenotype that is displayed. In the context of homeotic genes, certain genes can act as tumor suppressors, preventing the development of tumors when expressed properly",
+      "3": "The type of genes that prevent other genes from showing their phenotype are known as \\\"suppressor genes\\\" or \\\"recessive genes.\\\" These genes can inhibit the expression of other genes, leading to a lack of visible traits associated with those genes. In some contexts, they may also be referred to as \\\"antagonistic genes\\\" or \\\"inhibitory genes.\\\"",
+      "4": "The type of genes that prevent other genes from showing their phenotype are called **repressor genes** or **inhibitory genes**. These genes produce products (such as repressor proteins) that can block the expression of other genes, thereby preventing their phenotypic traits from being displayed",
+      "5": "The type of genes that prevent other genes from showing their phenotype are known as \\\"suppressor genes.\\\" These genes can inhibit the expression of other genes, thereby masking their phenotypic effects. In the context of homeotic genes, certain genes may act as tumor suppressors, preventing the development of tumors when expressed properly",
+      "6": "The type of genes that prevent other genes from showing their phenotype are known as \\\"suppressor genes.\\\" These genes can inhibit the expression of other genes, thereby masking their phenotypic effects. In some contexts, they may also be referred to as \\\"recessive genes\\\" if their effects are only observed when the dominant allele is absent",
+      "7": "The type of genes that prevent other genes from showing their phenotype are known as \\\"suppressor genes.\\\" These genes can inhibit the expression of other genes, thereby masking their phenotypic effects. In the context of the provided information, gap genes can also be considered as they play a role in regulating the expression of other genes during development, influencing the overall phenotype",
+      "8": "The type of genes that prevent other genes from showing their phenotype are known as \\\"suppressor genes.\\\" These genes can inhibit the expression of other genes, thereby masking their phenotypic effects. In the context of genetics, they can play a role in various biological processes, including development and disease",
+      "9": "The type of genes that prevent other genes from showing their phenotype are known as \\\"recessive genes.\\\" In genetics, recessive alleles do not manifest their traits in the presence of dominant alleles. Therefore, for a recessive trait to be expressed phenotypically, an individual must have two copies of the recessive allele (homozygous recessive)",
+      "10": "The type of genes that prevent other genes from showing their phenotype are known as \\\"modifier genes.\\\" These genes can influence the expression of other genes, often altering the phenotypic outcome. Additionally, \\\"recessive genes\\\" can also prevent the expression of dominant alleles, leading to a phenotype that reflects the recessive trait only when two copies of the recessive allele are present",
+      "11": "The type of genes that prevent other genes from showing their phenotype are known as \\\"modifier genes.\\\" These genes can influence the expression of other genes, often altering the phenotypic outcome. Additionally, \\\"recessive genes\\\" can also prevent the expression of dominant alleles, leading to a lack of visible phenotype unless two copies of the recessive allele are present",
+      "12": "The type of genes that prevent other genes from showing their phenotype are known as \\\"modifier genes.\\\" These genes can influence the expression of other genes, often altering the phenotypic outcome. Additionally, \\\"recessive genes\\\" can also prevent the expression of dominant alleles, leading to a phenotype that may not be visible unless two copies of the recessive allele are present",
+      "13": "The type of genes that prevent other genes from showing their phenotype are known as \\\"recessive genes.\\\" In genetics, recessive alleles must be present in two copies (homozygous) for their traits to be expressed in the phenotype, while dominant alleles can mask the expression of recessive alleles when present. Additionally, \\\"modifier genes\\\" can also influence the expression of other genes, potentially suppressing or enhancing their phenotypic effects",
+      "14": "The type of genes that prevent other genes from showing their phenotype are known as **modifier genes**. These genes can influence the expression of other genes, thereby affecting the phenotypic traits that are observed",
+      "15": "The type of genes that prevent other genes from showing their phenotype are known as **modifier genes**. These genes can influence the expression of other genes, thereby affecting the phenotypic outcome"
+    },
+    "curve_analysis": {
+      "trend_type": "flat",
+      "stability_type": "stable",
+      "best_k": 0,
+      "max_f1": 0.0,
+      "f1_at_0": 0.0,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 16,
+      "post_peak_drop": 0.0,
+      "sign_changes": 0,
+      "volatility": 0.0,
+      "trend_curve": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prefix_best_curve": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1090",
+    "question": "what is the distance of a point from y axis called",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 0,
+    "best_f1": 0.0,
+    "scores": {
+      "0": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "1": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "2": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "3": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "4": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "5": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "6": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "7": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "8": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "9": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "10": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "11": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "12": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "13": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "14": {
+        "em": 0,
+        "f1": 0.0
+      },
+      "15": {
+        "em": 0,
+        "f1": 0.0
+      }
+    },
+    "predictions": {
+      "0": "x-coordinate",
+      "1": "The distance of a point from the y-axis is called the x-coordinate",
+      "2": "The distance of a point from the y-axis is called the x-coordinate of that point. It represents how far the point is from the y-axis along the x-axis",
+      "3": "x-coordinate",
+      "4": "x-coordinate",
+      "5": "x-coordinate",
+      "6": "x-coordinate",
+      "7": "The distance of a point from the y-axis is called the x-coordinate of that point. In a Cartesian coordinate system, the x-coordinate represents how far the point is from the y-axis, measured along the x-axis",
+      "8": "x-coordinate",
+      "9": "The distance of a point from the y-axis is called the x-coordinate of that point. In a Cartesian coordinate system, the x-coordinate represents how far the point is from the y-axis, measured along the horizontal axis",
+      "10": "The distance of a point from the y-axis is called the x-coordinate of that point. In a Cartesian coordinate system, the x-coordinate represents how far the point is from the y-axis, measured along the horizontal direction",
+      "11": "x-coordinate",
+      "12": "The distance of a point from the y-axis is called the x-coordinate of that point. In a Cartesian coordinate system, the x-coordinate represents how far the point is from the y-axis, measured along the x-axis",
+      "13": "x-coordinate",
+      "14": "x-coordinate",
+      "15": "x-coordinate"
+    },
+    "curve_analysis": {
+      "trend_type": "flat",
+      "stability_type": "stable",
+      "best_k": 0,
+      "max_f1": 0.0,
+      "f1_at_0": 0.0,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 16,
+      "post_peak_drop": 0.0,
+      "sign_changes": 0,
+      "volatility": 0.0,
+      "trend_curve": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "prefix_best_curve": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "id": "single_nq_dev_1130",
+    "question": "when does it 's always sunny in philadelphia season 13 start",
+    "dataset_name": "nq",
+    "best_k": 0,
+    "best_em": 1,
+    "best_f1": 1.0,
+    "scores": {
+      "0": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "1": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "2": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "3": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "4": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "5": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "6": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "7": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "8": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "9": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "10": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "11": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "12": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "13": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "14": {
+        "em": 1,
+        "f1": 1.0
+      },
+      "15": {
+        "em": 1,
+        "f1": 1.0
+      }
+    },
+    "predictions": {
+      "0": "September 5, 2018",
+      "1": "September 5, 2018",
+      "2": "September 5, 2018",
+      "3": "September 5, 2018",
+      "4": "September 5, 2018",
+      "5": "September 5, 2018",
+      "6": "September 5, 2018",
+      "7": "September 5, 2018",
+      "8": "September 5, 2018",
+      "9": "September 5, 2018",
+      "10": "September 5, 2018",
+      "11": "September 5, 2018",
+      "12": "September 5, 2018",
+      "13": "September 5, 2018",
+      "14": "September 5, 2018",
+      "15": "September 5, 2018"
+    },
+    "curve_analysis": {
+      "trend_type": "flat",
+      "stability_type": "stable",
+      "best_k": 0,
+      "max_f1": 1.0,
+      "f1_at_0": 1.0,
+      "gain_to_best": 0.0,
+      "first_reach_best_k": 0,
+      "plateau_length": 16,
+      "post_peak_drop": 0.0,
+      "sign_changes": 0,
+      "volatility": 0.0,
+      "trend_curve": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "prefix_best_curve": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  }
+]

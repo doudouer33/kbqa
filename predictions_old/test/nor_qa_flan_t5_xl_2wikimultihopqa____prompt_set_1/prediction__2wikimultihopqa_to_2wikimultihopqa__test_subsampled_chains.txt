@@ -1,0 +1,3500 @@
+
+8974f9a00bb011ebab90acde48001122
+Who is the father-in-law of Queen Hyojeong?
+Q: Who is the father-in-law of Queen Hyojeong?
+A: "King Sejong"
+Q: [EOQ]
+S: 0.0
+
+5c3b5e41095611ebbdaeac1f6bf848b6
+Which one was established first, Grouplogic or Inbios?
+Q: Which one was established first, Grouplogic or Inbios?
+A: "Inbios"
+Q: [EOQ]
+S: 0.0
+
+36ffddee0bdc11eba7f7acde48001122
+Where was the place of death of the director of film The Decision Of Christopher Blake?
+Q: Where was the place of death of the director of film The Decision Of Christopher Blake?
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+b2fd3ef40bdd11eba7f7acde48001122
+Who is the child of the director of film Mukhyamantri (1996 Film)?
+Q: Who is the child of the director of film Mukhyamantri (1996 Film)?
+A: "Aaditya"
+Q: [EOQ]
+S: 0.0
+
+c86dad20087511ebbd67ac1f6bf848b6
+Which film was released earlier, The Devil'S Miner or Don'T Tell?
+Q: Which film was released earlier, The Devil'S Miner or Don'T Tell?
+A: "The Devil'S Miner"
+Q: [EOQ]
+S: 0.0
+
+19041a7f08e111ebbda2ac1f6bf848b6
+Who is younger, Halcón Suriano Jr. or Pierre De Geyter?
+Q: Who is younger, Halcón Suriano Jr. or Pierre De Geyter?
+A: "Pierre De Geyter"
+Q: [EOQ]
+S: 0.0
+
+8ee8259e0bdb11eba7f7acde48001122
+Where did Abe Laboriel Jr.'s father study?
+Q: Where did Abe Laboriel Jr.'s father study?
+A: "Hebrew University"
+Q: [EOQ]
+S: 0.0
+
+5c83d5960bde11eba7f7acde48001122
+Where did Edward Hoby's father study?
+Q: Where did Edward Hoby's father study?
+A: "University of Leipzig"
+Q: [EOQ]
+S: 0.0
+
+3d1d9fe40bb011ebab90acde48001122
+Who is Lord Herbert Montagu Douglas Scott's maternal grandfather?
+Q: Who is Lord Herbert Montagu Douglas Scott's maternal grandfather?
+A: "Lord Mountbatten"
+Q: [EOQ]
+S: 0.0
+
+c077f89508e711ebbda6ac1f6bf848b6
+Which film came out first, Poznań '56 or The Last Day Of School Before Christmas?
+Q: Which film came out first, Poznań '56 or The Last Day Of School Before Christmas?
+A: "Pozna '56"
+Q: [EOQ]
+S: 0.0
+
+62ab4e000bb011ebab90acde48001122
+Who is the husband of Princess Elene Of Georgia?
+Q: Who is the husband of Princess Elene Of Georgia?
+A: "Prince Saakashvili"
+Q: [EOQ]
+S: 0.0
+
+535fcc540bd911eba7f7acde48001122
+Which country the director of film Snow Flower And The Secret Fan (Film) is from?
+Q: Which country the director of film Snow Flower And The Secret Fan (Film) is from?
+A: "China"
+Q: [EOQ]
+S: 0.0
+
+61d4545708b111ebbd85ac1f6bf848b6
+Which film has the director born first, Gopalapuranam or Here Is The Beauty?
+Q: Which film has the director born first, Gopalapuranam or Here Is The Beauty?
+A: "Gopalapuranam"
+Q: [EOQ]
+S: 0.0
+
+44eb6b0a0bda11eba7f7acde48001122
+Who is the father of the performer of song Lighter (Miley Cyrus Song)?
+Q: Who is the father of the performer of song Lighter (Miley Cyrus Song)?
+A: "Billy Ray Cyrus"
+Q: [EOQ]
+S: 0.0
+
+671322a00bde11eba7f7acde48001122
+Where was the place of death of Suzanne Farrington's mother?
+Q: Where was the place of death of Suzanne Farrington's mother?
+A: "St. John's Wood"
+Q: [EOQ]
+S: 0.0
+
+8715f72a0bda11eba7f7acde48001122
+Where was the director of film Eisenstein In Guanajuato born?
+Q: Where was the director of film Eisenstein In Guanajuato born?
+A: "Guanajuato, Mexico"
+Q: [EOQ]
+S: 0.0
+
+7adefa720bdc11eba7f7acde48001122
+Where did George Tryon, 1St Baron Tryon's father die?
+Q: Where did George Tryon, 1St Baron Tryon's father die?
+A: "Edinburgh"
+Q: [EOQ]
+S: 0.0
+
+acb9940c0bdd11eba7f7acde48001122
+What is the cause of death of director of film Destination: Dewsbury?
+Q: What is the cause of death of director of film Destination: Dewsbury?
+A: "a heart attack"
+Q: [EOQ]
+S: 0.0
+
+fb6ff1e20bdb11eba7f7acde48001122
+Where was the place of death of the director of film Happy Go Lucky (1936 Film)?
+Q: Where was the place of death of the director of film Happy Go Lucky (1936 Film)?
+A: "Los Angeles"
+Q: [EOQ]
+S: 0.0
+
+bb792556091811ebbdaeac1f6bf848b6
+Which film was released earlier, Drive Hard or Make-Out With Violence?
+Q: Which film was released earlier, Drive Hard or Make-Out With Violence?
+A: "Make-Out With Violence"
+Q: [EOQ]
+S: 0.0
+
+ca3cdc20091011ebbdadac1f6bf848b6
+Which album was released first, A Little Light Left or The Best Of Celly Cel?
+Q: Which album was released first, A Little Light Left or The Best Of Celly Cel?
+A: "A Little Light Left"
+Q: [EOQ]
+S: 0.0
+
+6f0a15860bde11eba7f7acde48001122
+What is the award that the performer of song In My Mind (Heather Headley Song) got?
+Q: What is the award that the performer of song In My Mind (Heather Headley Song) got?
+A: "Grammy Award"
+Q: [EOQ]
+S: 0.0
+
+e3507058087c11ebbd6aac1f6bf848b6
+Which film has the director born earlier, The Adventures Of Priscilla, Queen Of The Desert or Harvest: 3,000 Years?
+Q: Which film has the director born earlier, The Adventures Of Priscilla, Queen Of The Desert or Harvest: 3,000 Years?
+A: "The Adventures Of Priscilla, Queen Of The Desert"
+Q: [EOQ]
+S: 0.0
+
+9a55ba400bdb11eba7f7acde48001122
+Where did the director of film Man Detained graduate from?
+Q: Where did the director of film Man Detained graduate from?
+A: "University of California, Berkeley"
+Q: [EOQ]
+S: 0.0
+
+bf9e1dd80bdb11eba7f7acde48001122
+Where was the place of burial of Auguste Tessier's father?
+Q: Where was the place of burial of Auguste Tessier's father?
+A: "Paris"
+Q: [EOQ]
+S: 0.0
+
+35f99ea60bde11eba7f7acde48001122
+Where was the place of death of the director of film The First Day Of Freedom?
+Q: Where was the place of death of the director of film The First Day Of Freedom?
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+4140c991086b11ebbd5fac1f6bf848b6
+Do both films Apache Woman and Dime With A Halo have the directors from the same country?
+Q: Do both films Apache Woman and Dime With A Halo have the directors from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+4075e978088911ebbd6eac1f6bf848b6
+Do both My Friend From The Park and Punks (Film) films have the directors from the same country?
+Q: Do both My Friend From The Park and Punks (Film) films have the directors from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+db1114140bd911eba7f7acde48001122
+What is the place of birth of the performer of song Svennebanan?
+Q: What is the place of birth of the performer of song Svennebanan?
+A: "Stockholm"
+Q: [EOQ]
+S: 0.0
+
+0e18c6be0bde11eba7f7acde48001122
+Where did the performer of song Words Of Love die?
+Q: Where did the performer of song Words Of Love die?
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+f01fb40c0bdc11eba7f7acde48001122
+What nationality is the director of film Guns Of Diablo?
+Q: What nationality is the director of film Guns Of Diablo?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+ca8695b20baf11ebab90acde48001122
+Who is the paternal grandfather of Konrad Vi The Dean?
+Q: Who is the paternal grandfather of Konrad Vi The Dean?
+A: "King Konrad IV of Denmark"
+Q: [EOQ]
+S: 0.0
+
+74cb7e400bdb11eba7f7acde48001122
+Where was the place of death of Anna Of Pomerania's father?
+Q: Where was the place of death of Anna Of Pomerania's father?
+A: "L\u00fcbeck"
+Q: [EOQ]
+S: 0.0
+
+519aee780baf11ebab90acde48001122
+Who is Catherine Fitzcharles's paternal grandmother?
+Q: Who is Catherine Fitzcharles's paternal grandmother?
+A: "Elizabeth FitzCharles"
+Q: [EOQ]
+S: 0.0
+
+292b6e2e0bda11eba7f7acde48001122
+Where was the founder of Douro Wine Company born?
+Q: Where was the founder of Douro Wine Company born?
+A: "Lisbon"
+Q: [EOQ]
+S: 0.0
+
+8d9a9f760bb011ebab90acde48001122
+Who is Thomas Lyon, 8Th Earl Of Strathmore And Kinghorne's paternal grandfather?
+Q: Who is Thomas Lyon, 8Th Earl Of Strathmore And Kinghorne's paternal grandfather?
+A: "John Lyon, 5th Earl of Strathmore and Kinghorne"
+Q: [EOQ]
+S: 0.0
+
+990b1ed00bdd11eba7f7acde48001122
+Who is the spouse of the performer of song Les Rois Du Monde?
+Q: Who is the spouse of the performer of song Les Rois Du Monde?
+A: "Yvonne Loriod"
+Q: [EOQ]
+S: 0.0
+
+b61306dc0bdd11eba7f7acde48001122
+What is the place of birth of S. G. Kittappa's wife?
+Q: What is the place of birth of S. G. Kittappa's wife?
+A: "Chennai"
+Q: [EOQ]
+S: 0.0
+
+6a70f6f80bb011ebab90acde48001122
+Who is the mother-in-law of Blanche Of Navarre, Duchess Of Brittany?
+Q: Who is the mother-in-law of Blanche Of Navarre, Duchess Of Brittany?
+A: "Queen Marie of France"
+Q: [EOQ]
+S: 0.0
+
+c2339a6c0bdd11eba7f7acde48001122
+Where was the performer of song Believe It (Meek Mill Song) detained?
+Q: Where was the performer of song Believe It (Meek Mill Song) detained?
+A: "Philadelphia"
+Q: [EOQ]
+S: 0.0
+
+bf880fd808b711ebbd88ac1f6bf848b6
+Which film has the director who died later, The Monkey Talks or Varakatnam?
+Q: Which film has the director who died later, The Monkey Talks or Varakatnam?
+A: "The Monkey Talks"
+Q: [EOQ]
+S: 0.0
+
+d6b4117a0baf11ebab90acde48001122
+Who is the maternal grandfather of Philip Of Ibelin (1180–1227)?
+Q: Who is the maternal grandfather of Philip Of Ibelin (1180–1227)?
+A: "King John of Jerusalem"
+Q: [EOQ]
+S: 0.0
+
+d4ae7b5e0bdc11eba7f7acde48001122
+Where did Thep Kasattri's father die?
+Q: Where did Thep Kasattri's father die?
+A: "Pattaya"
+Q: [EOQ]
+S: 0.0
+
+db5310360bdd11eba7f7acde48001122
+Where was the father of Frederick, Prince Of Hohenzollern born?
+Q: Where was the father of Frederick, Prince Of Hohenzollern born?
+A: "L\u00fcbeck"
+Q: [EOQ]
+S: 0.0
+
+8cddc8520baf11ebab90acde48001122
+Who is Titus Junius Brutus's paternal grandfather?
+Q: Who is Titus Junius Brutus's paternal grandfather?
+A: "Claudius Junius Brutus"
+Q: [EOQ]
+S: 0.0
+
+89b6241c089b11ebbd78ac1f6bf848b6
+Who is older, Edward Bligh, 5Th Earl Of Darnley or Adolfo Costa Du Rels?
+Q: Who is older, Edward Bligh, 5Th Earl Of Darnley or Adolfo Costa Du Rels?
+A: "Adolfo Costa Du Rels"
+Q: [EOQ]
+S: 0.0
+
+217f5c220bde11eba7f7acde48001122
+When was Edward Douglas-Pennant, 3Rd Baron Penrhyn's father born?
+Q: When was Edward Douglas-Pennant, 3Rd Baron Penrhyn's father born?
+A: "18 June 1854"
+Q: [EOQ]
+S: 0.0
+
+d6003284088e11ebbd70ac1f6bf848b6
+Which film was released first, The Pirate'S Dream or Prem Mhanje Prem Mhanje Prem Asta?
+Q: Which film was released first, The Pirate'S Dream or Prem Mhanje Prem Mhanje Prem Asta?
+A: "The Pirate'S Dream"
+Q: [EOQ]
+S: 0.0
+
+9780971e088311ebbd6dac1f6bf848b6
+Which film has the director who was born later, Accident 703 or Habana Eva?
+Q: Which film has the director who was born later, Accident 703 or Habana Eva?
+A: "Habana Eva"
+Q: [EOQ]
+S: 0.0
+
+6f197ec008cf11ebbd95ac1f6bf848b6
+Were Alan Stephenson Boyd and Charles Grandison Finney of the same nationality?
+Q: Were Alan Stephenson Boyd and Charles Grandison Finney of the same nationality?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+c02763f708be11ebbd8aac1f6bf848b6
+Who lived longer, Jean Grémillon or Ángel Recasens?
+Q: Who lived longer, Jean Grémillon or Ángel Recasens?
+A: "Jean Gr\u00e9millon"
+Q: [EOQ]
+S: 0.0
+
+33e0136a08ce11ebbd94ac1f6bf848b6
+Are Gaulier River and Hallowing Run located in the same country?
+Q: Are Gaulier River and Hallowing Run located in the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+6cf01adc0bdb11eba7f7acde48001122
+Where did William Henry Gregory's wife die?
+Q: Where did William Henry Gregory's wife die?
+A: "St. John's College, Cambridge"
+Q: [EOQ]
+S: 0.0
+
+b41511480bda11eba7f7acde48001122
+Where was the place of death of the director of film Touki Bouki?
+Q: Where was the place of death of the director of film Touki Bouki?
+A: "Paris"
+Q: [EOQ]
+S: 0.0
+
+2c316f4608bb11ebbd88ac1f6bf848b6
+Did the movies The Hideout (Film) and Trieste Mia!, originate from the same country?
+Q: Did the movies The Hideout (Film) and Trieste Mia!, originate from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+21e52dcc0bde11eba7f7acde48001122
+Where did the director of film The Great Circus Mystery die?
+Q: Where did the director of film The Great Circus Mystery die?
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+941303a00bda11eba7f7acde48001122
+What is the place of birth of Elijah Blue Allman's father?
+Q: What is the place of birth of Elijah Blue Allman's father?
+A: "Richmond, Virginia"
+Q: [EOQ]
+S: 0.0
+
+387c056e0bda11eba7f7acde48001122
+Which award the director of film Ang Padrino won?
+Q: Which award the director of film Ang Padrino won?
+A: "Best Director"
+Q: [EOQ]
+S: 0.0
+
+6b713cc60baf11ebab90acde48001122
+Who is Pepin Of Herstal's paternal grandfather?
+Q: Who is Pepin Of Herstal's paternal grandfather?
+A: "King Louis of France"
+Q: [EOQ]
+S: 0.0
+
+cc2f5ace0bdd11eba7f7acde48001122
+Where was the father of Benedikte Shetelig Kruse born?
+Q: Where was the father of Benedikte Shetelig Kruse born?
+A: "Copenhagen"
+Q: [EOQ]
+S: 0.0
+
+5cafe1780bb011ebab90acde48001122
+Who are William Cunningham, 9Th Earl Of Glencairn's aunt?
+Q: Who are William Cunningham, 9Th Earl Of Glencairn's aunt?
+A: "Lady Mary, Queen of Scots"
+Q: [EOQ]
+S: 0.0
+
+03d7dadb087f11ebbd6bac1f6bf848b6
+Are both directors of films Modern Mothers and The Slaughter Rule from the same country?
+Q: Are both directors of films Modern Mothers and The Slaughter Rule from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+e92f10d20bd911eba7f7acde48001122
+What is the award that the composer of film C.I.D. (1956 Film) got?
+Q: What is the award that the composer of film C.I.D. (1956 Film) got?
+A: "Oscar"
+Q: [EOQ]
+S: 0.0
+
+ad6dc5540baf11ebab90acde48001122
+Who is James Franklin Perry's sibling-in-law?
+Q: Who is James Franklin Perry's sibling-in-law?
+A: "John Franklin Perry"
+Q: [EOQ]
+S: 0.0
+
+1dda782c0bde11eba7f7acde48001122
+What is the place of birth of the composer of film Raagam Thaanam Pallavi?
+Q: What is the place of birth of the composer of film Raagam Thaanam Pallavi?
+A: "Chennai"
+Q: [EOQ]
+S: 0.0
+
+9c2990060bdd11eba7f7acde48001122
+Why did Elizabeth Bacon Custer's husband die?
+Q: Why did Elizabeth Bacon Custer's husband die?
+A: "he was killed in battle"
+Q: [EOQ]
+S: 0.0
+
+389be6c4084a11ebbd56ac1f6bf848b6
+Which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Q: Which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+A: "Perd\u00f3n, Viejita"
+Q: [EOQ]
+S: 0.0
+
+a52f86cd08d011ebbd95ac1f6bf848b6
+Was Arcadio Padilla or Leon Duray born first?
+Q: Was Arcadio Padilla or Leon Duray born first?
+A: "Leon Duray"
+Q: [EOQ]
+S: 0.0
+
+6d273fd80bb011ebab90acde48001122
+Who is the paternal grandfather of Euphemia Ii, Countess Of Ross?
+Q: Who is the paternal grandfather of Euphemia Ii, Countess Of Ross?
+A: "John, Duke of Ross"
+Q: [EOQ]
+S: 0.0
+
+9b659c320bdd11eba7f7acde48001122
+Where was the place of burial of Henry Of Blois's father?
+Q: Where was the place of burial of Henry Of Blois's father?
+A: "Blois Abbey"
+Q: [EOQ]
+S: 0.0
+
+1c8e11ac08e311ebbda4ac1f6bf848b6
+Which film has the director who is older than the other, Spooks And Spirits or Cat Chaser? 
+Q: Which film has the director who is older than the other, Spooks And Spirits or Cat Chaser?
+A: "Spooks And Spirits"
+Q: [EOQ]
+S: 0.0
+
+b51245640bdc11eba7f7acde48001122
+What is the place of birth of the director of film Love Between The Raindrops?
+Q: What is the place of birth of the director of film Love Between The Raindrops?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+64e032ea0bdc11eba7f7acde48001122
+Which country the founder of Team Red Bull (Nascar Team) is from?
+Q: Which country the founder of Team Red Bull (Nascar Team) is from?
+A: "Austria"
+Q: [EOQ]
+S: 0.0
+
+f3f84ab4085d11ebbd5cac1f6bf848b6
+Was Alan Haynes or Marie-Georges-Gérard-Léon Le Maire De Warzée D'Hermalle born first?
+Q: Was Alan Haynes or Marie-Georges-Gérard-Léon Le Maire De Warzée D'Hermalle born first?
+A: "Marie-Georges-G\u00e9rard-L\u00e9on Le Maire De Warz\u00e9e D'Hermalle"
+Q: [EOQ]
+S: 0.0
+
+6a9230420bde11eba7f7acde48001122
+Where did the founder of university Escuela Superior Latinoamericana De Informática graduate from?
+Q: Where did the founder of university Escuela Superior Latinoamericana De Informática graduate from?
+A: "University of California, Berkeley"
+Q: [EOQ]
+S: 0.0
+
+0c4804540bb011ebab90acde48001122
+Who is the paternal grandfather of Bruno Ii Von Berg?
+Q: Who is the paternal grandfather of Bruno Ii Von Berg?
+A: "Ludwig II of Bavaria"
+Q: [EOQ]
+S: 0.0
+
+f7a8440208ab11ebbd82ac1f6bf848b6
+Who was born earlier, Martin Stapleton or Gina Fulton?
+Q: Who was born earlier, Martin Stapleton or Gina Fulton?
+A: "Martin Stapleton"
+Q: [EOQ]
+S: 0.0
+
+c47475c2097c11ebbdb0ac1f6bf848b6
+Which film came out earlier, A Wall Of Silence or Agent 3S3: Massacre In The Sun?
+Q: Which film came out earlier, A Wall Of Silence or Agent 3S3: Massacre In The Sun?
+A: "A Wall Of Silence"
+Q: [EOQ]
+S: 0.0
+
+4b6e9f5c0bde11eba7f7acde48001122
+What is the place of birth of the performer of song Afterglow (Tina Turner Song)?
+Q: What is the place of birth of the performer of song Afterglow (Tina Turner Song)?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+1c1080380baf11ebab90acde48001122
+Who is the paternal grandfather of Duchess Elisabeth Alexandrine Of Württemberg?
+Q: Who is the paternal grandfather of Duchess Elisabeth Alexandrine Of Württemberg?
+A: "Duke of W\u00fcrttemberg"
+Q: [EOQ]
+S: 0.0
+
+8738be5c0bdc11eba7f7acde48001122
+When is the founder of Apo Group 's birthday?
+Q: When is the founder of Apo Group 's birthday?
+A: "May 18, 1931"
+Q: [EOQ]
+S: 0.0
+
+e181508a0bdd11eba7f7acde48001122
+Where was the place of death of the performer of song Solhverv?
+Q: Where was the place of death of the performer of song Solhverv?
+A: "Oslo"
+Q: [EOQ]
+S: 0.0
+
+8540ae66088011ebbd6cac1f6bf848b6
+Which film has the director who was born later, Tarzan'S Hidden Jungle or The Brink'S Job?
+Q: Which film has the director who was born later, Tarzan'S Hidden Jungle or The Brink'S Job?
+A: "The Brink'S Job"
+Q: [EOQ]
+S: 0.0
+
+51e8895608d711ebbd9aac1f6bf848b6
+Which film has the director who is older than the other, My Own Private Idaho or Bread, Love And Dreams? 
+Q: Which film has the director who is older than the other, My Own Private Idaho or Bread, Love And Dreams?
+A: "My Own Private Idaho"
+Q: [EOQ]
+S: 0.0
+
+2f91212408cf11ebbd94ac1f6bf848b6
+Which film was released earlier, Ontari (Film) or A Private'S Affair?
+Q: Which film was released earlier, Ontari (Film) or A Private'S Affair?
+A: "A Private'S Affair"
+Q: [EOQ]
+S: 0.0
+
+3d20c7000bb011ebab90acde48001122
+Who is Adelaide Of Burgundy, Duchess Of Brabant's paternal grandfather?
+Q: Who is Adelaide Of Burgundy, Duchess Of Brabant's paternal grandfather?
+A: "King Louis of France"
+Q: [EOQ]
+S: 0.0
+
+2a6d02fe0bb011ebab90acde48001122
+Who is the sibling-in-law of Giuditta Grisi?
+Q: Who is the sibling-in-law of Giuditta Grisi?
+A: "Giulio Cesare Grisi"
+Q: [EOQ]
+S: 0.0
+
+3524786c084f11ebbd56ac1f6bf848b6
+Who was born later, Allan Havey or Bradley Dredge?
+Q: Who was born later, Allan Havey or Bradley Dredge?
+A: "Bradley Dredge"
+Q: [EOQ]
+S: 0.0
+
+faf6572008e411ebbda4ac1f6bf848b6
+Which film was released more recently, Nearly A Deserter or Face À L'Océan?
+Q: Which film was released more recently, Nearly A Deserter or Face À L'Océan?
+A: "Nearly A Deserter"
+Q: [EOQ]
+S: 0.0
+
+8dd0b4be08f711ebbdaaac1f6bf848b6
+Who was born later, Franz Xaver Haberl or Sharon Richardson?
+Q: Who was born later, Franz Xaver Haberl or Sharon Richardson?
+A: "Sharon Richardson"
+Q: [EOQ]
+S: 0.0
+
+a84ba2780bda11eba7f7acde48001122
+Who is the spouse of the director of film The Ear?
+Q: Who is the spouse of the director of film The Ear?
+A: "Judith Anderson"
+Q: [EOQ]
+S: 0.0
+
+a4244c3d093811ebbdaeac1f6bf848b6
+Which film came out first, The Ex-Wife Of My Life or Wrangler'S Roost?
+Q: Which film came out first, The Ex-Wife Of My Life or Wrangler'S Roost?
+A: "Wrangler's Roost"
+Q: [EOQ]
+S: 0.0
+
+916a1f4a0bd911eba7f7acde48001122
+What nationality is the director of film Astronauts Gone Wild?
+Q: What nationality is the director of film Astronauts Gone Wild?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+3d1200fc0bde11eba7f7acde48001122
+Who is the father of the director of film Manasuku Nachindi?
+Q: Who is the father of the director of film Manasuku Nachindi?
+A: "Vijaya"
+Q: [EOQ]
+S: 0.0
+
+4782cd7d087e11ebbd6bac1f6bf848b6
+Which film whose director was born first, The Olsen Gang'S Big Score or To Be Or Not To Be (1983 Film)?
+Q: Which film whose director was born first, The Olsen Gang'S Big Score or To Be Or Not To Be (1983 Film)?
+A: "The Olsen Gang'S Big Score"
+Q: [EOQ]
+S: 0.0
+
+8bac9a0008ce11ebbd94ac1f6bf848b6
+Which film has the director who died first, The Wild Bull'S Lair or Devotion (1950 Film)?
+Q: Which film has the director who died first, The Wild Bull'S Lair or Devotion (1950 Film)?
+A: "The Wild Bull'S Lair"
+Q: [EOQ]
+S: 0.0
+
+79155d3a086711ebbd5eac1f6bf848b6
+Are You Had To Be A Gypsy and Paul Blart: Mall Cop from the same country?
+Q: Are You Had To Be A Gypsy and Paul Blart: Mall Cop from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+8d15f16c0bd911eba7f7acde48001122
+What is the place of birth of María De Los Remedios De Escalada's husband?
+Q: What is the place of birth of María De Los Remedios De Escalada's husband?
+A: "Madrid"
+Q: [EOQ]
+S: 0.0
+
+a738633e0bdb11eba7f7acde48001122
+Which country the performer of song Den Lilla Fågeln is from?
+Q: Which country the performer of song Den Lilla Fågeln is from?
+A: "Sweden"
+Q: [EOQ]
+S: 0.0
+
+d18f92b4085d11ebbd5cac1f6bf848b6
+Which film was released earlier, Fast Five or The Testament Of Dr. Mabuse?
+Q: Which film was released earlier, Fast Five or The Testament Of Dr. Mabuse?
+A: "The Testament Of Dr. Mabuse"
+Q: [EOQ]
+S: 0.0
+
+21832f3c0bde11eba7f7acde48001122
+Where was the place of death of John Ii Of Luxembourg, Count Of Ligny's father?
+Q: Where was the place of death of John Ii Of Luxembourg, Count Of Ligny's father?
+A: "Luxembourg"
+Q: [EOQ]
+S: 0.0
+
+6833fbd8087711ebbd67ac1f6bf848b6
+Which film has the director died later, Arctic Blue or Jasper And The Haunted House?
+Q: Which film has the director died later, Arctic Blue or Jasper And The Haunted House?
+A: "Arctic Blue"
+Q: [EOQ]
+S: 0.0
+
+2cb9850508b411ebbd87ac1f6bf848b6
+Which film has the director who died later, Lukket Avdeling or Three Hearts For Julia?
+Q: Which film has the director who died later, Lukket Avdeling or Three Hearts For Julia?
+A: "Three Hearts For Julia"
+Q: [EOQ]
+S: 0.0
+
+2151e72a0bb011ebab90acde48001122
+Who is Kaev Hua Ii's paternal grandfather?
+Q: Who is Kaev Hua Ii's paternal grandfather?
+A: "Sun Yat-sen"
+Q: [EOQ]
+S: 0.0
+
+1d2ccae80bdd11eba7f7acde48001122
+Where was the husband of Frances Tupper born?
+Q: Where was the husband of Frances Tupper born?
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+9d555c360bdc11eba7f7acde48001122
+What nationality is the director of film Little Papa?
+Q: What nationality is the director of film Little Papa?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+6890eee908cd11ebbd93ac1f6bf848b6
+Are Afterwards and The Whistle (Film) from the same country?
+Q: Are Afterwards and The Whistle (Film) from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+f2d520b00bdc11eba7f7acde48001122
+When did John Of Luxembourg, Count Of Soissons's father die?
+Q: When did John Of Luxembourg, Count Of Soissons's father die?
+A: "12 December 1254"
+Q: [EOQ]
+S: 0.0
+
+3d456b820bb011ebab90acde48001122
+Who is Maud Of Gloucester, Countess Of Chester's father-in-law?
+Q: Who is Maud Of Gloucester, Countess Of Chester's father-in-law?
+A: "King George III"
+Q: [EOQ]
+S: 0.0
+
+73b99793086f11ebbd62ac1f6bf848b6
+Did the movies The Shadow Of Evil and The Lone Wolf Takes A Chance, originate from the same country?
+Q: Did the movies The Shadow Of Evil and The Lone Wolf Takes A Chance, originate from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+90f440c00bdb11eba7f7acde48001122
+When is the composer of film Hi-De-Ho (1947 Film) 's birthday?
+Q: When is the composer of film Hi-De-Ho (1947 Film) 's birthday?
+A: "August 27, 1926"
+Q: [EOQ]
+S: 0.0
+
+010d6cab08c711ebbd91ac1f6bf848b6
+Which film has the director who was born earlier, A Romance Of The Air or How Moscha Came Back?
+Q: Which film has the director who was born earlier, A Romance Of The Air or How Moscha Came Back?
+A: "How Moscha Came Back"
+Q: [EOQ]
+S: 0.0
+
+dc3725a5096811ebbdafac1f6bf848b6
+Which one was established first, Colt'S Manufacturing Company or Banco Azteca?
+Q: Which one was established first, Colt'S Manufacturing Company or Banco Azteca?
+A: "Colt'S Manufacturing Company"
+Q: [EOQ]
+S: 0.0
+
+a2e196f60bdc11eba7f7acde48001122
+Where was the father of Parthamasiris Of Armenia born?
+Q: Where was the father of Parthamasiris Of Armenia born?
+A: "Armenia"
+Q: [EOQ]
+S: 0.0
+
+20dfd443092011ebbdaeac1f6bf848b6
+Which film came out earlier, Hideout In The Sun or The Truth About Women?
+Q: Which film came out earlier, Hideout In The Sun or The Truth About Women?
+A: "The Truth About Women"
+Q: [EOQ]
+S: 0.0
+
+ec9b2bf40bdc11eba7f7acde48001122
+What nationality is Reginald Ii, Count Of Bar's father?
+Q: What nationality is Reginald Ii, Count Of Bar's father?
+A: "French"
+Q: [EOQ]
+S: 0.0
+
+4b6e740a0bde11eba7f7acde48001122
+What is the date of death of William I, Count Of Burgundy's mother?
+Q: What is the date of death of William I, Count Of Burgundy's mother?
+A: "10 January 1216"
+Q: [EOQ]
+S: 0.0
+
+43208df60bde11eba7f7acde48001122
+Which country Natalie Portman's husband is from?
+Q: Which country Natalie Portman's husband is from?
+A: "Israel"
+Q: [EOQ]
+S: 0.0
+
+654fd43c0bb011ebab90acde48001122
+Who is Archduchess Immaculata Of Austria's paternal grandmother?
+Q: Who is Archduchess Immaculata Of Austria's paternal grandmother?
+A: "Queen Victoria"
+Q: [EOQ]
+S: 0.0
+
+6c0db92c08e211ebbda4ac1f6bf848b6
+Which film whose director is younger, My Baby'S Daddy or A Tale Of Winter?
+Q: Which film whose director is younger, My Baby'S Daddy or A Tale Of Winter?
+A: "My Baby'S Daddy"
+Q: [EOQ]
+S: 0.0
+
+ac87636208cc11ebbd93ac1f6bf848b6
+Are It’S A Matter Of Love and The Trusted Outlaw from the same country?
+Q: Are It’S A Matter Of Love and The Trusted Outlaw from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+4f4019fa0baf11ebab90acde48001122
+Who is the paternal grandmother of Princess Elisabeth Of Prussia?
+Q: Who is the paternal grandmother of Princess Elisabeth Of Prussia?
+A: "Queen Victoria"
+Q: [EOQ]
+S: 0.0
+
+74832e97084e11ebbd56ac1f6bf848b6
+Who was born first out of Li Yuyang and Adam Richman?
+Q: Who was born first out of Li Yuyang and Adam Richman?
+A: "Adam Richman"
+Q: [EOQ]
+S: 0.0
+
+922ffff40bb011ebab90acde48001122
+Who is Philip, Prince Of Anhalt-Köthen's paternal grandfather?
+Q: Who is Philip, Prince Of Anhalt-Köthen's paternal grandfather?
+A: "King Frederick II of Denmark"
+Q: [EOQ]
+S: 0.0
+
+4ec7cb7c0bdb11eba7f7acde48001122
+What is the place of birth of the composer of film Salome (1953 Film)?
+Q: What is the place of birth of the composer of film Salome (1953 Film)?
+A: "Vienna"
+Q: [EOQ]
+S: 0.0
+
+2db288200bde11eba7f7acde48001122
+Where did Oleg Kerensky's father die?
+Q: Where did Oleg Kerensky's father die?
+A: "Moscow"
+Q: [EOQ]
+S: 0.0
+
+81ebf28e089411ebbd75ac1f6bf848b6
+Are both islands, Temagami Island and Kingak Island, located in the same country?
+Q: Are both islands, Temagami Island and Kingak Island, located in the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+a7b2d375089f11ebbd78ac1f6bf848b6
+Which film has the director who was born later, Walkover (Film) or Terry Tate: Office Linebacker?
+Q: Which film has the director who was born later, Walkover (Film) or Terry Tate: Office Linebacker?
+A: "Terry Tate: Office Linebacker"
+Q: [EOQ]
+S: 0.0
+
+94642161091b11ebbdaeac1f6bf848b6
+Which film was released more recently, The White Planet or The Glass Sphinx?
+Q: Which film was released more recently, The White Planet or The Glass Sphinx?
+A: "The Glass Sphinx"
+Q: [EOQ]
+S: 0.0
+
+ad9f226a0bdd11eba7f7acde48001122
+Where was the place of death of the director of film The Red Ace?
+Q: Where was the place of death of the director of film The Red Ace?
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+6dd7d74d085111ebbd58ac1f6bf848b6
+Which film was released more recently, The Love God? or Under The Pavement Lies The Strand?
+Q: Which film was released more recently, The Love God? or Under The Pavement Lies The Strand?
+A: "Under The Pavement Lies The Strand"
+Q: [EOQ]
+S: 0.0
+
+9d66149d08fb11ebbdacac1f6bf848b6
+Who was born earlier, Armando Ribeiro or Kostas Papoutsis?
+Q: Who was born earlier, Armando Ribeiro or Kostas Papoutsis?
+A: "Kostas Papoutsis"
+Q: [EOQ]
+S: 0.0
+
+a5763409086c11ebbd61ac1f6bf848b6
+Was Judith S. Beck or Félix Erviti Barcelona born first?
+Q: Was Judith S. Beck or Félix Erviti Barcelona born first?
+A: "F\u00e9lix Erviti Barcelona"
+Q: [EOQ]
+S: 0.0
+
+381f9d94086811ebbd5eac1f6bf848b6
+Who is younger, Alfred Staines or George Sidney?
+Q: Who is younger, Alfred Staines or George Sidney?
+A: "Alfred Staines"
+Q: [EOQ]
+S: 0.0
+
+5164502a0bdc11eba7f7acde48001122
+Where did Amytis Of Media's husband die?
+Q: Where did Amytis Of Media's husband die?
+A: "Athens"
+Q: [EOQ]
+S: 0.0
+
+742d99bd08b811ebbd88ac1f6bf848b6
+Which film has the director who died first, Long Shot: The Kevin Laue Story or The Law'S Lash?
+Q: Which film has the director who died first, Long Shot: The Kevin Laue Story or The Law'S Lash?
+A: "The Law'S Lash"
+Q: [EOQ]
+S: 0.0
+
+d6250a780bd911eba7f7acde48001122
+What nationality is the director of film Krantikaal?
+Q: What nationality is the director of film Krantikaal?
+A: "Indian"
+Q: [EOQ]
+S: 0.0
+
+f9ac302a0bd911eba7f7acde48001122
+Where was the wife of Vladimir Feldman born?
+Q: Where was the wife of Vladimir Feldman born?
+A: "Moscow"
+Q: [EOQ]
+S: 0.0
+
+b672c1ee0bdd11eba7f7acde48001122
+What is the place of birth of the composer of film Inherent Vice (Film)?
+Q: What is the place of birth of the composer of film Inherent Vice (Film)?
+A: "Los Angeles"
+Q: [EOQ]
+S: 0.0
+
+ab715764085011ebbd57ac1f6bf848b6
+Which film has the director born first, Irapada or The Lone Wolf In Mexico?
+Q: Which film has the director born first, Irapada or The Lone Wolf In Mexico?
+A: "Irapada"
+Q: [EOQ]
+S: 0.0
+
+494077aa0bde11eba7f7acde48001122
+Where did Margaret Simey's husband study at?
+Q: Where did Margaret Simey's husband study at?
+A: "University of Oxford"
+Q: [EOQ]
+S: 0.0
+
+05b761f108e211ebbda3ac1f6bf848b6
+Which film whose director was born first, Apasionadamente or The Blue Bead?
+Q: Which film whose director was born first, Apasionadamente or The Blue Bead?
+A: "The Blue Bead"
+Q: [EOQ]
+S: 0.0
+
+64075230086811ebbd5eac1f6bf848b6
+Which film whose director is younger, The Tiger Makes Out or La Vérité Sur Bébé Donge?
+Q: Which film whose director is younger, The Tiger Makes Out or La Vérité Sur Bébé Donge?
+A: "The Tiger Makes Out"
+Q: [EOQ]
+S: 0.0
+
+38573b3e0bdb11eba7f7acde48001122
+Where was the husband of Wiktoryna Bakałowiczowa born?
+Q: Where was the husband of Wiktoryna Bakałowiczowa born?
+A: "Warsaw"
+Q: [EOQ]
+S: 0.0
+
+57c5d42508d611ebbd98ac1f6bf848b6
+Which film came out first, Un Extraño En La Escalera or Arlington West: The Film?
+Q: Which film came out first, Un Extraño En La Escalera or Arlington West: The Film?
+A: "Un Extrao En La Escalera"
+Q: [EOQ]
+S: 0.0
+
+66772eb80bde11eba7f7acde48001122
+Where did the director of film 13 Fighting Men die?
+Q: Where did the director of film 13 Fighting Men die?
+A: "Los Angeles"
+Q: [EOQ]
+S: 0.0
+
+03ab64820bdb11eba7f7acde48001122
+When was the performer of song Mademoiselle Chante Le Blues born?
+Q: When was the performer of song Mademoiselle Chante Le Blues born?
+A: "November 27, 1931"
+Q: [EOQ]
+S: 0.0
+
+a38f6c7308c311ebbd8dac1f6bf848b6
+Which film has more directors, Duel Of Champions or Two Nights With Cleopatra?
+Q: Which film has more directors, Duel Of Champions or Two Nights With Cleopatra?
+A: "Two Nights With Cleopatra"
+Q: [EOQ]
+S: 0.0
+
+b5f363360bdd11eba7f7acde48001122
+Where was the place of death of Geoffrey Plantagenet, Count Of Anjou's wife?
+Q: Where was the place of death of Geoffrey Plantagenet, Count Of Anjou's wife?
+A: "Normandy"
+Q: [EOQ]
+S: 0.0
+
+90bad89e0bdb11eba7f7acde48001122
+What is the place of birth of the director of film Dawn Of Life?
+Q: What is the place of birth of the director of film Dawn Of Life?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+a2e665000bdc11eba7f7acde48001122
+What is the date of birth of the performer of song Nawti?
+Q: What is the date of birth of the performer of song Nawti?
+A: "August 18, 1931"
+Q: [EOQ]
+S: 0.0
+
+3c8ef8f60bde11eba7f7acde48001122
+Where did the director of film Napoleon (1995 Film) graduate from?
+Q: Where did the director of film Napoleon (1995 Film) graduate from?
+A: "University of California, Berkeley"
+Q: [EOQ]
+S: 0.0
+
+5f8c55ba0bd911eba7f7acde48001122
+Where did the director of film Mani Madhava Chakyar: The Master At Work die?
+Q: Where did the director of film Mani Madhava Chakyar: The Master At Work die?
+A: "Chennai"
+Q: [EOQ]
+S: 0.0
+
+60ac8f780bde11eba7f7acde48001122
+Where was the director of film Kon Khon born?
+Q: Where was the director of film Kon Khon born?
+A: "Bangkok"
+Q: [EOQ]
+S: 0.0
+
+b96df75408a111ebbd79ac1f6bf848b6
+Which film has the director who was born later, The Home Song Stories or The Sterile Cuckoo?
+Q: Which film has the director who was born later, The Home Song Stories or The Sterile Cuckoo?
+A: "The Home Song Stories"
+Q: [EOQ]
+S: 0.0
+
+01245b60088411ebbd6dac1f6bf848b6
+Which film has the director born later, Occhio, Malocchio, Prezzemolo E Finocchio or Jailhouse Rock (Film)?
+Q: Which film has the director born later, Occhio, Malocchio, Prezzemolo E Finocchio or Jailhouse Rock (Film)?
+A: "Jailhouse Rock"
+Q: [EOQ]
+S: 0.0
+
+b118f26308f011ebbda8ac1f6bf848b6
+Who was born later, Brahima Cissé or Väinö Malmivaara?
+Q: Who was born later, Brahima Cissé or Väinö Malmivaara?
+A: "Brahima Ciss\u00e9"
+Q: [EOQ]
+S: 0.0
+
+bd28d8c60baf11ebab90acde48001122
+Who is Nicolas Stern's sibling-in-law?
+Q: Who is Nicolas Stern's sibling-in-law?
+A: "David Stern"
+Q: [EOQ]
+S: 0.0
+
+cbf16b80089811ebbd77ac1f6bf848b6
+Who is older, Cary Devall Langhorne or Jiří Maštálka?
+Q: Who is older, Cary Devall Langhorne or Jiří Maštálka?
+A: "Cary Devall Langhorne"
+Q: [EOQ]
+S: 0.0
+
+04ef013c086611ebbd5eac1f6bf848b6
+Which film was released more recently, Affectionately Yours or Captain America: The First Avenger?
+Q: Which film was released more recently, Affectionately Yours or Captain America: The First Avenger?
+A: "Captain America: The First Avenger"
+Q: [EOQ]
+S: 0.0
+
+c884d9e308c411ebbd8eac1f6bf848b6
+Who died earlier, Alessio Perilli or Harry G. Day?
+Q: Who died earlier, Alessio Perilli or Harry G. Day?
+A: "Alessio Perilli"
+Q: [EOQ]
+S: 0.0
+
+186e19be08d911ebbd9cac1f6bf848b6
+Which film has the director who is older, Overland Mail Robbery or Hearts Of The World?
+Q: Which film has the director who is older, Overland Mail Robbery or Hearts Of The World?
+A: "Overland Mail Robbery"
+Q: [EOQ]
+S: 0.0
+
+df77d6d40baf11ebab90acde48001122
+Who is Joan, Lady Of Wales's paternal grandmother?
+Q: Who is Joan, Lady Of Wales's paternal grandmother?
+A: "Queen Victoria"
+Q: [EOQ]
+S: 0.0
+
+ae85fcce089411ebbd75ac1f6bf848b6
+Which film has the director born earlier, Santa Fe Uprising or Trainer And Temptress?
+Q: Which film has the director born earlier, Santa Fe Uprising or Trainer And Temptress?
+A: "Trainer And Temptress"
+Q: [EOQ]
+S: 0.0
+
+083ac2cb08db11ebbd9cac1f6bf848b6
+Which film has the director died earlier, Miss Liselott or Flight From Destiny?
+Q: Which film has the director died earlier, Miss Liselott or Flight From Destiny?
+A: "Flight From Destiny"
+Q: [EOQ]
+S: 0.0
+
+67f15b1a095611ebbdaeac1f6bf848b6
+Which film was released first, Ee Sanje or Zorawar?
+Q: Which film was released first, Ee Sanje or Zorawar?
+A: "Ee Sanje"
+Q: [EOQ]
+S: 0.0
+
+19c6822a08e711ebbda5ac1f6bf848b6
+Which film has the director who was born later, A Warm December or It Rains In My Village?
+Q: Which film has the director who was born later, A Warm December or It Rains In My Village?
+A: "It Rains In My Village"
+Q: [EOQ]
+S: 0.0
+
+fcd3ff500baf11ebab90acde48001122
+Who is Teriimaevarua Iii's paternal grandmother?
+Q: Who is Teriimaevarua Iii's paternal grandmother?
+A: "Queen Emma"
+Q: [EOQ]
+S: 0.0
+
+bcd399ed091f11ebbdaeac1f6bf848b6
+Which film was released more recently, Hollywood Ending or Tales Of An Ancient Empire?
+Q: Which film was released more recently, Hollywood Ending or Tales Of An Ancient Empire?
+A: "Hollywood Ending"
+Q: [EOQ]
+S: 0.0
+
+1a3bb74508dc11ebbd9cac1f6bf848b6
+Which film has the director who died earlier, Il Contratto or The Fiddler Of Florence?
+Q: Which film has the director who died earlier, Il Contratto or The Fiddler Of Florence?
+A: "The Fiddler Of Florence"
+Q: [EOQ]
+S: 0.0
+
+deb907f80bdd11eba7f7acde48001122
+Where was the place of death of Lambert I, Count Of Louvain's father?
+Q: Where was the place of death of Lambert I, Count Of Louvain's father?
+A: "Brussels"
+Q: [EOQ]
+S: 0.0
+
+f05423560bda11eba7f7acde48001122
+Where did Saw Thanda's husband die?
+Q: Where did Saw Thanda's husband die?
+A: "Burma"
+Q: [EOQ]
+S: 0.0
+
+32d9179c0bde11eba7f7acde48001122
+Which country the founder of Osborne Computer Corporation is from?
+Q: Which country the founder of Osborne Computer Corporation is from?
+A: "United States"
+Q: [EOQ]
+S: 0.0
+
+5a9800ab089a11ebbd77ac1f6bf848b6
+Was Andreas P. Nielsen or Lydia Flood Jackson born first?
+Q: Was Andreas P. Nielsen or Lydia Flood Jackson born first?
+A: "Lydia Flood Jackson"
+Q: [EOQ]
+S: 0.0
+
+3647118c0bdd11eba7f7acde48001122
+What is the place of birth of the director of film Marianela (1940 Film)?
+Q: What is the place of birth of the director of film Marianela (1940 Film)?
+A: "Buenos Aires"
+Q: [EOQ]
+S: 0.0
+
+5c73049b08f111ebbda8ac1f6bf848b6
+Which film came out first, Murder By Proxy or Rx Murder?
+Q: Which film came out first, Murder By Proxy or Rx Murder?
+A: "Murder By Proxy"
+Q: [EOQ]
+S: 0.0
+
+874046160bd911eba7f7acde48001122
+What is the place of birth of the director of film It'S The Rage (Film)?
+Q: What is the place of birth of the director of film It'S The Rage (Film)?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+7620e1b00bde11eba7f7acde48001122
+What is the place of birth of Princess Albertina Frederica Of Baden-Durlach's father?
+Q: What is the place of birth of Princess Albertina Frederica Of Baden-Durlach's father?
+A: "Baden-Baden"
+Q: [EOQ]
+S: 0.0
+
+dfe3407a088211ebbd6dac1f6bf848b6
+Which film has the director born earlier, Badman'S Gold or Sugar, Honey And Pepper?
+Q: Which film has the director born earlier, Badman'S Gold or Sugar, Honey And Pepper?
+A: "Sugar, Honey And Pepper"
+Q: [EOQ]
+S: 0.0
+
+73ac161c0bb011ebab90acde48001122
+Who is the stepfather of Lorenzo Strozzi?
+Q: Who is the stepfather of Lorenzo Strozzi?
+A: "Girolamo Savonarola"
+Q: [EOQ]
+S: 0.0
+
+081aefc4086111ebbd5dac1f6bf848b6
+Which film has the director born first, 84 Charing Cross Road (Film) or Emperor'S Ball?
+Q: Which film has the director born first, 84 Charing Cross Road (Film) or Emperor'S Ball?
+A: "Emperor'S Ball"
+Q: [EOQ]
+S: 0.0
+
+6dd659b40bb011ebab90acde48001122
+Who is Ian Leslie, 21St Earl Of Rothes's paternal grandfather?
+Q: Who is Ian Leslie, 21St Earl Of Rothes's paternal grandfather?
+A: "John Leslie, 2nd Earl of Rothes"
+Q: [EOQ]
+S: 0.0
+
+dd4d571a08af11ebbd83ac1f6bf848b6
+Who died later, Nükhetsezâ Hanım or Henry W. Oliver?
+Q: Who died later, Nükhetsezâ Hanım or Henry W. Oliver?
+A: "Henry W. Oliver"
+Q: [EOQ]
+S: 0.0
+
+3ac2e9920bde11eba7f7acde48001122
+Which country Boghos Nubar's father is from?
+Q: Which country Boghos Nubar's father is from?
+A: "Georgia"
+Q: [EOQ]
+S: 0.0
+
+7c9a5daa0bd911eba7f7acde48001122
+Where was the director of film The Green Fog born?
+Q: Where was the director of film The Green Fog born?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+8f8aaf0b088711ebbd6dac1f6bf848b6
+Who is younger, Aneta Hladíková or René Poupardin?
+Q: Who is younger, Aneta Hladíková or René Poupardin?
+A: "Ren\u00e9 Poupardin"
+Q: [EOQ]
+S: 0.0
+
+fd56936708a811ebbd7fac1f6bf848b6
+Who is older, Marius Mitu or Bea Palya?
+Q: Who is older, Marius Mitu or Bea Palya?
+A: "Bea Palya"
+Q: [EOQ]
+S: 0.0
+
+d2d5243f089111ebbd73ac1f6bf848b6
+Which film whose director is younger, Only The Lonely (Film) or A Brother'S Love?
+Q: Which film whose director is younger, Only The Lonely (Film) or A Brother'S Love?
+A: "Only The Lonely"
+Q: [EOQ]
+S: 0.0
+
+f32458660bae11ebab90acde48001122
+Who is the paternal grandfather of Nia Segamain?
+Q: Who is the paternal grandfather of Nia Segamain?
+A: "Muhammad Ismail"
+Q: [EOQ]
+S: 0.0
+
+d09aface0baf11ebab90acde48001122
+Who is Walter Maule's paternal grandfather?
+Q: Who is Walter Maule's paternal grandfather?
+A: "John Maule"
+Q: [EOQ]
+S: 0.0
+
+7eeba090088d11ebbd70ac1f6bf848b6
+Was Paul Antoine Brunel or George Markham Giffard born first?
+Q: Was Paul Antoine Brunel or George Markham Giffard born first?
+A: "George Markham Giffard"
+Q: [EOQ]
+S: 0.0
+
+59fdaaf20bdb11eba7f7acde48001122
+Where does the director of film Suzanne'S Career work at?
+Q: Where does the director of film Suzanne'S Career work at?
+A: "The New School"
+Q: [EOQ]
+S: 0.0
+
+7ca3e921086811ebbd5eac1f6bf848b6
+Do both films, The Big Attraction and All Women Have Secrets, have the directors who are from the same country?
+Q: Do both films, The Big Attraction and All Women Have Secrets, have the directors who are from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+48be5d560bde11eba7f7acde48001122
+Where was the place of death of the director of film Dans La Nuit (Film)?
+Q: Where was the place of death of the director of film Dans La Nuit (Film)?
+A: "Paris"
+Q: [EOQ]
+S: 0.0
+
+0a170a860bdd11eba7f7acde48001122
+What is the place of birth of the director of film Mongolian Ping Pong?
+Q: What is the place of birth of the director of film Mongolian Ping Pong?
+A: "Hong Kong"
+Q: [EOQ]
+S: 0.0
+
+6e963cec088211ebbd6dac1f6bf848b6
+Which film has the director who was born earlier, Poslíček Lásky or John Meade'S Woman?
+Q: Which film has the director who was born earlier, Poslíček Lásky or John Meade'S Woman?
+A: "Poslek L\u00e1sky"
+Q: [EOQ]
+S: 0.0
+
+045d87ae0bde11eba7f7acde48001122
+Where was the performer of song My Mistakes born?
+Q: Where was the performer of song My Mistakes born?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+4c53b8f80bde11eba7f7acde48001122
+Where was the place of death of the director of film Holiday In Tyrol?
+Q: Where was the place of death of the director of film Holiday In Tyrol?
+A: "Vienna"
+Q: [EOQ]
+S: 0.0
+
+e69a4b4408d611ebbd99ac1f6bf848b6
+Which film has the director born earlier, Zombi Kampung Pisang or Sign Of The Anchor?
+Q: Which film has the director born earlier, Zombi Kampung Pisang or Sign Of The Anchor?
+A: "Sign Of The Anchor"
+Q: [EOQ]
+S: 0.0
+
+9956afe508cc11ebbd93ac1f6bf848b6
+Which film has the director who died earlier, Pursued or The Last Manuscript?
+Q: Which film has the director who died earlier, Pursued or The Last Manuscript?
+A: "Pursued"
+Q: [EOQ]
+S: 0.0
+
+285620d60bb011ebab90acde48001122
+Who is the maternal grandmother of Alfred, Duke Of Saxe-Coburg And Gotha?
+Q: Who is the maternal grandmother of Alfred, Duke Of Saxe-Coburg And Gotha?
+A: "Queen Victoria"
+Q: [EOQ]
+S: 0.0
+
+fab08033088911ebbd6eac1f6bf848b6
+Does Ryan Hamilton (Rugby Union) have the same nationality as Bob King (Children'S Musician)?
+Q: Does Ryan Hamilton (Rugby Union) have the same nationality as Bob King (Children'S Musician)?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+f1e802100bd911eba7f7acde48001122
+Where did the composer of film Oru Swakaryam die?
+Q: Where did the composer of film Oru Swakaryam die?
+A: "Chennai"
+Q: [EOQ]
+S: 0.0
+
+bebbb5ec0bdb11eba7f7acde48001122
+What is the place of birth of the director of film Deathstalker Ii?
+Q: What is the place of birth of the director of film Deathstalker Ii?
+A: "Los Angeles"
+Q: [EOQ]
+S: 0.0
+
+ef51f8420bae11ebab90acde48001122
+Who is Dorelia Mcneill's father-in-law?
+Q: Who is Dorelia Mcneill's father-in-law?
+A: "John Mcneill"
+Q: [EOQ]
+S: 0.0
+
+3afdad9c086f11ebbd62ac1f6bf848b6
+Who was born later, Patrick Janvier or Nicolas About?
+Q: Who was born later, Patrick Janvier or Nicolas About?
+A: "Patrick Janvier"
+Q: [EOQ]
+S: 0.0
+
+214eda5a0bdb11eba7f7acde48001122
+What nationality is the performer of song Six Strings Down?
+Q: What nationality is the performer of song Six Strings Down?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+5359efa20baf11ebab90acde48001122
+Who is Marjorie Barretto's father-in-law?
+Q: Who is Marjorie Barretto's father-in-law?
+A: "John F. Kennedy"
+Q: [EOQ]
+S: 0.0
+
+955c2f4c0bdb11eba7f7acde48001122
+Where was the wife of Jean-Édouard Bommer born?
+Q: Where was the wife of Jean-Édouard Bommer born?
+A: "Paris"
+Q: [EOQ]
+S: 0.0
+
+a6fb9ed0095311ebbdaeac1f6bf848b6
+Which film came out earlier, Thendral Veesum or On The Same Planet?
+Q: Which film came out earlier, Thendral Veesum or On The Same Planet?
+A: "On The Same Planet"
+Q: [EOQ]
+S: 0.0
+
+f333552c088a11ebbd6fac1f6bf848b6
+Which film has the director who died later, Her Own People or Ven Mi Corazón Te Llama?
+Q: Which film has the director who died later, Her Own People or Ven Mi Corazón Te Llama?
+A: "Her Own People"
+Q: [EOQ]
+S: 0.0
+
+918c85b6086511ebbd5eac1f6bf848b6
+Are both Big Sound Authority and Bandana (Country Band) from the same country?
+Q: Are both Big Sound Authority and Bandana (Country Band) from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+e1a69e46088911ebbd6eac1f6bf848b6
+Which film has the director died later, Too Tough To Kill or Jhoothi?
+Q: Which film has the director died later, Too Tough To Kill or Jhoothi?
+A: "Too Tough To Kill"
+Q: [EOQ]
+S: 0.0
+
+b7bff2b80bda11eba7f7acde48001122
+Which country Catherine Of York's mother is from?
+Q: Which country Catherine Of York's mother is from?
+A: "England"
+Q: [EOQ]
+S: 0.0
+
+0a8d27440bdc11eba7f7acde48001122
+Who is the child of the director of film Deadlines (Film)?
+Q: Who is the child of the director of film Deadlines (Film)?
+A: "Jennifer"
+Q: [EOQ]
+S: 0.0
+
+6181829c0bb011ebab90acde48001122
+Who is the maternal grandfather of Hans Albrecht, Hereditary Prince Of Schleswig-Holstein?
+Q: Who is the maternal grandfather of Hans Albrecht, Hereditary Prince Of Schleswig-Holstein?
+A: "King Frederick II of Denmark"
+Q: [EOQ]
+S: 0.0
+
+14d55cb908cf11ebbd94ac1f6bf848b6
+Who was born later, Miko Mayama or Wangechi?
+Q: Who was born later, Miko Mayama or Wangechi?
+A: "Wangechi"
+Q: [EOQ]
+S: 0.0
+
+1c4cfe1808d611ebbd98ac1f6bf848b6
+Who was born first out of Werner Hartenstein and Albin Francisco Schoepf?
+Q: Who was born first out of Werner Hartenstein and Albin Francisco Schoepf?
+A: "Werner Hartenstein"
+Q: [EOQ]
+S: 0.0
+
+1029efd6089211ebbd73ac1f6bf848b6
+Which film has the director who was born earlier, Running Out Of Luck or The Babe?
+Q: Which film has the director who was born earlier, Running Out Of Luck or The Babe?
+A: "Running Out Of Luck"
+Q: [EOQ]
+S: 0.0
+
+da59f14a08e011ebbda2ac1f6bf848b6
+Which film has the director died later, People In The Net or Mad Youth?
+Q: Which film has the director died later, People In The Net or Mad Youth?
+A: "Mad Youth"
+Q: [EOQ]
+S: 0.0
+
+2fa728f20bde11eba7f7acde48001122
+Where was the husband of Florence Bligh, Countess Of Darnley born?
+Q: Where was the husband of Florence Bligh, Countess Of Darnley born?
+A: "Edinburgh"
+Q: [EOQ]
+S: 0.0
+
+680863e20bdd11eba7f7acde48001122
+Where was the place of death of the director of film Sensational Janine?
+Q: Where was the place of death of the director of film Sensational Janine?
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+e6d50fe008a411ebbd7dac1f6bf848b6
+Which film has the director born earlier, Everyone Else or The Girl From The Chartreuse?
+Q: Which film has the director born earlier, Everyone Else or The Girl From The Chartreuse?
+A: "Everyone Else"
+Q: [EOQ]
+S: 0.0
+
+6b6f51940bb011ebab90acde48001122
+Who is the paternal grandfather of Charles Bruce, 5Th Earl Of Elgin?
+Q: Who is the paternal grandfather of Charles Bruce, 5Th Earl Of Elgin?
+A: "John Bruce, 4th Earl of Elgin"
+Q: [EOQ]
+S: 0.0
+
+ca1f413f094b11ebbdaeac1f6bf848b6
+Which film was released earlier, Nicky'S Family or Tales Of A Long Journey?
+Q: Which film was released earlier, Nicky'S Family or Tales Of A Long Journey?
+A: "Tales Of A Long Journey"
+Q: [EOQ]
+S: 0.0
+
+86a16c4608b711ebbd88ac1f6bf848b6
+Which film has the director who was born first, I, The Aboriginal or Caótica Ana?
+Q: Which film has the director who was born first, I, The Aboriginal or Caótica Ana?
+A: "I, The Aboriginal"
+Q: [EOQ]
+S: 0.0
+
+03f13a3e0bdb11eba7f7acde48001122
+Where was the director of film Munchie born?
+Q: Where was the director of film Munchie born?
+A: "Los Angeles"
+Q: [EOQ]
+S: 0.0
+
+83a497ce0bb011ebab90acde48001122
+Who is the paternal grandfather of Connor O'Brien, 2Nd Viscount Clare?
+Q: Who is the paternal grandfather of Connor O'Brien, 2Nd Viscount Clare?
+A: "Lord O'Brien"
+Q: [EOQ]
+S: 0.0
+
+a0b2a4ce0baf11ebab90acde48001122
+Who is the maternal grandfather of Rudolph Of France?
+Q: Who is the maternal grandfather of Rudolph Of France?
+A: "King Louis XV of France"
+Q: [EOQ]
+S: 0.0
+
+5d5001d60bdc11eba7f7acde48001122
+Where did Paul Cobb Methuen's father study?
+Q: Where did Paul Cobb Methuen's father study?
+A: "Harvard University"
+Q: [EOQ]
+S: 0.0
+
+37a485c308c311ebbd8dac1f6bf848b6
+Did Lenny Mcallister and Ken Xie have the same nationality?
+Q: Did Lenny Mcallister and Ken Xie have the same nationality?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+58b2f61c08cb11ebbd92ac1f6bf848b6
+Which film was released more recently, Unseen Forces or The Twilight Saga: Breaking Dawn – Part 1?
+Q: Which film was released more recently, Unseen Forces or The Twilight Saga: Breaking Dawn – Part 1?
+A: "The Twilight Saga: Breaking Dawn \u2013 Part 1"
+Q: [EOQ]
+S: 0.0
+
+c7bc04ba08d611ebbd99ac1f6bf848b6
+Which film has the director who was born later, Money On The Street or She-Devils On Wheels?
+Q: Which film has the director who was born later, Money On The Street or She-Devils On Wheels?
+A: "Money On The Street"
+Q: [EOQ]
+S: 0.0
+
+151cdfba08bc11ebbd88ac1f6bf848b6
+Which film whose director was born first, The Badlanders or The Man From Monterey?
+Q: Which film whose director was born first, The Badlanders or The Man From Monterey?
+A: "The Man From Monterey"
+Q: [EOQ]
+S: 0.0
+
+d2c688cf084c11ebbd56ac1f6bf848b6
+Who was born earlier, Igor Golomstock or Ted Garry?
+Q: Who was born earlier, Igor Golomstock or Ted Garry?
+A: "Igor Golomstock"
+Q: [EOQ]
+S: 0.0
+
+00cf7a0c0bde11eba7f7acde48001122
+Where was the place of death of Quentin Keynes's father?
+Q: Where was the place of death of Quentin Keynes's father?
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+13c343840bdc11eba7f7acde48001122
+Where was the place of death of the director of film Marianela (1940 Film)?
+Q: Where was the place of death of the director of film Marianela (1940 Film)?
+A: "Paris"
+Q: [EOQ]
+S: 0.0
+
+dbd9551d086b11ebbd60ac1f6bf848b6
+Which film has the director who died later, Song Of Nevada or The Sign On The Door?
+Q: Which film has the director who died later, Song Of Nevada or The Sign On The Door?
+A: "The Sign On The Door"
+Q: [EOQ]
+S: 0.0
+
+dc5b9266091f11ebbdaeac1f6bf848b6
+Which film was released more recently, Life According To Agfa or Memoria Negra?
+Q: Which film was released more recently, Life According To Agfa or Memoria Negra?
+A: "Memoria Negra"
+Q: [EOQ]
+S: 0.0
+
+f9ac92d20bdd11eba7f7acde48001122
+What is the date of birth of George Frederick, Count Of Erbach-Breuberg's father?
+Q: What is the date of birth of George Frederick, Count Of Erbach-Breuberg's father?
+A: "15 June 1702"
+Q: [EOQ]
+S: 0.0
+
+993f941108c411ebbd8eac1f6bf848b6
+Do the movies High Life (2009 Film) and Route 132 (Film), originate from the same country?
+Q: Do the movies High Life (2009 Film) and Route 132 (Film), originate from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+676ddc2408e911ebbda7ac1f6bf848b6
+Who is younger, Moritz Brosch or Branko Belačić?
+Q: Who is younger, Moritz Brosch or Branko Belačić?
+A: "Moritz Brosch"
+Q: [EOQ]
+S: 0.0
+
+d5ca529208b711ebbd88ac1f6bf848b6
+Did Charles Robinson (Raf Airman) and Terri Hooley share the same nationality?
+Q: Did Charles Robinson (Raf Airman) and Terri Hooley share the same nationality?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+3edeb32a0bda11eba7f7acde48001122
+Where was the place of death of the composer of film Dream Wife?
+Q: Where was the place of death of the composer of film Dream Wife?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+706a0131089011ebbd72ac1f6bf848b6
+Which film has the director who was born earlier, Time For Loving or Un'Altra Vita?
+Q: Which film has the director who was born earlier, Time For Loving or Un'Altra Vita?
+A: "Un'Altra Vita"
+Q: [EOQ]
+S: 0.0
+
+d2c47e1008df11ebbda1ac1f6bf848b6
+Which film whose director is younger, Many Tanks Mr. Atkins or Do Musafir?
+Q: Which film whose director is younger, Many Tanks Mr. Atkins or Do Musafir?
+A: "Do Musafir"
+Q: [EOQ]
+S: 0.0
+
+0db3321208d311ebbd96ac1f6bf848b6
+Who was born first, Selahattin Seyhun or Nil Tun Maung?
+Q: Who was born first, Selahattin Seyhun or Nil Tun Maung?
+A: "Nil Tun Maung"
+Q: [EOQ]
+S: 0.0
+
+8109b3800bda11eba7f7acde48001122
+When is Princess Joséphine Marie Of Belgium's mother's birthday?
+Q: When is Princess Joséphine Marie Of Belgium's mother's birthday?
+A: "15 March 1854"
+Q: [EOQ]
+S: 0.0
+
+664ed504085e11ebbd5cac1f6bf848b6
+Which film has the director who died later, A Girl... And A Million or Invitation To Happiness?
+Q: Which film has the director who died later, A Girl... And A Million or Invitation To Happiness?
+A: "Invitation To Happiness"
+Q: [EOQ]
+S: 0.0
+
+5d6e0f860bb011ebab90acde48001122
+Who is the sibling-in-law of Bella Sidney Woolf?
+Q: Who is the sibling-in-law of Bella Sidney Woolf?
+A: "Virginia Woolf"
+Q: [EOQ]
+S: 0.0
+
+b2fd7d7e0bdd11eba7f7acde48001122
+Which country the director of film My Blueberry Nights is from?
+Q: Which country the director of film My Blueberry Nights is from?
+A: "Austria"
+Q: [EOQ]
+S: 0.0
+
+8eaa7497095c11ebbdaeac1f6bf848b6
+Which film was released earlier, Sathyavan Savithri or Kids Of The Round Table?
+Q: Which film was released earlier, Sathyavan Savithri or Kids Of The Round Table?
+A: "Sathyavan Savithri"
+Q: [EOQ]
+S: 0.0
+
+12ec263c0bdd11eba7f7acde48001122
+When was Prince Frederick William Of Solms-Braunfels's wife born?
+Q: When was Prince Frederick William Of Solms-Braunfels's wife born?
+A: "18 May 1892"
+Q: [EOQ]
+S: 0.0
+
+4c286ada0bda11eba7f7acde48001122
+What is the place of birth of the director of film Bhagirathi (Film)?
+Q: What is the place of birth of the director of film Bhagirathi (Film)?
+A: "Chennai"
+Q: [EOQ]
+S: 0.0
+
+138a34f80bdd11eba7f7acde48001122
+What nationality is the director of film Estudantes?
+Q: What nationality is the director of film Estudantes?
+A: "Spanish"
+Q: [EOQ]
+S: 0.0
+
+7930ad1e0bdd11eba7f7acde48001122
+Where was the place of death of Henry Frederick, Hereditary Prince Of The Palatinate's father?
+Q: Where was the place of death of Henry Frederick, Hereditary Prince Of The Palatinate's father?
+A: "L\u00fcbeck"
+Q: [EOQ]
+S: 0.0
+
+6693ce0a0bda11eba7f7acde48001122
+Who is the spouse of the director of film Married And In Love?
+Q: Who is the spouse of the director of film Married And In Love?
+A: "Yvonne De Carlo"
+Q: [EOQ]
+S: 0.0
+
+70a6d78e085311ebbd59ac1f6bf848b6
+Who lived longer, Martino Finotto or Franklin Edson?
+Q: Who lived longer, Martino Finotto or Franklin Edson?
+A: "Franklin Edson"
+Q: [EOQ]
+S: 0.0
+
+872d42440bdb11eba7f7acde48001122
+When did Thomas Tufton, 6Th Earl Of Thanet's father die?
+Q: When did Thomas Tufton, 6Th Earl Of Thanet's father die?
+A: "18 June 1866"
+Q: [EOQ]
+S: 0.0
+
+a83d0a42087e11ebbd6bac1f6bf848b6
+Which film has the director died first, The Mystic or The Hasty Heart?
+Q: Which film has the director died first, The Mystic or The Hasty Heart?
+A: "The Hasty Heart"
+Q: [EOQ]
+S: 0.0
+
+d1fd9cbe0bdc11eba7f7acde48001122
+Where does the director of film The Marquise Of O (Film) work at?
+Q: Where does the director of film The Marquise Of O (Film) work at?
+A: "The New School"
+Q: [EOQ]
+S: 0.0
+
+936c70440bda11eba7f7acde48001122
+Where was the director of film Noose (1958 Film) born?
+Q: Where was the director of film Noose (1958 Film) born?
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+362871560baf11ebab90acde48001122
+Who is Philip Iii Of Navarre's father-in-law?
+Q: Who is Philip Iii Of Navarre's father-in-law?
+A: "King Alfonso XI of Castile"
+Q: [EOQ]
+S: 0.0
+
+9b0abb320bdd11eba7f7acde48001122
+What nationality is the director of film Running Scared (1972 Film)?
+Q: What nationality is the director of film Running Scared (1972 Film)?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+a41c3c8808bc11ebbd89ac1f6bf848b6
+Who was born earlier, Ola Stunes Isene or Ruby Helder?
+Q: Who was born earlier, Ola Stunes Isene or Ruby Helder?
+A: "Ruby Helder"
+Q: [EOQ]
+S: 0.0
+
+9c754a2608e211ebbda4ac1f6bf848b6
+Did the movies The Ritual (2017 Film) and Triple Crossed, originate from the same country?
+Q: Did the movies The Ritual (2017 Film) and Triple Crossed, originate from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+dfa5d876084f11ebbd56ac1f6bf848b6
+Are both Ciudad Juárez International Airport and Cancún International Airport located in the same country?
+Q: Are both Ciudad Juárez International Airport and Cancún International Airport located in the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+60695c8e0bda11eba7f7acde48001122
+Where was the director of film The Song Of Kaprun born?
+Q: Where was the director of film The Song Of Kaprun born?
+A: "Vienna"
+Q: [EOQ]
+S: 0.0
+
+07e50f880bb011ebab90acde48001122
+Who is Swanandi Tikekar's mother?
+Q: Who is Swanandi Tikekar's mother?
+A: "Savitri Tikekar"
+Q: [EOQ]
+S: 0.0
+
+9f3beeca08e911ebbda7ac1f6bf848b6
+Who died earlier, Theodor Kotsch or Herbert Walther?
+Q: Who died earlier, Theodor Kotsch or Herbert Walther?
+A: "Herbert Walther"
+Q: [EOQ]
+S: 0.0
+
+350ec8b80bde11eba7f7acde48001122
+Where was the composer of song By The Beautiful Sea (Song) born?
+Q: Where was the composer of song By The Beautiful Sea (Song) born?
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+99042168089d11ebbd78ac1f6bf848b6
+Which film has the director who is older, Tarmina or Wrong Turn?
+Q: Which film has the director who is older, Tarmina or Wrong Turn?
+A: "Wrong Turn"
+Q: [EOQ]
+S: 0.0
+
+1717b8ce0bde11eba7f7acde48001122
+What is the place of birth of the composer of film The Quiet One (Film)?
+Q: What is the place of birth of the composer of film The Quiet One (Film)?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+48b18ece0bb011ebab90acde48001122
+Who is the paternal grandfather of Adolf Iv, Count Of Berg?
+Q: Who is the paternal grandfather of Adolf Iv, Count Of Berg?
+A: "Adolf Hitler"
+Q: [EOQ]
+S: 0.0
+
+0133f5f3085211ebbd58ac1f6bf848b6
+Who lived longer, Nina Škottová or Henry Strutt, 2Nd Baron Belper?
+Q: Who lived longer, Nina Škottová or Henry Strutt, 2Nd Baron Belper?
+A: "Nina kottov\u00e1"
+Q: [EOQ]
+S: 0.0
+
+f15b6f8e084e11ebbd56ac1f6bf848b6
+Are Edmonton/Villeneuve Airport and Pembroke Airport located in the same country?
+Q: Are Edmonton/Villeneuve Airport and Pembroke Airport located in the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+9e57efbe0bdb11eba7f7acde48001122
+Where was the place of death of the director of film Joan Of Arc At The Stake?
+Q: Where was the place of death of the director of film Joan Of Arc At The Stake?
+A: "Paris"
+Q: [EOQ]
+S: 0.0
+
+6039cb620bdb11eba7f7acde48001122
+Where did Diane Meyer Simon's husband graduate from?
+Q: Where did Diane Meyer Simon's husband graduate from?
+A: "University of Chicago"
+Q: [EOQ]
+S: 0.0
+
+35d160de086a11ebbd5fac1f6bf848b6
+Which film has the director who was born later, Land Of Hunted Men or Black Bandit?
+Q: Which film has the director who was born later, Land Of Hunted Men or Black Bandit?
+A: "Black Bandit"
+Q: [EOQ]
+S: 0.0
+
+f6e4582a0bae11ebab90acde48001122
+Who is Axel Rosenkrantz's maternal grandfather?
+Q: Who is Axel Rosenkrantz's maternal grandfather?
+A: "Yitzhak Rabin"
+Q: [EOQ]
+S: 0.0
+
+19a35ae808ce11ebbd94ac1f6bf848b6
+Which film has the director who died later, The Black Duke or The Way To The Gold?
+Q: Which film has the director who died later, The Black Duke or The Way To The Gold?
+A: "The Way To The Gold"
+Q: [EOQ]
+S: 0.0
+
+f6e8ecc80bae11ebab90acde48001122
+Who is Ieuan Ab Owain Glyndŵr's paternal grandfather?
+Q: Who is Ieuan Ab Owain Glyndŵr's paternal grandfather?
+A: "Owain Glyndr"
+Q: [EOQ]
+S: 0.0
+
+373b656c0bdc11eba7f7acde48001122
+What is the place of birth of Joan Of Savoy's father?
+Q: What is the place of birth of Joan Of Savoy's father?
+A: "Genoa"
+Q: [EOQ]
+S: 0.0
+
+69cb140a0bdc11eba7f7acde48001122
+When is Jean-Baptiste Colbert, Marquis De Seignelay's father's birthday?
+Q: When is Jean-Baptiste Colbert, Marquis De Seignelay's father's birthday?
+A: "1 January 1605"
+Q: [EOQ]
+S: 0.0
+
+7edd92340bda11eba7f7acde48001122
+Where was the director of film Carolina Blues born?
+Q: Where was the director of film Carolina Blues born?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+ef4907cc0baf11ebab90acde48001122
+Who is Busba Kitiyakara's paternal grandfather?
+Q: Who is Busba Kitiyakara's paternal grandfather?
+A: "Ayade Abdi"
+Q: [EOQ]
+S: 0.0
+
+56d1bac2089711ebbd76ac1f6bf848b6
+Do both films, Shadows Of The Metropolis and Jaider, Der Einsame Jäger, have the directors who are from the same country?
+Q: Do both films, Shadows Of The Metropolis and Jaider, Der Einsame Jäger, have the directors who are from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+aff6d22e09b911ebbdb0ac1f6bf848b6
+Are Carnic Alps and Torre Del Gran San Pietro located in the same country?
+Q: Are Carnic Alps and Torre Del Gran San Pietro located in the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+b592bb5c0bd911eba7f7acde48001122
+Where was the director of film Axiliad born?
+Q: Where was the director of film Axiliad born?
+A: "Athens"
+Q: [EOQ]
+S: 0.0
+
+a601a62608e611ebbda5ac1f6bf848b6
+Are the movies High Roller: The Stu Ungar Story and Mr. Peek-A-Boo, from the same country?
+Q: Are the movies High Roller: The Stu Ungar Story and Mr. Peek-A-Boo, from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+3696c8e00bdc11eba7f7acde48001122
+When was Patrick Berg's father born?
+Q: When was Patrick Berg's father born?
+A: "August 11, 1931"
+Q: [EOQ]
+S: 0.0
+
+064edb0908cd11ebbd93ac1f6bf848b6
+Which film was released more recently, Woman Without A Past or Il Seduttore?
+Q: Which film was released more recently, Woman Without A Past or Il Seduttore?
+A: "Woman Without A Past"
+Q: [EOQ]
+S: 0.0
+
+28946ecc089011ebbd72ac1f6bf848b6
+Which film has the director who was born later, Toll Of The Desert or One Wild Ride?
+Q: Which film has the director who was born later, Toll Of The Desert or One Wild Ride?
+A: "One Wild Ride"
+Q: [EOQ]
+S: 0.0
+
+dcb25ba40bdc11eba7f7acde48001122
+Who is the child of the director of film The Savage Is Loose?
+Q: Who is the child of the director of film The Savage Is Loose?
+A: "Jeremy Irons"
+Q: [EOQ]
+S: 0.0
+
+cc3587140bdd11eba7f7acde48001122
+What nationality is Humehume's father?
+Q: What nationality is Humehume's father?
+A: "French"
+Q: [EOQ]
+S: 0.0
+
+91e7e3780baf11ebab90acde48001122
+Who is the father-in-law of Ri Sol-Ju?
+Q: Who is the father-in-law of Ri Sol-Ju?
+A: "Kim Jong-Il"
+Q: [EOQ]
+S: 0.0
+
+2973264e08b811ebbd88ac1f6bf848b6
+Which film has the director who was born earlier, Gendernauts or I Am Guilty?
+Q: Which film has the director who was born earlier, Gendernauts or I Am Guilty?
+A: "Gendernauts"
+Q: [EOQ]
+S: 0.0
+
+2ed33a200bb011ebab90acde48001122
+Who is Conrad I, Count Of Oldenburg's paternal grandmother?
+Q: Who is Conrad I, Count Of Oldenburg's paternal grandmother?
+A: "Queen Eleanor of Denmark"
+Q: [EOQ]
+S: 0.0
+
+de30da2c0bdd11eba7f7acde48001122
+What is the place of birth of the director of film The Boss Of Rustler'S Roost?
+Q: What is the place of birth of the director of film The Boss Of Rustler'S Roost?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+015a72a60bde11eba7f7acde48001122
+Where was the father of Bonne Of Armagnac born?
+Q: Where was the father of Bonne Of Armagnac born?
+A: "Bordeaux"
+Q: [EOQ]
+S: 0.0
+
+22ad8ec008a011ebbd78ac1f6bf848b6
+Which film has the director born earlier, Safety Not Guaranteed or Once On The Rhine?
+Q: Which film has the director born earlier, Safety Not Guaranteed or Once On The Rhine?
+A: "Once On The Rhine"
+Q: [EOQ]
+S: 0.0
+
+82043b7c0bdd11eba7f7acde48001122
+Which country Luís Of Portugal, Duke Of Beja's mother is from?
+Q: Which country Luís Of Portugal, Duke Of Beja's mother is from?
+A: "Spain"
+Q: [EOQ]
+S: 0.0
+
+32d8eb320bde11eba7f7acde48001122
+What is the place of birth of the director of film Mallrats?
+Q: What is the place of birth of the director of film Mallrats?
+A: "Los Angeles"
+Q: [EOQ]
+S: 0.0
+
+fc06b4f00baf11ebab90acde48001122
+Who is the paternal grandmother of John I Of Brienne, Count Of Eu?
+Q: Who is the paternal grandmother of John I Of Brienne, Count Of Eu?
+A: "Joan of Arc"
+Q: [EOQ]
+S: 0.0
+
+99edb50e093411ebbdaeac1f6bf848b6
+Which film was released more recently, Blue Demon Contra Las Diabólicas or The Kid Brother?
+Q: Which film was released more recently, Blue Demon Contra Las Diabólicas or The Kid Brother?
+A: "The Kid Brother"
+Q: [EOQ]
+S: 0.0
+
+9c3c466f087d11ebbd6bac1f6bf848b6
+Which film has the director who was born later, A Woman'S Case or Memoirs Of A Film Actress?
+Q: Which film has the director who was born later, A Woman'S Case or Memoirs Of A Film Actress?
+A: "Memoirs Of A Film Actress"
+Q: [EOQ]
+S: 0.0
+
+790a75c40bdb11eba7f7acde48001122
+What is the place of birth of the director of film The Possession Of Hannah Grace?
+Q: What is the place of birth of the director of film The Possession Of Hannah Grace?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+9076d3180bdd11eba7f7acde48001122
+Where does the director of film Man Of God (Film) work at?
+Q: Where does the director of film Man Of God (Film) work at?
+A: "The New School"
+Q: [EOQ]
+S: 0.0
+
+55f41a7f085511ebbd59ac1f6bf848b6
+Do the movies Sweet Mama (Film) and Soy Andina, originate from the same country?
+Q: Do the movies Sweet Mama (Film) and Soy Andina, originate from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+d05cc8bf08c911ebbd92ac1f6bf848b6
+Which film has the director died earlier, The Mark Of The Renegade or Muchachas Que Estudian?
+Q: Which film has the director died earlier, The Mark Of The Renegade or Muchachas Que Estudian?
+A: "Muchachas Que Estudian"
+Q: [EOQ]
+S: 0.0
+
+da1268560bd911eba7f7acde48001122
+Where was the place of death of the director of film Family Parade?
+Q: Where was the place of death of the director of film Family Parade?
+A: "Los Angeles"
+Q: [EOQ]
+S: 0.0
+
+aabd2f90088d11ebbd70ac1f6bf848b6
+Who is younger, Lo Hsiao-Ting or Basil Hoffman?
+Q: Who is younger, Lo Hsiao-Ting or Basil Hoffman?
+A: "Basil Hoffman"
+Q: [EOQ]
+S: 0.0
+
+e28df090085011ebbd58ac1f6bf848b6
+Who was born first, Giorgia Campana or Arcadius?
+Q: Who was born first, Giorgia Campana or Arcadius?
+A: "Arcadius"
+Q: [EOQ]
+S: 0.0
+
+f66c25620bae11ebab90acde48001122
+Who is David Carnegie, 10Th Earl Of Northesk's paternal grandmother?
+Q: Who is David Carnegie, 10Th Earl Of Northesk's paternal grandmother?
+A: "Lady Mary, Duchess of Hamilton"
+Q: [EOQ]
+S: 0.0
+
+bdb2bc200bdd11eba7f7acde48001122
+Which award the performer of song Jihad (Song) received?
+Q: Which award the performer of song Jihad (Song) received?
+A: "Indian National Award for Music"
+Q: [EOQ]
+S: 0.0
+
+b81a7ec408b311ebbd86ac1f6bf848b6
+Which film has the director who was born later, Breaking The Silence: Truth And Lies In The War On Terror or Ju-On: The Grudge?
+Q: Which film has the director who was born later, Breaking The Silence: Truth And Lies In The War On Terror or Ju-On: The Grudge?
+A: "Breaking The Silence: Truth And Lies In The War On Terror"
+Q: [EOQ]
+S: 0.0
+
+530779ce0bdd11eba7f7acde48001122
+Who is the spouse of the director of film Commandos Strike At Dawn?
+Q: Who is the spouse of the director of film Commandos Strike At Dawn?
+A: "Phyllis Diller"
+Q: [EOQ]
+S: 0.0
+
+850c2ecc0bda11eba7f7acde48001122
+Where was the director of film En Aasai Rasave born?
+Q: Where was the director of film En Aasai Rasave born?
+A: "Chennai"
+Q: [EOQ]
+S: 0.0
+
+46c87e080bdb11eba7f7acde48001122
+Who was the teacher of the composer of song Prometheus (Art Song)?
+Q: Who was the teacher of the composer of song Prometheus (Art Song)?
+A: "John Adams"
+Q: [EOQ]
+S: 0.0
+
+55ff8fc20bdd11eba7f7acde48001122
+Where was the composer of song Heart On Fire (Ruslana Song) born?
+Q: Where was the composer of song Heart On Fire (Ruslana Song) born?
+A: "Moscow"
+Q: [EOQ]
+S: 0.0
+
+ea3fb82908e611ebbda5ac1f6bf848b6
+Who was born later, Meghan O'Leary or Engin Fırat?
+Q: Who was born later, Meghan O'Leary or Engin Fırat?
+A: "Meghan O'Leary"
+Q: [EOQ]
+S: 0.0
+
+38345f800bde11eba7f7acde48001122
+Where was the place of death of the founder of Bloomberg Industry Group?
+Q: Where was the place of death of the founder of Bloomberg Industry Group?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+0a6f4b240bb011ebab90acde48001122
+Who is Cecil Calvert, 2Nd Baron Baltimore's paternal grandfather?
+Q: Who is Cecil Calvert, 2Nd Baron Baltimore's paternal grandfather?
+A: "John Calvert, 1st Baron Baltimore"
+Q: [EOQ]
+S: 0.0
+
+b0b01e73089111ebbd73ac1f6bf848b6
+Who died later, George Cressman or Herbert Douglas Anthony?
+Q: Who died later, George Cressman or Herbert Douglas Anthony?
+A: "Herbert Douglas Anthony"
+Q: [EOQ]
+S: 0.0
+
+0dd34927090011ebbdadac1f6bf848b6
+Which film was released first, Lettre Ouverte or A Woman'S War?
+Q: Which film was released first, Lettre Ouverte or A Woman'S War?
+A: "Lettre Ouverte"
+Q: [EOQ]
+S: 0.0
+
+8942a532088511ebbd6dac1f6bf848b6
+Are both Paloalto (Band) and Showbread (Band) from the same country?
+Q: Are both Paloalto (Band) and Showbread (Band) from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+35615aae089811ebbd77ac1f6bf848b6
+Which film whose director is younger, Running For Grace or Irulum Oliyum?
+Q: Which film whose director is younger, Running For Grace or Irulum Oliyum?
+A: "Running For Grace"
+Q: [EOQ]
+S: 0.0
+
+7683f0f20bde11eba7f7acde48001122
+What nationality is Krisztina Nyáry's husband?
+Q: What nationality is Krisztina Nyáry's husband?
+A: "Hungarian"
+Q: [EOQ]
+S: 0.0
+
+53d64ad80bb011ebab90acde48001122
+Who is the paternal grandfather of Princess Elisabeth Of Waldeck And Pyrmont?
+Q: Who is the paternal grandfather of Princess Elisabeth Of Waldeck And Pyrmont?
+A: "Prince Eugene of Waldeck and Pyrmont"
+Q: [EOQ]
+S: 0.0
+
+40f3b6b4093511ebbdaeac1f6bf848b6
+Which film was released more recently, Boundaries Of The Heart or Truck Turner?
+Q: Which film was released more recently, Boundaries Of The Heart or Truck Turner?
+A: "Truck Turner"
+Q: [EOQ]
+S: 0.0
+
+259e9c10087711ebbd67ac1f6bf848b6
+Did the bands Cardiacs and Tedeschi Trucks Band, originate from the same country?
+Q: Did the bands Cardiacs and Tedeschi Trucks Band, originate from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+cca6b86a0bda11eba7f7acde48001122
+Where was the place of death of the director of film Gitano (1970 Film)?
+Q: Where was the place of death of the director of film Gitano (1970 Film)?
+A: "Rome"
+Q: [EOQ]
+S: 0.0
+
+fe6b99fe08d011ebbd95ac1f6bf848b6
+Which film has the director who died later, America America or Bees In Paradise?
+Q: Which film has the director who died later, America America or Bees In Paradise?
+A: "America America"
+Q: [EOQ]
+S: 0.0
+
+40b3f66a08cb11ebbd92ac1f6bf848b6
+Which film was released more recently, Fine Dead Girls or Venussian Tabutasco?
+Q: Which film was released more recently, Fine Dead Girls or Venussian Tabutasco?
+A: "Venussian Tabutasco"
+Q: [EOQ]
+S: 0.0
+
+92dc836e0bdd11eba7f7acde48001122
+What is the place of birth of the director of film Time Out Of Mind (2014 Film)?
+Q: What is the place of birth of the director of film Time Out Of Mind (2014 Film)?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+390f11bc0bb011ebab90acde48001122
+Who is Agnes I, Countess Of Nevers's paternal grandfather?
+Q: Who is Agnes I, Countess Of Nevers's paternal grandfather?
+A: "King Louis of France"
+Q: [EOQ]
+S: 0.0
+
+1bf41cb00bda11eba7f7acde48001122
+What is the award that the performer of song Little More (Royalty) got?
+Q: What is the award that the performer of song Little More (Royalty) got?
+A: "Grammy Award"
+Q: [EOQ]
+S: 0.0
+
+21ba8e73085811ebbd5aac1f6bf848b6
+Who is younger, Charles R. Nesbitt or Ruben Trumpelmann?
+Q: Who is younger, Charles R. Nesbitt or Ruben Trumpelmann?
+A: "Ruben Trumpelmann"
+Q: [EOQ]
+S: 0.0
+
+dc6985ea096211ebbdafac1f6bf848b6
+Which one was established first, Noerr or Korn Ferry?
+Q: Which one was established first, Noerr or Korn Ferry?
+A: "Noerr"
+Q: [EOQ]
+S: 0.0
+
+1fcd3c9f086b11ebbd5fac1f6bf848b6
+Which film has the director who died first, The Year Of The Rabbit or Monster On The Campus?
+Q: Which film has the director who died first, The Year Of The Rabbit or Monster On The Campus?
+A: "The Year Of The Rabbit"
+Q: [EOQ]
+S: 0.0
+
+d1915e7a08d811ebbd9cac1f6bf848b6
+Who was born first out of Jesús Alejandro Gallardo and Kaleigh Quennec?
+Q: Who was born first out of Jesús Alejandro Gallardo and Kaleigh Quennec?
+A: "Jess Alejandro Gallardo"
+Q: [EOQ]
+S: 0.0
+
+acb8c82a088f11ebbd72ac1f6bf848b6
+Which film has the director died later, Gharabaher or Escándalo De Estrellas?
+Q: Which film has the director died later, Gharabaher or Escándalo De Estrellas?
+A: "Esc\u00e1ndalo De Estrellas"
+Q: [EOQ]
+S: 0.0
+
+95bf64480bdd11eba7f7acde48001122
+Where did Adolph Of Cleves, Lord Of Ravenstein's mother die?
+Q: Where did Adolph Of Cleves, Lord Of Ravenstein's mother die?
+A: "L\u00fcbeck"
+Q: [EOQ]
+S: 0.0
+
+b8cf608c0bdd11eba7f7acde48001122
+Where did George Poulett, 8Th Earl Poulett's father study?
+Q: Where did George Poulett, 8Th Earl Poulett's father study?
+A: "University of Oxford"
+Q: [EOQ]
+S: 0.0
+
+61d278be088611ebbd6dac1f6bf848b6
+Are Stealing Harvard and Between Day And Night from the same country?
+Q: Are Stealing Harvard and Between Day And Night from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+8ffc795f08b511ebbd88ac1f6bf848b6
+Which film whose director is younger, Song Of The Prairie or Ramen Teh?
+Q: Which film whose director is younger, Song Of The Prairie or Ramen Teh?
+A: "Ramen Teh"
+Q: [EOQ]
+S: 0.0
+
+649c0d6c0bb011ebab90acde48001122
+Who is Hrólfr Gautreksson's paternal grandfather?
+Q: Who is Hrólfr Gautreksson's paternal grandfather?
+A: "Gumundur Gautreksson"
+Q: [EOQ]
+S: 0.0
+
+14bdff820bdb11eba7f7acde48001122
+When was the director of film Slap Her... She'S French born?
+Q: When was the director of film Slap Her... She'S French born?
+A: "June 22, 1939"
+Q: [EOQ]
+S: 0.0
+
+7e6e90cc088911ebbd6eac1f6bf848b6
+Which film has the director born later, The Canyon Of Light or Diary For My Mother And Father?
+Q: Which film has the director born later, The Canyon Of Light or Diary For My Mother And Father?
+A: "Diary For My Mother And Father"
+Q: [EOQ]
+S: 0.0
+
+e0805d20086811ebbd5eac1f6bf848b6
+Which film has the director who died later, The Ghost Breakers or A Hill In Korea?
+Q: Which film has the director who died later, The Ghost Breakers or A Hill In Korea?
+A: "A Hill in Korea"
+Q: [EOQ]
+S: 0.0
+
+b6592e72088211ebbd6dac1f6bf848b6
+Did the bands Malavsky Family and Survay Says!, originate from the same country?
+Q: Did the bands Malavsky Family and Survay Says!, originate from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+a2bfcf28091911ebbdaeac1f6bf848b6
+Which film was released more recently, Espoir: Sierra De Teruel or The Trygon Factor?
+Q: Which film was released more recently, Espoir: Sierra De Teruel or The Trygon Factor?
+A: "The Trygon Factor"
+Q: [EOQ]
+S: 0.0
+
+308416280bb011ebab90acde48001122
+Who is Geoffrey Iii, Count Of Perche's paternal grandfather?
+Q: Who is Geoffrey Iii, Count Of Perche's paternal grandfather?
+A: "Geoffrey I, Count Of Perche"
+Q: [EOQ]
+S: 0.0
+
+25783848086f11ebbd62ac1f6bf848b6
+Which film whose director is younger, Mr. Doodle Kicks Off or Boyz N The Hood?
+Q: Which film whose director is younger, Mr. Doodle Kicks Off or Boyz N The Hood?
+A: "Boyz N The Hood"
+Q: [EOQ]
+S: 0.0
+
+f3bc1623086d11ebbd62ac1f6bf848b6
+Which film has the director died later, Fighting Through or In Folly'S Trail?
+Q: Which film has the director died later, Fighting Through or In Folly'S Trail?
+A: "In Folly'S Trail"
+Q: [EOQ]
+S: 0.0
+
+8a23b5ac0bd911eba7f7acde48001122
+Where was the director of film See Naples And Die born?
+Q: Where was the director of film See Naples And Die born?
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+cbe4008c0bd911eba7f7acde48001122
+Where was the director of film You'Ve Got To Walk It Like You Talk It Or You'Ll Lose That Beat born?
+Q: Where was the director of film You'Ve Got To Walk It Like You Talk It Or You'Ll Lose That Beat born?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+6f64a5f20baf11ebab90acde48001122
+Who is Blanche Of Navarre, Queen Of France's maternal grandfather?
+Q: Who is Blanche Of Navarre, Queen Of France's maternal grandfather?
+A: "King Alfonso XI of Navarre"
+Q: [EOQ]
+S: 0.0
+
+dbca21a20bd911eba7f7acde48001122
+What is the place of birth of the director of film Paris By Night (2012 Film)?
+Q: What is the place of birth of the director of film Paris By Night (2012 Film)?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+aef6771308b311ebbd86ac1f6bf848b6
+Which film has the director born first, Big Happiness or Border Romance?
+Q: Which film has the director born first, Big Happiness or Border Romance?
+A: "Border Romance"
+Q: [EOQ]
+S: 0.0
+
+bc631e700bdb11eba7f7acde48001122
+Where did the composer of song Wiegenlied, D 498 (Schubert) die?
+Q: Where did the composer of song Wiegenlied, D 498 (Schubert) die?
+A: "Vienna"
+Q: [EOQ]
+S: 0.0
+
+ad95061a0bdb11eba7f7acde48001122
+When did Emperor Houshao Of Han's father die?
+Q: When did Emperor Houshao Of Han's father die?
+A: "279 BC"
+Q: [EOQ]
+S: 0.0
+
+35568cbc0bb011ebab90acde48001122
+Who is the maternal grandfather of Sophie Of Württemberg, Duchess Of Saxe-Weimar?
+Q: Who is the maternal grandfather of Sophie Of Württemberg, Duchess Of Saxe-Weimar?
+A: "King Ludwig II of W\u00fcrttemberg"
+Q: [EOQ]
+S: 0.0
+
+e22b34b2089d11ebbd78ac1f6bf848b6
+Which film has the director born earlier, Only God Forgives or Doublecrossed?
+Q: Which film has the director born earlier, Only God Forgives or Doublecrossed?
+A: "Only God Forgives"
+Q: [EOQ]
+S: 0.0
+
+8f4637ae0bdd11eba7f7acde48001122
+Why did Edward Despenser (Died 1342)'s father die?
+Q: Why did Edward Despenser (Died 1342)'s father die?
+A: "he was killed in battle"
+Q: [EOQ]
+S: 0.0
+
+d04c5c92084f11ebbd56ac1f6bf848b6
+Which film whose director is younger, Köpekler Adası or Twisted Mistress?
+Q: Which film whose director is younger, Köpekler Adası or Twisted Mistress?
+A: "Twisted Mistress"
+Q: [EOQ]
+S: 0.0
+
+299505620baf11ebab90acde48001122
+Who is Magdalene Of Jülich-Cleves-Berg's father-in-law?
+Q: Who is Magdalene Of Jülich-Cleves-Berg's father-in-law?
+A: "John of Cleves"
+Q: [EOQ]
+S: 0.0
+
+0f96e4d4098711ebbdb0ac1f6bf848b6
+Are Beer Ajam and Al-Zabadani both located in the same country?
+Q: Are Beer Ajam and Al-Zabadani both located in the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+89760bc40bb011ebab90acde48001122
+Who is Prince Jean Of Luxembourg's mother?
+Q: Who is Prince Jean Of Luxembourg's mother?
+A: "Queen Paola of Luxembourg"
+Q: [EOQ]
+S: 0.0
+
+62a8a59c0bb011ebab90acde48001122
+Who is Renaud Ii, Count Of Soissons's uncle?
+Q: Who is Renaud Ii, Count Of Soissons's uncle?
+A: "King Louis IX of France"
+Q: [EOQ]
+S: 0.0
+
+27c9e0800bdd11eba7f7acde48001122
+Which country Padmavati (Wife Of Ashoka)'s husband is from?
+Q: Which country Padmavati (Wife Of Ashoka)'s husband is from?
+A: "India"
+Q: [EOQ]
+S: 0.0
+
+6a765fc60bb011ebab90acde48001122
+Who is the paternal grandfather of Princess Yasmin Aga Khan?
+Q: Who is the paternal grandfather of Princess Yasmin Aga Khan?
+A: "Aga Khan III"
+Q: [EOQ]
+S: 0.0
+
+e95af96908e611ebbda5ac1f6bf848b6
+Which film has the director born later, Ladro Lui, Ladra Lei or Blow Job (Soffio Erotico)?
+Q: Which film has the director born later, Ladro Lui, Ladra Lei or Blow Job (Soffio Erotico)?
+A: "Blow Job (Soffio Erotico)"
+Q: [EOQ]
+S: 0.0
+
+c511cef80baf11ebab90acde48001122
+Who is the paternal grandmother of Zoë Porphyrogenita?
+Q: Who is the paternal grandmother of Zoë Porphyrogenita?
+A: "Queen Victoria"
+Q: [EOQ]
+S: 0.0
+
+ddf04e3f08af11ebbd83ac1f6bf848b6
+Do both directors of films Anne Of The Indies and One Hour Of Love share the same nationality?
+Q: Do both directors of films Anne Of The Indies and One Hour Of Love share the same nationality?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+4c55cdf0096f11ebbdb0ac1f6bf848b6
+Are Leontari, Boeotia and Ardameri both located in the same country?
+Q: Are Leontari, Boeotia and Ardameri both located in the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+f26e7f1e085711ebbd5aac1f6bf848b6
+Are both movies, Some Like It Hot (2016 Film) and Under The Dome (Film), from the same country?
+Q: Are both movies, Some Like It Hot (2016 Film) and Under The Dome (Film), from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+61f9bff8089711ebbd77ac1f6bf848b6
+Which film has the director who was born later, The Silver Treasure or Taxi To Paradise?
+Q: Which film has the director who was born later, The Silver Treasure or Taxi To Paradise?
+A: "Taxi To Paradise"
+Q: [EOQ]
+S: 0.0
+
+5bd4d98a0bdc11eba7f7acde48001122
+What is the place of birth of the performer of song All Neon Like?
+Q: What is the place of birth of the performer of song All Neon Like?
+A: "Los Angeles"
+Q: [EOQ]
+S: 0.0
+
+6fc6126e08ad11ebbd83ac1f6bf848b6
+Are To Kill A Dragon and Tannenberg (Film) from the same country?
+Q: Are To Kill A Dragon and Tannenberg (Film) from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+b3df86ec0bdd11eba7f7acde48001122
+Where did Edward Of Middleham, Prince Of Wales's mother die?
+Q: Where did Edward Of Middleham, Prince Of Wales's mother die?
+A: "Middleham"
+Q: [EOQ]
+S: 0.0
+
+38ecffde0bdb11eba7f7acde48001122
+Where was the place of death of the director of film A Hero Of The Big Snows?
+Q: Where was the place of death of the director of film A Hero Of The Big Snows?
+A: "Paris"
+Q: [EOQ]
+S: 0.0
+
+1851c6f40bb011ebab90acde48001122
+Who is Louis D'Armagnac, Duke Of Nemours's paternal grandfather?
+Q: Who is Louis D'Armagnac, Duke Of Nemours's paternal grandfather?
+A: "Louis XV of France"
+Q: [EOQ]
+S: 0.0
+
+4abc56580bde11eba7f7acde48001122
+Who is the founder of the company that manufactured Fraise Tagada?
+Q: Who is the founder of the company that manufactured Fraise Tagada?
+A: "Gregorio \"Gib\" A. Aquino"
+Q: [EOQ]
+S: 0.0
+
+6b582dcc087011ebbd62ac1f6bf848b6
+Which film whose director was born first, Psychos In Love or Waves Of Lust?
+Q: Which film whose director was born first, Psychos In Love or Waves Of Lust?
+A: "Waves Of Lust"
+Q: [EOQ]
+S: 0.0
+
+06a649120bdc11eba7f7acde48001122
+Which country the director of film A Man Called Hero is from?
+Q: Which country the director of film A Man Called Hero is from?
+A: "New Zealand"
+Q: [EOQ]
+S: 0.0
+
+8da9737a0bb011ebab90acde48001122
+Who is the paternal grandfather of Yi Hong?
+Q: Who is the paternal grandfather of Yi Hong?
+A: "Liu Bei"
+Q: [EOQ]
+S: 0.0
+
+2e50a8760bdd11eba7f7acde48001122
+Where was the composer of song Come On (Chuck Berry Song) born?
+Q: Where was the composer of song Come On (Chuck Berry Song) born?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+26f25e9d089c11ebbd78ac1f6bf848b6
+Who was born earlier, Elmer W. Conti or Seth Joshua?
+Q: Who was born earlier, Elmer W. Conti or Seth Joshua?
+A: "Elmer W. Conti"
+Q: [EOQ]
+S: 0.0
+
+6573a5fe08bf11ebbd8aac1f6bf848b6
+Which film has the director who was born later, Unsullied or Not Wanted On Voyage?
+Q: Which film has the director who was born later, Unsullied or Not Wanted On Voyage?
+A: "Not Wanted On Voyage"
+Q: [EOQ]
+S: 0.0
+
+fbe20f7a0bdb11eba7f7acde48001122
+Where was the mother of Vittoria Farnese D'Este born?
+Q: Where was the mother of Vittoria Farnese D'Este born?
+A: "Florence"
+Q: [EOQ]
+S: 0.0
+
+4ab726320bda11eba7f7acde48001122
+Where was the place of death of Caroline Of Hesse-Homburg's father?
+Q: Where was the place of death of Caroline Of Hesse-Homburg's father?
+A: "Frankfurt"
+Q: [EOQ]
+S: 0.0
+
+bc61bfd608d311ebbd96ac1f6bf848b6
+Which film has the director died first, He Who Gets Slapped or Mysterious Mr. Parkes?
+Q: Which film has the director died first, He Who Gets Slapped or Mysterious Mr. Parkes?
+A: "Mysterious Mr. Parkes"
+Q: [EOQ]
+S: 0.0
+
+64d94bc80bdd11eba7f7acde48001122
+When did Camillo Ruspoli, Duke Of Sueca's father die?
+Q: When did Camillo Ruspoli, Duke Of Sueca's father die?
+A: "15 June 1879"
+Q: [EOQ]
+S: 0.0
+
+e48935f308b011ebbd85ac1f6bf848b6
+Which film has the director born first, 30 Days In Atlanta or Les Tuche 3?
+Q: Which film has the director born first, 30 Days In Atlanta or Les Tuche 3?
+A: "Les Tuche 3"
+Q: [EOQ]
+S: 0.0
+
+fb879dde091911ebbdaeac1f6bf848b6
+Which film was released first, An Acceptable Loss or Douro, Faina Fluvial?
+Q: Which film was released first, An Acceptable Loss or Douro, Faina Fluvial?
+A: "An Acceptable Loss"
+Q: [EOQ]
+S: 0.0
+
+cda7579c08b011ebbd85ac1f6bf848b6
+Which film has the director who is older than the other, Perdues Dans New York or Web Of The Spider? 
+Q: Which film has the director who is older than the other, Perdues Dans New York or Web Of The Spider?
+A: "Perdues Dans New York"
+Q: [EOQ]
+S: 0.0
+
+fff47f36086f11ebbd62ac1f6bf848b6
+Do both directors of films Old School New School and Midnight (1922 Film) share the same nationality?
+Q: Do both directors of films Old School New School and Midnight (1922 Film) share the same nationality?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+1ae198fd08c411ebbd8eac1f6bf848b6
+Which film has the director who died earlier, The Fixer (1968 Film) or Midnight At Madame Tussaud'S?
+Q: Which film has the director who died earlier, The Fixer (1968 Film) or Midnight At Madame Tussaud'S?
+A: "The Fixer"
+Q: [EOQ]
+S: 0.0
+
+00ea5297094a11ebbdaeac1f6bf848b6
+Which album was released more recently, The Arockalypse or Because The Internet?
+Q: Which album was released more recently, The Arockalypse or Because The Internet?
+A: "Because The Internet"
+Q: [EOQ]
+S: 0.0
+
+34caa5ca0bde11eba7f7acde48001122
+Where was the place of death of Randi Monsen's father?
+Q: Where was the place of death of Randi Monsen's father?
+A: "Copenhagen"
+Q: [EOQ]
+S: 0.0
+
+86059759089411ebbd75ac1f6bf848b6
+Which film has the director died first, Her Greatest Love or Beware Of Women?
+Q: Which film has the director died first, Her Greatest Love or Beware Of Women?
+A: "Her Greatest Love"
+Q: [EOQ]
+S: 0.0
+
+ea755618087311ebbd67ac1f6bf848b6
+Which film whose director is younger, Porky'S Revenge! or Amici Miei – Atto Iii?
+Q: Which film whose director is younger, Porky'S Revenge! or Amici Miei – Atto Iii?
+A: "Porky's Revenge!"
+Q: [EOQ]
+S: 0.0
+
+b7b8d60908a711ebbd7fac1f6bf848b6
+Which film has the director who died first, Le Périscope or Churam?
+Q: Which film has the director who died first, Le Périscope or Churam?
+A: "Le P\u00e9riscope"
+Q: [EOQ]
+S: 0.0
+
+a28699ae0bdc11eba7f7acde48001122
+Who is the spouse of the director of film You Talkin' To Me? (Film)?
+Q: Who is the spouse of the director of film You Talkin' To Me? (Film)?
+A: "Diane Keaton"
+Q: [EOQ]
+S: 0.0
+
+a7e043d60bdd11eba7f7acde48001122
+Where did Rachel Weisz's husband study at?
+Q: Where did Rachel Weisz's husband study at?
+A: "University of Cambridge"
+Q: [EOQ]
+S: 0.0
+
+fcc52c000bdc11eba7f7acde48001122
+When did Princess Stéphanie Of Monaco's mother die?
+Q: When did Princess Stéphanie Of Monaco's mother die?
+A: "June 6, 2000"
+Q: [EOQ]
+S: 0.0
+
+a9f090fa0baf11ebab90acde48001122
+Who is Richard De Montfort's paternal grandfather?
+Q: Who is Richard De Montfort's paternal grandfather?
+A: "John de Montfort"
+Q: [EOQ]
+S: 0.0
+
+1904cc6408c611ebbd90ac1f6bf848b6
+Who lived longer, Crockett Johnson or Sven-Olof Lundgren?
+Q: Who lived longer, Crockett Johnson or Sven-Olof Lundgren?
+A: "Crockett Johnson"
+Q: [EOQ]
+S: 0.0
+
+c21fb3ab08a711ebbd7fac1f6bf848b6
+Which film has the director who died earlier, Guns And Guitars or To The Victor?
+Q: Which film has the director who died earlier, Guns And Guitars or To The Victor?
+A: "Guns And Guitars"
+Q: [EOQ]
+S: 0.0
+
+dd04b44e0baf11ebab90acde48001122
+Who is Mieszko Mieszkowic's paternal grandfather?
+Q: Who is Mieszko Mieszkowic's paternal grandfather?
+A: "Jacek Mieszkowic"
+Q: [EOQ]
+S: 0.0
+
+825a0bfa0bd911eba7f7acde48001122
+Which country the director of film Partly Cloudy With Sunny Spells is from?
+Q: Which country the director of film Partly Cloudy With Sunny Spells is from?
+A: "England"
+Q: [EOQ]
+S: 0.0
+
+592a78ea0bda11eba7f7acde48001122
+When is Bakaffa's father's birthday?
+Q: When is Bakaffa's father's birthday?
+A: "June 28"
+Q: [EOQ]
+S: 0.0
+
+2000538808bb11ebbd88ac1f6bf848b6
+Which film came out first, Ayat-Ayat Cinta 2 or Lost Kisses?
+Q: Which film came out first, Ayat-Ayat Cinta 2 or Lost Kisses?
+A: "Lost Kisses"
+Q: [EOQ]
+S: 0.0
+
+541c0d400bdb11eba7f7acde48001122
+When did Princess Alexandra Of Saxe-Coburg And Gotha's mother die?
+Q: When did Princess Alexandra Of Saxe-Coburg And Gotha's mother die?
+A: "18 June 1896"
+Q: [EOQ]
+S: 0.0
+
+1ccc20e00bdc11eba7f7acde48001122
+Where does the director of film Die Abfahrer work at?
+Q: Where does the director of film Die Abfahrer work at?
+A: "the University of Applied Sciences in Munich"
+Q: [EOQ]
+S: 0.0
+
+f6e78f680bae11ebab90acde48001122
+Who is the paternal grandfather of Randolph Greene Pack?
+Q: Who is the paternal grandfather of Randolph Greene Pack?
+A: "John Randolph Greene"
+Q: [EOQ]
+S: 0.0
+
+1033ae5c091611ebbdaeac1f6bf848b6
+Which film was released more recently, Jolly Roger: Massacre At Cutter'S Cove or Texas Lightning (Film)?
+Q: Which film was released more recently, Jolly Roger: Massacre At Cutter'S Cove or Texas Lightning (Film)?
+A: "Texas Lightning"
+Q: [EOQ]
+S: 0.0
+
+883d60f208a611ebbd7fac1f6bf848b6
+Which film has the director who is older, Hangman'S Knot or Last Foxtrot In Burbank?
+Q: Which film has the director who is older, Hangman'S Knot or Last Foxtrot In Burbank?
+A: "Last Foxtrot In Burbank"
+Q: [EOQ]
+S: 0.0
+
+0484ed780baf11ebab90acde48001122
+Who is the paternal grandfather of William Ii, Duke Of Aquitaine?
+Q: Who is the paternal grandfather of William Ii, Duke Of Aquitaine?
+A: "King Louis of France"
+Q: [EOQ]
+S: 0.0
+
+171c6a460bdd11eba7f7acde48001122
+Which country William Herbert, 18Th Earl Of Pembroke's father is from?
+Q: Which country William Herbert, 18Th Earl Of Pembroke's father is from?
+A: "England"
+Q: [EOQ]
+S: 0.0
+
+01293a720bdb11eba7f7acde48001122
+Which country William Neville (Poet)'s father is from?
+Q: Which country William Neville (Poet)'s father is from?
+A: "England"
+Q: [EOQ]
+S: 0.0
+
+500877f60bdc11eba7f7acde48001122
+Where does Tova Hartman's father work at?
+Q: Where does Tova Hartman's father work at?
+A: "The Jewish Agency for Israel"
+Q: [EOQ]
+S: 0.0
+
+f43518160bdc11eba7f7acde48001122
+What is the place of birth of the director of film Breed Of The Border (1924 Film)?
+Q: What is the place of birth of the director of film Breed Of The Border (1924 Film)?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+534cb9fe0baf11ebab90acde48001122
+Who is Charles D'Orléans, Duke Of Penthièvre's paternal grandfather?
+Q: Who is Charles D'Orléans, Duke Of Penthièvre's paternal grandfather?
+A: "King Louis XIV of France"
+Q: [EOQ]
+S: 0.0
+
+12812c92084f11ebbd56ac1f6bf848b6
+Who died later, Joachim Gasquet or T. J. Richards?
+Q: Who died later, Joachim Gasquet or T. J. Richards?
+A: "Joachim Gasquet"
+Q: [EOQ]
+S: 0.0
+
+f9faf2ee08a211ebbd7bac1f6bf848b6
+Which film whose director was born first, The Snake Brothers or Olympus Has Fallen?
+Q: Which film whose director was born first, The Snake Brothers or Olympus Has Fallen?
+A: "The Snake Brothers"
+Q: [EOQ]
+S: 0.0
+
+6bc3222c086511ebbd5eac1f6bf848b6
+Which film has the director who is older, The Woman Next Door or La Estatua De Carne?
+Q: Which film has the director who is older, The Woman Next Door or La Estatua De Carne?
+A: "La Estatua De Carne"
+Q: [EOQ]
+S: 0.0
+
+bfb2f8660bdb11eba7f7acde48001122
+Where did the director of film Il... Belpaese die?
+Q: Where did the director of film Il... Belpaese die?
+A: "Rome"
+Q: [EOQ]
+S: 0.0
+
+f5c1c2f5086911ebbd5fac1f6bf848b6
+Which film came out first, Hotel Der Toten Gäste or The Relative Of His Excellency?
+Q: Which film came out first, Hotel Der Toten Gäste or The Relative Of His Excellency?
+A: "The Relative Of His Excellency"
+Q: [EOQ]
+S: 0.0
+
+b583abd20baf11ebab90acde48001122
+Who is the paternal grandfather of Sultan Al-Dawla?
+Q: Who is the paternal grandfather of Sultan Al-Dawla?
+A: "Sultan Qaboos bin Said Al-Sabah"
+Q: [EOQ]
+S: 0.0
+
+ff8987ca0bae11ebab90acde48001122
+Who is the father of Archduchess Maria Johanna Gabriela Of Austria?
+Q: Who is the father of Archduchess Maria Johanna Gabriela Of Austria?
+A: "Archduke Franz Ferdinand of Austria"
+Q: [EOQ]
+S: 0.0
+
+87b3bafc0bb011ebab90acde48001122
+Who is Charles Hutchinson (Nottingham Mp)'s paternal grandmother?
+Q: Who is Charles Hutchinson (Nottingham Mp)'s paternal grandmother?
+A: "Mary Ann Hutchinson"
+Q: [EOQ]
+S: 0.0
+
+dd7bd1a6085c11ebbd5cac1f6bf848b6
+Are the directors of both films Pretty Foe and Goin' Coconuts from the same country?
+Q: Are the directors of both films Pretty Foe and Goin' Coconuts from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+cd791c8a0bdd11eba7f7acde48001122
+Where did Nesrin Kadın's husband die?
+Q: Where did Nesrin Kadın's husband die?
+A: "Istanbul"
+Q: [EOQ]
+S: 0.0
+
+11e93e21087511ebbd67ac1f6bf848b6
+Are the bands Shirehorses and From First To Last, from the same country?
+Q: Are the bands Shirehorses and From First To Last, from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+a26599ea097011ebbdb0ac1f6bf848b6
+Which film was released first, Heaven Help Us or Ghar Ki Rani?
+Q: Which film was released first, Heaven Help Us or Ghar Ki Rani?
+A: "Ghar Ki Rani"
+Q: [EOQ]
+S: 0.0
+
+76ec405f08b811ebbd88ac1f6bf848b6
+Which film was released earlier, Drive, He Said or Ocean Of Pearls?
+Q: Which film was released earlier, Drive, He Said or Ocean Of Pearls?
+A: "Ocean Of Pearls"
+Q: [EOQ]
+S: 0.0
+
+31299a5c0bde11eba7f7acde48001122
+Where was the father of Dinanath Puthenchery born?
+Q: Where was the father of Dinanath Puthenchery born?
+A: "Cochin"
+Q: [EOQ]
+S: 0.0
+
+937cd0300bb011ebab90acde48001122
+Who is the paternal grandfather of Janusz Iii Of Masovia?
+Q: Who is the paternal grandfather of Janusz Iii Of Masovia?
+A: "King John II of Poland"
+Q: [EOQ]
+S: 0.0
+
+0a3fb6a80baf11ebab90acde48001122
+Who is the paternal grandfather of Mariamne (Daughter Of Herod Agrippa)?
+Q: Who is the paternal grandfather of Mariamne (Daughter Of Herod Agrippa)?
+A: "Herod the Great"
+Q: [EOQ]
+S: 0.0
+
+a11440c80bda11eba7f7acde48001122
+Where was the place of death of the director of film The Secret Of Wera Baranska?
+Q: Where was the place of death of the director of film The Secret Of Wera Baranska?
+A: "Warsaw"
+Q: [EOQ]
+S: 0.0
+
+826592ec08bc11ebbd88ac1f6bf848b6
+Which film whose director was born first, Curry And Pepper or End Of Watch?
+Q: Which film whose director was born first, Curry And Pepper or End Of Watch?
+A: "Curry And Pepper"
+Q: [EOQ]
+S: 0.0
+
+9d7e5cba0bd911eba7f7acde48001122
+Where did Marie-Thérèse Houphouët-Boigny's husband die?
+Q: Where did Marie-Thérèse Houphouët-Boigny's husband die?
+A: "Battambang"
+Q: [EOQ]
+S: 0.0
+
+f99c20140bdd11eba7f7acde48001122
+What is the date of death of Doamna Chiajna's husband?
+Q: What is the date of death of Doamna Chiajna's husband?
+A: "28 June 2007"
+Q: [EOQ]
+S: 0.0
+
+1d890623088711ebbd6dac1f6bf848b6
+Which film has the director who died earlier, Tangled Destinies or The Daltons' Women?
+Q: Which film has the director who died earlier, Tangled Destinies or The Daltons' Women?
+A: "The Daltons' Women"
+Q: [EOQ]
+S: 0.0
+
+bb6d37460bd911eba7f7acde48001122
+Where did Marie Eleonore Of Cleves's father die?
+Q: Where did Marie Eleonore Of Cleves's father die?
+A: "L\u00fcbeck"
+Q: [EOQ]
+S: 0.0
+
+acfdf12e0bdd11eba7f7acde48001122
+Where was the place of burial of Monika Von Habsburg's father?
+Q: Where was the place of burial of Monika Von Habsburg's father?
+A: "Vienna"
+Q: [EOQ]
+S: 0.0
+
+983d79c208d011ebbd95ac1f6bf848b6
+Who is younger, Ismael Íñiguez or Fred Kornet?
+Q: Who is younger, Ismael Íñiguez or Fred Kornet?
+A: "Fred Kornet"
+Q: [EOQ]
+S: 0.0
+
+839996120bb011ebab90acde48001122
+Who is the stepmother of Anne Lennard, Countess Of Sussex?
+Q: Who is the stepmother of Anne Lennard, Countess Of Sussex?
+A: "Anne Boleyn"
+Q: [EOQ]
+S: 0.0
+
+c3ecfe04089811ebbd77ac1f6bf848b6
+Which film has the director who died later, The Little Brother or National Red Cross Pageant?
+Q: Which film has the director who died later, The Little Brother or National Red Cross Pageant?
+A: "National Red Cross Pageant"
+Q: [EOQ]
+S: 0.0
+
+0f91473e0baf11ebab90acde48001122
+Who is the father-in-law of Countess Palatine Elisabeth Auguste Sofie Of Neuburg?
+Q: Who is the father-in-law of Countess Palatine Elisabeth Auguste Sofie Of Neuburg?
+A: "Count Palatine Auguste Ludwig of Austria"
+Q: [EOQ]
+S: 0.0
+
+7a8cb2f20bdd11eba7f7acde48001122
+What is the place of birth of the director of film Los Secretos Del Buzón?
+Q: What is the place of birth of the director of film Los Secretos Del Buzón?
+A: "Mexico City"
+Q: [EOQ]
+S: 0.0
+
+4d39ed4e089311ebbd74ac1f6bf848b6
+Which film has the director died later, Flat Number Three or Alla Mia Cara Mamma Nel Giorno Del Suo Compleanno?
+Q: Which film has the director died later, Flat Number Three or Alla Mia Cara Mamma Nel Giorno Del Suo Compleanno?
+A: "Alla Mia Cara Mamma Nel Giorno Del Suo Compleanno"
+Q: [EOQ]
+S: 0.0
+
+f2c0141208bd11ebbd8aac1f6bf848b6
+Which film was released more recently, Steel Dawn or Wake Up And Live?
+Q: Which film was released more recently, Steel Dawn or Wake Up And Live?
+A: "Wake Up And Live"
+Q: [EOQ]
+S: 0.0
+
+edfc5c27087011ebbd63ac1f6bf848b6
+Who is younger, Jack Mildren or Alf Hellevik?
+Q: Who is younger, Jack Mildren or Alf Hellevik?
+A: "Alf Hellevik"
+Q: [EOQ]
+S: 0.0
+
+f50d28020bda11eba7f7acde48001122
+What is the place of birth of Countess Johanna Magdalene Of Hanau-Lichtenberg's mother?
+Q: What is the place of birth of Countess Johanna Magdalene Of Hanau-Lichtenberg's mother?
+A: "Hanau"
+Q: [EOQ]
+S: 0.0
+
+8cd0aab708e711ebbda6ac1f6bf848b6
+Who is younger, Kathryn Thomas or Ole Bjørnmose?
+Q: Who is younger, Kathryn Thomas or Ole Bjørnmose?
+A: "Kathryn Thomas"
+Q: [EOQ]
+S: 0.0
+
+5485e4ac08ae11ebbd83ac1f6bf848b6
+Which film has the director who is older than the other, Gas, Oil And Water or Monte Carlo Or Bust!? 
+Q: Which film has the director who is older than the other, Gas, Oil And Water or Monte Carlo Or Bust!?
+A: "Gas, Oil And Water"
+Q: [EOQ]
+S: 0.0
+
+4ec7243608db11ebbd9cac1f6bf848b6
+Which film has the director who died first, It'S A Grand Old World or Rustlers' Rhapsody?
+Q: Which film has the director who died first, It'S A Grand Old World or Rustlers' Rhapsody?
+A: "Rustlers' Rhapsody"
+Q: [EOQ]
+S: 0.0
+
+39af8adc0bda11eba7f7acde48001122
+Where was the director of film Rembrandt'S J'Accuse born?
+Q: Where was the director of film Rembrandt'S J'Accuse born?
+A: "Paris"
+Q: [EOQ]
+S: 0.0
+
+13d510e40bde11eba7f7acde48001122
+When is Charles I, Count Of Nevers's father's birthday?
+Q: When is Charles I, Count Of Nevers's father's birthday?
+A: "15 January 1542"
+Q: [EOQ]
+S: 0.0
+
+89a96fba0bdc11eba7f7acde48001122
+What is the place of birth of the director of film Rozstanie?
+Q: What is the place of birth of the director of film Rozstanie?
+A: "Warsaw"
+Q: [EOQ]
+S: 0.0
+
+80f2ebbc0bdc11eba7f7acde48001122
+Where was the director of film The Road Through The Dark born?
+Q: Where was the director of film The Road Through The Dark born?
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+f88dcc88088611ebbd6dac1f6bf848b6
+Who lived longer, Eleni Lambiri or Douglas Wilmer?
+Q: Who lived longer, Eleni Lambiri or Douglas Wilmer?
+A: "Douglas Wilmer"
+Q: [EOQ]
+S: 0.0
+
+fcc1c49b08d011ebbd95ac1f6bf848b6
+Who was born first, Earl Alexander Olmsted or Pietro Ghislandi?
+Q: Who was born first, Earl Alexander Olmsted or Pietro Ghislandi?
+A: "Earl Alexander Olmsted"
+Q: [EOQ]
+S: 0.0
+
+46a99487096a11ebbdafac1f6bf848b6
+Which film came out earlier, Rajapattai or Tars And Spars?
+Q: Which film came out earlier, Rajapattai or Tars And Spars?
+A: "Rajapattai"
+Q: [EOQ]
+S: 0.0
+
+47bb70600bde11eba7f7acde48001122
+Which country the performer of song I Like Control is from?
+Q: Which country the performer of song I Like Control is from?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+59ecc1a908c811ebbd91ac1f6bf848b6
+Do both directors of films Sometimes Good and Sweet Sixteen (2002 Film) share the same nationality?
+Q: Do both directors of films Sometimes Good and Sweet Sixteen (2002 Film) share the same nationality?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+99f1450c08ce11ebbd94ac1f6bf848b6
+Which film has the director died later, No Babies Wanted or Prey For The Shadows?
+Q: Which film has the director died later, No Babies Wanted or Prey For The Shadows?
+A: "No Babies Wanted"
+Q: [EOQ]
+S: 0.0
+
+d88af85e085a11ebbd5cac1f6bf848b6
+Which film has the director who died first, Everybody'S Hobby or One Sunday Afternoon (1948 Film)?
+Q: Which film has the director who died first, Everybody'S Hobby or One Sunday Afternoon (1948 Film)?
+A: "Everybody'S Hobby"
+Q: [EOQ]
+S: 0.0
+
+9103880b085211ebbd58ac1f6bf848b6
+Who lived longer, Aniela Pawlikowska or Erling Jensen?
+Q: Who lived longer, Aniela Pawlikowska or Erling Jensen?
+A: "Aniela Pawlikowska"
+Q: [EOQ]
+S: 0.0
+
+ab17df260bda11eba7f7acde48001122
+What is the place of birth of the director of film Back Long Ago?
+Q: What is the place of birth of the director of film Back Long Ago?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+dd87083508a511ebbd7dac1f6bf848b6
+Do both films, Cuban Colony and Prathyartha, have the directors who are from the same country?
+Q: Do both films, Cuban Colony and Prathyartha, have the directors who are from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+883fd545095a11ebbdaeac1f6bf848b6
+Which film was released more recently, Drugstore Cowboy or When The Sea Rises?
+Q: Which film was released more recently, Drugstore Cowboy or When The Sea Rises?
+A: "When the Sea Rises"
+Q: [EOQ]
+S: 0.0
+
+881866100baf11ebab90acde48001122
+Who is Julia Cornelia Paula's father-in-law?
+Q: Who is Julia Cornelia Paula's father-in-law?
+A: "John Paul II"
+Q: [EOQ]
+S: 0.0
+
+4e786ebb08f911ebbdaaac1f6bf848b6
+Are both Cupid The Cowpuncher and Hashimura Togo from the same country?
+Q: Are both Cupid The Cowpuncher and Hashimura Togo from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+3c3204c8084d11ebbd56ac1f6bf848b6
+Which film whose director is younger, I Enjoy The World With You or Fear On Trial?
+Q: Which film whose director is younger, I Enjoy The World With You or Fear On Trial?
+A: "I Enjoy The World With You"
+Q: [EOQ]
+S: 0.0
+
+899815760bdc11eba7f7acde48001122
+Where was the place of death of the director of film Las Tecnologías Pesqueras?
+Q: Where was the place of death of the director of film Las Tecnologías Pesqueras?
+A: "Mexico City"
+Q: [EOQ]
+S: 0.0
+
+ef133a9b097f11ebbdb0ac1f6bf848b6
+Which film came out earlier, The Wrong Box or Soft Shoes?
+Q: Which film came out earlier, The Wrong Box or Soft Shoes?
+A: "The Wrong Box"
+Q: [EOQ]
+S: 0.0
+
+8329478a0bd911eba7f7acde48001122
+Where was the place of death of Sabiha Gökçen's father?
+Q: Where was the place of death of Sabiha Gökçen's father?
+A: "Istanbul"
+Q: [EOQ]
+S: 0.0
+
+67d6c68e0bb011ebab90acde48001122
+Who is Consort Duan's father-in-law?
+Q: Who is Consort Duan's father-in-law?
+A: "Emperor Xiaoping"
+Q: [EOQ]
+S: 0.0
+
+3e0cebde0bd911eba7f7acde48001122
+Which country the director of film And The Spring Comes is from?
+Q: Which country the director of film And The Spring Comes is from?
+A: "France"
+Q: [EOQ]
+S: 0.0
+
+6ae79dd40bde11eba7f7acde48001122
+What is the place of birth of the director of film My Divine Poverty?
+Q: What is the place of birth of the director of film My Divine Poverty?
+A: "Seoul"
+Q: [EOQ]
+S: 0.0
+
+d0995a680bda11eba7f7acde48001122
+Where was the place of death of Yuen Shun-Yi's father?
+Q: Where was the place of death of Yuen Shun-Yi's father?
+A: "Hong Kong"
+Q: [EOQ]
+S: 0.0
+
+3d2951d60bb011ebab90acde48001122
+Who is Agnes Of Austria (1281–1364)'s father-in-law?
+Q: Who is Agnes Of Austria (1281–1364)'s father-in-law?
+A: "King Charles IV of Hungary"
+Q: [EOQ]
+S: 0.0
+
+5a12bbd80bde11eba7f7acde48001122
+Who is the child of the director of film Reunion At Fairborough?
+Q: Who is the child of the director of film Reunion At Fairborough?
+A: "David Niven"
+Q: [EOQ]
+S: 0.0
+
+3d049bbe0bda11eba7f7acde48001122
+Where was the director of film The Heart Of The World born?
+Q: Where was the director of film The Heart Of The World born?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+db9c6d860baf11ebab90acde48001122
+Who is Infanta Adelgundes, Duchess Of Guimarães's father?
+Q: Who is Infanta Adelgundes, Duchess Of Guimarães's father?
+A: "Ferdinand II of Aragon"
+Q: [EOQ]
+S: 0.0
+
+923058320bdd11eba7f7acde48001122
+Where did Salin Mibaya's father die?
+Q: Where did Salin Mibaya's father die?
+A: "Jakarta"
+Q: [EOQ]
+S: 0.0
+
+cc6b0e9e084e11ebbd56ac1f6bf848b6
+Which film has the director born earlier, Speaking Of Sex or Being There?
+Q: Which film has the director born earlier, Speaking Of Sex or Being There?
+A: "Speaking Of Sex"
+Q: [EOQ]
+S: 0.0
+
+b55e7e680bda11eba7f7acde48001122
+Where did the director of film A Night In Paradise (1919 Film) go to prison?
+Q: Where did the director of film A Night In Paradise (1919 Film) go to prison?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+5197bf5e0bb011ebab90acde48001122
+Who is Margaret Of Valois, Countess Of Blois's maternal grandfather?
+Q: Who is Margaret Of Valois, Countess Of Blois's maternal grandfather?
+A: "King Louis of France"
+Q: [EOQ]
+S: 0.0
+
+3f1b7d3b086c11ebbd61ac1f6bf848b6
+Are both directors of films Shadow Of The Law (1926 Film) and A Touch Of Class (Film) from the same country?
+Q: Are both directors of films Shadow Of The Law (1926 Film) and A Touch Of Class (Film) from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+4a008df6089111ebbd72ac1f6bf848b6
+Which film has the director who died later, The Fair Barbarian or Vortex, The Face Of Medusa?
+Q: Which film has the director who died later, The Fair Barbarian or Vortex, The Face Of Medusa?
+A: "Vortex, The Face Of Medusa"
+Q: [EOQ]
+S: 0.0
+
+063270da08af11ebbd83ac1f6bf848b6
+Which film has the director who was born later, Attack Of Life: The Bang Tango Movie or King Kong (2005 Film)?
+Q: Which film has the director who was born later, Attack Of Life: The Bang Tango Movie or King Kong (2005 Film)?
+A: "King Kong"
+Q: [EOQ]
+S: 0.0
+
+b23e2363086211ebbd5dac1f6bf848b6
+Which film has the director who died later, Lincoln In The White House or Shattered Idols?
+Q: Which film has the director who died later, Lincoln In The White House or Shattered Idols?
+A: "Shattered Idols"
+Q: [EOQ]
+S: 0.0
+
+42f793240bde11eba7f7acde48001122
+What nationality is Amytis Of Media's husband?
+Q: What nationality is Amytis Of Media's husband?
+A: "Greek"
+Q: [EOQ]
+S: 0.0
+
+1160bc660baf11ebab90acde48001122
+Who is Humphrey Of Montfort's paternal grandmother?
+Q: Who is Humphrey Of Montfort's paternal grandmother?
+A: "Joan of Arc"
+Q: [EOQ]
+S: 0.0
+
+93adfc01098011ebbdb0ac1f6bf848b6
+Which film came out first, Kansas City Confidential or Men O' War?
+Q: Which film came out first, Kansas City Confidential or Men O' War?
+A: "Men O' War"
+Q: [EOQ]
+S: 0.0
