@@ -1,7 +1,6 @@
 *.pyc
 .DS_Store
 raw_data/
-data/
 instantiated_configs/
 processed_data/
 # official_evaluation/

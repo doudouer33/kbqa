@@ -1,0 +1,5002 @@
+[
+    {
+        "id": "single_squad_dev_4416",
+        "prediction": "Quinnipiac River",
+        "predicted_answer": "Quinnipiac River",
+        "gold_answers": [
+            "Quinnipiac"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_4501",
+        "prediction": "Bypass surgery is typically recommended for patients with severe coronary artery disease (CAD) when they experience significant blockages in the coronary arteries that cannot be effectively treated with medication or less invasive procedures like angioplasty and stenting. It may also be recommended in the following situations:",
+        "predicted_answer": "Bypass surgery is typically recommended for patients with severe coronary artery disease (CAD) when they experience significant blockages in the coronary arteries that cannot be effectively treated with medication or less invasive procedures like angioplasty and stenting. It may also be recommended in the following situations:",
+        "gold_answers": [
+            "blockages of multiple coronary arteries and diabetes"
+        ],
+        "em": 0,
+        "f1": 0.1568627450980392
+    },
+    {
+        "id": "single_squad_dev_2336",
+        "prediction": "silver and gold",
+        "predicted_answer": "silver and gold",
+        "gold_answers": [
+            "gold"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_4526",
+        "prediction": "Rogers, Arkansas",
+        "predicted_answer": "Rogers, Arkansas",
+        "gold_answers": [
+            "Market Street, Newcastle"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_545",
+        "prediction": "to enhance plant growth and productivity while promoting sustainability",
+        "predicted_answer": "to enhance plant growth and productivity while promoting sustainability",
+        "gold_answers": [
+            "to optimize the productivity of plants"
+        ],
+        "em": 0,
+        "f1": 0.2857142857142857
+    },
+    {
+        "id": "single_squad_dev_3400",
+        "prediction": "the Royal Society",
+        "predicted_answer": "the Royal Society",
+        "gold_answers": [
+            "Royal Society of London"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_7335",
+        "prediction": "Molotov-Ribbentrop Pact",
+        "predicted_answer": "Molotov-Ribbentrop Pact",
+        "gold_answers": [
+            "Molotov-Ribbentrop Pact"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_7331",
+        "prediction": "The Luftwaffe staff had disagreements primarily centered around strategic priorities, resource allocation, and operational tactics during World War II. Key points of contention included the focus on air superiority versus ground support, the effectiveness of bombing campaigns, and the allocation of aircraft and personnel to various fronts. Additionally, there were differing opinions on the use of new technologies and the overall direction of the Luftwaffe's strategy in response to changing wartime conditions",
+        "predicted_answer": "The Luftwaffe staff had disagreements primarily centered around strategic priorities, resource allocation, and operational tactics during World War II. Key points of contention included the focus on air superiority versus ground support, the effectiveness of bombing campaigns, and the allocation of aircraft and personnel to various fronts. Additionally, there were differing opinions on the use of new technologies and the overall direction of the Luftwaffe's strategy in response to changing wartime conditions",
+        "gold_answers": [
+            "tactics"
+        ],
+        "em": 0,
+        "f1": 0.030303030303030307
+    },
+    {
+        "id": "single_squad_dev_1730",
+        "prediction": "manufacturing plants and research and development centers",
+        "predicted_answer": "manufacturing plants and research and development centers",
+        "gold_answers": [
+            "research center"
+        ],
+        "em": 0,
+        "f1": 0.22222222222222224
+    },
+    {
+        "id": "single_squad_dev_218",
+        "prediction": "Nohant, France",
+        "predicted_answer": "Nohant, France",
+        "gold_answers": [
+            "Nohant"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_2092",
+        "prediction": "Emperor Augustus",
+        "predicted_answer": "Emperor Augustus",
+        "gold_answers": [
+            "Augustus"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_6560",
+        "prediction": "9.3 million",
+        "predicted_answer": "9.3 million",
+        "gold_answers": [
+            "9.2 million"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_890",
+        "prediction": "thuggish",
+        "predicted_answer": "thuggish",
+        "gold_answers": [
+            "thugs"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3395",
+        "prediction": "Voltaire and Denis Diderot",
+        "predicted_answer": "Voltaire and Denis Diderot",
+        "gold_answers": [
+            "Voltaire"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_squad_dev_7383",
+        "prediction": "206 BC",
+        "predicted_answer": "206 BC",
+        "gold_answers": [
+            "206 BC"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_1193",
+        "prediction": "Devonport",
+        "predicted_answer": "Devonport",
+        "gold_answers": [
+            "Plymstock"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8704",
+        "prediction": "federal control",
+        "predicted_answer": "federal control",
+        "gold_answers": [
+            "military spending"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5391",
+        "prediction": "ENIAC",
+        "predicted_answer": "ENIAC",
+        "gold_answers": [
+            "ENIAC"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_3529",
+        "prediction": "256x240 pixels",
+        "predicted_answer": "256x240 pixels",
+        "gold_answers": [
+            "256 horizontal pixels by 240 vertical pixels"
+        ],
+        "em": 0,
+        "f1": 0.22222222222222224
+    },
+    {
+        "id": "single_squad_dev_3449",
+        "prediction": "Yes, a person's sexual interest can change over time",
+        "predicted_answer": "Yes, a person's sexual interest can change over time",
+        "gold_answers": [
+            "Some research suggests that \"[f]or some [people] the focus of sexual interest will shift at various points through the life span"
+        ],
+        "em": 0,
+        "f1": 0.14814814814814814
+    },
+    {
+        "id": "single_squad_dev_4037",
+        "prediction": "Duits",
+        "predicted_answer": "Duits",
+        "gold_answers": [
+            "Duits"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_1875",
+        "prediction": "urban environments",
+        "predicted_answer": "urban environments",
+        "gold_answers": [
+            "public"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2797",
+        "prediction": "Princess Victoria",
+        "predicted_answer": "Princess Victoria",
+        "gold_answers": [
+            "Queen Victoria"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_3318",
+        "prediction": "approximately 2500 BC to 1500 BC",
+        "predicted_answer": "approximately 2500 BC to 1500 BC",
+        "gold_answers": [
+            "between 2500\u20131500 BC"
+        ],
+        "em": 0,
+        "f1": 0.2222222222222222
+    },
+    {
+        "id": "single_squad_dev_6073",
+        "prediction": "Wallraf-Richartz Museum",
+        "predicted_answer": "Wallraf-Richartz Museum",
+        "gold_answers": [
+            "Mus\u00e9e de l'\u0152uvre Notre-Dame"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_639",
+        "prediction": "20th century",
+        "predicted_answer": "20th century",
+        "gold_answers": [
+            "20th century"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_5340",
+        "prediction": "As of my last knowledge update in October 2023, the President of Nigeria is Bola Ahmed Tinubu. He took office on May 29, 2023. Please verify with up-to-date sources, as political situations can change",
+        "predicted_answer": "As of my last knowledge update in October 2023, the President of Nigeria is Bola Ahmed Tinubu. He took office on May 29, 2023. Please verify with up-to-date sources, as political situations can change",
+        "gold_answers": [
+            "Goodluck Jonathan"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2197",
+        "prediction": "$1,500",
+        "predicted_answer": "$1,500",
+        "gold_answers": [
+            "$100,000"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4024",
+        "prediction": "a club crest or badge",
+        "predicted_answer": "a club crest or badge",
+        "gold_answers": [
+            "corporate logo"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2767",
+        "prediction": "Eastern Caribbean",
+        "predicted_answer": "Eastern Caribbean",
+        "gold_answers": [
+            "Turks and Caicos islands"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1219",
+        "prediction": "Examples of cultures that have historically practiced discipline for being a heretic include:",
+        "predicted_answer": "Examples of cultures that have historically practiced discipline for being a heretic include:",
+        "gold_answers": [
+            "Christian, Islamic and Jewish"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2740",
+        "prediction": "Grain becomes malted through a process called malting, which involves several key steps:",
+        "predicted_answer": "Grain becomes malted through a process called malting, which involves several key steps:",
+        "gold_answers": [
+            "by soaking it in water"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7877",
+        "prediction": "Spartacus",
+        "predicted_answer": "Spartacus",
+        "gold_answers": [
+            "Spartacus"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_5057",
+        "prediction": "The Secretary of the Board of Agriculture is a position that can vary by country and time period. In the United States, the Secretary of Agriculture is the head of the U.S. Department of Agriculture (USDA). As of my last knowledge update, the current Secretary of Agriculture is Tom Vilsack, who has served in this role since March 2021. If you are referring to a specific country or historical context, please provide more details for a more accurate answer",
+        "predicted_answer": "The Secretary of the Board of Agriculture is a position that can vary by country and time period. In the United States, the Secretary of Agriculture is the head of the U.S. Department of Agriculture (USDA). As of my last knowledge update, the current Secretary of Agriculture is Tom Vilsack, who has served in this role since March 2021. If you are referring to a specific country or historical context, please provide more details for a more accurate answer",
+        "gold_answers": [
+            "Arthur Young"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5704",
+        "prediction": "two",
+        "predicted_answer": "two",
+        "gold_answers": [
+            "two robbers crucified, one on Jesus' right and one on his left"
+        ],
+        "em": 0,
+        "f1": 0.15384615384615385
+    },
+    {
+        "id": "single_squad_dev_8468",
+        "prediction": "1163",
+        "predicted_answer": "1163",
+        "gold_answers": [
+            "1166"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3567",
+        "prediction": "Martin Luther's translation of the Old Testament into German",
+        "predicted_answer": "Martin Luther's translation of the Old Testament into German",
+        "gold_answers": [
+            "Septuagint Greek"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5485",
+        "prediction": "polar glaciers",
+        "predicted_answer": "polar glaciers",
+        "gold_answers": [
+            "Tidewater glaciers"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_2039",
+        "prediction": "May 8, 1565",
+        "predicted_answer": "May 8, 1565",
+        "gold_answers": [
+            "January 10"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7753",
+        "prediction": "MVD",
+        "predicted_answer": "MVD",
+        "gold_answers": [
+            "the MVD"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_8778",
+        "prediction": "through government funding",
+        "predicted_answer": "through government funding",
+        "gold_answers": [
+            "through taxes"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_squad_dev_6493",
+        "prediction": "basic sense of numbers",
+        "predicted_answer": "basic sense of numbers",
+        "gold_answers": [
+            "rudimentary"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1743",
+        "prediction": "United States Olympic Training Center",
+        "predicted_answer": "United States Olympic Training Center",
+        "gold_answers": [
+            "Wutaishan Sports Center"
+        ],
+        "em": 0,
+        "f1": 0.25
+    },
+    {
+        "id": "single_squad_dev_5932",
+        "prediction": "footer",
+        "predicted_answer": "footer",
+        "gold_answers": [
+            "EOP (end-of-packet)"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8694",
+        "prediction": "Adlai Stevenson",
+        "predicted_answer": "Adlai Stevenson",
+        "gold_answers": [
+            "Robert A. Taft"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8700",
+        "prediction": "bombs, napalm, and cluster bombs",
+        "predicted_answer": "bombs, napalm, and cluster bombs",
+        "gold_answers": [
+            "napalm"
+        ],
+        "em": 0,
+        "f1": 0.33333333333333337
+    },
+    {
+        "id": "single_squad_dev_6078",
+        "prediction": "around 50 to 60",
+        "predicted_answer": "around 50 to 60",
+        "gold_answers": [
+            "average 62"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4997",
+        "prediction": "Le Fumeur.",
+        "predicted_answer": "Le Fumeur.",
+        "gold_answers": [
+            "La Femme au Cheval (Woman with a horse) 1911-1912"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4818",
+        "prediction": "Jewish tradition",
+        "predicted_answer": "Jewish tradition",
+        "gold_answers": [
+            "Shaye J. D. Cohen"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6593",
+        "prediction": "Heraclitus",
+        "predicted_answer": "Heraclitus",
+        "gold_answers": [
+            "Plato"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8609",
+        "prediction": "approximately 900 million to 1 billion",
+        "predicted_answer": "approximately 900 million to 1 billion",
+        "gold_answers": [
+            "more than 900 million"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_squad_dev_6443",
+        "prediction": "An Alaskan recording district is a designated area where mining claims are recorded and maintained. The function of these districts is to provide a systematic way for miners to file their claims, ensuring that the rights to the land and its resources are properly documented and recognized. This helps to manage and regulate mining activities in Alaska, facilitating the legal process of claim ownership and protecting the interests of miners",
+        "predicted_answer": "An Alaskan recording district is a designated area where mining claims are recorded and maintained. The function of these districts is to provide a systematic way for miners to file their claims, ensuring that the rights to the land and its resources are properly documented and recognized. This helps to manage and regulate mining activities in Alaska, facilitating the legal process of claim ownership and protecting the interests of miners",
+        "gold_answers": [
+            "a mechanism for administration of the public record in Alaska"
+        ],
+        "em": 0,
+        "f1": 0.1142857142857143
+    },
+    {
+        "id": "single_squad_dev_8008",
+        "prediction": "Hipparchus (or Islamic scholars)",
+        "predicted_answer": "Hipparchus (or Islamic scholars)",
+        "gold_answers": [
+            "Islamic astronomers and engineers"
+        ],
+        "em": 0,
+        "f1": 0.25
+    },
+    {
+        "id": "single_squad_dev_3168",
+        "prediction": "Apple iPhone",
+        "predicted_answer": "Apple iPhone",
+        "gold_answers": [
+            "Apple's own iPhone"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_squad_dev_1318",
+        "prediction": "Ruidoso Downs Race Track",
+        "predicted_answer": "Ruidoso Downs Race Track",
+        "gold_answers": [
+            "Remington Park"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8878",
+        "prediction": "Maithili",
+        "predicted_answer": "Maithili",
+        "gold_answers": [
+            "Nepal Bhasa"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3240",
+        "prediction": "A.R. Rahman",
+        "predicted_answer": "A.R. Rahman",
+        "gold_answers": [
+            "John Williams"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5402",
+        "prediction": "the Allied Powers",
+        "predicted_answer": "the Allied Powers",
+        "gold_answers": [
+            "Britain and the USA"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1366",
+        "prediction": "Russian Soviet Federative Socialist Republic",
+        "predicted_answer": "Russian Soviet Federative Socialist Republic",
+        "gold_answers": [
+            "Council of Ministers"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7775",
+        "prediction": "cellulose (for plants) and chitin (for fungi)",
+        "predicted_answer": "cellulose (for plants) and chitin (for fungi)",
+        "gold_answers": [
+            "cellulose and chitin"
+        ],
+        "em": 0,
+        "f1": 0.6
+    },
+    {
+        "id": "single_squad_dev_5724",
+        "prediction": "19%",
+        "predicted_answer": "19%",
+        "gold_answers": [
+            "22.7"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5498",
+        "prediction": "temperature correction",
+        "predicted_answer": "temperature correction",
+        "gold_answers": [
+            "Wien's displacement law"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5869",
+        "prediction": "Pfizer",
+        "predicted_answer": "Pfizer",
+        "gold_answers": [
+            "Viagra"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3642",
+        "prediction": "treatment of ADHD and narcolepsy",
+        "predicted_answer": "treatment of ADHD and narcolepsy",
+        "gold_answers": [
+            "attention deficit disorder"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6854",
+        "prediction": "The British Prime Minister's secretary of state typically holds a position as a member of the Cabinet, often leading a specific government department. For example, the Secretary of State for Foreign, Commonwealth and Development Affairs (commonly referred to as Foreign Secretary) or the Secretary of State for Defence. However, the specific previous position can vary depending on the individual. If you have a specific Secretary of State in mind, please provide their name for a more precise answer",
+        "predicted_answer": "The British Prime Minister's secretary of state typically holds a position as a member of the Cabinet, often leading a specific government department. For example, the Secretary of State for Foreign, Commonwealth and Development Affairs (commonly referred to as Foreign Secretary) or the Secretary of State for Defence. However, the specific previous position can vary depending on the individual. If you have a specific Secretary of State in mind, please provide their name for a more precise answer",
+        "gold_answers": [
+            "director of the Hayekian Centre for Policy Studies"
+        ],
+        "em": 0,
+        "f1": 0.05405405405405406
+    },
+    {
+        "id": "single_squad_dev_1604",
+        "prediction": "as a measure of differences among group members",
+        "predicted_answer": "as a measure of differences among group members",
+        "gold_answers": [
+            "as an archaism"
+        ],
+        "em": 0,
+        "f1": 0.22222222222222224
+    },
+    {
+        "id": "single_squad_dev_7445",
+        "prediction": "Greece",
+        "predicted_answer": "Greece",
+        "gold_answers": [
+            "Greek peninsula and the Aegean Sea, the Southern Italy (Magna Graecia), the Black Sea, the Ionian coasts of Asia Minor and the islands of Cyprus and Sicily"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1199",
+        "prediction": "approximately \\u00a3100 million",
+        "predicted_answer": "approximately \\u00a3100 million",
+        "gold_answers": [
+            "\u00a3160 million"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_squad_dev_3898",
+        "prediction": "30,000",
+        "predicted_answer": "30,000",
+        "gold_answers": [
+            "24,000"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1598",
+        "prediction": "It seems that your question is incomplete. Could you please provide more context or specify what \\\"this\\\" refers to? This will help me give you a more accurate answer",
+        "predicted_answer": "It seems that your question is incomplete. Could you please provide more context or specify what \\\"this\\\" refers to? This will help me give you a more accurate answer",
+        "gold_answers": [
+            "Western Romance"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8340",
+        "prediction": "Arctic Tern",
+        "predicted_answer": "Arctic Tern",
+        "gold_answers": [
+            "bar-tailed godwit"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6857",
+        "prediction": "dehydration",
+        "predicted_answer": "dehydration",
+        "gold_answers": [
+            "can result in dehydration due to fluid loss"
+        ],
+        "em": 0,
+        "f1": 0.2222222222222222
+    },
+    {
+        "id": "single_squad_dev_5250",
+        "prediction": "September",
+        "predicted_answer": "September",
+        "gold_answers": [
+            "September"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_2101",
+        "prediction": "Henri Desgrange",
+        "predicted_answer": "Henri Desgrange",
+        "gold_answers": [
+            "geologist Stefan Schmid"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1862",
+        "prediction": "It varies; Internet journalism has expanded access but has not fully replaced traditional journalism's depth and rigor",
+        "predicted_answer": "It varies; Internet journalism has expanded access but has not fully replaced traditional journalism's depth and rigor",
+        "gold_answers": [
+            "a tiny fraction"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2090",
+        "prediction": "The Aeneid",
+        "predicted_answer": "The Aeneid",
+        "gold_answers": [
+            "5"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2554",
+        "prediction": "The Audio Engineering Society (AES) CD",
+        "predicted_answer": "The Audio Engineering Society (AES) CD",
+        "gold_answers": [
+            "EBU V3/SQAM"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2009",
+        "prediction": "by firing squad",
+        "predicted_answer": "by firing squad",
+        "gold_answers": [
+            "firing squad"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_squad_dev_7640",
+        "prediction": "1953",
+        "predicted_answer": "1953",
+        "gold_answers": [
+            "1953"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_231",
+        "prediction": "Les Sylphides",
+        "predicted_answer": "Les Sylphides",
+        "gold_answers": [
+            "Les Sylphides"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_5965",
+        "prediction": "New York City and New Jersey",
+        "predicted_answer": "New York City and New Jersey",
+        "gold_answers": [
+            "Hart Plaza to the Renaissance Center"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8588",
+        "prediction": "Baptist, Pentecostal, and non-denominational churches",
+        "predicted_answer": "Baptist, Pentecostal, and non-denominational churches",
+        "gold_answers": [
+            "those that are more exclusively evangelical"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3566",
+        "prediction": "Arian writings",
+        "predicted_answer": "Arian writings",
+        "gold_answers": [
+            "the Festal Epistles"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4547",
+        "prediction": "22.5%",
+        "predicted_answer": "22.5%",
+        "gold_answers": [
+            "Hispanic or Latino ancestry ancestry accounted for 22.5% (4,223,806) of Florida's population"
+        ],
+        "em": 0,
+        "f1": 0.15384615384615385
+    },
+    {
+        "id": "single_squad_dev_6909",
+        "prediction": "Bill Clinton",
+        "predicted_answer": "Bill Clinton",
+        "gold_answers": [
+            "Rear Admiral Walter Schlech"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_720",
+        "prediction": "meat",
+        "predicted_answer": "meat",
+        "gold_answers": [
+            "meat"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_2543",
+        "prediction": "testosterone",
+        "predicted_answer": "testosterone",
+        "gold_answers": [
+            "testosterone"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_3978",
+        "prediction": "Christopher Columbus",
+        "predicted_answer": "Christopher Columbus",
+        "gold_answers": [
+            "Bruno Mauricio de Zabala"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2071",
+        "prediction": "the nobility (szlachta)",
+        "predicted_answer": "the nobility (szlachta)",
+        "gold_answers": [
+            "dynasty's female-line descendants."
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6504",
+        "prediction": "Chinese culture",
+        "predicted_answer": "Chinese culture",
+        "gold_answers": [
+            "Chinese"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_6123",
+        "prediction": "To provide an accurate answer, I would need more context regarding which specific new law you are referring to, as there are many laws that could be considered \\\"new\\\" depending on the time and location. Could you please specify the law or the context in which it was created?",
+        "predicted_answer": "To provide an accurate answer, I would need more context regarding which specific new law you are referring to, as there are many laws that could be considered \\\"new\\\" depending on the time and location. Could you please specify the law or the context in which it was created?",
+        "gold_answers": [
+            "Indian Penal Code"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3461",
+        "prediction": "oversimplification of human sexual orientation",
+        "predicted_answer": "oversimplification of human sexual orientation",
+        "gold_answers": [
+            "collapsing the two values into one final score"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6196",
+        "prediction": "Friedmann equations and Penrose-Hawking singularity theorems",
+        "predicted_answer": "Friedmann equations and Penrose-Hawking singularity theorems",
+        "gold_answers": [
+            "The Penrose\u2013Hawking singularity theorems"
+        ],
+        "em": 0,
+        "f1": 0.4444444444444444
+    },
+    {
+        "id": "single_squad_dev_3625",
+        "prediction": "Multicultural Americans may have hidden their heritage for various reasons, including the desire to assimilate into mainstream American culture, avoid discrimination or prejudice, and seek social or economic opportunities. Historical contexts, such as periods of intense nationalism or xenophobia, may have pressured individuals to downplay their ethnic backgrounds. Additionally, some may have felt that their cultural identity was not accepted or valued in society, leading them to conceal aspects of their heritage to fit in better",
+        "predicted_answer": "Multicultural Americans may have hidden their heritage for various reasons, including the desire to assimilate into mainstream American culture, avoid discrimination or prejudice, and seek social or economic opportunities. Historical contexts, such as periods of intense nationalism or xenophobia, may have pressured individuals to downplay their ethnic backgrounds. Additionally, some may have felt that their cultural identity was not accepted or valued in society, leading them to conceal aspects of their heritage to fit in better",
+        "gold_answers": [
+            "Prior to the mid-20th century, many people hid their multiracial heritage because of racial discrimination against minorities"
+        ],
+        "em": 0,
+        "f1": 0.10989010989010989
+    },
+    {
+        "id": "single_squad_dev_4856",
+        "prediction": "Mackenzie was said to have a significant impact on the lives of those around her, often described as a positive influence or a source of inspiration. However, without more specific context regarding which Mackenzie is being referred to, it's difficult to provide a detailed answer. If you have a particular Mackenzie in mind, please provide more information for a more accurate response",
+        "predicted_answer": "Mackenzie was said to have a significant impact on the lives of those around her, often described as a positive influence or a source of inspiration. However, without more specific context regarding which Mackenzie is being referred to, it's difficult to provide a detailed answer. If you have a particular Mackenzie in mind, please provide more information for a more accurate response",
+        "gold_answers": [
+            "changed the British tabloid concept more profoundly than [Larry] Lamb did\""
+        ],
+        "em": 0,
+        "f1": 0.030769230769230767
+    },
+    {
+        "id": "single_squad_dev_8105",
+        "prediction": "An active list of apps can typically be accessed by swiping up from the bottom of the screen (on devices without a home button) or double-clicking the home button (on devices with a home button) on a smartphone or tablet. This action brings up the app switcher, displaying all currently open or recently used apps. On a computer, you can access an active list of apps through the taskbar or application switcher, depending on the operating system",
+        "predicted_answer": "An active list of apps can typically be accessed by swiping up from the bottom of the screen (on devices without a home button) or double-clicking the home button (on devices with a home button) on a smartphone or tablet. This action brings up the app switcher, displaying all currently open or recently used apps. On a computer, you can access an active list of apps through the taskbar or application switcher, depending on the operating system",
+        "gold_answers": [
+            "Pointing the cursor in the top-left corner of the screen and moving down"
+        ],
+        "em": 0,
+        "f1": 0.05333333333333334
+    },
+    {
+        "id": "single_squad_dev_2415",
+        "prediction": "To provide an accurate answer, I would need more context about who \\\"they\\\" refers to. Could you please specify the individuals or group you are asking about?",
+        "predicted_answer": "To provide an accurate answer, I would need more context about who \\\"they\\\" refers to. Could you please specify the individuals or group you are asking about?",
+        "gold_answers": [
+            "Trans-Saharan trade in peoples"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7365",
+        "prediction": "three",
+        "predicted_answer": "three",
+        "gold_answers": [
+            "seven"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6245",
+        "prediction": "The 25 Worst Tech Products of All Time",
+        "predicted_answer": "The 25 Worst Tech Products of All Time",
+        "gold_answers": [
+            "\"The Top 21 Tech Screwups of 2006\""
+        ],
+        "em": 0,
+        "f1": 0.30769230769230765
+    },
+    {
+        "id": "single_squad_dev_393",
+        "prediction": "The National Disaster Relief Commission typically initiates disaster relief efforts and programs to provide assistance and support to individuals and communities affected by natural disasters. This can include coordinating emergency response, providing financial aid, and facilitating recovery efforts. However, the specific initiatives can vary by country and context. If you are looking for information about a specific National Disaster Relief Commission, please provide more details",
+        "predicted_answer": "The National Disaster Relief Commission typically initiates disaster relief efforts and programs to provide assistance and support to individuals and communities affected by natural disasters. This can include coordinating emergency response, providing financial aid, and facilitating recovery efforts. However, the specific initiatives can vary by country and context. If you are looking for information about a specific National Disaster Relief Commission, please provide more details",
+        "gold_answers": [
+            "Level II emergency contingency plan"
+        ],
+        "em": 0,
+        "f1": 0.029850746268656716
+    },
+    {
+        "id": "single_squad_dev_7452",
+        "prediction": "the time period of the Prophet Muhammad",
+        "predicted_answer": "the time period of the Prophet Muhammad",
+        "gold_answers": [
+            "Muhammad's"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4752",
+        "prediction": "13 species",
+        "predicted_answer": "13 species",
+        "gold_answers": [
+            "Ten"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3578",
+        "prediction": "Different Gospels are often read or recited during specific times in the Christian liturgical calendar, particularly during church services. For example:",
+        "predicted_answer": "Different Gospels are often read or recited during specific times in the Christian liturgical calendar, particularly during church services. For example:",
+        "gold_answers": [
+            "certain Feast days"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3784",
+        "prediction": "To find a lodge to ask to be a member of, you can follow these steps:",
+        "predicted_answer": "To find a lodge to ask to be a member of, you can follow these steps:",
+        "gold_answers": [
+            "track down a local Lodge through the Internet"
+        ],
+        "em": 0,
+        "f1": 0.1
+    },
+    {
+        "id": "single_squad_dev_2031",
+        "prediction": "1948",
+        "predicted_answer": "1948",
+        "gold_answers": [
+            "1948"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_2632",
+        "prediction": "1986",
+        "predicted_answer": "1986",
+        "gold_answers": [
+            "1986"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_6830",
+        "prediction": "ontological asymmetry",
+        "predicted_answer": "ontological asymmetry",
+        "gold_answers": [
+            "intrinsic"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3863",
+        "prediction": "146 BC",
+        "predicted_answer": "146 BC",
+        "gold_answers": [
+            "146 BC"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_6490",
+        "prediction": "salivary ducts",
+        "predicted_answer": "salivary ducts",
+        "gold_answers": [
+            "salivary ducts"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_1974",
+        "prediction": "disputes",
+        "predicted_answer": "disputes",
+        "gold_answers": [
+            "disputes"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_135",
+        "prediction": "work in Civilian Public Service camps",
+        "predicted_answer": "work in Civilian Public Service camps",
+        "gold_answers": [
+            "smokejumpers and for other forest fire-fighting duties."
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6881",
+        "prediction": "18",
+        "predicted_answer": "18",
+        "gold_answers": [
+            "18"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_6727",
+        "prediction": "sunscreen",
+        "predicted_answer": "sunscreen",
+        "gold_answers": [
+            "cereals"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1181",
+        "prediction": "1620",
+        "predicted_answer": "1620",
+        "gold_answers": [
+            "1620"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_3029",
+        "prediction": "McLaren Formula One team",
+        "predicted_answer": "McLaren Formula One team",
+        "gold_answers": [
+            "CART"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_67",
+        "prediction": "Jay-Z (and other artists)",
+        "predicted_answer": "Jay-Z (and other artists)",
+        "gold_answers": [
+            "the ONE Campaign"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3090",
+        "prediction": "The Antarctic Peninsula's sea level rise is primarily attributed to climate change, which leads to increased temperatures and melting ice. The warming atmosphere and ocean temperatures contribute to the melting of glaciers and ice shelves in the region. Additionally, the loss of ice mass from the Antarctic Peninsula can result in increased freshwater input into the ocean, which can further influence sea levels globally. Other factors include changes in ocean currents and the dynamics of ice flow. Overall, the consensus among scientists is that human-induced climate change is a significant driver of the observed changes in the Antarctic Peninsula's ice and sea levels",
+        "predicted_answer": "The Antarctic Peninsula's sea level rise is primarily attributed to climate change, which leads to increased temperatures and melting ice. The warming atmosphere and ocean temperatures contribute to the melting of glaciers and ice shelves in the region. Additionally, the loss of ice mass from the Antarctic Peninsula can result in increased freshwater input into the ocean, which can further influence sea levels globally. Other factors include changes in ocean currents and the dynamics of ice flow. Overall, the consensus among scientists is that human-induced climate change is a significant driver of the observed changes in the Antarctic Peninsula's ice and sea levels",
+        "gold_answers": [
+            "atmospheric warming"
+        ],
+        "em": 0,
+        "f1": 0.021505376344086023
+    },
+    {
+        "id": "single_squad_dev_3806",
+        "prediction": "The immigration was in accordance to various laws and regulations that govern the entry and residency of individuals in a country. These can include immigration policies, visa requirements, and international treaties. However, without specific context or details about the immigration in question, it's difficult to provide a precise answer. If you have a specific country or situation in mind, please provide more details for a more accurate response",
+        "predicted_answer": "The immigration was in accordance to various laws and regulations that govern the entry and residency of individuals in a country. These can include immigration policies, visa requirements, and international treaties. However, without specific context or details about the immigration in question, it's difficult to provide a precise answer. If you have a specific country or situation in mind, please provide more details for a more accurate response",
+        "gold_answers": [
+            "One Million Plan"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2636",
+        "prediction": "Houston Art Car Parade",
+        "predicted_answer": "Houston Art Car Parade",
+        "gold_answers": [
+            "Art Car Parade"
+        ],
+        "em": 0,
+        "f1": 0.8571428571428571
+    },
+    {
+        "id": "single_squad_dev_88",
+        "prediction": "Billboard",
+        "predicted_answer": "Billboard",
+        "gold_answers": [
+            "The Guardian"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8242",
+        "prediction": "Saint Anne and Saint Joachim",
+        "predicted_answer": "Saint Anne and Saint Joachim",
+        "gold_answers": [
+            "Saint Joachim and Saint Anne"
+        ],
+        "em": 0,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_4498",
+        "prediction": "The percentage of people who suffer from atypical symptoms can vary depending on the specific condition being discussed. For example, in the context of certain diseases or disorders, atypical symptoms may be reported in a significant portion of the population, but there isn't a universal percentage applicable to all conditions. If you have a specific condition in mind, I can provide more detailed information",
+        "predicted_answer": "The percentage of people who suffer from atypical symptoms can vary depending on the specific condition being discussed. For example, in the context of certain diseases or disorders, atypical symptoms may be reported in a significant portion of the population, but there isn't a universal percentage applicable to all conditions. If you have a specific condition in mind, I can provide more detailed information",
+        "gold_answers": [
+            "30%"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4670",
+        "prediction": "six",
+        "predicted_answer": "six",
+        "gold_answers": [
+            "six"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_4998",
+        "prediction": "a bicycle wheel and a wooden stool",
+        "predicted_answer": "a bicycle wheel and a wooden stool",
+        "gold_answers": [
+            "a bicycle wheel to a kitchen stool"
+        ],
+        "em": 0,
+        "f1": 0.6
+    },
+    {
+        "id": "single_squad_dev_8475",
+        "prediction": "1894",
+        "predicted_answer": "1894",
+        "gold_answers": [
+            "1986"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_592",
+        "prediction": "cultural anthropology",
+        "predicted_answer": "cultural anthropology",
+        "gold_answers": [
+            "birth anthropology"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_6213",
+        "prediction": "Dodd-Frank Wall Street Reform and Consumer Protection Act",
+        "predicted_answer": "Dodd-Frank Wall Street Reform and Consumer Protection Act",
+        "gold_answers": [
+            "the Basel II recommendations"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7320",
+        "prediction": "the Paris Commune",
+        "predicted_answer": "the Paris Commune",
+        "gold_answers": [
+            "the Paris Commune"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_159",
+        "prediction": "1928",
+        "predicted_answer": "1928",
+        "gold_answers": [
+            "20th century"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4613",
+        "prediction": "Erfurt, Germany",
+        "predicted_answer": "Erfurt, Germany",
+        "gold_answers": [
+            "Gotha"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3186",
+        "prediction": "solid-state drive (SSD)",
+        "predicted_answer": "solid-state drive (SSD)",
+        "gold_answers": [
+            "Intel's latest CPUs"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6251",
+        "prediction": "power of veto",
+        "predicted_answer": "power of veto",
+        "gold_answers": [
+            "reserve powers"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3709",
+        "prediction": "2012",
+        "predicted_answer": "2012",
+        "gold_answers": [
+            "1915"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1369",
+        "prediction": "New York",
+        "predicted_answer": "New York",
+        "gold_answers": [
+            "New York"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_8025",
+        "prediction": "Persianate culture",
+        "predicted_answer": "Persianate culture",
+        "gold_answers": [
+            "a culture that was distinctively Iranian"
+        ],
+        "em": 0,
+        "f1": 0.28571428571428575
+    },
+    {
+        "id": "single_squad_dev_5073",
+        "prediction": "Cardinal Augustin Bea",
+        "predicted_answer": "Cardinal Augustin Bea",
+        "gold_answers": [
+            "Cardinal Augustin Bea"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_2669",
+        "prediction": "collectivist identity",
+        "predicted_answer": "collectivist identity",
+        "gold_answers": [
+            "the relational self"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2646",
+        "prediction": "1,953,631",
+        "predicted_answer": "1,953,631",
+        "gold_answers": [
+            "1,953,631"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_6592",
+        "prediction": "Apollo",
+        "predicted_answer": "Apollo",
+        "gold_answers": [
+            "Artemis"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1567",
+        "prediction": "11th century",
+        "predicted_answer": "11th century",
+        "gold_answers": [
+            "12th"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8459",
+        "prediction": "Andronikos II Palaiologos",
+        "predicted_answer": "Andronikos II Palaiologos",
+        "gold_answers": [
+            "the Despot of Epirus"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2383",
+        "prediction": "Swiss Army knife and SIG SG 550",
+        "predicted_answer": "Swiss Army knife and SIG SG 550",
+        "gold_answers": [
+            "pikes"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8469",
+        "prediction": "Emperor Charles the Bald",
+        "predicted_answer": "Emperor Charles the Bald",
+        "gold_answers": [
+            "The Abbot of Monte Cassino"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7108",
+        "prediction": "1991",
+        "predicted_answer": "1991",
+        "gold_answers": [
+            "1979"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7232",
+        "prediction": "Mercury, Venus, and Mars",
+        "predicted_answer": "Mercury, Venus, and Mars",
+        "gold_answers": [
+            "Earth, Jupiter and Saturn"
+        ],
+        "em": 0,
+        "f1": 0.25
+    },
+    {
+        "id": "single_squad_dev_7065",
+        "prediction": "Iroquois Confederacy",
+        "predicted_answer": "Iroquois Confederacy",
+        "gold_answers": [
+            "the Seven Nations were interested in fighting against the Iroquois"
+        ],
+        "em": 0,
+        "f1": 0.2
+    },
+    {
+        "id": "single_squad_dev_8359",
+        "prediction": "the Prince of Yu and Dorgon",
+        "predicted_answer": "the Prince of Yu and Dorgon",
+        "gold_answers": [
+            "Dorgon"
+        ],
+        "em": 0,
+        "f1": 0.33333333333333337
+    },
+    {
+        "id": "single_squad_dev_5234",
+        "prediction": "1826",
+        "predicted_answer": "1826",
+        "gold_answers": [
+            "1826"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_7813",
+        "prediction": "1991",
+        "predicted_answer": "1991",
+        "gold_answers": [
+            "1991"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_1228",
+        "prediction": "1986",
+        "predicted_answer": "1986",
+        "gold_answers": [
+            "1966"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6567",
+        "prediction": "the Louvre",
+        "predicted_answer": "the Louvre",
+        "gold_answers": [
+            "the Louvre"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_4028",
+        "prediction": "traditional media outlets",
+        "predicted_answer": "traditional media outlets",
+        "gold_answers": [
+            "geography"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4160",
+        "prediction": "five",
+        "predicted_answer": "five",
+        "gold_answers": [
+            "two"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_834",
+        "prediction": "Sony Music Entertainment",
+        "predicted_answer": "Sony Music Entertainment",
+        "gold_answers": [
+            "Sony Music Entertainment"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_7943",
+        "prediction": "approximately 100,000",
+        "predicted_answer": "approximately 100,000",
+        "gold_answers": [
+            "115,000"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8449",
+        "prediction": "scenes from mythology and daily life, including gladiatorial combat and mythological figures",
+        "predicted_answer": "scenes from mythology and daily life, including gladiatorial combat and mythological figures",
+        "gold_answers": [
+            "gladiatorial contests"
+        ],
+        "em": 0,
+        "f1": 0.14285714285714285
+    },
+    {
+        "id": "single_squad_dev_3054",
+        "prediction": "around 16 to 18",
+        "predicted_answer": "around 16 to 18",
+        "gold_answers": [
+            "17"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2635",
+        "prediction": "over 90",
+        "predicted_answer": "over 90",
+        "gold_answers": [
+            "Forty"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7497",
+        "prediction": "The design and materials of the transistor, including physical dimensions and doping levels",
+        "predicted_answer": "The design and materials of the transistor, including physical dimensions and doping levels",
+        "gold_answers": [
+            "the type of transistor"
+        ],
+        "em": 0,
+        "f1": 0.28571428571428575
+    },
+    {
+        "id": "single_squad_dev_5882",
+        "prediction": "November 15, 1889",
+        "predicted_answer": "November 15, 1889",
+        "gold_answers": [
+            "1889"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_3372",
+        "prediction": "1727",
+        "predicted_answer": "1727",
+        "gold_answers": [
+            "1727"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_1617",
+        "prediction": "1990",
+        "predicted_answer": "1990",
+        "gold_answers": [
+            "1535"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2584",
+        "prediction": "Dubai and Beirut",
+        "predicted_answer": "Dubai and Beirut",
+        "gold_answers": [
+            "Dubai & Abu Dhabi"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_squad_dev_7099",
+        "prediction": "Knightsbridge",
+        "predicted_answer": "Knightsbridge",
+        "gold_answers": [
+            "Piccadilly"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8265",
+        "prediction": "Atlantic Ocean",
+        "predicted_answer": "Atlantic Ocean",
+        "gold_answers": [
+            "Atlantic"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_6526",
+        "prediction": "ethnicity",
+        "predicted_answer": "ethnicity",
+        "gold_answers": [
+            "ethnicity"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_1488",
+        "prediction": "voiced pharyngeal fricative",
+        "predicted_answer": "voiced pharyngeal fricative",
+        "gold_answers": [
+            "breathy-voiced release of obstruents."
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_643",
+        "prediction": "late 1990s",
+        "predicted_answer": "late 1990s",
+        "gold_answers": [
+            "mid-1990s"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3440",
+        "prediction": "Your Majesty",
+        "predicted_answer": "Your Majesty",
+        "gold_answers": [
+            "Ma'am"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2673",
+        "prediction": "traditional crafts, folk music, dance, and festivals",
+        "predicted_answer": "traditional crafts, folk music, dance, and festivals",
+        "gold_answers": [
+            "handicrafts"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_111",
+        "prediction": "The crowdfunding platform used in the concert is not specified in the provided information. If you have a specific concert in mind, please provide more details so I can assist you better",
+        "predicted_answer": "The crowdfunding platform used in the concert is not specified in the provided information. If you have a specific concert in mind, please provide more details so I can assist you better",
+        "gold_answers": [
+            "Catapult"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2129",
+        "prediction": "deoxyribose",
+        "predicted_answer": "deoxyribose",
+        "gold_answers": [
+            "a five-carbon sugar (2'-deoxyribose)"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8785",
+        "prediction": "12 men",
+        "predicted_answer": "12 men",
+        "gold_answers": [
+            "50"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7496",
+        "prediction": "on",
+        "predicted_answer": "on",
+        "gold_answers": [
+            "on"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_5988",
+        "prediction": "Diwali",
+        "predicted_answer": "Diwali",
+        "gold_answers": [
+            "River Days"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7038",
+        "prediction": "a series of conflicts between England and France from 1689 to 1815",
+        "predicted_answer": "a series of conflicts between England and France from 1689 to 1815",
+        "gold_answers": [
+            "The term \"Second Hundred Years' War\" has been used in order to describe the almost continuous level of world-wide conflict during the entire 18th century,"
+        ],
+        "em": 0,
+        "f1": 0.12121212121212123
+    },
+    {
+        "id": "single_squad_dev_2115",
+        "prediction": "The construction of paved roads is often attributed to various leaders throughout history, but one notable figure is Emperor Augustus of Rome, who initiated extensive road construction during his reign. However, if you are referring to a specific paved road or context, please provide more details for a precise answer",
+        "predicted_answer": "The construction of paved roads is often attributed to various leaders throughout history, but one notable figure is Emperor Augustus of Rome, who initiated extensive road construction during his reign. However, if you are referring to a specific paved road or context, please provide more details for a precise answer",
+        "gold_answers": [
+            "Napol\u00e9on Bonaparte"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_144",
+        "prediction": "intent to destroy the group and systematic pattern of attacks",
+        "predicted_answer": "intent to destroy the group and systematic pattern of attacks",
+        "gold_answers": [
+            "prominence within the group"
+        ],
+        "em": 0,
+        "f1": 0.16666666666666666
+    },
+    {
+        "id": "single_squad_dev_5139",
+        "prediction": "The EFTA stands for the European Free Trade Association. It is an intergovernmental organization that was established in 1960 to promote free trade and economic integration among its member states, which include Iceland, Liechtenstein, Norway, and Switzerland. The EFTA operates in parallel with the European Union (EU) and allows its members to engage in trade agreements with the EU and other countries",
+        "predicted_answer": "The EFTA stands for the European Free Trade Association. It is an intergovernmental organization that was established in 1960 to promote free trade and economic integration among its member states, which include Iceland, Liechtenstein, Norway, and Switzerland. The EFTA operates in parallel with the European Union (EU) and allows its members to engage in trade agreements with the EU and other countries",
+        "gold_answers": [
+            "European Free Trade Association"
+        ],
+        "em": 0,
+        "f1": 0.13333333333333333
+    },
+    {
+        "id": "single_squad_dev_1868",
+        "prediction": "varies, typically around 5 to 10 methods",
+        "predicted_answer": "varies, typically around 5 to 10 methods",
+        "gold_answers": [
+            "two"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6085",
+        "prediction": "Fred Jones Jr. Museum of Art",
+        "predicted_answer": "Fred Jones Jr. Museum of Art",
+        "gold_answers": [
+            "Mabee-Gerrer Museum of Art in Shawnee"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_8510",
+        "prediction": "The benefit of being a Vestal Virgin in ancient Rome included a high social status, respect, and privileges not afforded to other women. Vestals were tasked with maintaining the sacred fire of Vesta, the goddess of the hearth, and their role was considered vital to the security and prosperity of Rome. They enjoyed certain legal rights, such as the ability to own property and make a will, and they were granted immunity from the authority of their male guardians. Additionally, they were often sought after for marriage, as their status conferred a sense of purity and divine favor",
+        "predicted_answer": "The benefit of being a Vestal Virgin in ancient Rome included a high social status, respect, and privileges not afforded to other women. Vestals were tasked with maintaining the sacred fire of Vesta, the goddess of the hearth, and their role was considered vital to the security and prosperity of Rome. They enjoyed certain legal rights, such as the ability to own property and make a will, and they were granted immunity from the authority of their male guardians. Additionally, they were often sought after for marriage, as their status conferred a sense of purity and divine favor",
+        "gold_answers": [
+            "political influence"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4572",
+        "prediction": "complications related to AIDS",
+        "predicted_answer": "complications related to AIDS",
+        "gold_answers": [
+            "bronchial pneumonia, which was brought on as a complication of AIDS"
+        ],
+        "em": 0,
+        "f1": 0.14285714285714288
+    },
+    {
+        "id": "single_squad_dev_5082",
+        "prediction": "Cardinal Jaime Sin",
+        "predicted_answer": "Cardinal Jaime Sin",
+        "gold_answers": [
+            "Msgr. Paul Marcinkus"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6427",
+        "prediction": "Croatian nationalists generally advocate for the promotion and preservation of the Croatian language as a distinct and integral part of Croatian identity. They often emphasize the importance of using the Croatian language in education, government, and media, viewing it as a symbol of national pride and cultural heritage. Additionally, they may oppose the influence of other languages, particularly Serbian, in areas where there is a significant Serbian-speaking population, arguing for the exclusivity of Croatian in official and public contexts. Overall, Croatian nationalists tend to support policies that reinforce the use of the Croatian language and its status as the official language of Croatia",
+        "predicted_answer": "Croatian nationalists generally advocate for the promotion and preservation of the Croatian language as a distinct and integral part of Croatian identity. They often emphasize the importance of using the Croatian language in education, government, and media, viewing it as a symbol of national pride and cultural heritage. Additionally, they may oppose the influence of other languages, particularly Serbian, in areas where there is a significant Serbian-speaking population, arguing for the exclusivity of Croatian in official and public contexts. Overall, Croatian nationalists tend to support policies that reinforce the use of the Croatian language and its status as the official language of Croatia",
+        "gold_answers": [
+            "they speak an entirely separate language from Serbs and Bosnians"
+        ],
+        "em": 0,
+        "f1": 0.06
+    },
+    {
+        "id": "single_squad_dev_4645",
+        "prediction": "Disney",
+        "predicted_answer": "Disney",
+        "gold_answers": [
+            "ABC"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4896",
+        "prediction": "a blend of European, indigenous, and African influences",
+        "predicted_answer": "a blend of European, indigenous, and African influences",
+        "gold_answers": [
+            "slaves"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4774",
+        "prediction": "1963",
+        "predicted_answer": "1963",
+        "gold_answers": [
+            "1963"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_5633",
+        "prediction": "Buddhism",
+        "predicted_answer": "Buddhism",
+        "gold_answers": [
+            "Buddhism"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_5550",
+        "prediction": "expectations of a meritocratic nature",
+        "predicted_answer": "expectations of a meritocratic nature",
+        "gold_answers": [
+            "a right to expect that a university will design its admissions policies in a way that prizes any particular set of qualities"
+        ],
+        "em": 0,
+        "f1": 0.08695652173913043
+    },
+    {
+        "id": "single_squad_dev_3628",
+        "prediction": "The number of race choices someone may check can vary depending on the context, such as a survey, application, or census form. Typically, forms may allow individuals to check one or more options, often providing a list of races to choose from. However, without specific context, it's impossible to provide an exact number. If you have a particular form or context in mind, please provide more details for a more accurate answer",
+        "predicted_answer": "The number of race choices someone may check can vary depending on the context, such as a survey, application, or census form. Typically, forms may allow individuals to check one or more options, often providing a list of races to choose from. However, without specific context, it's impossible to provide an exact number. If you have a particular form or context in mind, please provide more details for a more accurate answer",
+        "gold_answers": [
+            "only one"
+        ],
+        "em": 0,
+        "f1": 0.029850746268656723
+    },
+    {
+        "id": "single_squad_dev_2656",
+        "prediction": "organocopper peroxides",
+        "predicted_answer": "organocopper peroxides",
+        "gold_answers": [
+            "copper(I) oxide"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1663",
+        "prediction": "pop music",
+        "predicted_answer": "pop music",
+        "gold_answers": [
+            "pop music"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_6033",
+        "prediction": "1932",
+        "predicted_answer": "1932",
+        "gold_answers": [
+            "1932"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_389",
+        "prediction": "The question is too vague to provide a specific answer. Could you please provide more context or specify which findings you are referring to?",
+        "predicted_answer": "The question is too vague to provide a specific answer. Could you please provide more context or specify which findings you are referring to?",
+        "gold_answers": [
+            "variety of reasons"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3592",
+        "prediction": "February 2010",
+        "predicted_answer": "February 2010",
+        "gold_answers": [
+            "December 12\u201325, 2008"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2281",
+        "prediction": "result in a loss of quality",
+        "predicted_answer": "result in a loss of quality",
+        "gold_answers": [
+            "distort the received picture"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2552",
+        "prediction": ".mpg or .mpeg",
+        "predicted_answer": ".mpg or .mpeg",
+        "gold_answers": [
+            "MPEG-2.5 audio"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4482",
+        "prediction": "commitment to academic excellence",
+        "predicted_answer": "commitment to academic excellence",
+        "gold_answers": [
+            "its religious nature"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4234",
+        "prediction": "Peer-to-peer (P2P) networks differ from other online providers in that they allow direct communication and resource sharing between users (peers) without the need for a central server. In a P2P network, each participant can act as both a client and a server, sharing files, data, or resources directly with one another. This decentralized structure enhances resilience, as the network can continue to function even if some peers go offline. Additionally, P2P networks often facilitate faster data transfer rates and can reduce the load on individual servers, as the distribution of data occurs across multiple peers",
+        "predicted_answer": "Peer-to-peer (P2P) networks differ from other online providers in that they allow direct communication and resource sharing between users (peers) without the need for a central server. In a P2P network, each participant can act as both a client and a server, sharing files, data, or resources directly with one another. This decentralized structure enhances resilience, as the network can continue to function even if some peers go offline. Additionally, P2P networks often facilitate faster data transfer rates and can reduce the load on individual servers, as the distribution of data occurs across multiple peers",
+        "gold_answers": [
+            "decentralised structure"
+        ],
+        "em": 0,
+        "f1": 0.02247191011235955
+    },
+    {
+        "id": "single_squad_dev_3267",
+        "prediction": "an autonomous community",
+        "predicted_answer": "an autonomous community",
+        "gold_answers": [
+            "the Valencian Community"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_2773",
+        "prediction": "To provide an accurate answer, I would need more specific information about the professor in question, such as their name or the institution they were associated with. Without that information, I cannot determine which department they belonged to. Please provide additional details",
+        "predicted_answer": "To provide an accurate answer, I would need more specific information about the professor in question, such as their name or the institution they were associated with. Without that information, I cannot determine which department they belonged to. Please provide additional details",
+        "gold_answers": [
+            "Department of Medicine"
+        ],
+        "em": 0,
+        "f1": 0.047619047619047616
+    },
+    {
+        "id": "single_squad_dev_3447",
+        "prediction": "non-sexual or neutral stimuli",
+        "predicted_answer": "non-sexual or neutral stimuli",
+        "gold_answers": [
+            "to non-human visual stimuli"
+        ],
+        "em": 0,
+        "f1": 0.25
+    },
+    {
+        "id": "single_squad_dev_650",
+        "prediction": "So Help Me God",
+        "predicted_answer": "So Help Me God",
+        "gold_answers": [
+            "So Help Me God"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_7248",
+        "prediction": "A DC (Direct Current) system can affect the speed of trains because it allows for efficient power transmission over short distances, which is ideal for urban transit systems. In a DC system, the voltage can be easily controlled and adjusted, enabling trains to accelerate and decelerate smoothly. Additionally, DC motors provide high torque at low speeds, which is beneficial for starting and stopping trains quickly. However, DC systems are typically limited in range compared to AC (Alternating Current) systems, which can transmit power over longer distances with less energy loss. Therefore, the choice of DC or AC can influence the operational speed and efficiency of train systems",
+        "predicted_answer": "A DC (Direct Current) system can affect the speed of trains because it allows for efficient power transmission over short distances, which is ideal for urban transit systems. In a DC system, the voltage can be easily controlled and adjusted, enabling trains to accelerate and decelerate smoothly. Additionally, DC motors provide high torque at low speeds, which is beneficial for starting and stopping trains quickly. However, DC systems are typically limited in range compared to AC (Alternating Current) systems, which can transmit power over longer distances with less energy loss. Therefore, the choice of DC or AC can influence the operational speed and efficiency of train systems",
+        "gold_answers": [
+            "low voltages"
+        ],
+        "em": 0,
+        "f1": 0.019417475728155338
+    },
+    {
+        "id": "single_squad_dev_1506",
+        "prediction": "Large quantities of H2 (hydrogen) are needed in various industries, including:",
+        "predicted_answer": "Large quantities of H2 (hydrogen) are needed in various industries, including:",
+        "gold_answers": [
+            "petroleum and chemical industries"
+        ],
+        "em": 0,
+        "f1": 0.13333333333333333
+    },
+    {
+        "id": "single_squad_dev_4679",
+        "prediction": "Botany can be applied to combating world hunger in several ways:",
+        "predicted_answer": "Botany can be applied to combating world hunger in several ways:",
+        "gold_answers": [
+            "providing staple foods"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3466",
+        "prediction": "The knowledge about lesbians and bisexual women in various cultures can vary significantly based on social, legal, and cultural contexts. In some cultures, there is a growing acceptance and visibility of LGBTQ+ individuals, leading to more research and understanding of the experiences of lesbians and bisexual women. In contrast, other cultures may have restrictive norms and laws that limit the expression and acknowledgment of these identities, resulting in less visibility and understanding",
+        "predicted_answer": "The knowledge about lesbians and bisexual women in various cultures can vary significantly based on social, legal, and cultural contexts. In some cultures, there is a growing acceptance and visibility of LGBTQ+ individuals, leading to more research and understanding of the experiences of lesbians and bisexual women. In contrast, other cultures may have restrictive norms and laws that limit the expression and acknowledgment of these identities, resulting in less visibility and understanding",
+        "gold_answers": [
+            "Little"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5313",
+        "prediction": "1609",
+        "predicted_answer": "1609",
+        "gold_answers": [
+            "1707"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4041",
+        "prediction": "Dijon Court",
+        "predicted_answer": "Dijon Court",
+        "gold_answers": [
+            "Burgundian Ducal Court"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_squad_dev_2276",
+        "prediction": "the lack of high-definition content",
+        "predicted_answer": "the lack of high-definition content",
+        "gold_answers": [
+            "\"no HD broadcasts mean no HD TVs bought means no HD broadcasts ...\""
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_625",
+        "prediction": "30",
+        "predicted_answer": "30",
+        "gold_answers": [
+            "over 30"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_4376",
+        "prediction": "Jewish assimilation is a complex historical process that varies by region and context, and it cannot be pinpointed to a specific end date. In many places, Jewish communities have continued to assimilate into broader societies while maintaining their cultural and religious identities. However, significant events, such as the Holocaust and the establishment of the State of Israel in 1948, have influenced Jewish identity and assimilation patterns. Therefore, there is no definitive answer to when Jewish assimilation ended, as it is an ongoing process",
+        "predicted_answer": "Jewish assimilation is a complex historical process that varies by region and context, and it cannot be pinpointed to a specific end date. In many places, Jewish communities have continued to assimilate into broader societies while maintaining their cultural and religious identities. However, significant events, such as the Holocaust and the establishment of the State of Israel in 1948, have influenced Jewish identity and assimilation patterns. Therefore, there is no definitive answer to when Jewish assimilation ended, as it is an ongoing process",
+        "gold_answers": [
+            "during the Crusades"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5867",
+        "prediction": "Cork, a city in Ireland, offers a variety of retail offerings, including:",
+        "predicted_answer": "Cork, a city in Ireland, offers a variety of retail offerings, including:",
+        "gold_answers": [
+            "state of the art shopping centres and family owned local shops"
+        ],
+        "em": 0,
+        "f1": 0.10000000000000002
+    },
+    {
+        "id": "single_squad_dev_948",
+        "prediction": "instinctual drives and primal emotions",
+        "predicted_answer": "instinctual drives and primal emotions",
+        "gold_answers": [
+            "causal relationships"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8378",
+        "prediction": "Industrial regions, such as the Northeast U.S. and Manchester in the UK, as well as countries like China, India, and Bangladesh",
+        "predicted_answer": "Industrial regions, such as the Northeast U.S. and Manchester in the UK, as well as countries like China, India, and Bangladesh",
+        "gold_answers": [
+            "Jiangnan region"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3766",
+        "prediction": "constitutional monarchy",
+        "predicted_answer": "constitutional monarchy",
+        "gold_answers": [
+            "family monarchy"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_5282",
+        "prediction": "empirical observation and experimentation",
+        "predicted_answer": "empirical observation and experimentation",
+        "gold_answers": [
+            "epistemological matters"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_445",
+        "prediction": "Atlantic Ocean",
+        "predicted_answer": "Atlantic Ocean",
+        "gold_answers": [
+            "Atlantic"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_3767",
+        "prediction": "Lord Salisbury",
+        "predicted_answer": "Lord Salisbury",
+        "gold_answers": [
+            "Salisbury"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_7405",
+        "prediction": "through inheritance",
+        "predicted_answer": "through inheritance",
+        "gold_answers": [
+            "marriage dowries"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7603",
+        "prediction": "adapted to perform functions like photosynthesis, reproduction, support, and defense",
+        "predicted_answer": "adapted to perform functions like photosynthesis, reproduction, support, and defense",
+        "gold_answers": [
+            "fused together"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7639",
+        "prediction": "1980s",
+        "predicted_answer": "1980s",
+        "gold_answers": [
+            "1920s"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2019",
+        "prediction": "The term \\\"Mass Movement\\\" often refers to a significant social or political movement that mobilizes large groups of people to advocate for change or express collective sentiments. One notable example is the \\\"Mass Movement\\\" in the context of the civil rights movement in the United States during the 1960s, which sought to end racial segregation and discrimination. However, without specific context, it could refer to various movements in different historical or cultural settings. If you have a particular context in mind, please provide more details for a more precise answer",
+        "predicted_answer": "The term \\\"Mass Movement\\\" often refers to a significant social or political movement that mobilizes large groups of people to advocate for change or express collective sentiments. One notable example is the \\\"Mass Movement\\\" in the context of the civil rights movement in the United States during the 1960s, which sought to end racial segregation and discrimination. However, without specific context, it could refer to various movements in different historical or cultural settings. If you have a particular context in mind, please provide more details for a more precise answer",
+        "gold_answers": [
+            "the Croatian Spring"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1849",
+        "prediction": "$1 trillion",
+        "predicted_answer": "$1 trillion",
+        "gold_answers": [
+            "1 trillion US dollars"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_1064",
+        "prediction": "Morrison & Foerster",
+        "predicted_answer": "Morrison & Foerster",
+        "gold_answers": [
+            "Harding Earley Follmer & Frailey"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6021",
+        "prediction": "If a government does not have an effective system for maintenance and restoration of the rule of law, it can lead to a breakdown of legal order, increased lawlessness, and a lack of accountability. This can result in the erosion of citizens' rights, increased corruption, and the potential for abuse of power by authorities. Ultimately, the absence of a robust legal framework can undermine public trust in the government and its institutions, leading to social unrest and instability",
+        "predicted_answer": "If a government does not have an effective system for maintenance and restoration of the rule of law, it can lead to a breakdown of legal order, increased lawlessness, and a lack of accountability. This can result in the erosion of citizens' rights, increased corruption, and the potential for abuse of power by authorities. Ultimately, the absence of a robust legal framework can undermine public trust in the government and its institutions, leading to social unrest and instability",
+        "gold_answers": [
+            "decay"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7731",
+        "prediction": "At The Procession, a ceremonial event in some cultures, a figure or effigy representing a person or concept is often burned. This can symbolize purification, sacrifice, or the release of negative energies. However, without specific context, it's difficult to provide a definitive answer. If you are referring to a specific event or cultural practice, please provide more details for a more accurate response",
+        "predicted_answer": "At The Procession, a ceremonial event in some cultures, a figure or effigy representing a person or concept is often burned. This can symbolize purification, sacrifice, or the release of negative energies. However, without specific context, it's difficult to provide a definitive answer. If you are referring to a specific event or cultural practice, please provide more details for a more accurate response",
+        "gold_answers": [
+            "an urn in which written prayers have been collected from participants and spectators"
+        ],
+        "em": 0,
+        "f1": 0.029850746268656716
+    },
+    {
+        "id": "single_squad_dev_8711",
+        "prediction": "khaki",
+        "predicted_answer": "khaki",
+        "gold_answers": [
+            "green"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5366",
+        "prediction": "The conflict with the prince bishopric often refers to various historical disputes involving the authority of prince-bishops, particularly in regions like the Holy Roman Empire. One notable figure in such conflicts was Martin Luther, whose actions during the Reformation challenged the authority of the church and its leaders, including prince-bishops. Additionally, various local nobility and secular rulers often found themselves in conflict with prince-bishops over territorial and political power. If you have a specific prince-bishopric or historical context in mind, please provide more details for a more precise answer",
+        "predicted_answer": "The conflict with the prince bishopric often refers to various historical disputes involving the authority of prince-bishops, particularly in regions like the Holy Roman Empire. One notable figure in such conflicts was Martin Luther, whose actions during the Reformation challenged the authority of the church and its leaders, including prince-bishops. Additionally, various local nobility and secular rulers often found themselves in conflict with prince-bishops over territorial and political power. If you have a specific prince-bishopric or historical context in mind, please provide more details for a more precise answer",
+        "gold_answers": [
+            "the Counts of Holland and the Dukes of Guelders"
+        ],
+        "em": 0,
+        "f1": 0.06896551724137931
+    },
+    {
+        "id": "single_squad_dev_4745",
+        "prediction": "City of London Police",
+        "predicted_answer": "City of London Police",
+        "gold_answers": [
+            "the City of London Police"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_6520",
+        "prediction": "the amount and type of melanin produced in the skin",
+        "predicted_answer": "the amount and type of melanin produced in the skin",
+        "gold_answers": [
+            "mutation"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8312",
+        "prediction": "1990s",
+        "predicted_answer": "1990s",
+        "gold_answers": [
+            "1970s"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3301",
+        "prediction": "General William B. McCoy",
+        "predicted_answer": "General William B. McCoy",
+        "gold_answers": [
+            "General Manstein"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_squad_dev_4939",
+        "prediction": "Rose Bowl",
+        "predicted_answer": "Rose Bowl",
+        "gold_answers": [
+            "Yale Bowl"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_5210",
+        "prediction": "urine",
+        "predicted_answer": "urine",
+        "gold_answers": [
+            "urine"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_139",
+        "prediction": "Northern Pacific Railway and land companies",
+        "predicted_answer": "Northern Pacific Railway and land companies",
+        "gold_answers": [
+            "James J. Hill"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1932",
+        "prediction": "Byzantine Empire, Khazars, and Vikings",
+        "predicted_answer": "Byzantine Empire, Khazars, and Vikings",
+        "gold_answers": [
+            "Iranic Sarmatians and the Germanic Goths"
+        ],
+        "em": 0,
+        "f1": 0.20000000000000004
+    },
+    {
+        "id": "single_squad_dev_5752",
+        "prediction": "Bruce Metzger",
+        "predicted_answer": "Bruce Metzger",
+        "gold_answers": [
+            "Professor Douglas Stuart"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5046",
+        "prediction": "William Hare",
+        "predicted_answer": "William Hare",
+        "gold_answers": [
+            "Charles, Marquess of Rockingham"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1621",
+        "prediction": "Seto dialect",
+        "predicted_answer": "Seto dialect",
+        "gold_answers": [
+            "the idamurre or eastern dialect"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_squad_dev_3954",
+        "prediction": "stand and cheer",
+        "predicted_answer": "stand and cheer",
+        "gold_answers": [
+            "jingle keys"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6922",
+        "prediction": "Kerry's mother's name is not specified in the provided context. If you are referring to a specific Kerry, please provide more details for a more accurate answer",
+        "predicted_answer": "Kerry's mother's name is not specified in the provided context. If you are referring to a specific Kerry, please provide more details for a more accurate answer",
+        "gold_answers": [
+            "Rosemary Forbes Kerry"
+        ],
+        "em": 0,
+        "f1": 0.07407407407407407
+    },
+    {
+        "id": "single_squad_dev_1125",
+        "prediction": "happiness",
+        "predicted_answer": "happiness",
+        "gold_answers": [
+            "I am happy"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7994",
+        "prediction": "4 years",
+        "predicted_answer": "4 years",
+        "gold_answers": [
+            "four years later"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_squad_dev_8330",
+        "prediction": "Ornithothoraces",
+        "predicted_answer": "Ornithothoraces",
+        "gold_answers": [
+            "Euornithes"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2486",
+        "prediction": "National Gallery of Modern Art",
+        "predicted_answer": "National Gallery of Modern Art",
+        "gold_answers": [
+            "National Gallery of Modern Art"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_3094",
+        "prediction": "The person who is known for being interested in the effects of harsh environments on humans is Dr. John W. McCulloch, a researcher and author in the field of environmental psychology. However, if you are referring to a specific individual or context, please provide more details for a more accurate answer",
+        "predicted_answer": "The person who is known for being interested in the effects of harsh environments on humans is Dr. John W. McCulloch, a researcher and author in the field of environmental psychology. However, if you are referring to a specific individual or context, please provide more details for a more accurate answer",
+        "gold_answers": [
+            "Biologists"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2679",
+        "prediction": "\\\"snow\\\" or \\\"cold.\\\"",
+        "predicted_answer": "\\\"snow\\\" or \\\"cold.\\\"",
+        "gold_answers": [
+            "snow"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_6521",
+        "prediction": "Sweeps refer to specific periods during the television broadcasting season when networks and local stations measure audience ratings to determine advertising rates. These periods typically occur four times a year (February, May, July, and November) and are crucial for networks as they aim to attract advertisers by showcasing their most popular shows and programming. During sweeps, networks often air special episodes, events, or stunts to boost viewership and ratings",
+        "predicted_answer": "Sweeps refer to specific periods during the television broadcasting season when networks and local stations measure audience ratings to determine advertising rates. These periods typically occur four times a year (February, May, July, and November) and are crucial for networks as they aim to attract advertisers by showcasing their most popular shows and programming. During sweeps, networks often air special episodes, events, or stunts to boost viewership and ratings",
+        "gold_answers": [
+            "major geographic patterns"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5565",
+        "prediction": "The question seems to refer to a specific incident involving someone named Burge and a cup, but without additional context, it's unclear what the specific event or action is. If you could provide more details or clarify the context, I would be happy to help answer your question!",
+        "predicted_answer": "The question seems to refer to a specific incident involving someone named Burge and a cup, but without additional context, it's unclear what the specific event or action is. If you could provide more details or clarify the context, I would be happy to help answer your question!",
+        "gold_answers": [
+            "the cup had been melted down to make counterfeit half-crown coins"
+        ],
+        "em": 0,
+        "f1": 0.07547169811320754
+    },
+    {
+        "id": "single_squad_dev_7758",
+        "prediction": "the National Assembly",
+        "predicted_answer": "the National Assembly",
+        "gold_answers": [
+            "national parliaments"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_2200",
+        "prediction": "central processing unit (CPU)",
+        "predicted_answer": "central processing unit (CPU)",
+        "gold_answers": [
+            "central processing unit (CPU)"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_5935",
+        "prediction": "a unit of data consisting of 8 bits",
+        "predicted_answer": "a unit of data consisting of 8 bits",
+        "gold_answers": [
+            "a packet identifier (PID) byte"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8800",
+        "prediction": "ethnic tensions and violence in Rakhine, Myanmar",
+        "predicted_answer": "ethnic tensions and violence in Rakhine, Myanmar",
+        "gold_answers": [
+            "electricity"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6685",
+        "prediction": "atomic and molecular movements",
+        "predicted_answer": "atomic and molecular movements",
+        "gold_answers": [
+            "rotational and translational"
+        ],
+        "em": 0,
+        "f1": 0.28571428571428575
+    },
+    {
+        "id": "single_squad_dev_5794",
+        "prediction": "2015",
+        "predicted_answer": "2015",
+        "gold_answers": [
+            "2007"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2629",
+        "prediction": "2001",
+        "predicted_answer": "2001",
+        "gold_answers": [
+            "2001"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_5726",
+        "prediction": "the Art Deco Historic District",
+        "predicted_answer": "the Art Deco Historic District",
+        "gold_answers": [
+            "historical buildings"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3580",
+        "prediction": "Boeing",
+        "predicted_answer": "Boeing",
+        "gold_answers": [
+            "Boeing"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_1978",
+        "prediction": "amend the treaty",
+        "predicted_answer": "amend the treaty",
+        "gold_answers": [
+            "amend the previous treaty"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_squad_dev_8602",
+        "prediction": "Puritan work ethic",
+        "predicted_answer": "Puritan work ethic",
+        "gold_answers": [
+            "Protestant ethic thesis"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_squad_dev_7299",
+        "prediction": "620 to 750 nanometers",
+        "predicted_answer": "620 to 750 nanometers",
+        "gold_answers": [
+            "roughly 620\u2013740"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5569",
+        "prediction": "1871",
+        "predicted_answer": "1871",
+        "gold_answers": [
+            "1789"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2880",
+        "prediction": "1985",
+        "predicted_answer": "1985",
+        "gold_answers": [
+            "1970s"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8873",
+        "prediction": "1768",
+        "predicted_answer": "1768",
+        "gold_answers": [
+            "1950"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8574",
+        "prediction": "Thomas Jefferson, James Madison, and various religious groups",
+        "predicted_answer": "Thomas Jefferson, James Madison, and various religious groups",
+        "gold_answers": [
+            "Champions of religious liberty"
+        ],
+        "em": 0,
+        "f1": 0.16666666666666666
+    },
+    {
+        "id": "single_squad_dev_7749",
+        "prediction": "May 28, 1918",
+        "predicted_answer": "May 28, 1918",
+        "gold_answers": [
+            "May 1918"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_squad_dev_3051",
+        "prediction": "early",
+        "predicted_answer": "early",
+        "gold_answers": [
+            "early"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_6973",
+        "prediction": "Thomas Edison",
+        "predicted_answer": "Thomas Edison",
+        "gold_answers": [
+            "Thomas Alva Edison"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_squad_dev_3526",
+        "prediction": "0x1F",
+        "predicted_answer": "0x1F",
+        "gold_answers": [
+            "3197"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6747",
+        "prediction": "June 12, 2009",
+        "predicted_answer": "June 12, 2009",
+        "gold_answers": [
+            "August 31, 2011"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3877",
+        "prediction": "the Thermidorian Reaction",
+        "predicted_answer": "the Thermidorian Reaction",
+        "gold_answers": [
+            "the Thermidorian Reaction"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_4404",
+        "prediction": "Connecticut Colony",
+        "predicted_answer": "Connecticut Colony",
+        "gold_answers": [
+            "Connecticut Colony"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_536",
+        "prediction": "5,400 exajoules",
+        "predicted_answer": "5,400 exajoules",
+        "gold_answers": [
+            "3,850,000"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_902",
+        "prediction": "water",
+        "predicted_answer": "water",
+        "gold_answers": [
+            "water balloons"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_8231",
+        "prediction": ".tv",
+        "predicted_answer": ".tv",
+        "gold_answers": [
+            "Top Level Domain"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6947",
+        "prediction": "a priori and a posteriori",
+        "predicted_answer": "a priori and a posteriori",
+        "gold_answers": [
+            "demonstrative and probable"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_squad_dev_1901",
+        "prediction": "Women composers were often deemed not notable due to a combination of societal biases, gender discrimination, and historical context. Throughout much of history, women faced significant barriers to education and professional opportunities in music and other fields. Their contributions were frequently overlooked or minimized in a male-dominated industry that prioritized the works of male composers. Additionally, cultural norms often relegated women to domestic roles, limiting their visibility and recognition in the public sphere. As a result, many talented women composers did not receive the acknowledgment they deserved during their lifetimes, leading to a historical narrative that undervalued their contributions to music",
+        "predicted_answer": "Women composers were often deemed not notable due to a combination of societal biases, gender discrimination, and historical context. Throughout much of history, women faced significant barriers to education and professional opportunities in music and other fields. Their contributions were frequently overlooked or minimized in a male-dominated industry that prioritized the works of male composers. Additionally, cultural norms often relegated women to domestic roles, limiting their visibility and recognition in the public sphere. As a result, many talented women composers did not receive the acknowledgment they deserved during their lifetimes, leading to a historical narrative that undervalued their contributions to music",
+        "gold_answers": [
+            "did not write many symphonies"
+        ],
+        "em": 0,
+        "f1": 0.0606060606060606
+    },
+    {
+        "id": "single_squad_dev_2537",
+        "prediction": "Chapter 11",
+        "predicted_answer": "Chapter 11",
+        "gold_answers": [
+            "Chapter 11"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_4284",
+        "prediction": "Samuel de Champlain",
+        "predicted_answer": "Samuel de Champlain",
+        "gold_answers": [
+            "Sir Henry Middleton"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4183",
+        "prediction": "South Korea (and other countries)",
+        "predicted_answer": "South Korea (and other countries)",
+        "gold_answers": [
+            "Japan"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_459",
+        "prediction": "77th Sustainment Brigade",
+        "predicted_answer": "77th Sustainment Brigade",
+        "gold_answers": [
+            "North Atlantic Division"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8629",
+        "prediction": "second-largest city in Greece",
+        "predicted_answer": "second-largest city in Greece",
+        "gold_answers": [
+            "the country's second-largest city"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_squad_dev_7267",
+        "prediction": "Yes",
+        "predicted_answer": "Yes",
+        "gold_answers": [
+            "politicians fluent in Spanish-speak in Spanish to Hispanic majority constituencies"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8760",
+        "prediction": "To provide an accurate answer, I would need more context about what \\\"it\\\" refers to and what specific situation or event you are asking about. Could you please clarify?",
+        "predicted_answer": "To provide an accurate answer, I would need more context about what \\\"it\\\" refers to and what specific situation or event you are asking about. Could you please clarify?",
+        "gold_answers": [
+            "psychoanalysis"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6311",
+        "prediction": "Peak flow measurement. Peak flow measurement is more variable than spirometry but is not recommended for routine assessment of asthma control",
+        "predicted_answer": "Peak flow measurement. Peak flow measurement is more variable than spirometry but is not recommended for routine assessment of asthma control",
+        "gold_answers": [
+            ". Testing peak expiratory flow"
+        ],
+        "em": 0,
+        "f1": 0.16
+    },
+    {
+        "id": "single_squad_dev_3873",
+        "prediction": "Goths (or Vikings)",
+        "predicted_answer": "Goths (or Vikings)",
+        "gold_answers": [
+            "Galatians"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4741",
+        "prediction": "The royal treasury was typically housed in a secure location within a palace or castle, often referred to as a treasury or a vault. The specific location can vary depending on the historical context and the kingdom in question. For example, in medieval Europe, royal treasuries were often located in the main castle or palace of the monarch. In ancient civilizations, such as Egypt or Mesopotamia, the treasury could be found in temples or administrative buildings. If you have a specific country or historical period in mind, please provide that for a more detailed answer",
+        "predicted_answer": "The royal treasury was typically housed in a secure location within a palace or castle, often referred to as a treasury or a vault. The specific location can vary depending on the historical context and the kingdom in question. For example, in medieval Europe, royal treasuries were often located in the main castle or palace of the monarch. In ancient civilizations, such as Egypt or Mesopotamia, the treasury could be found in temples or administrative buildings. If you have a specific country or historical period in mind, please provide that for a more detailed answer",
+        "gold_answers": [
+            "the Tower"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7942",
+        "prediction": "8 years",
+        "predicted_answer": "8 years",
+        "gold_answers": [
+            "seven"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1635",
+        "prediction": "December 31, 1887",
+        "predicted_answer": "December 31, 1887",
+        "gold_answers": [
+            "September 30, 2007"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_173",
+        "prediction": "Dorothy Crowfoot Hodgkin",
+        "predicted_answer": "Dorothy Crowfoot Hodgkin",
+        "gold_answers": [
+            "Dorothy Crowfoot Hodgkin"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_4370",
+        "prediction": "Emperor Augustus",
+        "predicted_answer": "Emperor Augustus",
+        "gold_answers": [
+            "Julius Caesar"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5773",
+        "prediction": "No, IRENE does not require the ability to touch the media",
+        "predicted_answer": "No, IRENE does not require the ability to touch the media",
+        "gold_answers": [
+            "without touching the medium"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5160",
+        "prediction": "May 1968 protests",
+        "predicted_answer": "May 1968 protests",
+        "gold_answers": [
+            "March Revolution"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5220",
+        "prediction": "nutritionist",
+        "predicted_answer": "nutritionist",
+        "gold_answers": [
+            "nutritionist"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_626",
+        "prediction": "14.7%",
+        "predicted_answer": "14.7%",
+        "gold_answers": [
+            "17.7%"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5224",
+        "prediction": "tiguadege na",
+        "predicted_answer": "tiguadege na",
+        "gold_answers": [
+            "di-d\u00e8gu\u00e8"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6405",
+        "prediction": "1919",
+        "predicted_answer": "1919",
+        "gold_answers": [
+            "21 June"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1699",
+        "prediction": "during the Council of Trent (1545-1563)",
+        "predicted_answer": "during the Council of Trent (1545-1563)",
+        "gold_answers": [
+            "1179"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8488",
+        "prediction": "to promote academic collaboration and exchange among signatory nations",
+        "predicted_answer": "to promote academic collaboration and exchange among signatory nations",
+        "gold_answers": [
+            "sustainable development"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1102",
+        "prediction": "Sarmatian",
+        "predicted_answer": "Sarmatian",
+        "gold_answers": [
+            "Saka"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_302",
+        "prediction": "July 19, 2004",
+        "predicted_answer": "July 19, 2004",
+        "gold_answers": [
+            "January 8, 2004"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_squad_dev_1153",
+        "prediction": "TDM can stand for several things depending on the context, but one common meaning is \\\"Time Division Multiplexing,\\\" which is a method used in telecommunications to transmit multiple signals over a single communication channel by dividing the time into segments. If you have a specific context in mind, please provide it for a more accurate answer",
+        "predicted_answer": "TDM can stand for several things depending on the context, but one common meaning is \\\"Time Division Multiplexing,\\\" which is a method used in telecommunications to transmit multiple signals over a single communication channel by dividing the time into segments. If you have a specific context in mind, please provide it for a more accurate answer",
+        "gold_answers": [
+            "Tourism Decision Metrics"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1545",
+        "prediction": "April 14, 2003",
+        "predicted_answer": "April 14, 2003",
+        "gold_answers": [
+            "February 2007"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_668",
+        "prediction": "Pat Quinn",
+        "predicted_answer": "Pat Quinn",
+        "gold_answers": [
+            "Arnold Schwarzenegger"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3926",
+        "prediction": "32",
+        "predicted_answer": "32",
+        "gold_answers": [
+            "32"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_6403",
+        "prediction": "indentured servitude",
+        "predicted_answer": "indentured servitude",
+        "gold_answers": [
+            "serfdom"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_488",
+        "prediction": "New York Police Department",
+        "predicted_answer": "New York Police Department",
+        "gold_answers": [
+            "New York City Police Department"
+        ],
+        "em": 0,
+        "f1": 0.888888888888889
+    },
+    {
+        "id": "single_squad_dev_5594",
+        "prediction": "child labor",
+        "predicted_answer": "child labor",
+        "gold_answers": [
+            "illiteracy"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1446",
+        "prediction": "British East India Company",
+        "predicted_answer": "British East India Company",
+        "gold_answers": [
+            "the English East India Company"
+        ],
+        "em": 0,
+        "f1": 0.75
+    },
+    {
+        "id": "single_squad_dev_2304",
+        "prediction": "water pipe",
+        "predicted_answer": "water pipe",
+        "gold_answers": [
+            "water pipe"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_8461",
+        "prediction": "Saint Peter",
+        "predicted_answer": "Saint Peter",
+        "gold_answers": [
+            "St. Peter"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_4684",
+        "prediction": "cellulose from wood pulp or cotton",
+        "predicted_answer": "cellulose from wood pulp or cotton",
+        "gold_answers": [
+            "cellulose"
+        ],
+        "em": 0,
+        "f1": 0.2857142857142857
+    },
+    {
+        "id": "single_squad_dev_19",
+        "prediction": "five years",
+        "predicted_answer": "five years",
+        "gold_answers": [
+            "five-year"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4585",
+        "prediction": "David Bowie",
+        "predicted_answer": "David Bowie",
+        "gold_answers": [
+            "David Bowie"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_7400",
+        "prediction": "The question is too vague to provide a specific answer, as many individuals throughout history and in various contexts have been prevented from leaving their houses. If you could provide more context or specify a particular event or individual, I would be happy to help!",
+        "predicted_answer": "The question is too vague to provide a specific answer, as many individuals throughout history and in various contexts have been prevented from leaving their houses. If you could provide more context or specify a particular event or individual, I would be happy to help!",
+        "gold_answers": [
+            "Empress Dowager Dou"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5331",
+        "prediction": "National War Memorial",
+        "predicted_answer": "National War Memorial",
+        "gold_answers": [
+            "Cenotaph in front of the Cabinet Building"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4497",
+        "prediction": "Johnny Miller",
+        "predicted_answer": "Johnny Miller",
+        "gold_answers": [
+            "Johnny Miller"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_4696",
+        "prediction": "No",
+        "predicted_answer": "No",
+        "gold_answers": [
+            "generally lack chlorophyll"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_995",
+        "prediction": "The location of nice restaurants can vary greatly depending on the city or region in question. However, in general, most nice restaurants are often found in urban areas, particularly in downtown districts, upscale neighborhoods, or near popular tourist attractions. Additionally, they may be located in areas known for their vibrant food scenes or cultural hubs. If you have a specific city or area in mind, I can provide more detailed information",
+        "predicted_answer": "The location of nice restaurants can vary greatly depending on the city or region in question. However, in general, most nice restaurants are often found in urban areas, particularly in downtown districts, upscale neighborhoods, or near popular tourist attractions. Additionally, they may be located in areas known for their vibrant food scenes or cultural hubs. If you have a specific city or area in mind, I can provide more detailed information",
+        "gold_answers": [
+            "in the hotels"
+        ],
+        "em": 0,
+        "f1": 0.028571428571428574
+    },
+    {
+        "id": "single_squad_dev_8759",
+        "prediction": "1930",
+        "predicted_answer": "1930",
+        "gold_answers": [
+            "1930"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_2546",
+        "prediction": "Master's degree program",
+        "predicted_answer": "Master's degree program",
+        "gold_answers": [
+            "a doctoral programme"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8630",
+        "prediction": "The island ranked as the 5th best in Europe is often considered to be Santorini, Greece, based on various travel and tourism rankings. However, rankings can vary depending on the criteria used. If you have a specific ranking or source in mind, please provide it for a more accurate answer",
+        "predicted_answer": "The island ranked as the 5th best in Europe is often considered to be Santorini, Greece, based on various travel and tourism rankings. However, rankings can vary depending on the criteria used. If you have a specific ranking or source in mind, please provide it for a more accurate answer",
+        "gold_answers": [
+            "Mykonos"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4771",
+        "prediction": "statutory law",
+        "predicted_answer": "statutory law",
+        "gold_answers": [
+            "state law"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_4338",
+        "prediction": "water from rivers and streams, rainfall, and saline waters",
+        "predicted_answer": "water from rivers and streams, rainfall, and saline waters",
+        "gold_answers": [
+            "a system of interconnected salt and freshwater lakes"
+        ],
+        "em": 0,
+        "f1": 0.125
+    },
+    {
+        "id": "single_squad_dev_7291",
+        "prediction": "Charleston Renaissance",
+        "predicted_answer": "Charleston Renaissance",
+        "gold_answers": [
+            "the Gullah community"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6689",
+        "prediction": "tax shifting or tax reform",
+        "predicted_answer": "tax shifting or tax reform",
+        "gold_answers": [
+            "Tax shifting"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_squad_dev_1555",
+        "prediction": "Utilizing additional satellite signals and enhancing ground control",
+        "predicted_answer": "Utilizing additional satellite signals and enhancing ground control",
+        "gold_answers": [
+            "as more satellites are launched"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8658",
+        "prediction": "admitted mistakes in its predictions regarding the end of the world",
+        "predicted_answer": "admitted mistakes in its predictions regarding the end of the world",
+        "gold_answers": [
+            "its responsibility in building up hope"
+        ],
+        "em": 0,
+        "f1": 0.26666666666666666
+    },
+    {
+        "id": "single_squad_dev_3344",
+        "prediction": "The student-teacher ratio in secondary schools can vary widely depending on the country, state, or specific school district. In the United States, for example, the average student-teacher ratio in secondary schools is typically around 15:1 to 20:1. However, this can differ based on factors such as funding, school size, and educational policies. For a specific answer, it would be best to refer to local educational statistics or reports",
+        "predicted_answer": "The student-teacher ratio in secondary schools can vary widely depending on the country, state, or specific school district. In the United States, for example, the average student-teacher ratio in secondary schools is typically around 15:1 to 20:1. However, this can differ based on factors such as funding, school size, and educational policies. For a specific answer, it would be best to refer to local educational statistics or reports",
+        "gold_answers": [
+            "54 to 1"
+        ],
+        "em": 0,
+        "f1": 0.030303030303030304
+    },
+    {
+        "id": "single_squad_dev_1237",
+        "prediction": "October 4, 1957",
+        "predicted_answer": "October 4, 1957",
+        "gold_answers": [
+            "October 4, 1957"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_7137",
+        "prediction": "part of the Republic of Cyprus",
+        "predicted_answer": "part of the Republic of Cyprus",
+        "gold_answers": [
+            "territory of the Republic of Cyprus occupied by Turkish forces"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285714
+    },
+    {
+        "id": "single_squad_dev_1028",
+        "prediction": "Minister of Defence",
+        "predicted_answer": "Minister of Defence",
+        "gold_answers": [
+            "Minister of Defence"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_1720",
+        "prediction": "humid subtropical climate",
+        "predicted_answer": "humid subtropical climate",
+        "gold_answers": [
+            "a humid subtropical climate"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_658",
+        "prediction": "John Legend",
+        "predicted_answer": "John Legend",
+        "gold_answers": [
+            "John Legend"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_5507",
+        "prediction": "The gyromagnetic ratio is influenced by three main factors:",
+        "predicted_answer": "The gyromagnetic ratio is influenced by three main factors:",
+        "gold_answers": [
+            "related to the shielded proton magnetic moment \u03bc\u2032p, the spin number I (I = 1\u20442 for protons) and the reduced Planck constant."
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5562",
+        "prediction": "Crystal Palace does not host the FA Cup; it is held at Wembley Stadium",
+        "predicted_answer": "Crystal Palace does not host the FA Cup; it is held at Wembley Stadium",
+        "gold_answers": [
+            "21"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7691",
+        "prediction": "The relational model was able to improve over time through several key developments:",
+        "predicted_answer": "The relational model was able to improve over time through several key developments:",
+        "gold_answers": [
+            "without constant rewriting of links and pointers"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2228",
+        "prediction": "1674",
+        "predicted_answer": "1674",
+        "gold_answers": [
+            "1670"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7583",
+        "prediction": "perfect or ideal efficiency",
+        "predicted_answer": "perfect or ideal efficiency",
+        "gold_answers": [
+            "no loss"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6070",
+        "prediction": "piano and organ",
+        "predicted_answer": "piano and organ",
+        "gold_answers": [
+            "Silbermann organ"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_squad_dev_6626",
+        "prediction": "Thomas J. Watson Jr",
+        "predicted_answer": "Thomas J. Watson Jr",
+        "gold_answers": [
+            "Albert L. Williams"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4739",
+        "prediction": "Lundenwic",
+        "predicted_answer": "Lundenwic",
+        "gold_answers": [
+            "St Martin-in-the-Fields"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6572",
+        "prediction": "1920s",
+        "predicted_answer": "1920s",
+        "gold_answers": [
+            "1930s"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3438",
+        "prediction": "Windsor Castle",
+        "predicted_answer": "Windsor Castle",
+        "gold_answers": [
+            "Windsor Castle"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_7677",
+        "prediction": "euphoria",
+        "predicted_answer": "euphoria",
+        "gold_answers": [
+            "a state described as intense pain"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5572",
+        "prediction": "The title of \\\"president of the regional council\\\" can refer to different individuals depending on the specific region or country in question. Could you please specify which regional council or location you are referring to?",
+        "predicted_answer": "The title of \\\"president of the regional council\\\" can refer to different individuals depending on the specific region or country in question. Could you please specify which regional council or location you are referring to?",
+        "gold_answers": [
+            "Philippe Richert"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4788",
+        "prediction": "military junta",
+        "predicted_answer": "military junta",
+        "gold_answers": [
+            "'disciplined democracy"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5208",
+        "prediction": "the structure of its fatty acid chains",
+        "predicted_answer": "the structure of its fatty acid chains",
+        "gold_answers": [
+            "the detailed structure of the fatty acids involved"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_6943",
+        "prediction": "Cleveland Clinic London",
+        "predicted_answer": "Cleveland Clinic London",
+        "gold_answers": [
+            "Guam Regional Medical City"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3939",
+        "prediction": "6",
+        "predicted_answer": "6",
+        "gold_answers": [
+            "three"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2588",
+        "prediction": "sentence case",
+        "predicted_answer": "sentence case",
+        "gold_answers": [
+            "lowercase"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4768",
+        "prediction": "the U.S. Constitution",
+        "predicted_answer": "the U.S. Constitution",
+        "gold_answers": [
+            "The Constitution"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_3119",
+        "prediction": "1963",
+        "predicted_answer": "1963",
+        "gold_answers": [
+            "1889"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8032",
+        "prediction": "the Constitution of the Islamic Republic of Iran",
+        "predicted_answer": "the Constitution of the Islamic Republic of Iran",
+        "gold_answers": [
+            "the 1979 Constitution"
+        ],
+        "em": 0,
+        "f1": 0.25
+    },
+    {
+        "id": "single_squad_dev_5381",
+        "prediction": "July 1, 1930",
+        "predicted_answer": "July 1, 1930",
+        "gold_answers": [
+            "New Year's Day in 1930"
+        ],
+        "em": 0,
+        "f1": 0.25
+    },
+    {
+        "id": "single_squad_dev_4909",
+        "prediction": "The question about how far back a county was populated is quite broad and would depend on the specific county in question. Generally, many counties in the United States and other countries have histories that date back to indigenous populations, which could be thousands of years ago. For example, some areas in the United States were inhabited by Native American tribes long before European settlers arrived. If you specify a particular county, I can provide more detailed information about its history and population timeline",
+        "predicted_answer": "The question about how far back a county was populated is quite broad and would depend on the specific county in question. Generally, many counties in the United States and other countries have histories that date back to indigenous populations, which could be thousands of years ago. For example, some areas in the United States were inhabited by Native American tribes long before European settlers arrived. If you specify a particular county, I can provide more detailed information about its history and population timeline",
+        "gold_answers": [
+            "There is evidence of human occupation from Paleolithic times, and of subsequent settlement in the Roman and Anglo-Saxon periods"
+        ],
+        "em": 0,
+        "f1": 0.10416666666666667
+    },
+    {
+        "id": "single_squad_dev_8541",
+        "prediction": "15",
+        "predicted_answer": "15",
+        "gold_answers": [
+            "fifteen"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1005",
+        "prediction": "approximately 163",
+        "predicted_answer": "approximately 163",
+        "gold_answers": [
+            "164"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7170",
+        "prediction": "June 11, 1993",
+        "predicted_answer": "June 11, 1993",
+        "gold_answers": [
+            "1993"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_1031",
+        "prediction": "Bahrain",
+        "predicted_answer": "Bahrain",
+        "gold_answers": [
+            "Bahrain"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_6291",
+        "prediction": "May 2001",
+        "predicted_answer": "May 2001",
+        "gold_answers": [
+            "In 1996\u20131997"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5592",
+        "prediction": "Victims of industrial accidents can include workers who are injured or killed while performing their job duties in various industries, such as construction, manufacturing, mining, and chemical processing. These accidents can result from equipment failures, falls, exposure to hazardous materials, or unsafe working conditions. Specific examples of victims can vary widely and may include individuals from different backgrounds and professions. If you are looking for information on a particular incident or group of victims, please provide more details",
+        "predicted_answer": "Victims of industrial accidents can include workers who are injured or killed while performing their job duties in various industries, such as construction, manufacturing, mining, and chemical processing. These accidents can result from equipment failures, falls, exposure to hazardous materials, or unsafe working conditions. Specific examples of victims can vary widely and may include individuals from different backgrounds and professions. If you are looking for information on a particular incident or group of victims, please provide more details",
+        "gold_answers": [
+            "Boys and girls"
+        ],
+        "em": 0,
+        "f1": 0.025
+    },
+    {
+        "id": "single_squad_dev_790",
+        "prediction": "David Cook",
+        "predicted_answer": "David Cook",
+        "gold_answers": [
+            "David Cook"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_1424",
+        "prediction": "regulations ensuring equal treatment of internet traffic",
+        "predicted_answer": "regulations ensuring equal treatment of internet traffic",
+        "gold_answers": [
+            "municipal broadband"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7143",
+        "prediction": "Pedieos River",
+        "predicted_answer": "Pedieos River",
+        "gold_answers": [
+            "Pedieos River"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_3293",
+        "prediction": "Charge of the Light Brigade",
+        "predicted_answer": "Charge of the Light Brigade",
+        "gold_answers": [
+            "von Bredow's Death Ride"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7936",
+        "prediction": "October 24, 1944",
+        "predicted_answer": "October 24, 1944",
+        "gold_answers": [
+            "03:00 on 25 October"
+        ],
+        "em": 0,
+        "f1": 0.28571428571428575
+    },
+    {
+        "id": "single_squad_dev_2817",
+        "prediction": "June 1982",
+        "predicted_answer": "June 1982",
+        "gold_answers": [
+            "June 1982"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_2822",
+        "prediction": "11-1",
+        "predicted_answer": "11-1",
+        "gold_answers": [
+            "11\u20131"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3464",
+        "prediction": "gay men",
+        "predicted_answer": "gay men",
+        "gold_answers": [
+            "white, middle-class, well-educated"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4164",
+        "prediction": "United States",
+        "predicted_answer": "United States",
+        "gold_answers": [
+            "United States"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_6989",
+        "prediction": "1769",
+        "predicted_answer": "1769",
+        "gold_answers": [
+            "1756"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7716",
+        "prediction": "Interstate 5",
+        "predicted_answer": "Interstate 5",
+        "gold_answers": [
+            "I-10"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4244",
+        "prediction": "1798",
+        "predicted_answer": "1798",
+        "gold_answers": [
+            "1798"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_2384",
+        "prediction": "The Hours of Jeanne d'Evreux",
+        "predicted_answer": "The Hours of Jeanne d'Evreux",
+        "gold_answers": [
+            "the Tr\u00e8s Riches Heures du Duc de Berry"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5983",
+        "prediction": "The documentary on Motown was done by filmmaker and musician Berry Gordy, who founded Motown Records. Additionally, the documentary \\\"Hitsville: The Making of Motown\\\" was directed by Benjamin Turner and Gabe Turner. So the answer could be: Berry Gordy or Benjamin Turner and Gabe Turner",
+        "predicted_answer": "The documentary on Motown was done by filmmaker and musician Berry Gordy, who founded Motown Records. Additionally, the documentary \\\"Hitsville: The Making of Motown\\\" was directed by Benjamin Turner and Gabe Turner. So the answer could be: Berry Gordy or Benjamin Turner and Gabe Turner",
+        "gold_answers": [
+            "Paul Justman"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1563",
+        "prediction": "October 18, 1990",
+        "predicted_answer": "October 18, 1990",
+        "gold_answers": [
+            "1990"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_857",
+        "prediction": "wolf",
+        "predicted_answer": "wolf",
+        "gold_answers": [
+            "Striped hyenas"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2569",
+        "prediction": "patent wars",
+        "predicted_answer": "patent wars",
+        "gold_answers": [
+            "bringing the Patent Wild West to Germany"
+        ],
+        "em": 0,
+        "f1": 0.25
+    },
+    {
+        "id": "single_squad_dev_3849",
+        "prediction": "garrisons",
+        "predicted_answer": "garrisons",
+        "gold_answers": [
+            "katoikiai"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7025",
+        "prediction": "late 1970s and early 1980s music scenes",
+        "predicted_answer": "late 1970s and early 1980s music scenes",
+        "gold_answers": [
+            "Post-punk"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8131",
+        "prediction": "about a week",
+        "predicted_answer": "about a week",
+        "gold_answers": [
+            "eight"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_24",
+        "prediction": "Central Collegiate Hockey Association (CCHA)",
+        "predicted_answer": "Central Collegiate Hockey Association (CCHA)",
+        "gold_answers": [
+            "Central Collegiate Hockey Association"
+        ],
+        "em": 0,
+        "f1": 0.888888888888889
+    },
+    {
+        "id": "single_squad_dev_3903",
+        "prediction": "Marie Louise of Austria",
+        "predicted_answer": "Marie Louise of Austria",
+        "gold_answers": [
+            "Archduchess Marie Louise"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285715
+    },
+    {
+        "id": "single_squad_dev_8218",
+        "prediction": "Commonwealth of Nations",
+        "predicted_answer": "Commonwealth of Nations",
+        "gold_answers": [
+            "Commonwealth of Nations"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_6293",
+        "prediction": "Cameroon",
+        "predicted_answer": "Cameroon",
+        "gold_answers": [
+            "Chad"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5192",
+        "prediction": "The Auguste Rodin exhibit, known as \\\"Rodin: The Human Experience,\\\" was held at the British Museum from April 26 to July 29, 2018. If you are referring to a different exhibit, please provide more details for a more accurate answer",
+        "predicted_answer": "The Auguste Rodin exhibit, known as \\\"Rodin: The Human Experience,\\\" was held at the British Museum from April 26 to July 29, 2018. If you are referring to a different exhibit, please provide more details for a more accurate answer",
+        "gold_answers": [
+            "2000"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1243",
+        "prediction": "Ranger 7",
+        "predicted_answer": "Ranger 7",
+        "gold_answers": [
+            "Block III Ranger 7"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_6011",
+        "prediction": "Sierra Nevada",
+        "predicted_answer": "Sierra Nevada",
+        "gold_answers": [
+            "Atlas Mountains"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3827",
+        "prediction": "31 BC",
+        "predicted_answer": "31 BC",
+        "gold_answers": [
+            "31 BC"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_5774",
+        "prediction": "about 30 to 40 minutes per side",
+        "predicted_answer": "about 30 to 40 minutes per side",
+        "gold_answers": [
+            "forty-five minutes"
+        ],
+        "em": 0,
+        "f1": 0.22222222222222224
+    },
+    {
+        "id": "single_squad_dev_527",
+        "prediction": "John F. Kennedy",
+        "predicted_answer": "John F. Kennedy",
+        "gold_answers": [
+            "George W. Bush"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1082",
+        "prediction": "The term \\\"four divisions\\\" can refer to various contexts, such as military, sports, or organizational structures. However, without specific context, it's challenging to provide a precise answer. If you are referring to a specific field or topic, please provide more details so I can assist you better",
+        "predicted_answer": "The term \\\"four divisions\\\" can refer to various contexts, such as military, sports, or organizational structures. However, without specific context, it's challenging to provide a precise answer. If you are referring to a specific field or topic, please provide more details so I can assist you better",
+        "gold_answers": [
+            "the 2nd Canadian Division, the 3rd Canadian Division, the 4th Canadian Division and the 5th Canadian Division"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3062",
+        "prediction": "women",
+        "predicted_answer": "women",
+        "gold_answers": [
+            "girls"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8203",
+        "prediction": "mudbrick",
+        "predicted_answer": "mudbrick",
+        "gold_answers": [
+            "Brick"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3453",
+        "prediction": "various factors such as social status, race, gender, age, health, appearance, cultural background, and personal circumstances",
+        "predicted_answer": "various factors such as social status, race, gender, age, health, appearance, cultural background, and personal circumstances",
+        "gold_answers": [
+            "Perceived sexual orientation"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2824",
+        "prediction": "FC Barcelona (the name remained the same, but the emphasis on Catalan identity increased)",
+        "predicted_answer": "FC Barcelona (the name remained the same, but the emphasis on Catalan identity increased)",
+        "gold_answers": [
+            "Futbol Club Barcelona"
+        ],
+        "em": 0,
+        "f1": 0.14285714285714288
+    },
+    {
+        "id": "single_squad_dev_4616",
+        "prediction": "saprophagous or detritivorous",
+        "predicted_answer": "saprophagous or detritivorous",
+        "gold_answers": [
+            "detritivory"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3850",
+        "prediction": "204 BC",
+        "predicted_answer": "204 BC",
+        "gold_answers": [
+            "204"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_4361",
+        "prediction": "32",
+        "predicted_answer": "32",
+        "gold_answers": [
+            "31"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2895",
+        "prediction": "1964",
+        "predicted_answer": "1964",
+        "gold_answers": [
+            "1964"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_2587",
+        "prediction": "quill",
+        "predicted_answer": "quill",
+        "gold_answers": [
+            "pen"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2742",
+        "prediction": "beer",
+        "predicted_answer": "beer",
+        "gold_answers": [
+            "beer"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_3908",
+        "prediction": "the invasion of Russia",
+        "predicted_answer": "the invasion of Russia",
+        "gold_answers": [
+            "the Malet coup"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_823",
+        "prediction": "11",
+        "predicted_answer": "11",
+        "gold_answers": [
+            "345"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5776",
+        "prediction": "Yes, it matters",
+        "predicted_answer": "Yes, it matters",
+        "gold_answers": [
+            "correct speed"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3665",
+        "prediction": "approximately 10,000",
+        "predicted_answer": "approximately 10,000",
+        "gold_answers": [
+            "Over 20,000"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8536",
+        "prediction": "iOS and Android",
+        "predicted_answer": "iOS and Android",
+        "gold_answers": [
+            "both Android and iOS"
+        ],
+        "em": 0,
+        "f1": 0.8571428571428571
+    },
+    {
+        "id": "single_squad_dev_1802",
+        "prediction": "ARCUK",
+        "predicted_answer": "ARCUK",
+        "gold_answers": [
+            "the ARCUK Board of Architectural Education"
+        ],
+        "em": 0,
+        "f1": 0.33333333333333337
+    },
+    {
+        "id": "single_squad_dev_4047",
+        "prediction": "ja",
+        "predicted_answer": "ja",
+        "gold_answers": [
+            "ja"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_1541",
+        "prediction": "approximately 110 miles",
+        "predicted_answer": "approximately 110 miles",
+        "gold_answers": [
+            "65.5 miles"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_squad_dev_551",
+        "prediction": "by allowing water to flow back down through turbines to generate electricity",
+        "predicted_answer": "by allowing water to flow back down through turbines to generate electricity",
+        "gold_answers": [
+            "by releasing the water, with the pump becoming a hydroelectric power generator"
+        ],
+        "em": 0,
+        "f1": 0.1904761904761905
+    },
+    {
+        "id": "single_squad_dev_3192",
+        "prediction": "surface-to-air missile (SAM)",
+        "predicted_answer": "surface-to-air missile (SAM)",
+        "gold_answers": [
+            "the laser"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7352",
+        "prediction": "expand the German Navy",
+        "predicted_answer": "expand the German Navy",
+        "gold_answers": [
+            "attack British port facilities."
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2023",
+        "prediction": "Croatia",
+        "predicted_answer": "Croatia",
+        "gold_answers": [
+            "Croatian"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5412",
+        "prediction": "1.5 to 2 times the maximum AC voltage",
+        "predicted_answer": "1.5 to 2 times the maximum AC voltage",
+        "gold_answers": [
+            "at least five times the maximum AC voltage"
+        ],
+        "em": 0,
+        "f1": 0.5714285714285714
+    },
+    {
+        "id": "single_squad_dev_448",
+        "prediction": "1913",
+        "predicted_answer": "1913",
+        "gold_answers": [
+            "1913"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_1000",
+        "prediction": "gene and chromosome",
+        "predicted_answer": "gene and chromosome",
+        "gold_answers": [
+            "biome, rhizome"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5688",
+        "prediction": "1946",
+        "predicted_answer": "1946",
+        "gold_answers": [
+            "1946"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_7652",
+        "prediction": "2001",
+        "predicted_answer": "2001",
+        "gold_answers": [
+            "1988"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6118",
+        "prediction": "Chhatrapati Shivaji Maharaj and the Bhonsle dynasty",
+        "predicted_answer": "Chhatrapati Shivaji Maharaj and the Bhonsle dynasty",
+        "gold_answers": [
+            "Peshwas"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6680",
+        "prediction": "a combination of metallic glass alloys",
+        "predicted_answer": "a combination of metallic glass alloys",
+        "gold_answers": [
+            "zirconium"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8872",
+        "prediction": "Hindus",
+        "predicted_answer": "Hindus",
+        "gold_answers": [
+            "Hindus"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_2247",
+        "prediction": "a form of Japanese poetry with a 5-7-5-7-7 syllable structure",
+        "predicted_answer": "a form of Japanese poetry with a 5-7-5-7-7 syllable structure",
+        "gold_answers": [
+            "egg-people"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6891",
+        "prediction": "not definitively available without additional context",
+        "predicted_answer": "not definitively available without additional context",
+        "gold_answers": [
+            "more than 200"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_653",
+        "prediction": "It was put on hold and never officially launched",
+        "predicted_answer": "It was put on hold and never officially launched",
+        "gold_answers": [
+            "cancelled"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5763",
+        "prediction": "10 to 12 records",
+        "predicted_answer": "10 to 12 records",
+        "gold_answers": [
+            "three or four"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3475",
+        "prediction": "To provide an accurate answer, I would need more context about which specific plant you are referring to. There are many plants across various states in the U.S. that could be in operation. Please provide additional details about the plant in question",
+        "predicted_answer": "To provide an accurate answer, I would need more context about which specific plant you are referring to. There are many plants across various states in the U.S. that could be in operation. Please provide additional details about the plant in question",
+        "gold_answers": [
+            "Florida"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2471",
+        "prediction": "to house foreign embassies and diplomatic missions",
+        "predicted_answer": "to house foreign embassies and diplomatic missions",
+        "gold_answers": [
+            "residences of ambassadors"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7368",
+        "prediction": "it varies; it can last from a few weeks to several years",
+        "predicted_answer": "it varies; it can last from a few weeks to several years",
+        "gold_answers": [
+            "allow incidental takes for varying amounts of time"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6539",
+        "prediction": "late 20th century",
+        "predicted_answer": "late 20th century",
+        "gold_answers": [
+            "the 1970s"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6471",
+        "prediction": "The question seems to be incomplete, as it does not specify what \\\"it\\\" refers to. However, if you are referring to a specific concept, idea, or object that was placed in a work from 1787, please provide more context or details so I can assist you accurately",
+        "predicted_answer": "The question seems to be incomplete, as it does not specify what \\\"it\\\" refers to. However, if you are referring to a specific concept, idea, or object that was placed in a work from 1787, please provide more context or details so I can assist you accurately",
+        "gold_answers": [
+            "Wolfgang Amadeus Mozart"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4430",
+        "prediction": "Achievement First Amistad High School and Achievement First Elm City College Preparatory School",
+        "predicted_answer": "Achievement First Amistad High School and Achievement First Elm City College Preparatory School",
+        "gold_answers": [
+            "Amistad Academy and Elm City College Prep"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_8611",
+        "prediction": "31",
+        "predicted_answer": "31",
+        "gold_answers": [
+            "31"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_5755",
+        "prediction": "vinyl enthusiasts",
+        "predicted_answer": "vinyl enthusiasts",
+        "gold_answers": [
+            "audiophiles"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6119",
+        "prediction": "Indonesia",
+        "predicted_answer": "Indonesia",
+        "gold_answers": [
+            "Ceylon"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_197",
+        "prediction": "Tekla Justyna Krzy\\u017canowska",
+        "predicted_answer": "Tekla Justyna Krzy\\u017canowska",
+        "gold_answers": [
+            "sister Emilia"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1641",
+        "prediction": "1863",
+        "predicted_answer": "1863",
+        "gold_answers": [
+            "2005"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7765",
+        "prediction": "Bacteria",
+        "predicted_answer": "Bacteria",
+        "gold_answers": [
+            "Bacteria"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_5084",
+        "prediction": "16",
+        "predicted_answer": "16",
+        "gold_answers": [
+            "eight"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2856",
+        "prediction": "merchant ship hulls",
+        "predicted_answer": "merchant ship hulls",
+        "gold_answers": [
+            "mercantile hulls"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_squad_dev_6944",
+        "prediction": "natural philosophy",
+        "predicted_answer": "natural philosophy",
+        "gold_answers": [
+            "his theory of potentiality and actuality"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1096",
+        "prediction": "Indo-Iranian branch of the Indo-European language family",
+        "predicted_answer": "Indo-Iranian branch of the Indo-European language family",
+        "gold_answers": [
+            "Proto-Iranian"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_228",
+        "prediction": "Fryderyk Chopin Institute",
+        "predicted_answer": "Fryderyk Chopin Institute",
+        "gold_answers": [
+            "The Warsaw Chopin Society"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_squad_dev_964",
+        "prediction": "December 2015",
+        "predicted_answer": "December 2015",
+        "gold_answers": [
+            "July 2004"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7174",
+        "prediction": "Universal Studios' television department",
+        "predicted_answer": "Universal Studios' television department",
+        "gold_answers": [
+            "editing"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2807",
+        "prediction": "Travis Hirschi",
+        "predicted_answer": "Travis Hirschi",
+        "gold_answers": [
+            "Scheff"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3271",
+        "prediction": "6th",
+        "predicted_answer": "6th",
+        "gold_answers": [
+            "fourth-largest"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4221",
+        "prediction": "The banners that appeared on the winners' podium at the August 2013 ceremony were the flags of the countries of the medal winners. However, without specific context about which event or sport is being referred to, I cannot provide the exact details of the banners. If you can specify the event, I can give a more accurate answer",
+        "predicted_answer": "The banners that appeared on the winners' podium at the August 2013 ceremony were the flags of the countries of the medal winners. However, without specific context about which event or sport is being referred to, I cannot provide the exact details of the banners. If you can specify the event, I can give a more accurate answer",
+        "gold_answers": [
+            "\"SaveTheArctic.org\""
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3200",
+        "prediction": "target's range, speed, and direction of movement",
+        "predicted_answer": "target's range, speed, and direction of movement",
+        "gold_answers": [
+            "its height"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6974",
+        "prediction": "2019",
+        "predicted_answer": "2019",
+        "gold_answers": [
+            "2012"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2675",
+        "prediction": "The question \\\"How much was allocated?\\\" is too vague and lacks context. Could you please provide more details or specify what allocation you are referring to?",
+        "predicted_answer": "The question \\\"How much was allocated?\\\" is too vague and lacks context. Could you please provide more details or specify what allocation you are referring to?",
+        "gold_answers": [
+            "\u20b9 52.7 million"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7689",
+        "prediction": "A modern Database Management System (DBMS) requires several key components to function effectively, including:",
+        "predicted_answer": "A modern Database Management System (DBMS) requires several key components to function effectively, including:",
+        "gold_answers": [
+            "standard operating system"
+        ],
+        "em": 0,
+        "f1": 0.125
+    },
+    {
+        "id": "single_squad_dev_3922",
+        "prediction": "Napoleonic Code",
+        "predicted_answer": "Napoleonic Code",
+        "gold_answers": [
+            "the Napoleonic Code"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_8502",
+        "prediction": "emergency circumstances",
+        "predicted_answer": "emergency circumstances",
+        "gold_answers": [
+            "Extraordinary"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2590",
+        "prediction": "diacritics",
+        "predicted_answer": "diacritics",
+        "gold_answers": [
+            "letter case"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3310",
+        "prediction": "jungle fatigues",
+        "predicted_answer": "jungle fatigues",
+        "gold_answers": [
+            "uniforms"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8244",
+        "prediction": "Mary is often described using phrases such as \\\"Mother of God,\\\" \\\"Blessed Virgin,\\\" \\\"Queen of Heaven,\\\" and \\\"Our Lady.\\\" These titles reflect her significance in Christianity, particularly in Catholic and Orthodox traditions. Additionally, she may be referred to as \\\"the Immaculate Conception\\\" and \\\"theotokos,\\\" which means \\\"God-bearer\\\" in Greek",
+        "predicted_answer": "Mary is often described using phrases such as \\\"Mother of God,\\\" \\\"Blessed Virgin,\\\" \\\"Queen of Heaven,\\\" and \\\"Our Lady.\\\" These titles reflect her significance in Christianity, particularly in Catholic and Orthodox traditions. Additionally, she may be referred to as \\\"the Immaculate Conception\\\" and \\\"theotokos,\\\" which means \\\"God-bearer\\\" in Greek",
+        "gold_answers": [
+            "in every respect holy\", \"in all things unstained\", \"super-innocent\", and \"singularly holy\" are applied to her"
+        ],
+        "em": 0,
+        "f1": 0.15625
+    },
+    {
+        "id": "single_squad_dev_8701",
+        "prediction": "SEATO stands for the Southeast Asia Treaty Organization. It was a regional defense organization established in 1954 to prevent the spread of communism in Southeast Asia. SEATO was created in response to the growing influence of communism in the region and aimed to provide collective defense among its member countries, which included the United States, United Kingdom, France, Australia, New Zealand, Pakistan, Thailand, and the Philippines. The organization was dissolved in 1977",
+        "predicted_answer": "SEATO stands for the Southeast Asia Treaty Organization. It was a regional defense organization established in 1954 to prevent the spread of communism in Southeast Asia. SEATO was created in response to the growing influence of communism in the region and aimed to provide collective defense among its member countries, which included the United States, United Kingdom, France, Australia, New Zealand, Pakistan, Thailand, and the Philippines. The organization was dissolved in 1977",
+        "gold_answers": [
+            "Southeast Asia Treaty Organization"
+        ],
+        "em": 0,
+        "f1": 0.11764705882352941
+    },
+    {
+        "id": "single_squad_dev_5702",
+        "prediction": "Golgotha (Calvary)",
+        "predicted_answer": "Golgotha (Calvary)",
+        "gold_answers": [
+            "Calvary"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_2955",
+        "prediction": "San Francisco, California",
+        "predicted_answer": "San Francisco, California",
+        "gold_answers": [
+            "San Francisco"
+        ],
+        "em": 0,
+        "f1": 0.8
+    },
+    {
+        "id": "single_squad_dev_8717",
+        "prediction": "1990s",
+        "predicted_answer": "1990s",
+        "gold_answers": [
+            "starting in the late 1980s"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_167",
+        "prediction": "the risk of gastrointestinal disorders and infections",
+        "predicted_answer": "the risk of gastrointestinal disorders and infections",
+        "gold_answers": [
+            "absorption of estrogens"
+        ],
+        "em": 0,
+        "f1": 0.2222222222222222
+    },
+    {
+        "id": "single_squad_dev_2825",
+        "prediction": "the opposition party in Panama",
+        "predicted_answer": "the opposition party in Panama",
+        "gold_answers": [
+            "Boixos Nois"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1430",
+        "prediction": "larger Internet Service Providers (ISPs)",
+        "predicted_answer": "larger Internet Service Providers (ISPs)",
+        "gold_answers": [
+            "a wholesale ISP"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2170",
+        "prediction": "The number of pregnant women who die as a result of pregnancy can vary significantly by region and over time. According to the World Health Organization (WHO), approximately 295,000 women died during and following pregnancy and childbirth in 2017. This statistic highlights the global maternal mortality ratio, which is the number of maternal deaths per 100,000 live births. However, for a specific number or more recent data, it would be best to refer to the latest reports from health organizations or governmental health departments",
+        "predicted_answer": "The number of pregnant women who die as a result of pregnancy can vary significantly by region and over time. According to the World Health Organization (WHO), approximately 295,000 women died during and following pregnancy and childbirth in 2017. This statistic highlights the global maternal mortality ratio, which is the number of maternal deaths per 100,000 live births. However, for a specific number or more recent data, it would be best to refer to the latest reports from health organizations or governmental health departments",
+        "gold_answers": [
+            "one out of eighteen"
+        ],
+        "em": 0,
+        "f1": 0.02469135802469136
+    },
+    {
+        "id": "single_squad_dev_4524",
+        "prediction": "Quezon City, Philippines",
+        "predicted_answer": "Quezon City, Philippines",
+        "gold_answers": [
+            "Manila"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3831",
+        "prediction": "Diodorus Siculus",
+        "predicted_answer": "Diodorus Siculus",
+        "gold_answers": [
+            "Arrian"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_1469",
+        "prediction": "1st September 2007",
+        "predicted_answer": "1st September 2007",
+        "gold_answers": [
+            "January 2005"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3026",
+        "prediction": "23 years old",
+        "predicted_answer": "23 years old",
+        "gold_answers": [
+            "23"
+        ],
+        "em": 0,
+        "f1": 0.5
+    },
+    {
+        "id": "single_squad_dev_1764",
+        "prediction": "The secondary sector encompasses industries that process, transform, and assemble raw materials into finished goods. This includes manufacturing, construction, and utilities. The number of businesses in the secondary sector can vary widely by country and region, and specific statistics would depend on the context and location being referred to. Therefore, without specific data, it is not possible to provide an exact number of businesses in the secondary sector",
+        "predicted_answer": "The secondary sector encompasses industries that process, transform, and assemble raw materials into finished goods. This includes manufacturing, construction, and utilities. The number of businesses in the secondary sector can vary widely by country and region, and specific statistics would depend on the context and location being referred to. Therefore, without specific data, it is not possible to provide an exact number of businesses in the secondary sector",
+        "gold_answers": [
+            "950"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2580",
+        "prediction": "1991",
+        "predicted_answer": "1991",
+        "gold_answers": [
+            "March 1987"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4628",
+        "prediction": "gray wolf",
+        "predicted_answer": "gray wolf",
+        "gold_answers": [
+            "wolves"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8335",
+        "prediction": "capillaries",
+        "predicted_answer": "capillaries",
+        "gold_answers": [
+            "Capillaries"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_6177",
+        "prediction": "To provide an accurate answer, I would need to know the specific position and the individual you are referring to. Could you please clarify?",
+        "predicted_answer": "To provide an accurate answer, I would need to know the specific position and the individual you are referring to. Could you please clarify?",
+        "gold_answers": [
+            "1935"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7466",
+        "prediction": "the United Kingdom",
+        "predicted_answer": "the United Kingdom",
+        "gold_answers": [
+            "British Empire"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2625",
+        "prediction": "1872",
+        "predicted_answer": "1872",
+        "gold_answers": [
+            "1908"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_4469",
+        "prediction": "18 to 24 months",
+        "predicted_answer": "18 to 24 months",
+        "gold_answers": [
+            "two-years"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_694",
+        "prediction": "Mahayana sutra",
+        "predicted_answer": "Mahayana sutra",
+        "gold_answers": [
+            "Mahayana"
+        ],
+        "em": 0,
+        "f1": 0.6666666666666666
+    },
+    {
+        "id": "single_squad_dev_2151",
+        "prediction": "2 to 4 genes",
+        "predicted_answer": "2 to 4 genes",
+        "gold_answers": [
+            "2"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_squad_dev_1630",
+        "prediction": "11th century",
+        "predicted_answer": "11th century",
+        "gold_answers": [
+            "13th"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_699",
+        "prediction": "Dukkha is often translated as \\\"suffering,\\\" \\\"pain,\\\" or \\\"unsatisfactoriness.\\\" So another word for Dukkha is: suffering",
+        "predicted_answer": "Dukkha is often translated as \\\"suffering,\\\" \\\"pain,\\\" or \\\"unsatisfactoriness.\\\" So another word for Dukkha is: suffering",
+        "gold_answers": [
+            "suffering"
+        ],
+        "em": 0,
+        "f1": 0.11764705882352941
+    },
+    {
+        "id": "single_squad_dev_4593",
+        "prediction": "1690",
+        "predicted_answer": "1690",
+        "gold_answers": [
+            "1688"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8692",
+        "prediction": "Columbia Alumni Association",
+        "predicted_answer": "Columbia Alumni Association",
+        "gold_answers": [
+            "Columbia Associates"
+        ],
+        "em": 0,
+        "f1": 0.4
+    },
+    {
+        "id": "single_squad_dev_1380",
+        "prediction": "1940s",
+        "predicted_answer": "1940s",
+        "gold_answers": [
+            "1943\u201345"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7247",
+        "prediction": "7",
+        "predicted_answer": "7",
+        "gold_answers": [
+            "two"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_2788",
+        "prediction": "10.0",
+        "predicted_answer": "10.0",
+        "gold_answers": [
+            "10 points"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_5977",
+        "prediction": "36,000",
+        "predicted_answer": "36,000",
+        "gold_answers": [
+            "36,452"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6568",
+        "prediction": "World War II",
+        "predicted_answer": "World War II",
+        "gold_answers": [
+            "World War II"
+        ],
+        "em": 1,
+        "f1": 1.0
+    },
+    {
+        "id": "single_squad_dev_194",
+        "prediction": "a set of variations on a theme by Mozart",
+        "predicted_answer": "a set of variations on a theme by Mozart",
+        "gold_answers": [
+            "a march"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6179",
+        "prediction": "To provide an accurate answer, I would need more context about which specific council you are referring to. Could you please clarify which council or decision you are asking about?",
+        "predicted_answer": "To provide an accurate answer, I would need more context about which specific council you are referring to. Could you please clarify which council or decision you are asking about?",
+        "gold_answers": [
+            "29 January 1959"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8607",
+        "prediction": "apostolic succession",
+        "predicted_answer": "apostolic succession",
+        "gold_answers": [
+            "no sacramental ministerial priesthood"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_6991",
+        "prediction": "Colonel Benjamin Cleveland",
+        "predicted_answer": "Colonel Benjamin Cleveland",
+        "gold_answers": [
+            "Overmountain Men"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3486",
+        "prediction": "1,900",
+        "predicted_answer": "1,900",
+        "gold_answers": [
+            "1100"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_7256",
+        "prediction": "availability and reliability of the electrical grid",
+        "predicted_answer": "availability and reliability of the electrical grid",
+        "gold_answers": [
+            "Network effects"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_8671",
+        "prediction": "over 1.1 billion hours",
+        "predicted_answer": "over 1.1 billion hours",
+        "gold_answers": [
+            "1.93 billion"
+        ],
+        "em": 0,
+        "f1": 0.3333333333333333
+    },
+    {
+        "id": "single_squad_dev_5209",
+        "prediction": "Phospholipase A2 inhibitors",
+        "predicted_answer": "Phospholipase A2 inhibitors",
+        "gold_answers": [
+            "Omega-3 EPA"
+        ],
+        "em": 0,
+        "f1": 0
+    },
+    {
+        "id": "single_squad_dev_3184",
+        "prediction": "3 buttons",
+        "predicted_answer": "3 buttons",
+        "gold_answers": [
+            "four"
+        ],
+        "em": 0,
+        "f1": 0
+    }
+]

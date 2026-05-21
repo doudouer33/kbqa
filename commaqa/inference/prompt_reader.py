@@ -7,13 +7,15 @@ from functools import lru_cache
 
 random.seed(13370)  # Don't change this.
 
+TOKENIZER_WARNING_MAX_LENGTH = 120000
+
 
 @lru_cache(maxsize=15)
 def get_tokenizer(model_name):
     from transformers import AutoTokenizer
 
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
-    return AutoTokenizer.from_pretrained(model_name)
+    return AutoTokenizer.from_pretrained(model_name, model_max_length=TOKENIZER_WARNING_MAX_LENGTH)
 
 
 def read_prompt(

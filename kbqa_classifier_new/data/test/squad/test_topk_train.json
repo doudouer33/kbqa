@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "single_squad_dev_1000",
+    "question": "Which two similar words share etymology with genome?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1005",
+    "question": "How many selective grammar schools are still currently functioning in England and Wales?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_1028",
+    "question": "In addition to being Prime Minister, what other role did Winston Churchill serve during World War II?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1031",
+    "question": "What country does Khalifah serve for as prime minister?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1064",
+    "question": "Which law firm leveraged Wayback Machine to protect their client in 2003?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_1082",
+    "question": "What are the four divisions?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_1096",
+    "question": "From where did Iranian languages originate?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1102",
+    "question": "Ossetic is a version of which Scythian language?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_111",
+    "question": "What crowdfunding platform was used in the concert?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1125",
+    "question": "What state of emotion did Le Corbusier say architecture put him in?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_1153",
+    "question": "What does TDM stand for?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1181",
+    "question": "In what year did the Pilgrim Fathers sail from Plymouth?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1193",
+    "question": "What parish was incorporated into Plymouth in 1967?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_1199",
+    "question": "About how much are the staff of the University of Plymouth paid yearly in total?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1219",
+    "question": "What cultures are listed as examples of discipline for being a heretic?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_1228",
+    "question": "In which year were Soviet forces scheduled to leave Mongolia? ",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1237",
+    "question": "Sputnik 1 started orbiting on what date?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1243",
+    "question": "The first Ranger mission that didn't fail was which one?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1318",
+    "question": "What park hosts Quarter horse racing?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_135",
+    "question": "What were conscientious objectors sent to Montana to do?",
+    "label": 12
+  },
+  {
+    "id": "single_squad_dev_1366",
+    "question": "What was the RSFSR government called starting in 1946?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_1369",
+    "question": "In what state was the Universal Film Manufacturing Company incorporated?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1380",
+    "question": "In what period did film versions of Inner Sanctum Mysteries appear?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_139",
+    "question": "Who promoted settlement in Montana in the early 1900s",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_1424",
+    "question": "what may possibly be a solution to net neutrality concerns? ",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_1430",
+    "question": "What do visps purchase services from? ",
+    "label": 11
+  },
+  {
+    "id": "single_squad_dev_144",
+    "question": "In addition to the numeric size of a targeted group, what other consideration was useful to the ICTY?",
+    "label": 5
+  },
+  {
+    "id": "single_squad_dev_1446",
+    "question": "Who was granted a charter to govern Saint Helena?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_1469",
+    "question": "What date was Saint FM radio launched?",
+    "label": 11
+  },
+  {
+    "id": "single_squad_dev_1488",
+    "question": "What uses the ⟨◌ʱ⟩?",
+    "label": 13
+  },
+  {
+    "id": "single_squad_dev_1506",
+    "question": "Where are large quantities of H2 needed?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1541",
+    "question": "How long is bostons subway system?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1545",
+    "question": "When was the fourth satellite for the BeiDou-1 system launched?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_1555",
+    "question": "What will improve the positioning accuracy of the Compass system?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_1563",
+    "question": "When was the law of the Eastern Catholic Churches promoted?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_1567",
+    "question": "In what century did Saxons and Normans separate?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_159",
+    "question": "When were antibiotics created?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_1598",
+    "question": "Where is this a common feature?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1604",
+    "question": "As what can divergence in the groups be shown?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1617",
+    "question": "In what year was S. Wanradt and J. Koell's book written?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1621",
+    "question": "What is the dialect from Lake Peipsi?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1630",
+    "question": "In what century did the papermaking process spread from China to Europe?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1635",
+    "question": "On what date was the expiration of Foster's patent?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1641",
+    "question": "In what year did the rules first forbid players running out of bounds?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1663",
+    "question": "With what broader style of music does adult contemporary share its structure?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_167",
+    "question": "Whhat does intestinal flora reduce?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1699",
+    "question": "When were the Benedictine monks required to maintain a charity school?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1720",
+    "question": "What type of climate does Nanjing enjoy?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_173",
+    "question": "Who discovered the chemical structure of penicillin?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1730",
+    "question": "Companies such as Ford, IBM, Lucent, Samsung and SAP have built what in Nanjing?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_1743",
+    "question": "Which sports center started in 1952?",
+    "label": 5
+  },
+  {
+    "id": "single_squad_dev_1764",
+    "question": "How many businesses are there in the secondary sector?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1802",
+    "question": "What was shut down as a result of legislation changing the name of ARCUK?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1849",
+    "question": "How much money is involved in bribery in the world each year?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1862",
+    "question": "How much has new types of Internet journalism replaced what has been lost in the press?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1868",
+    "question": "How many methods of judiciary corruption are there?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_1875",
+    "question": "In what environment are dialects less common?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_19",
+    "question": "What length is the course of study at the Notre Dame School of Architecture?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1901",
+    "question": "Why were women composers deemed not notable?",
+    "label": 7
+  },
+  {
+    "id": "single_squad_dev_1932",
+    "question": "Who did the Slavs have contact with in Ukraine?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_194",
+    "question": "What did Chopin create for Grand Duke Constantine?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_197",
+    "question": "Who in Chopin's family died shortly before they moved in 1827?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_1974",
+    "question": "Modern treaties typically outline the procedures for the peaceful resolution of what?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_1978",
+    "question": "A protocol may add additional provisions to a treaty or else do what?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_2009",
+    "question": "How was Draza executed?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2019",
+    "question": "What was referred to as the \"Mass Movement\"?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2023",
+    "question": "What country is Stejpan Mesic president of?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2031",
+    "question": "In what year did the Tito-Stalin split occur?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2039",
+    "question": "On what date did Legazpi's expedition see the island it named Placeres?",
+    "label": 11
+  },
+  {
+    "id": "single_squad_dev_2071",
+    "question": "The selection of nobility oh the polish kingdom was selected my whom?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2090",
+    "question": "In which book does Aeneas' father die?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2092",
+    "question": "Who did Virgil recite Books 2, 4, and 6 of the Aeneid to?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_2101",
+    "question": "Who came up with the general classification?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2115",
+    "question": "Who ordered the construction of a paved road?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2129",
+    "question": "What type of sugar composes part of the DNA molecule?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2151",
+    "question": "What is the smallest number of protein coding genes that a virus can have?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2170",
+    "question": "How many pregnant women die as a result of pregnancy?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_218",
+    "question": "Where was Sand's estate located where they stayed for the summers until 1846?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_2197",
+    "question": "How much did the 132nd Street Community Garden's water distribution system cost?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2200",
+    "question": "Which part of a computer does the brain most resemble?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2228",
+    "question": "When was John Seller's Atlas Maritima?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2247",
+    "question": "What does Tanka mean? ",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2276",
+    "question": "What \"chicken or the egg\" stalemate prompted Euro1080 to broadcast HDTV channels?",
+    "label": 5
+  },
+  {
+    "id": "single_squad_dev_228",
+    "question": "Who organizes the Grand prix du disque de F. Chopin for notable Chopin recordings?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_2281",
+    "question": "The compression used in all HDTV storage and transmission systems will do what if resolution is too high?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_2304",
+    "question": "What plumbing component was once made out of elm?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_231",
+    "question": "Chopiniana later went by a different name, what is that name?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2336",
+    "question": "What is the jewelry worn by Somali women commonly made from?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_2383",
+    "question": "What weapons were notably employed by the Swiss infantry?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_2384",
+    "question": "What is a notable masterpiece of the International Gothic style?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_24",
+    "question": "Where did the Fighting Irish hockey team compete prior to a move to Hockey East, in terms of conference?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2415",
+    "question": "Who are they descendants of?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_2471",
+    "question": "What was one use of the uses for the newly developed land of Chanakypuri?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_2486",
+    "question": "What is the name of the modern art museum located in new Delhi?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2537",
+    "question": "What type of bankruptcy did Caesars Entertainment file for?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2543",
+    "question": "Which specific hormone precipitates the change in immunology in males?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2546",
+    "question": "What program requires an additional two years of study?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2552",
+    "question": "As MPEG-3 had a different meaning, what was the name given to the extension of MPEG-2?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2554",
+    "question": "Excerpts were taken from which reference compact disc to assess the subjective quality of the MPEG audio formats?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_2569",
+    "question": "The continuous back and forth regarding the decisions on patents was referred to as what?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2580",
+    "question": "when did the DJ International Tour take place?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2584",
+    "question": "where did house music gain popularity in the middle east?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2587",
+    "question": "Rounder and simpler forms of letters came from writing quickly with which instrument?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_2588",
+    "question": "Which is the most common variant of case in text?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2590",
+    "question": "Although there are challenges a unified European alphabet is feasible even in the absence of which common language rule?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2625",
+    "question": "England played against countries besides the Home Nations for the first time in what year?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2629",
+    "question": "In what year did Sven-Göran Eriksson become the manager of England's football team?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2632",
+    "question": "In what year did the space shuttle Challenger explode after launch?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2635",
+    "question": "How many foreign countries have trade offices in Houston?",
+    "label": 7
+  },
+  {
+    "id": "single_squad_dev_2636",
+    "question": "What form of car parade is held in Houston?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_2646",
+    "question": "According to the 2000 census, what is the population of Houston?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2656",
+    "question": "What does organocopper compounds reactions toward oxygen form?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_2669",
+    "question": "In what classification is a person who gives up their exclusive sense of self and defines him or herself only in terms of social engagement?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_2673",
+    "question": "What does Himachal have a rich heritage of?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2675",
+    "question": "How much was allocated?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2679",
+    "question": "What does HIma mean in Sanskirt?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2740",
+    "question": "How does grain become malted?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_2742",
+    "question": "What is the most popular alcoholic drink in most societies?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2767",
+    "question": "Other than the British Virgin Islands, what other area in the Caribbean uses the dollar as it's sole currency?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_2773",
+    "question": "To which department did the professor who passed in September 2014 belong?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_2788",
+    "question": "What is the maximum scroe for routines?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2797",
+    "question": "What was the name of William IV's heir?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2807",
+    "question": "Who developed the social bond theory?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2817",
+    "question": "When was Diego Maradona signed by Barcelona?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2822",
+    "question": "What was the score of the second match in 1943 played against Real Madrid?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2824",
+    "question": "With Franco's dictatorship over, to what did Barcelona change their name ?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_2825",
+    "question": "What political group wanted Nunez to resign the presidency?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2856",
+    "question": "What were most escort carriers built from?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2880",
+    "question": "When did the administrative boundaries for the Duchy of Lancaster change?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2895",
+    "question": "In what year was AT&T's \"Picturephone\" device introduced?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_2955",
+    "question": "Where was the band Blue Cheer from?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_302",
+    "question": "When did HP unveil their own edition of the iPod?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_3026",
+    "question": "What is the minimum age to join the FBI?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3029",
+    "question": "What team underwent a technological upgrade in 1991?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3051",
+    "question": "Does self-examination begin early or late in adolescence?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3054",
+    "question": "At what age does coming out to adults occur on average?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3062",
+    "question": "Which gender reports most frequently using alcohol as a coping mechanism?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3090",
+    "question": "What is the thinking of the cause  of the Antarctic Peninsula sea level.",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_3094",
+    "question": "Who is interested in the effects of harsh environment on humans?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3119",
+    "question": "In what year was the APA Building completed?",
+    "label": 5
+  },
+  {
+    "id": "single_squad_dev_3168",
+    "question": "Which smartphone has hurt personal computer manufacterers the most?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3184",
+    "question": "How many buttons did the Mighty Mouse have?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3186",
+    "question": "What did the Air receive before other PC manufacturers?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3192",
+    "question": "What is another possible weapon for anti-aircraft use?",
+    "label": 6
+  },
+  {
+    "id": "single_squad_dev_3200",
+    "question": "Along with predicting the gun data from tracking the target, what else needed to be known about the target to enable the aimed fire?",
+    "label": 14
+  },
+  {
+    "id": "single_squad_dev_3240",
+    "question": "Which composer featured Sanskrit music in his movies?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_3267",
+    "question": "When democracy began in Spain, what did the kingdom of Valencia become?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_3271",
+    "question": "Based on year 2000 data, where is GE ranked among the largest corporate producers of air pollution in the US?",
+    "label": 5
+  },
+  {
+    "id": "single_squad_dev_3293",
+    "question": "What did von Bredow's Pyrrhic victory become known as?",
+    "label": 7
+  },
+  {
+    "id": "single_squad_dev_3301",
+    "question": "Which general opened the battle with artillery from the 25th Infantry Division?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3310",
+    "question": "What did the National Guard refuse to wear?",
+    "label": 9
+  },
+  {
+    "id": "single_squad_dev_3318",
+    "question": "When did the C-Group inhabit the Nile Valley?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3344",
+    "question": "What is the student-teacher ratio in secondary schools?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_3372",
+    "question": "In what year did Newton die?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3395",
+    "question": "From whom did Catherine the Great receive assistance in her Enlightenment ideals via correspondence?",
+    "label": 11
+  },
+  {
+    "id": "single_squad_dev_3400",
+    "question": "Which society in England also played a significant role in the public sphere and spread of Enlightenment ideas?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_3438",
+    "question": "What great house caught fire in November?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3440",
+    "question": "Once in conversation with the Queen, how is Elizabeth addressed?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_3447",
+    "question": "What stimuli did men show no arousal towards?",
+    "label": 6
+  },
+  {
+    "id": "single_squad_dev_3449",
+    "question": "Can a persons sexual interest change over different times in their life?",
+    "label": 13
+  },
+  {
+    "id": "single_squad_dev_3453",
+    "question": "What can affect how a person is treated?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_3461",
+    "question": "What caused valuable information to be lost while using the KInsey scale?",
+    "label": 9
+  },
+  {
+    "id": "single_squad_dev_3464",
+    "question": "What group of the LGBT community are the most researched?",
+    "label": 7
+  },
+  {
+    "id": "single_squad_dev_3466",
+    "question": "How much is known about lesbians and bisexual women in these cultures?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3475",
+    "question": "The plant in what US state still remains in operation?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3486",
+    "question": "How many employees lost jobs when Dell closed their call center?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_3526",
+    "question": "What was the lockout chip number for UK, Italy, and Australia?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_3529",
+    "question": "What is the standard display resolution of the NES?",
+    "label": 9
+  },
+  {
+    "id": "single_squad_dev_3566",
+    "question": "What writing mentions the Arian accusation that Athanasius was under aged?",
+    "label": 5
+  },
+  {
+    "id": "single_squad_dev_3567",
+    "question": "What translation of the Old Testament did he study?",
+    "label": 10
+  },
+  {
+    "id": "single_squad_dev_3578",
+    "question": "When are different Gospels said?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_3580",
+    "question": "What was the airplane company that helped Seattle return to economic stability? ",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3592",
+    "question": "When was there a moderate snowfall  of over one foot that lasted on the ground two weeks?",
+    "label": 9
+  },
+  {
+    "id": "single_squad_dev_3625",
+    "question": "Why did muticultural Americans hid their heritage?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3628",
+    "question": "How many race choices may someone check?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3642",
+    "question": "What is amphetamine used for today?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_3665",
+    "question": "How many Americans were given the drug Kevadon?",
+    "label": 5
+  },
+  {
+    "id": "single_squad_dev_3709",
+    "question": "When did Claridge's company liquidate?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3766",
+    "question": "What type of monarchy was established as time went on in Victorias rule?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3767",
+    "question": "Who defeated Gladstone yet again in the general elction?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3784",
+    "question": "How can you find a lodge to ask to be a member of?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3806",
+    "question": "The immigration was in accordance to what?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3827",
+    "question": "In what year did the Battle of Actium take place?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3831",
+    "question": "Who documented that Perdiccas' was under suspicion? ",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3849",
+    "question": "What are Seleucid military colonies called?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3850",
+    "question": "What year did Ptolemy IV die?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3863",
+    "question": "When was Macedonia annexed by the Romans?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3873",
+    "question": "Which barbarians were depicted in heroic form?",
+    "label": 8
+  },
+  {
+    "id": "single_squad_dev_3877",
+    "question": "What historical event brought about the fall of the Robespierres?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_389",
+    "question": "What kind of reasons do their findings show?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_3898",
+    "question": "How many troops did Napoleon send to begin the invasion of Portugal?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3903",
+    "question": "After his divorce from Josephine, who did Napoleon marry?",
+    "label": 5
+  },
+  {
+    "id": "single_squad_dev_3908",
+    "question": "What 1812 event turned Napoleon's attention back to France?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_3922",
+    "question": "What is the Code Civil frequently referred to as now?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3926",
+    "question": "How old was Joséphine de Beauharnais when she was married to Napoleon?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_393",
+    "question": "What did the National Disaster Relief Commission initiate?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3939",
+    "question": "How many of Northwestern's 9 founders were ministers?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3954",
+    "question": "What do students traditionally do at the beginning of each football game kickoff?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_3978",
+    "question": "Who organized the Spanish expedition?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4024",
+    "question": "Of what is the early logo of Arsenal an example?",
+    "label": 14
+  },
+  {
+    "id": "single_squad_dev_4028",
+    "question": "In this era of satelites and social media,on what are fans now less dependent ?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4037",
+    "question": "Now that \"Nederlands\" is used for Dutch in Dutch, what do Dutch speakers call German?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4041",
+    "question": "What court in Dijon prior to 1477 had a hand in standardizing Dutch?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_4047",
+    "question": "How would you tell a West Flemish speaker \"yes\"?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4160",
+    "question": "How many urban districts are in Bremen?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4164",
+    "question": "Which country aided South Korea during the war?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4183",
+    "question": "Besides the United States, what other country sent military personnel to Korea?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4221",
+    "question": "What banners appeared on the winners' podium at the August 2013 ceremony?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4234",
+    "question": "What makes peer-to-peer networks different than other online providers?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_4244",
+    "question": "Rigas Feraios was killed by Ottoman assassins in what year? ",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4284",
+    "question": "Who commanded the second  voyage in 1604?",
+    "label": 9
+  },
+  {
+    "id": "single_squad_dev_4338",
+    "question": "What made up Lake Texcoco?",
+    "label": 6
+  },
+  {
+    "id": "single_squad_dev_4361",
+    "question": "How many states does Mexico have?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4370",
+    "question": "What emperor forced the Germanic tribes to the east side of the Rhine?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4376",
+    "question": "When did Jewish assimilation end?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4404",
+    "question": "What colony was located to the north of New Haven Colony, centered around the area known as Hartford?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4416",
+    "question": "The eastern river bears the name of the Native American Tribes that once live in New Haven, what is the name?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4430",
+    "question": "What are the names of the two Achievement First charter schools located in New Haven?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_445",
+    "question": "New York City is adjacent to what ocean?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4469",
+    "question": "What is the average amount of time men serve as missionaries?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_448",
+    "question": "In what year was the Woolworth Building completed?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4482",
+    "question": "What was believed to be one of the schools greatest strengths by Pres. Jeffrey R. Holland?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_4497",
+    "question": "Which BYU graduate has won both the 1976 British Open and the 1973 U.S. Open?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4498",
+    "question": "WHat percentage of people suffer from atypical symptoms?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4501",
+    "question": "When is bypass surgery recommended?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4524",
+    "question": "Where were some of the original Philippine stores located?  ",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_4526",
+    "question": "What was the location of the first store? ",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4547",
+    "question": "What percentage of the Florida population in 2010 was Hispanic ",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_4572",
+    "question": "What did Freddie Mercury die of?",
+    "label": 10
+  },
+  {
+    "id": "single_squad_dev_4585",
+    "question": "Who collaborated with Freddie Mercury on the song Under Pressure?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_459",
+    "question": "What division is based at Fort Hamilton?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_4593",
+    "question": "In what year was the Church of Scotland recognized as a Presbyterian institution by the moncarh?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4613",
+    "question": "Where is the civil service college of Thuringia?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_4616",
+    "question": "How would you describe a diet of a species that eats primarily dead organic material? ",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4628",
+    "question": "The removal of what animal from Yellowstonw National Park affected beaver populations?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_4645",
+    "question": "What TV network shares a parent with Marvel?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_4670",
+    "question": "How many counties of Ireland are in Northern Ireland?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4679",
+    "question": "How can botany be applied to combating world hunger?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4684",
+    "question": "Rayon comes from what plant product?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4696",
+    "question": "Do roots contain chlorophyll?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_4739",
+    "question": "What area continued to exist after Londinium was abandoned following the end of Roman rule?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4741",
+    "question": "Where was the royal treasury housed?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4745",
+    "question": "What is the name of the City of London's police force?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4752",
+    "question": "Epping Forest is home for how many species of bats?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4768",
+    "question": "In the Unites States what sets out the boundaries of federal law?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4771",
+    "question": "Most U.S law, the kind of law we live everyday, consists of what kind of law?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4774",
+    "question": "What year was the case Greenman v. Yuba Power products?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4788",
+    "question": "What type of government does Burma operate under ?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4818",
+    "question": "Who believed the status of the offspring of mixed marriages was determined patrilineally in the Bible?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_4856",
+    "question": "What impact was Mackenzie said to have?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_488",
+    "question": "What does the acronym NYPD stand for?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4896",
+    "question": "What were the stylistic elements of the parade imported with in colonial times?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4909",
+    "question": "How far back was the county populated ",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4939",
+    "question": "What is the name of the United States' first bowl stadium?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_4997",
+    "question": "What were one of  Metzingers two showings in 1912's Salon des Independants? ",
+    "label": 11
+  },
+  {
+    "id": "single_squad_dev_4998",
+    "question": "What two items did Duchamp attach together in 1913? ",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_5046",
+    "question": "Who invited Burke to join the Freemasons?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5057",
+    "question": "Who was the Secretary of the Board of Agriculture?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5073",
+    "question": "Which cardinal became heavily engaged in the passage of Nostra aetate?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5082",
+    "question": "Who organized Paul Vi's visit to Manila?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_5084",
+    "question": "How many encyclicals did Paul VI publish?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5139",
+    "question": "What is the EFTA?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_5160",
+    "question": "There was a nationwide strike being held that was called les envenements and also named what?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5192",
+    "question": "When was the Auguste Rodine exhibit?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5208",
+    "question": "What needs to be examined to determine whether a fat can be classified as saturated or unsaturated?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5209",
+    "question": "What is able to prevent AA from being released from membranes?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5210",
+    "question": "When the body no longer needs the amino acids that are present, through which excretion are they lost?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5220",
+    "question": "Which specific term is unregulated but still oft associated with professionals when it comes to food and diets?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5224",
+    "question": "What is the name of the traditional Mali recipe that equinut is a twist on?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5234",
+    "question": "In what year was the Janissary corp disbanded?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5250",
+    "question": "What month did the capture of Malakoff take place?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_527",
+    "question": "Which president of the US awarded Lee the Presidential Medal of Freedom?",
+    "label": 7
+  },
+  {
+    "id": "single_squad_dev_5282",
+    "question": "What did Avicenna not consider when explaining his theories on philosophy?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_5313",
+    "question": "In what year did Bermuda enter British rule?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5331",
+    "question": "What is the site for Bermuda's Remembrance Day?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_5340",
+    "question": "Who is the President of Nigeria?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_536",
+    "question": "Each year the Earth absorbs how much solar energy in exajoules?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_5366",
+    "question": "Who was in conflict with the prince bishopric ",
+    "label": 7
+  },
+  {
+    "id": "single_squad_dev_5381",
+    "question": "When did Von Neumann get married?",
+    "label": 5
+  },
+  {
+    "id": "single_squad_dev_5391",
+    "question": "On what computer was the first numerical weather forecast produced?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5402",
+    "question": "Who would the axis powers oppose in the new agreement?",
+    "label": 14
+  },
+  {
+    "id": "single_squad_dev_5412",
+    "question": "How many times the maximum AC voltage are AC capacitors designed to withstand?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_545",
+    "question": "Why do agriculture and horticulture seek to make the most use of the solar energy captured?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5485",
+    "question": "Most glaciers from Greenland, Antarctica, and Southeast Alaska are of which type?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_5498",
+    "question": "The rule that adjust the curve at different temperatures is known as what?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5507",
+    "question": "What three factors impact the gyromagnetic ratio?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_551",
+    "question": "How is the energy stored by pumped-storage hydroelectricity recovered?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_5550",
+    "question": "What claim did Ronald Dworkin make about the expectations that a college application should not have?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_5562",
+    "question": "How many times has Crystal Palce hosted the FA cup? ",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5565",
+    "question": "What did Burge do with the cup? ",
+    "label": 9
+  },
+  {
+    "id": "single_squad_dev_5569",
+    "question": "In what year did the division of Alsace take place?",
+    "label": 6
+  },
+  {
+    "id": "single_squad_dev_5572",
+    "question": "Who is the president of the regional counsel?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5592",
+    "question": "Who were the victims of industrial accidents?",
+    "label": 5
+  },
+  {
+    "id": "single_squad_dev_5594",
+    "question": "What became an issue for the working child?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_5633",
+    "question": "What religion spread during the Heian period?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5688",
+    "question": "When had the Ukrainian Greek-Catholic Church been broken up by the Soviets?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5702",
+    "question": "Where was Jesus Crucified?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5704",
+    "question": "How many people were crucified with Jesus?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5724",
+    "question": "What percentage of the Miami population in 1970 was black?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_5726",
+    "question": "Along with nightclubs, beaches and shopping, what notable attraction exists in the Art Deco District?",
+    "label": 8
+  },
+  {
+    "id": "single_squad_dev_5752",
+    "question": "Who claims that the Old Testament is essentially the same throughout all variations?",
+    "label": 11
+  },
+  {
+    "id": "single_squad_dev_5755",
+    "question": "What is the niche market of phonograph record fans known as?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_5763",
+    "question": "How may records were commonly found in an album?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_5773",
+    "question": "Does IRENE require the  ability to touch the media?",
+    "label": 15
+  },
+  {
+    "id": "single_squad_dev_5774",
+    "question": "What is a typical max playing time of an LP?",
+    "label": 7
+  },
+  {
+    "id": "single_squad_dev_5776",
+    "question": "Does it matter at which speed a disc is spun?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_5794",
+    "question": "When did short films from TCM begin to stream on TCM's website?",
+    "label": 10
+  },
+  {
+    "id": "single_squad_dev_5867",
+    "question": "What types of retail offerings are found in Cork?",
+    "label": 5
+  },
+  {
+    "id": "single_squad_dev_5869",
+    "question": "What is the most famous pharmaceutical company in Cork?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5882",
+    "question": "When was Brazil's fall of the monarchy?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_592",
+    "question": "What type of anthropology do feminist anthropologists inclusively specialize in?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_5932",
+    "question": "What is a USB packet's end called?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_5935",
+    "question": "The first byte is what?",
+    "label": 8
+  },
+  {
+    "id": "single_squad_dev_5965",
+    "question": "Which two areas were connected by the Port Authority Passenger Terminal?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_5977",
+    "question": "What was Detroit's 2010 Mexican population?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_5983",
+    "question": "Who did a documentary on Motown?",
+    "label": 11
+  },
+  {
+    "id": "single_squad_dev_5988",
+    "question": "Which festival spans five days?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_6011",
+    "question": "What mountain helps enhance the aridity of the desert?",
+    "label": 13
+  },
+  {
+    "id": "single_squad_dev_6021",
+    "question": "What happens to the rule of law if a government does not have an effective system for maintenance and restoration?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_6033",
+    "question": "When did Thailand first try to overthrow its government run by a king?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6070",
+    "question": "What organ did Wolfgang Amadeus Mozart play on?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6073",
+    "question": "Where are old master paintings from the Germanic Rhenish territories until 1681 held? ",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_6078",
+    "question": "How many tornadoes hit Oklahoma each year?",
+    "label": 6
+  },
+  {
+    "id": "single_squad_dev_6085",
+    "question": "Where does Oklahoma have a fine Egyptian art collection?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_6118",
+    "question": "Who ruled the Maratha Empire?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_6119",
+    "question": "In what country was the trading base for the Dutch?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6123",
+    "question": "What new law was created?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6177",
+    "question": "When did he take that position?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6179",
+    "question": "When was the decision made for this council?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6196",
+    "question": "Which theorems require the existence of a singularity at the beginning of time?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_6213",
+    "question": "What said that agencies had to start using Moody's and S&P to assess financial institutions?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6245",
+    "question": "What list by PC World ranked PlayStation eighth, in a bad way?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_625",
+    "question": "How many judges and prosecutors does Portugal have per 100,000 inhabitants?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_6251",
+    "question": "In the event that the monarch refuses to give royal assent, what can the monarch make use of?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_626",
+    "question": "To what percentage did the unemployment rate peak at?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6291",
+    "question": "When did a mutiny form against Patasse?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6293",
+    "question": "Where did General Bozize flee to escape?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6311",
+    "question": "What is more variable than spirometry but not recommended?",
+    "label": 11
+  },
+  {
+    "id": "single_squad_dev_639",
+    "question": "In which century did Portugal see the arrival of Modernism?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6403",
+    "question": "What form of servitude was eliminated?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6405",
+    "question": "When did the Estonian Independent Signal Battalion face off against the Soviets?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_6427",
+    "question": "What opinions do Croatian Nationalists have on the language issue?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_643",
+    "question": "When did Kanye West start his production career?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_6443",
+    "question": "What is the function of an Alaskan recording district?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6471",
+    "question": "Who placed it in his 1787 work? ",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6490",
+    "question": "What leads from the salivary glands to the reservoirs?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6493",
+    "question": "Insects have what kind of sense of numbers?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_650",
+    "question": "What was the original name of Kanye's album \"SWISH\"?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6504",
+    "question": "Cicadas symbolize immortality in what culture?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6520",
+    "question": "What partially accounts for the appearance of light skin in humans?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_6521",
+    "question": "What are sweeps?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6526",
+    "question": "What word do many social scientists instead of race?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_653",
+    "question": "What finally become of Kanye's clothing line in 2009?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6539",
+    "question": "Up until when did physical anthropology texts still argue that biological races exist?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_6560",
+    "question": "How many people visited the Louvre in 2013?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6567",
+    "question": "What famous museum is Comedie-Francaise located next to?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6568",
+    "question": "During what war did Modiano base most of his work off of?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6572",
+    "question": "In what decade did movie theaters become popular?",
+    "label": 11
+  },
+  {
+    "id": "single_squad_dev_658",
+    "question": "What other artist besides Kanye West and Common was among the first to record at GOOD Music?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6592",
+    "question": "To whom was the Delos sanctuary dedicated?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_6593",
+    "question": "Who describes Delphi and Dodona as frenzied women?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_6626",
+    "question": "In 1961 who became the president of IBM?",
+    "label": 11
+  },
+  {
+    "id": "single_squad_dev_668",
+    "question": "What famous governor signed legislation in honor of Donda West's death?",
+    "label": 11
+  },
+  {
+    "id": "single_squad_dev_6680",
+    "question": "What does Liquidmetal Technologies use for their alloys?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_6685",
+    "question": "In cooled glass, what types of movement stop?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6689",
+    "question": "What involves lowering income taxes while raising levies?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_67",
+    "question": "Beyonce signed a letter with who in 2015?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6727",
+    "question": "Zinc oxide is used to fortify what product?",
+    "label": 4
+  },
+  {
+    "id": "single_squad_dev_6747",
+    "question": "What was the deadline for converstion to digital transmission from analogue?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6830",
+    "question": "Maudlin argues that the passage of time is what kind of asymmetry?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_6854",
+    "question": "What position did the British Prime Minister's secretary of state previously hold?",
+    "label": 10
+  },
+  {
+    "id": "single_squad_dev_6857",
+    "question": "What is one of the effects of diarrhea?",
+    "label": 7
+  },
+  {
+    "id": "single_squad_dev_6881",
+    "question": "How many planning districts make up Philadelphia?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6891",
+    "question": "How many pieces of art were funded by the Percent for Art ordinance?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6909",
+    "question": "Who was Kerry a personal aide for?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_6922",
+    "question": "What was Kerry's mother's name?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_694",
+    "question": "What type of sutra is the Lotus Sutra?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6943",
+    "question": "Which privately owned medical facility opened in 2016?",
+    "label": 5
+  },
+  {
+    "id": "single_squad_dev_6944",
+    "question": "What theory was Aristotle's explanation based on?",
+    "label": 15
+  },
+  {
+    "id": "single_squad_dev_6947",
+    "question": "What two types of arguments did Locke say there are?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6973",
+    "question": "Which famous inventor was a Autodidact?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6974",
+    "question": "In what year did e-learning jump 14 times over traditional leaning?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_6989",
+    "question": "In which year did the British first settle in what would become Tennessee?",
+    "label": 7
+  },
+  {
+    "id": "single_squad_dev_699",
+    "question": "What is another word for Dukkha?",
+    "label": 5
+  },
+  {
+    "id": "single_squad_dev_6991",
+    "question": "Who left Fort Watuaga, crossed the Appalachians, and attacked the British army in South Carolina in 1780?",
+    "label": 9
+  },
+  {
+    "id": "single_squad_dev_7025",
+    "question": "Where did systhpop, industrial and neo-psychedelia music derive from?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_7038",
+    "question": "What does the term \"Second Hundred Years' War\" describe?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_7065",
+    "question": "Which tribe was the enemy of the Seven Nations of Canada?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7099",
+    "question": "In what part of London did Gaddafi wear traditional Arab garb?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_7108",
+    "question": "When was the last volume of Gaddafi's work on Third International Theory published?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_7137",
+    "question": "What does the international community consider the northern part of Cyprus?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_7143",
+    "question": "Which river drains the Mesaoria plain?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7170",
+    "question": "When did Jurassic Park come out?",
+    "label": 10
+  },
+  {
+    "id": "single_squad_dev_7174",
+    "question": "What department did Spielberg have an unpaid internship with?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_720",
+    "question": "Bodhisattvas are not encouraged to eat what?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7232",
+    "question": "Which three planets have small quadrupole moments compared to Neptune?",
+    "label": 3
+  },
+  {
+    "id": "single_squad_dev_7247",
+    "question": "How many narrow-gauge lines in Slovakia?",
+    "label": 12
+  },
+  {
+    "id": "single_squad_dev_7248",
+    "question": "Why DC system can effect the speed of trains?",
+    "label": 6
+  },
+  {
+    "id": "single_squad_dev_7256",
+    "question": "What is a major factor whn it comes to electrification?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7267",
+    "question": "Does Washington (government) operate in both languages (bilingual-Spanish?)",
+    "label": 14
+  },
+  {
+    "id": "single_squad_dev_7291",
+    "question": "Which Charleston community had a large influence on jazz music?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_7299",
+    "question": "How many nanometres does red have?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7320",
+    "question": "After Paris was seized as a result of the Franco-Prussian war, what did revolutionaries and workers create?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7331",
+    "question": "What disagreements did the  Luftwaffe staff center around?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7335",
+    "question": "What was the name of the Pact of August 1939?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7352",
+    "question": "Raeder convinced Hitler to do what?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7365",
+    "question": "How many members are on the ad hoc panel that allows project exemptions for cases where a species may harmed?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_7368",
+    "question": "How long do ITPs last?",
+    "label": 9
+  },
+  {
+    "id": "single_squad_dev_7383",
+    "question": "When did the Former Han period begin?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7400",
+    "question": "Who was prevented from leaving their house?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7405",
+    "question": "How did daughters get their portion of the family fortune?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7445",
+    "question": "What are considered to be the motherland of the Greeks ?",
+    "label": 5
+  },
+  {
+    "id": "single_squad_dev_7452",
+    "question": "Historical narratives from whose time period are unique to the Quran among holy books?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7466",
+    "question": "Who lost their superpower status in 1950s?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7496",
+    "question": "What position is the switch in when saturated?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7497",
+    "question": "What determines the current ratio in transistors?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7583",
+    "question": "what could an antenna with complete electrical efficiency be said to have?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7603",
+    "question": "What did some plant parts do as they evolved?",
+    "label": 13
+  },
+  {
+    "id": "single_squad_dev_7639",
+    "question": "Beginning in what decade did the Santa Monica  Expo Air Line host freight and passenger services?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_7640",
+    "question": "What year did the Santa Monica freight and passenger service stop running?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7652",
+    "question": "When was Olin Business School named?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_7677",
+    "question": "What is it possible to induce which is, contrary to expectations, devoid of unpleasantness?",
+    "label": 8
+  },
+  {
+    "id": "single_squad_dev_7689",
+    "question": "What is required for a modern DBMS to function?",
+    "label": 8
+  },
+  {
+    "id": "single_squad_dev_7691",
+    "question": "How was the relational model able to improve over time?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_7716",
+    "question": "What interstate is the West side west of? ",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7731",
+    "question": "What is burned at The Procession?",
+    "label": 6
+  },
+  {
+    "id": "single_squad_dev_7749",
+    "question": "When did the Dashnaktsutyun declare independence?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7753",
+    "question": "Who started the fight between the MVD and the NAA in 1918?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7758",
+    "question": "Who ratifies protocols in Armenia?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7765",
+    "question": "What is a large domain of prokaryotic microorganisms?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7775",
+    "question": "What are the main materials of cell walls of plants and fungi?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7813",
+    "question": "In which year shortly thereafter did Manchester United win the UEFA Winners' Cup?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7877",
+    "question": "Who was the instigator in the slave revolt in Italy?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_790",
+    "question": "Who won season seven of American Idol?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7936",
+    "question": "When did Kurita pass through the San Bernardino Strait?",
+    "label": 9
+  },
+  {
+    "id": "single_squad_dev_7942",
+    "question": "In 1945, how many years had Japan already been at war with China?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_7943",
+    "question": "How many Japanese troops were on Okinawa?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_7994",
+    "question": "How many years after the Cedar Fire did additional fires destroy Rancho Santa Fe?",
+    "label": 13
+  },
+  {
+    "id": "single_squad_dev_8008",
+    "question": "Who is said to have mastered the astrolabe?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8025",
+    "question": "The Ilkhans and Tumrids had what type of culture when ruling Iran?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8032",
+    "question": "The Iranina Islamic Republic is based on what document?",
+    "label": 13
+  },
+  {
+    "id": "single_squad_dev_8105",
+    "question": "How is an active list of apps accessed?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_8131",
+    "question": "How long is the Umhlanga Reed Dance?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_8203",
+    "question": "What was the ordinary building material of Sumerians?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8218",
+    "question": "In which British group is Tuvalu a member?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_823",
+    "question": "How many number one Billboard singles were released by American Idol contestants in the shows first decade? ",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8231",
+    "question": "What si Tuvalu's tv domain?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_8242",
+    "question": "Who were the parents of Mary believed to be ?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8244",
+    "question": "What phrases were used to describe Mary ?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_8265",
+    "question": "Which ocean is on the coastal area of Namibia?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8312",
+    "question": "In what decade were production costs greatly reduced for LEDs to enable successful commercial uses?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8330",
+    "question": "What group became the first avialans to develop true pygostyle and a fully mobile fan of tail feathers?",
+    "label": 6
+  },
+  {
+    "id": "single_squad_dev_8335",
+    "question": "What is organized into capillary beds in tissues?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_834",
+    "question": "Who did BMG partner with in 2005-2007?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8340",
+    "question": "Which bird is capable of non-stop flights of up to 6,300 miles?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_8359",
+    "question": "Who was a threat to Shunzhi's throne?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_8378",
+    "question": "Where were textile factories located?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8449",
+    "question": "What scenes are depicted on the Zliten mosaic?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_8459",
+    "question": "Who established the Theotokos Paregoritissa Church in 1294-96?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_8461",
+    "question": "Who did the navicella mosaic depict walking on water?",
+    "label": 10
+  },
+  {
+    "id": "single_squad_dev_8468",
+    "question": "What year were the mosaic pavements installed at the Otranto Cathedral?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_8469",
+    "question": "Who hired Byzantine experts to decorate a rebuilt abbey church?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_8475",
+    "question": "When were the mosaics in the Church of St Stephen re-discovered?",
+    "label": 7
+  },
+  {
+    "id": "single_squad_dev_8488",
+    "question": "What is a mission of EUCLID as it relates to signatory nations?",
+    "label": 15
+  },
+  {
+    "id": "single_squad_dev_8502",
+    "question": "What type of circumstances were called for in times of extreme difficulties?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8510",
+    "question": "What was the benefit of being a Vestal?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_8536",
+    "question": "On what OS was the YouTube Kids app available?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8541",
+    "question": "How old was Amanda Todd when she took her own life because of bullying?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_857",
+    "question": "What is a typical predator of dogs in places such as Turkmenistan?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8574",
+    "question": "Who have argued for the separation of church and state for reasons having nothing to do with a desire for a secular culture?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_8588",
+    "question": "What type of evangelical churches are the most popular?",
+    "label": 10
+  },
+  {
+    "id": "single_squad_dev_8602",
+    "question": "What is another name for the Protestant work ethic?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8607",
+    "question": "What is lacking in Protestant priesthood, according to the Roman Catholic Church?",
+    "label": 6
+  },
+  {
+    "id": "single_squad_dev_8609",
+    "question": "How many Protestants are there in the world?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8611",
+    "question": "How many administrative regions does the Federal District have?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8629",
+    "question": "What distinction does the city of Thessaloniki have in regards to size in Greece?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_8630",
+    "question": "What island was ranked as the 5th best in Europe?",
+    "label": 8
+  },
+  {
+    "id": "single_squad_dev_8658",
+    "question": "What did the Watch Tower Society admit in 1980?",
+    "label": 15
+  },
+  {
+    "id": "single_squad_dev_8671",
+    "question": "Over how many hours had Jehovah's Witnesses spent preaching and in \"Bible study\" activity in 2015?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8692",
+    "question": "What was the name of Columbia University's alumni association?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8694",
+    "question": "Who did the Republicans want to block with an Eisenhower candidacy in 1952?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_8700",
+    "question": "What did American bombers drop on Vietnam?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8701",
+    "question": "What is SEATO?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8704",
+    "question": "What control did Eisenhower use to push through desegregation?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_8711",
+    "question": "What color jacket was Eisenhower buried in?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_8717",
+    "question": "When did the Bronx's economy regrow?",
+    "label": 13
+  },
+  {
+    "id": "single_squad_dev_8759",
+    "question": "When did Charles Potter and Clara Potter publish their first writings on Humanism?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8760",
+    "question": "They introduced it in response to what?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8778",
+    "question": "How are police usually paid?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8785",
+    "question": "What was the initial size of the Thames River Police force?",
+    "label": 15
+  },
+  {
+    "id": "single_squad_dev_88",
+    "question": "Which publication named Beyoncé the Artist of the Decade?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8800",
+    "question": "What kind of problem caused riots in June 2012?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8872",
+    "question": "Other than Buddhists, who worships at Swayambhu?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8873",
+    "question": "In what year could Nepal be said to have been discovered by the outside world?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_8878",
+    "question": "Along with Hindi, Sanskrit, Nepali and English, the National Library contains books in what language?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_890",
+    "question": "What word was used by London officials to describe Chinese security guards for their treatment of protesters?",
+    "label": 1
+  },
+  {
+    "id": "single_squad_dev_902",
+    "question": "What was thrown to try and put out the flame?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_948",
+    "question": "What dominates more basic mentality in symbolic reference?",
+    "label": 2
+  },
+  {
+    "id": "single_squad_dev_964",
+    "question": "When did the Fed begin raising Fed funds rate significantly?",
+    "label": 0
+  },
+  {
+    "id": "single_squad_dev_995",
+    "question": "Where are most of the nice restaurants located?",
+    "label": 8
+  }
+]

@@ -160,7 +160,7 @@ def openai_call(
 def get_gpt_tokenizer():
     from transformers import GPT2Tokenizer
 
-    return GPT2Tokenizer.from_pretrained("gpt2")
+    return GPT2Tokenizer.from_pretrained("gpt2", model_max_length=120000)
 
 
 class GPT3Generator:
