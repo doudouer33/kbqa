@@ -8,13 +8,28 @@ from functools import lru_cache
 random.seed(13370)  # Don't change this.
 
 TOKENIZER_WARNING_MAX_LENGTH = 120000
+QWEN_TOKENIZER_MODEL_NAME = "Qwen/Qwen2.5-7B-Instruct"
+
+
+def is_qwen_tokenizer(model_name):
+    return model_name and "qwen" in model_name.lower()
 
 
 @lru_cache(maxsize=15)
 def get_tokenizer(model_name):
+    os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
+    if is_qwen_tokenizer(model_name):
+        from transformers import PreTrainedTokenizerFast
+
+        return PreTrainedTokenizerFast.from_pretrained(
+            model_name,
+            model_max_length=TOKENIZER_WARNING_MAX_LENGTH,
+            trust_remote_code=True,
+        )
+
     from transformers import AutoTokenizer
 
-    os.environ["TOKENIZERS_PARALLELISM"] = "false"
     return AutoTokenizer.from_pretrained(model_name, model_max_length=TOKENIZER_WARNING_MAX_LENGTH)
 
 

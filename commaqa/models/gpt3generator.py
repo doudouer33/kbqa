@@ -156,11 +156,45 @@ def openai_call(
     return _chat_response_to_legacy_dict(response)
 
 
-@lru_cache(maxsize=1)
-def get_gpt_tokenizer():
-    from transformers import GPT2Tokenizer
+GPT_TOKENIZER_MODEL_NAME = "gpt2"
+QWEN_TOKENIZER_MODEL_NAME = "Qwen/Qwen2.5-7B-Instruct"
 
-    return GPT2Tokenizer.from_pretrained("gpt2", model_max_length=120000)
+
+def is_qwen_tokenizer(tokenizer_model_name):
+    return tokenizer_model_name and "qwen" in tokenizer_model_name.lower()
+
+
+def infer_tokenizer_model_name(engine, tokenizer_model_name=None):
+    if tokenizer_model_name:
+        return tokenizer_model_name
+
+    if engine and "qwen" in engine.lower():
+        return QWEN_TOKENIZER_MODEL_NAME
+
+    return GPT_TOKENIZER_MODEL_NAME
+
+
+@lru_cache(maxsize=8)
+def get_tokenizer(tokenizer_model_name):
+    os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
+    if tokenizer_model_name == GPT_TOKENIZER_MODEL_NAME:
+        from transformers import GPT2Tokenizer
+
+        return GPT2Tokenizer.from_pretrained(GPT_TOKENIZER_MODEL_NAME, model_max_length=120000)
+
+    if is_qwen_tokenizer(tokenizer_model_name):
+        from transformers import PreTrainedTokenizerFast
+
+        return PreTrainedTokenizerFast.from_pretrained(
+            tokenizer_model_name,
+            model_max_length=120000,
+            trust_remote_code=True,
+        )
+
+    from transformers import AutoTokenizer
+
+    return AutoTokenizer.from_pretrained(tokenizer_model_name, model_max_length=120000)
 
 
 class GPT3Generator:
@@ -178,6 +212,8 @@ class GPT3Generator:
         best_of=1,
         logprobs=0,
         remove_method="first",
+        tokenizer_model_name=None,
+        model_tokens_limit=120000,
     ):
         self.engine = engine
         self.logprobs = logprobs
@@ -191,10 +227,11 @@ class GPT3Generator:
         self.temperature = temperature
         self.retry_after_n_seconds = retry_after_n_seconds
         self.remove_method = remove_method
+        self.tokenizer_model_name = infer_tokenizer_model_name(engine, tokenizer_model_name)
 
         # Conservative context budget used by this project's truncation logic.
         # You can increase this later based on the model you actually use.
-        self.model_tokens_limit = 120000
+        self.model_tokens_limit = model_tokens_limit
 
     def generate_text_sequence(self, prompt):
         """
@@ -211,7 +248,7 @@ class GPT3Generator:
             demonstration_delimiter="\n\n\n",
             shuffle=False,
             remove_method=self.remove_method,
-            tokenizer_model_name="gpt2",
+            tokenizer_model_name=self.tokenizer_model_name,
             last_is_test_example=True,
         )
 
@@ -240,7 +277,7 @@ class GPT3Generator:
             except Exception as exception:
                 success = False
 
-                tokenizer = get_gpt_tokenizer()
+                tokenizer = get_tokenizer(self.tokenizer_model_name)
                 prompt_num_tokens = len(tokenizer.tokenize(prompt))
                 if prompt_num_tokens + arguments["max_tokens"] > self.model_tokens_limit > prompt_num_tokens:
                     last_used_max_tokens = arguments["max_tokens"]

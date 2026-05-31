@@ -1,0 +1,11 @@
+{
+    "em": 0.108,
+    "f1": 0.177,
+    "precision": 0.165,
+    "recall": 0.334,
+    "count": 3000,
+    "sp_em": 0.108,
+    "sp_f1": 0.108,
+    "sp_precision": 0.108,
+    "sp_recall": 0.108
+}
