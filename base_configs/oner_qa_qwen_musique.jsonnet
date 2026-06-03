@@ -33,7 +33,7 @@ local rc_context_type = (
     if rc_context_type_ == "gold_with_n_distractors"
     then "gold_with_" + distractor_count + "_distractors"  else rc_context_type_
 );
-local rc_qa_type = "cot"; # Choices: direct, cot
+local rc_qa_type = "direct"; # Choices: direct, cot
 
 {
     "start_state": "generate_titles",

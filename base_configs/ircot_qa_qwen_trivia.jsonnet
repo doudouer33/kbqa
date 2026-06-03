@@ -37,7 +37,7 @@ local rc_context_type = (
 local multi_step_show_titles = null;
 local multi_step_show_paras = null;
 local multi_step_show_cot = null;
-local rc_qa_type = "cot"; # Choices: direct, cot
+local rc_qa_type = "direct"; # Choices: direct, cot
 
 {
     "start_state": "step_by_step_bm25_retriever",
