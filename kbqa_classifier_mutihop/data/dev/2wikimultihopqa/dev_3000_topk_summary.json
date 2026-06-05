@@ -1,0 +1,36 @@
+{
+  "dataset_name": "2wikimultihopqa",
+  "set_name": "dev_3000_subsampled",
+  "question_count": 3000,
+  "loaded_k_values": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "coverage_by_k": {
+    "1": 3000,
+    "2": 3000,
+    "3": 3000,
+    "4": 3000,
+    "5": 3000,
+    "6": 3000,
+    "7": 3000,
+    "8": 3000
+  },
+  "best_k_distribution": {
+    "1": 1395,
+    "2": 461,
+    "3": 375,
+    "4": 247,
+    "5": 164,
+    "6": 135,
+    "7": 112,
+    "8": 111
+  },
+  "missing_results_count": 0
+}

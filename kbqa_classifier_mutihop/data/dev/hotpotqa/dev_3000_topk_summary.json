@@ -1,0 +1,36 @@
+{
+  "dataset_name": "hotpotqa",
+  "set_name": "dev_3000_subsampled",
+  "question_count": 3000,
+  "loaded_k_values": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "coverage_by_k": {
+    "1": 3000,
+    "2": 3000,
+    "3": 3000,
+    "4": 3000,
+    "5": 3000,
+    "6": 3000,
+    "7": 3000,
+    "8": 3000
+  },
+  "best_k_distribution": {
+    "1": 1571,
+    "2": 464,
+    "3": 288,
+    "4": 223,
+    "5": 151,
+    "6": 119,
+    "7": 92,
+    "8": 92
+  },
+  "missing_results_count": 0
+}

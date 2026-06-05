@@ -1,0 +1,36 @@
+{
+  "dataset_name": "musique",
+  "set_name": "test_subsampled",
+  "question_count": 500,
+  "loaded_k_values": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "coverage_by_k": {
+    "1": 500,
+    "2": 500,
+    "3": 500,
+    "4": 500,
+    "5": 500,
+    "6": 500,
+    "7": 500,
+    "8": 500
+  },
+  "best_k_distribution": {
+    "1": 265,
+    "2": 64,
+    "3": 38,
+    "4": 33,
+    "5": 36,
+    "6": 25,
+    "7": 19,
+    "8": 20
+  },
+  "missing_results_count": 0
+}

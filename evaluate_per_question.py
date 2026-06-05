@@ -2,14 +2,17 @@ import argparse
 import json
 import os
 from types import SimpleNamespace
-from typing import Any, List
+from typing import Any, Dict, List
 
 from evaluate import answer_extractor, load_experiment_config, load_ground_truths, load_predictions
 from lib import get_config_file_path_from_name_or_path, infer_dataset_from_file_path
+from metrics.drop_eval import get_metrics as score_drop_prediction
 from metrics.squad_answer_em_f1 import score_prediction
 
 
-SUPPORTED_DATASETS = {"nq", "trivia", "squad"}
+SQUAD_STYLE_DATASETS = {"nq", "trivia", "squad"}
+DROP_STYLE_DATASETS = {"hotpotqa", "2wikimultihopqa", "musique", "iirc"}
+SUPPORTED_DATASETS = SQUAD_STYLE_DATASETS | DROP_STYLE_DATASETS
 
 
 def prepare_prediction_answers(raw_prediction: Any) -> List[str]:
@@ -32,6 +35,16 @@ def prepare_gold_answers(ground_truth: Any) -> List[str]:
     if isinstance(ground_truth, (list, tuple)):
         return [str(e) for e in ground_truth]
     return [str(ground_truth)]
+
+
+def score_per_question(dataset: str, prediction_answers: List[str], ground_truth: Any) -> Dict[str, float]:
+    gold_answers = prepare_gold_answers(ground_truth)
+    if dataset in DROP_STYLE_DATASETS:
+        em, f1, precision, recall = score_drop_prediction(prediction_answers, gold_answers)
+        return {"em": int(em), "f1": f1, "precision": precision, "recall": recall}
+
+    sample_scores = score_prediction(prediction_answers, gold_answers)
+    return {"em": sample_scores["em"], "f1": sample_scores["f1"]}
 
 
 def main():
@@ -93,25 +106,30 @@ def main():
     per_question_results = []
     total_em = 0.0
     total_f1 = 0.0
+    total_precision = 0.0
+    total_recall = 0.0
 
-    # Reuse the SQuAD metric's own normalization + best-over-golds scoring logic per sample.
     for qid, ground_truth in id_to_ground_truths.items():
         prediction_answers = prepare_prediction_answers(id_to_predictions[qid])
         gold_answers = prepare_gold_answers(ground_truth)
-        sample_scores = score_prediction(prediction_answers, [ground_truth])
+        sample_scores = score_per_question(dataset, prediction_answers, ground_truth)
 
         total_em += sample_scores["em"]
         total_f1 += sample_scores["f1"]
-        per_question_results.append(
-            {
-                "id": qid,
-                "prediction": prediction_answers[0],
-                "predicted_answer": prediction_answers[0],
-                "gold_answers": gold_answers,
-                "em": sample_scores["em"],
-                "f1": sample_scores["f1"],
-            }
-        )
+        sample_result = {
+            "id": qid,
+            "prediction": prediction_answers[0],
+            "predicted_answer": prediction_answers[0],
+            "gold_answers": gold_answers,
+            "em": sample_scores["em"],
+            "f1": sample_scores["f1"],
+        }
+        if dataset in DROP_STYLE_DATASETS:
+            total_precision += sample_scores["precision"]
+            total_recall += sample_scores["recall"]
+            sample_result["precision"] = sample_scores["precision"]
+            sample_result["recall"] = sample_scores["recall"]
+        per_question_results.append(sample_result)
 
     os.makedirs(os.path.dirname(args.output_file_path), exist_ok=True)
     with open(args.output_file_path, "w") as file:
@@ -124,6 +142,9 @@ def main():
         "avg_f1": total_f1 / count if count else 0.0,
         "output_file_path": args.output_file_path,
     }
+    if dataset in DROP_STYLE_DATASETS:
+        summary["avg_precision"] = total_precision / count if count else 0.0
+        summary["avg_recall"] = total_recall / count if count else 0.0
     print(json.dumps(summary, indent=4))
 
 
