@@ -1,0 +1,690 @@
+{
+  "classifier_metrics": {
+    "accuracy": 0.4226666666666667,
+    "confusion_matrix": {
+      "label_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "matrix": [
+        [
+          600,
+          36,
+          45,
+          22,
+          21,
+          10,
+          5,
+          12
+        ],
+        [
+          156,
+          17,
+          13,
+          6,
+          9,
+          4,
+          1,
+          0
+        ],
+        [
+          104,
+          6,
+          7,
+          11,
+          5,
+          2,
+          1,
+          3
+        ],
+        [
+          80,
+          7,
+          8,
+          2,
+          2,
+          5,
+          1,
+          3
+        ],
+        [
+          66,
+          4,
+          8,
+          6,
+          3,
+          1,
+          1,
+          2
+        ],
+        [
+          55,
+          8,
+          9,
+          7,
+          5,
+          5,
+          2,
+          1
+        ],
+        [
+          44,
+          1,
+          1,
+          2,
+          2,
+          2,
+          0,
+          0
+        ],
+        [
+          48,
+          6,
+          2,
+          0,
+          2,
+          1,
+          2,
+          0
+        ]
+      ]
+    },
+    "correct_count": 634,
+    "sample_count": 1500
+  },
+  "data_stats": {
+    "aligned_sample_count": 1500,
+    "input_sample_count": 1500,
+    "matched_by_id_count": 1500,
+    "matched_by_question_count": 0,
+    "missing_alignment_count": 0,
+    "replay_ambiguous_question_key_count": 0,
+    "replay_record_count": 1500,
+    "replay_unique_id_count": 1500,
+    "replay_unique_question_key_count": 1500
+  },
+  "dataset_results": {
+    "2wikimultihopqa": [
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.152,
+        "avg_f1": 0.26957999999999993,
+        "avg_topk": 1.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_1"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.168,
+        "avg_f1": 0.29642000000000013,
+        "avg_topk": 2.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_2"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.176,
+        "avg_f1": 0.2990600000000002,
+        "avg_topk": 3.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_3"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.164,
+        "avg_f1": 0.2935600000000002,
+        "avg_topk": 4.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_4"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.142,
+        "avg_f1": 0.2646800000000001,
+        "avg_topk": 5.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_5"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.146,
+        "avg_f1": 0.2774400000000001,
+        "avg_topk": 6.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_6"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.14,
+        "avg_f1": 0.2701600000000001,
+        "avg_topk": 7.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_7"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.146,
+        "avg_f1": 0.27252,
+        "avg_topk": 8.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_8"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.164,
+        "avg_f1": 0.28256,
+        "avg_topk": 1.934,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "classifier_dynamic_topk"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.308,
+        "avg_f1": 0.48723999999999984,
+        "avg_topk": 2.742,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "oracle_best_k"
+      }
+    ],
+    "hotpotqa": [
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.248,
+        "avg_f1": 0.34385999999999994,
+        "avg_topk": 1.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_1"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.26,
+        "avg_f1": 0.36045999999999995,
+        "avg_topk": 2.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_2"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.254,
+        "avg_f1": 0.3484399999999998,
+        "avg_topk": 3.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_3"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.262,
+        "avg_f1": 0.37345999999999985,
+        "avg_topk": 4.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_4"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.27,
+        "avg_f1": 0.3669999999999999,
+        "avg_topk": 5.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_5"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.066,
+        "avg_f1": 0.17701999999999987,
+        "avg_topk": 6.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_6"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.206,
+        "avg_f1": 0.31204000000000026,
+        "avg_topk": 7.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_7"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.25,
+        "avg_f1": 0.3422600000000001,
+        "avg_topk": 8.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_8"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.248,
+        "avg_f1": 0.3448800000000001,
+        "avg_topk": 1.51,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "classifier_dynamic_topk"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.456,
+        "avg_f1": 0.5989,
+        "avg_topk": 2.476,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "oracle_best_k"
+      }
+    ],
+    "musique": [
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.042,
+        "avg_f1": 0.11329999999999996,
+        "avg_topk": 1.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_1"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.07,
+        "avg_f1": 0.13092000000000004,
+        "avg_topk": 2.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_2"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.058,
+        "avg_f1": 0.12491999999999998,
+        "avg_topk": 3.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_3"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.056,
+        "avg_f1": 0.13000000000000012,
+        "avg_topk": 4.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_4"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.056,
+        "avg_f1": 0.13038,
+        "avg_topk": 5.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_5"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.054,
+        "avg_f1": 0.11977999999999998,
+        "avg_topk": 6.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_6"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.058,
+        "avg_f1": 0.12343999999999998,
+        "avg_topk": 7.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_7"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.048,
+        "avg_f1": 0.1131199999999999,
+        "avg_topk": 8.0,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "fixed_k_8"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.042,
+        "avg_f1": 0.10823999999999996,
+        "avg_topk": 1.576,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "classifier_dynamic_topk"
+      },
+      {
+        "aligned_sample_count": 500,
+        "avg_em": 0.164,
+        "avg_f1": 0.30134000000000016,
+        "avg_topk": 2.524,
+        "evaluated_sample_count": 500,
+        "input_sample_count": 500,
+        "k_determined_sample_count": 500,
+        "skipped_missing_alignment_count": 0,
+        "skipped_missing_score_count": 0,
+        "system_name": "oracle_best_k"
+      }
+    ]
+  },
+  "generated_at_utc": "2026-06-06T13:43:17.752932+00:00",
+  "paths": {
+    "config_json": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/eval/results/smoke_eval_2026_06_06/config.json",
+    "model_dir": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/outputs/classifier/model/bert-base-uncased/epoch/40/2026_06_06/10_36_35",
+    "output_dir": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/eval/results/smoke_eval_2026_06_06",
+    "per_example_predictions": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/eval/results/smoke_eval_2026_06_06/per_example_predictions.jsonl",
+    "summary_csv": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/eval/results/smoke_eval_2026_06_06/summary.csv",
+    "summary_json": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/eval/results/smoke_eval_2026_06_06/summary.json",
+    "test_file": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/data/prediction.json"
+  },
+  "replay_label_metadata": {
+    "explicit_best_k_count": 1500,
+    "source": "prepared",
+    "source_files": [
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/data/test/2wikimultihopqa/test_topk_labels.json",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/data/test/hotpotqa/test_topk_labels.json",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/data/test/musique/test_topk_labels.json"
+    ]
+  },
+  "selector_metadata": {
+    "class_id_to_topk_rule": "pred_topk = pred_class_id + 1",
+    "device": "cuda",
+    "fixed_k_values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "id2label": {
+      "0": "label_1",
+      "1": "label_2",
+      "2": "label_3",
+      "3": "label_4",
+      "4": "label_5",
+      "5": "label_6",
+      "6": "label_7",
+      "7": "label_8"
+    },
+    "supported_k_max": 8,
+    "supported_k_min": 1,
+    "supported_k_values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "system_results": [
+    {
+      "aligned_sample_count": 1500,
+      "avg_em": 0.14733333333333334,
+      "avg_f1": 0.24224666666666697,
+      "avg_topk": 1.0,
+      "classifier_acc": null,
+      "evaluated_sample_count": 1500,
+      "input_sample_count": 1500,
+      "k_determined_sample_count": 1500,
+      "skipped_missing_alignment_count": 0,
+      "skipped_missing_score_count": 0,
+      "system_name": "fixed_k_1"
+    },
+    {
+      "aligned_sample_count": 1500,
+      "avg_em": 0.166,
+      "avg_f1": 0.26260000000000056,
+      "avg_topk": 2.0,
+      "classifier_acc": null,
+      "evaluated_sample_count": 1500,
+      "input_sample_count": 1500,
+      "k_determined_sample_count": 1500,
+      "skipped_missing_alignment_count": 0,
+      "skipped_missing_score_count": 0,
+      "system_name": "fixed_k_2"
+    },
+    {
+      "aligned_sample_count": 1500,
+      "avg_em": 0.16266666666666665,
+      "avg_f1": 0.25747333333333383,
+      "avg_topk": 3.0,
+      "classifier_acc": null,
+      "evaluated_sample_count": 1500,
+      "input_sample_count": 1500,
+      "k_determined_sample_count": 1500,
+      "skipped_missing_alignment_count": 0,
+      "skipped_missing_score_count": 0,
+      "system_name": "fixed_k_3"
+    },
+    {
+      "aligned_sample_count": 1500,
+      "avg_em": 0.16066666666666668,
+      "avg_f1": 0.26567333333333387,
+      "avg_topk": 4.0,
+      "classifier_acc": null,
+      "evaluated_sample_count": 1500,
+      "input_sample_count": 1500,
+      "k_determined_sample_count": 1500,
+      "skipped_missing_alignment_count": 0,
+      "skipped_missing_score_count": 0,
+      "system_name": "fixed_k_4"
+    },
+    {
+      "aligned_sample_count": 1500,
+      "avg_em": 0.156,
+      "avg_f1": 0.2540200000000003,
+      "avg_topk": 5.0,
+      "classifier_acc": null,
+      "evaluated_sample_count": 1500,
+      "input_sample_count": 1500,
+      "k_determined_sample_count": 1500,
+      "skipped_missing_alignment_count": 0,
+      "skipped_missing_score_count": 0,
+      "system_name": "fixed_k_5"
+    },
+    {
+      "aligned_sample_count": 1500,
+      "avg_em": 0.08866666666666667,
+      "avg_f1": 0.1914133333333336,
+      "avg_topk": 6.0,
+      "classifier_acc": null,
+      "evaluated_sample_count": 1500,
+      "input_sample_count": 1500,
+      "k_determined_sample_count": 1500,
+      "skipped_missing_alignment_count": 0,
+      "skipped_missing_score_count": 0,
+      "system_name": "fixed_k_6"
+    },
+    {
+      "aligned_sample_count": 1500,
+      "avg_em": 0.13466666666666666,
+      "avg_f1": 0.2352133333333334,
+      "avg_topk": 7.0,
+      "classifier_acc": null,
+      "evaluated_sample_count": 1500,
+      "input_sample_count": 1500,
+      "k_determined_sample_count": 1500,
+      "skipped_missing_alignment_count": 0,
+      "skipped_missing_score_count": 0,
+      "system_name": "fixed_k_7"
+    },
+    {
+      "aligned_sample_count": 1500,
+      "avg_em": 0.148,
+      "avg_f1": 0.2426333333333334,
+      "avg_topk": 8.0,
+      "classifier_acc": null,
+      "evaluated_sample_count": 1500,
+      "input_sample_count": 1500,
+      "k_determined_sample_count": 1500,
+      "skipped_missing_alignment_count": 0,
+      "skipped_missing_score_count": 0,
+      "system_name": "fixed_k_8"
+    },
+    {
+      "aligned_sample_count": 1500,
+      "avg_em": 0.15133333333333332,
+      "avg_f1": 0.24522666666666687,
+      "avg_topk": 1.6733333333333333,
+      "classifier_acc": 0.4226666666666667,
+      "evaluated_sample_count": 1500,
+      "input_sample_count": 1500,
+      "k_determined_sample_count": 1500,
+      "skipped_missing_alignment_count": 0,
+      "skipped_missing_score_count": 0,
+      "system_name": "classifier_dynamic_topk"
+    },
+    {
+      "aligned_sample_count": 1500,
+      "avg_em": 0.30933333333333335,
+      "avg_f1": 0.4624933333333319,
+      "avg_topk": 2.5806666666666667,
+      "classifier_acc": null,
+      "evaluated_sample_count": 1500,
+      "input_sample_count": 1500,
+      "k_determined_sample_count": 1500,
+      "skipped_missing_alignment_count": 0,
+      "skipped_missing_score_count": 0,
+      "system_name": "oracle_best_k"
+    }
+  ],
+  "task": "kbqa_classifier_mutihop_end2end_replay_eval",
+  "test_file_metadata": {
+    "dataset_field": null,
+    "id_field": "id",
+    "label_field": "label",
+    "question_field": "question",
+    "raw_label_distribution": {}
+  },
+  "warning_counts": {
+    "missing_alignment_count": 0,
+    "missing_score_count_by_system": {
+      "classifier_dynamic_topk": 0,
+      "fixed_k_1": 0,
+      "fixed_k_2": 0,
+      "fixed_k_3": 0,
+      "fixed_k_4": 0,
+      "fixed_k_5": 0,
+      "fixed_k_6": 0,
+      "fixed_k_7": 0,
+      "fixed_k_8": 0,
+      "oracle_best_k": 0
+    }
+  }
+}

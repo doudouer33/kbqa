@@ -1,0 +1,56 @@
+k_values:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+
+datasets:
+  nq:
+    dir_pattern: "oner_qa_gpt_nq____prompt_set_1___bm25_retrieval_count__{k}___distractor_count__1"
+  squad:
+    dir_pattern: "oner_qa_gpt_squad____prompt_set_1___bm25_retrieval_count__{k}___distractor_count__1"
+  trivia:
+    dir_pattern: "oner_qa_gpt_trivia____prompt_set_1___bm25_retrieval_count__{k}___distractor_count__1"
+
+splits:
+  train:
+    prediction_root: predictions/dev_3000
+    source_root: processed_data
+    source_file_template: "{dataset}/dev_3000_subsampled.jsonl"
+    artifact_suffix: dev_3000_subsampled
+    curve_output_dir: new_onehop/data/train/curves
+    expected_questions_per_dataset: 3000
+    allow_unvalidated_context_tokens: false
+
+  test:
+    prediction_root: predictions/test
+    source_root: processed_data
+    source_file_template: "{dataset}/test_subsampled.jsonl"
+    artifact_suffix: test_subsampled
+    curve_output_dir: new_onehop/data/test/curves
+    expected_questions_per_dataset: 500
+    allow_unvalidated_context_tokens: true
+
+oracle:
+  curve_input_dir: new_onehop/data/train/curves
+  output_dir: new_onehop/data/train/oracle
+  expected_questions_per_dataset: 3000
+  lambda_T: 0.1
+  temperature: 0.1
+
+id_splits:
+  train_ids_file: new_onehop/data/splits/train_ids.json
+  val_ids_file: new_onehop/data/splits/val_ids.json
+  validation_fraction: 0.1
+  seed: 42

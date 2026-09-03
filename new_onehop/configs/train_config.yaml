@@ -1,0 +1,13 @@
+seed: 42
+
+data:
+  train_curves: new_onehop/data/train/curves/all.jsonl
+  train_oracle: new_onehop/data/train/oracle/all.jsonl
+  train_ids: new_onehop/data/splits/train_ids.json
+  val_ids: new_onehop/data/splits/val_ids.json
+  test_curves: new_onehop/data/test/curves/all.jsonl
+
+task:
+  retrieval_budgets: 15
+  min_k: 1
+  max_k: 15

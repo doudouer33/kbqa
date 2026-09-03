@@ -1,0 +1,37 @@
+{
+  "batch_size": 128,
+  "device": "cuda",
+  "do_save_probabilities": false,
+  "fixed_k_values": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "max_length": 128,
+  "model_dir": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/outputs/classifier/model/bert-base-uncased/epoch/40/2026_06_06/10_36_35",
+  "output_dir": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/eval/results/smoke_eval_2026_06_06",
+  "predictions_root": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/test",
+  "replay_label_files": [
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/data/test/2wikimultihopqa/test_topk_labels.json",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/data/test/hotpotqa/test_topk_labels.json",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/data/test/musique/test_topk_labels.json"
+  ],
+  "replay_source": "prepared",
+  "seed": 42,
+  "supported_k_values": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "test_file": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/kbqa_classifier_mutihop/data/prediction.json"
+}
