@@ -10,7 +10,8 @@
 - 根据 F1 和 token cost 构造 Soft Oracle Distribution；
 - 生成可直接用于后续模型训练的 Oracle 数据集。
 
-当前暂不涉及预测模型本身的训练。
+数据处理阶段已经完成；Phase 1 在不改动这些数据的前提下，使用 question-only 的
+15 分类 CE baseline 训练动态 Top-k 预测器。训练与评测命令见 `scripts/README.md`。
 
 ---
 

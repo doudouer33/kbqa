@@ -114,3 +114,54 @@ python new_onehop/scripts/data/validate_curves.py --split test
 
 所有输入、输出路径和数据规模定义在 `configs/data_config.yaml`；训练入口所需的
 路径定义在 `configs/train_config.yaml`。
+
+## Phase 1：Multiclass CE baseline
+
+Phase 1 只使用问题文本预测 `k=1..15`，训练标签为
+`label = hard_oracle_k - 1`。默认实验配置位于
+`configs/train_multiclass.yaml`，所有 checkpoint、prediction 和 metrics 都写入
+`new_onehop/outputs/`，不会写入或重建 `data/`。
+
+从仓库根目录执行短 smoke test：
+
+```bash
+HTTP_PROXY=http://127.0.0.1:17890 \
+HTTPS_PROXY=http://127.0.0.1:17890 \
+/home/dengxin/miniconda3/envs/adaptiverag/bin/python \
+  new_onehop/scripts/train/train_multiclass.py \
+  --config new_onehop/configs/train_multiclass.yaml \
+  --max_train_steps 10 \
+  --run-name multiclass_deberta_seed42_smoke
+```
+
+独立重跑 validation predictor 指标与 prediction：
+
+```bash
+HTTP_PROXY=http://127.0.0.1:17890 \
+HTTPS_PROXY=http://127.0.0.1:17890 \
+/home/dengxin/miniconda3/envs/adaptiverag/bin/python \
+  new_onehop/scripts/eval/evaluate_predictor.py \
+  --checkpoint new_onehop/outputs/checkpoints/multiclass_deberta_seed42_smoke/best \
+  --split val
+```
+
+使用保存的 prediction 做 validation RAG replay（包含 fixed k=1..15）：
+
+```bash
+HTTP_PROXY=http://127.0.0.1:17890 \
+HTTPS_PROXY=http://127.0.0.1:17890 \
+/home/dengxin/miniconda3/envs/adaptiverag/bin/python \
+  new_onehop/scripts/eval/evaluate_rag.py \
+  --predictions new_onehop/outputs/predictions/val/multiclass_deberta_seed42_smoke.jsonl \
+  --split val
+```
+
+正式训练去掉 smoke 参数：
+
+```bash
+HTTP_PROXY=http://127.0.0.1:17890 \
+HTTPS_PROXY=http://127.0.0.1:17890 \
+/home/dengxin/miniconda3/envs/adaptiverag/bin/python \
+  new_onehop/scripts/train/train_multiclass.py \
+  --config new_onehop/configs/train_multiclass.yaml
+```
