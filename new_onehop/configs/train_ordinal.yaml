@@ -1,0 +1,35 @@
+seed: 42
+
+data:
+  train_oracle: new_onehop/data/train/oracle/all.jsonl
+  train_curves: new_onehop/data/train/curves/all.jsonl
+  train_ids: new_onehop/data/splits/train_ids.json
+  val_ids: new_onehop/data/splits/val_ids.json
+  test_curves: new_onehop/data/test/curves/all.jsonl
+
+model:
+  type: ordinal
+  name: microsoft/deberta-v3-base
+  num_labels: 15
+  num_thresholds: 14
+  max_length: 128
+  dropout: 0.1
+  threshold_init_min: -2.0
+  threshold_init_max: 2.0
+
+training:
+  epochs: 5
+  batch_size: 32
+  gradient_accumulation_steps: 1
+  learning_rate: 2.0e-5
+  weight_decay: 0.01
+  warmup_ratio: 0.1
+  gradient_clip_norm: 1.0
+  mixed_precision: true
+
+selection:
+  rag_utility_lambda_T: 0.1
+
+output:
+  root: new_onehop/outputs
+  run_name: ordinal_deberta_seed42

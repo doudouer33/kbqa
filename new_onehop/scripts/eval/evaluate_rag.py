@@ -25,8 +25,10 @@ from new_onehop.src.dataset import (
     load_split_ids,
 )
 from new_onehop.src.metrics import (
+    compute_dynamic_rag_utility,
     compute_dynamic_rag_metrics,
     compute_fixed_k_rag_metrics,
+    compute_global_max_context_tokens,
 )
 from new_onehop.src.utils import (
     ConfigError,
@@ -57,6 +59,16 @@ def main() -> None:
     config = load_yaml_config(args.config)
     data_config = require_mapping(config, "data")
     output_config = require_mapping(config, "output")
+    model_config = require_mapping(config, "model")
+    model_type = model_config.get("type", "multiclass")
+    if model_type not in ("multiclass", "ordinal"):
+        raise ConfigError(
+            f"model.type must be 'multiclass' or 'ordinal', got {model_type!r}"
+        )
+    selection_config = config.get("selection", {})
+    if not isinstance(selection_config, dict):
+        raise ConfigError("Config field 'selection' must be a mapping when present")
+    lambda_T = selection_config.get("rag_utility_lambda_T", 0.1)
     curves_path = args.curves or project_path(data_config["train_curves"])
     split_path = (
         args.train_ids or project_path(data_config["train_ids"])
@@ -95,6 +107,14 @@ def main() -> None:
     }
     dynamic_metrics = compute_dynamic_rag_metrics(predicted_k_by_id, curves, split_ids)
     fixed_k_baselines = compute_fixed_k_rag_metrics(curves, split_ids)
+    t_max = compute_global_max_context_tokens(curves)
+    rag_utility = compute_dynamic_rag_utility(
+        predicted_k_by_id,
+        curves,
+        split_ids,
+        lambda_T=lambda_T,
+        t_max=t_max,
+    )
     prediction_path = project_path(args.predictions)
     run_name = prediction_path.stem
     output_root = project_path(output_config["root"])
@@ -106,8 +126,12 @@ def main() -> None:
     payload: dict[str, Any] = {
         "split": args.split,
         "run_name": run_name,
+        "model_type": model_type,
         "num_predictions": len(predictions),
-        "dynamic_multiclass": dynamic_metrics,
+        "dynamic_model": dynamic_metrics,
+        "rag_utility_lambda_T": lambda_T,
+        "rag_utility_t_max": t_max,
+        "val_rag_utility" if args.split == "val" else "rag_utility": rag_utility,
         "fixed_k_baselines": fixed_k_baselines,
         "always_k_1_rag_baseline": fixed_k_baselines["fixed_k_1"],
         "baseline_note": (
@@ -115,6 +139,10 @@ def main() -> None:
             "predictor majority-class accuracy is reported by evaluate_predictor.py"
         ),
     }
+    # Preserve the Phase 1 field for existing consumers while exposing the
+    # model-agnostic dynamic_model field for Phase 2 and later predictors.
+    if model_type == "multiclass":
+        payload["dynamic_multiclass"] = dynamic_metrics
     write_json_atomic(output_path, payload)
     print(json.dumps(payload, ensure_ascii=False, indent=2))
     print(f"Saved RAG replay metrics: {output_path}")

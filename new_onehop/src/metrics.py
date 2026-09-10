@@ -198,3 +198,66 @@ def compute_fixed_k_rag_metrics(
             )
         baselines[f"fixed_k_{k}"] = _group_rag_rows(rows)
     return baselines
+
+
+def compute_global_max_context_tokens(
+    curves_by_id: Mapping[str, CurveRecord],
+) -> int:
+    """Return T_max over every question and k in the complete train-pool curves."""
+    if not curves_by_id:
+        raise ValueError("Cannot compute T_max from empty curves")
+    maximum = 0
+    for question_id, curve in curves_by_id.items():
+        if set(curve.results) != set(range(1, NUM_LABELS + 1)):
+            raise ValueError(
+                f"Curve {question_id!r} must contain exactly k=1..{NUM_LABELS}"
+            )
+        maximum = max(
+            maximum,
+            *(result.context_tokens for result in curve.results.values()),
+        )
+    if maximum <= 0:
+        raise ValueError(f"T_max must be positive, got {maximum}")
+    return maximum
+
+
+def compute_dynamic_rag_utility(
+    predicted_k_by_id: Mapping[str, int],
+    curves_by_id: Mapping[str, CurveRecord],
+    ordered_ids: Sequence[str],
+    *,
+    lambda_T: float,
+    t_max: int,
+) -> float:
+    """Mean validation utility F1(k_hat) - lambda_T * T(k_hat) / T_max."""
+    if (
+        isinstance(lambda_T, bool)
+        or not isinstance(lambda_T, (int, float))
+        or not math.isfinite(float(lambda_T))
+        or lambda_T < 0.0
+    ):
+        raise ValueError(
+            f"lambda_T must be a finite non-negative number, got {lambda_T!r}"
+        )
+    if isinstance(t_max, bool) or not isinstance(t_max, int) or t_max <= 0:
+        raise ValueError(f"t_max must be a positive integer, got {t_max!r}")
+    if not ordered_ids:
+        raise ValueError("ordered_ids must be non-empty")
+    if set(predicted_k_by_id) != set(ordered_ids):
+        missing = sorted(set(ordered_ids) - set(predicted_k_by_id))
+        extra = sorted(set(predicted_k_by_id) - set(ordered_ids))
+        raise ValueError(
+            f"Prediction ID mismatch: missing={missing[:10]}, extra={extra[:10]}"
+        )
+    utilities: list[float] = []
+    for question_id in ordered_ids:
+        if question_id not in curves_by_id:
+            raise ValueError(f"Curve missing for prediction ID {question_id!r}")
+        predicted_k = predicted_k_by_id[question_id]
+        _validate_k_sequence([predicted_k], f"prediction[{question_id}]")
+        result = curves_by_id[question_id].results[predicted_k]
+        utilities.append(result.f1 - float(lambda_T) * result.context_tokens / t_max)
+    utility = statistics.fmean(utilities)
+    if not math.isfinite(utility):
+        raise RuntimeError(f"Computed non-finite RAG utility: {utility}")
+    return utility

@@ -165,3 +165,63 @@ HTTPS_PROXY=http://127.0.0.1:17890 \
   new_onehop/scripts/train/train_multiclass.py \
   --config new_onehop/configs/train_multiclass.yaml
 ```
+
+## Phase 2：Ordered-threshold Ordinal BCE
+
+Phase 2 复用 Phase 1 的 `OracleQuestionDataset`、dynamic padding、predictor metrics
+和 RAG replay。零基 `labels` 在线转换为 14 个 `1[hard_k > j]` target；模型输出一个
+question retrieval-demand score，并通过 softplus gap 参数化保证 14 个 threshold
+始终严格递增。训练只使用无权重的 `BCEWithLogitsLoss(reduction="mean")`。
+
+主 decoding 将 14 个 cumulative probability 转换为 `P(k=1)..P(k=15)` 后取
+categorical argmax。每个 epoch 同时维护 `best_val_loss` 和
+`best_rag_utility`（validation-only，`lambda_T=0.1`；`T_max` 来自完整 9000 条
+train-pool curves）。
+
+先运行独立数值检查：
+
+```bash
+/home/dengxin/miniconda3/envs/adaptiverag/bin/python -m unittest -v \
+  new_onehop.tests.test_ordinal
+```
+
+运行 smoke test：
+
+```bash
+/home/dengxin/miniconda3/envs/adaptiverag/bin/python \
+  new_onehop/scripts/train/train_ordinal.py \
+  --config new_onehop/configs/train_ordinal.yaml \
+  --run-name ordinal_deberta_seed42_smoke \
+  --max_train_steps 10
+```
+
+正式训练：
+
+```bash
+/home/dengxin/miniconda3/envs/adaptiverag/bin/python \
+  new_onehop/scripts/train/train_ordinal.py \
+  --config new_onehop/configs/train_ordinal.yaml
+```
+
+分别评估两个 validation checkpoint：
+
+```bash
+for selection in best_val_loss best_rag_utility; do
+  /home/dengxin/miniconda3/envs/adaptiverag/bin/python \
+    new_onehop/scripts/eval/evaluate_ordinal_predictor.py \
+    --checkpoint \
+      new_onehop/outputs/checkpoints/ordinal_deberta_seed42/${selection} \
+    --split val
+
+  /home/dengxin/miniconda3/envs/adaptiverag/bin/python \
+    new_onehop/scripts/eval/evaluate_rag.py \
+    --config new_onehop/configs/train_ordinal.yaml \
+    --predictions \
+      new_onehop/outputs/predictions/val/ordinal_deberta_seed42_${selection}.jsonl \
+    --split val
+done
+```
+
+这些命令只使用 train/validation 资源，不进入 test。Ordinal prediction 中的
+`probabilities` 仍是兼容现有 loader 的 15-way class distribution；额外的
+`ordinal_cumulative_probabilities` 仅用于诊断。

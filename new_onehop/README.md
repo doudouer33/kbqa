@@ -11,7 +11,10 @@
 - 生成可直接用于后续模型训练的 Oracle 数据集。
 
 数据处理阶段已经完成；Phase 1 在不改动这些数据的前提下，使用 question-only 的
-15 分类 CE baseline 训练动态 Top-k 预测器。训练与评测命令见 `scripts/README.md`。
+15 分类 CE baseline 训练动态 Top-k 预测器。Phase 2 在同一 Dataset、划分和
+DeBERTa encoder 上新增严格有序 threshold head，并只使用由 Hard Oracle 在线构造的
+plain ordinal BCE；不读取 Soft Oracle 作为监督。训练与评测命令见
+`scripts/README.md`。
 
 ---
 
