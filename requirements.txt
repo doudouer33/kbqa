@@ -13,6 +13,7 @@ spacy==3.4.1 # Only for one of the experiments.
 rapidfuzz
 datasets
 pandas
+matplotlib
 requests
 tqdm
 ftfy

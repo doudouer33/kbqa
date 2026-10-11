@@ -3,8 +3,9 @@ local dataset = "hotpotqa";
 local retrieval_corpus_name = dataset;
 local add_pinned_paras = if dataset == "iirc" then true else false;
 local qwen_tokenizer_model_name = "Qwen/Qwen2.5-7B-Instruct";
-local qwen_local_model_length_limit = 500000;
-local qwen_max_tokens = 2048;
+// Reserve room for the OpenAI chat template tokens added by vLLM.
+local qwen_local_model_length_limit = 4000;
+local qwen_max_tokens = 300;
 local valid_qids = {
     "hotpotqa": ["5ab92dba554299131ca422a2","5a7bbc50554299042af8f7d0","5add363c5542990dbb2f7dc8","5a835abe5542996488c2e426","5ae0185b55429942ec259c1b","5a790e7855429970f5fffe3d","5a754ab35542993748c89819","5a89c14f5542993b751ca98a","5abb14bd5542992ccd8e7f07","5a89d58755429946c8d6e9d9","5a88f9d55542995153361218","5a90620755429933b8a20508","5a77acab5542992a6e59df76","5abfb3435542990832d3a1c1","5a8f44ab5542992414482a25","5adfad0c554299603e41835a","5a7fc53555429969796c1b55","5a8ed9f355429917b4a5bddd","5ac2ada5554299657fa2900d","5a758ea55542992db9473680"],
     "2wikimultihopqa": ["5811079c0bdc11eba7f7acde48001122","97954d9408b011ebbd84ac1f6bf848b6","35bf3490096d11ebbdafac1f6bf848b6","c6805b2908a911ebbd80ac1f6bf848b6","5897ec7a086c11ebbd61ac1f6bf848b6","e5150a5a0bda11eba7f7acde48001122","a5995da508ab11ebbd82ac1f6bf848b6","cdbb82ec0baf11ebab90acde48001122","f44939100bda11eba7f7acde48001122","4724c54e08e011ebbda1ac1f6bf848b6","f86b4a28091711ebbdaeac1f6bf848b6","13cda43c09b311ebbdb0ac1f6bf848b6","228546780bdd11eba7f7acde48001122","c6f63bfb089e11ebbd78ac1f6bf848b6","1ceeab380baf11ebab90acde48001122","8727d1280bdc11eba7f7acde48001122","f1ccdfee094011ebbdaeac1f6bf848b6","79a863dc0bdc11eba7f7acde48001122","028eaef60bdb11eba7f7acde48001122","af8c6722088b11ebbd6fac1f6bf848b6"],
@@ -66,7 +67,7 @@ local rc_qa_type = "cot"; # Choices: direct, cot
             "prompt_reader_args": prompt_reader_args,
             "end_state": "[EOQ]",
             "gen_model": "gpt3",
-            "engine": "qwen2.5-7b-instruct",
+            "engine": "Qwen2.5-7B-Instruct",
             "max_tokens": qwen_max_tokens,
             "tokenizer_model_name": qwen_tokenizer_model_name,
             "model_tokens_limit": qwen_local_model_length_limit,

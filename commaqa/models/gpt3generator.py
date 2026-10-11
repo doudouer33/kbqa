@@ -12,7 +12,22 @@ logger = logging.getLogger(__name__)
 
 
 cache = Cache(os.path.expanduser("~/.cache/gpt3calls"))
-client = OpenAI()
+
+
+def get_openai_client():
+    """Build a client for either the configured local server or OpenAI.
+
+    ``predict.py`` exports LLM_SERVER_HOST/PORT for all locally served models.
+    The OpenAI SDK does not consume those variables itself, so translate them
+    to its OpenAI-compatible ``base_url`` here.  Local vLLM accepts any nonempty
+    API key; remote OpenAI calls continue to use the standard SDK environment.
+    """
+    host = os.environ.get("LLM_SERVER_HOST")
+    port = os.environ.get("LLM_SERVER_PORT")
+    if host and port:
+        base_url = host.rstrip("/") + ":" + str(port) + "/v1"
+        return OpenAI(base_url=base_url, api_key=os.environ.get("OPENAI_API_KEY", "EMPTY"))
+    return OpenAI()
 
 
 def _chat_response_to_legacy_dict(response):
@@ -86,7 +101,7 @@ def cached_openai_call(  # kwargs doesn't work with caching.
             "Please set best_of=1."
         )
 
-    response = client.chat.completions.create(
+    response = get_openai_client().chat.completions.create(
         model=engine,
         messages=[
             {"role": "user", "content": prompt}
@@ -138,7 +153,7 @@ def openai_call(
             "Please set best_of=1."
         )
 
-    response = client.chat.completions.create(
+    response = get_openai_client().chat.completions.create(
         model=engine,
         messages=[
             {"role": "user", "content": prompt}
@@ -190,6 +205,7 @@ def get_tokenizer(tokenizer_model_name):
             tokenizer_model_name,
             model_max_length=120000,
             trust_remote_code=True,
+            local_files_only=True,
         )
 
     from transformers import AutoTokenizer
