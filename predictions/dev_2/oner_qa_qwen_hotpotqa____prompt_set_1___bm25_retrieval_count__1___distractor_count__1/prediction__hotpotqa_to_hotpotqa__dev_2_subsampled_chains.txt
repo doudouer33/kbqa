@@ -1,0 +1,18 @@
+
+5a8e4d9855429917b4a5bd8d
+ Worldview Entertainment is an American independent motion picture company that produced a 2015 mystery thriller film based on a novel by who?
+A: ["Worldview Entertainment"]
+Q: Worldview Entertainment is an American independent motion picture company that produced a 2015 mystery thriller film based on a novel by who?
+A: "Worldview Entertainment produced the 2015 mystery thriller film \"Child 44,\" which is based on the novel of the same name by Tom Rob Smith. So the answer is: Tom Rob Smith."
+A: Tom Rob Smith
+Q: [EOQ]
+S: 0.0
+
+5ac473e4554299204fd21f54
+Are Kim Tae-yeon and Laura Stoica of the same nationality?
+A: ["Kim Tae-yeon (disambiguation)"]
+Q: Are Kim Tae-yeon and Laura Stoica of the same nationality?
+A: "Kim Tae-yeon is South Korean, being the main singer for the South Korean girl group Girls' Generation. Laura Stoica, on the other hand, is Romanian. Therefore, Kim Tae-yeon and Laura Stoica are not of the same nationality."
+A: Kim Tae-yeon is South Korean, being the main singer for the South Korean girl group Girls' Generation. Laura Stoica, on the other hand, is Romanian. Therefore, Kim Tae-yeon and Laura Stoica are not of the same nationality
+Q: [EOQ]
+S: 0.0

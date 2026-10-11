@@ -1,0 +1,18 @@
+
+5a8e4d9855429917b4a5bd8d
+ Worldview Entertainment is an American independent motion picture company that produced a 2015 mystery thriller film based on a novel by who?
+A: ["Worldview Entertainment", "Elevating Entertainment Motion Pictures", "Worldview Pictures", "Ovie Entertainment", "Motion Picture Distributing and Sales Company", "Beacon Pictures", "Ubisoft Motion Pictures", "First Independent Pictures", "Twisted Pictures", "Independent Moving Pictures", "LD Entertainment", "Sikhya Entertainment", "Maverick Entertainment Group", "Savoy Pictures", "Gem Motion Picture Company"]
+Q: Worldview Entertainment is an American independent motion picture company that produced a 2015 mystery thriller film based on a novel by who?
+A: "Worldview Entertainment produced the 2015 mystery thriller film \"The Girl on the Train,\" which is based on the novel of the same name by Paula Hawkins. So the answer is: Paula Hawkins."
+A: Paula Hawkins
+Q: [EOQ]
+S: 0.0
+
+5ac473e4554299204fd21f54
+Are Kim Tae-yeon and Laura Stoica of the same nationality?
+A: ["Kim Tae-yeon (disambiguation)", "Kim Tae-yeon (painter)", "List of awards and nominations received by Kim Tae-yeon", "Kim Tae-yeon (footballer)", "Kim Jin-tae", "Laura Stoica", "Kim Tae-yeon (actress)", "Kim Tae-yeon", "Kim Tae-yun", "Kim Su-yeon", "Kim Do-yeon", "Tae-yeon (name)", "Kim Ga-yeon", "Ha Tae-yeon"]
+Q: Are Kim Tae-yeon and Laura Stoica of the same nationality?
+A: "No, Kim Tae-yeon and Laura Stoica are not of the same nationality."
+A: No, Kim Tae-yeon and Laura Stoica are not of the same nationality
+Q: [EOQ]
+S: 0.0
