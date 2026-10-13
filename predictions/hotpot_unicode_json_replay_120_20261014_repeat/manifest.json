@@ -1,0 +1,94 @@
+{
+  "created_at": "2026-10-14T03:25:33.785463+08:00",
+  "git_revision": "ad44363bcb90e8fdc5118a7fcca6f43d179a2adc",
+  "source": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_prompt_token_40_20261013",
+  "source_diagnostics_sha256": "2f798daa7a153f990974df1c93e1122515e41758f728754daf0b40c132549bd2",
+  "source_samples_sha256": "c1682cf23e56a1bc316731260ef85f02d76743fab146e6dcca60911d2f62bc73",
+  "official_gold_sha256": "e3da074df24e8369009918aa5cdbdd254dadcde4c63f7569d36afd6f2268caa8",
+  "baseline_ircot_sha256": "e7f7c69ed5e5e8dccb4fbe7985f781cef49e2fad51cc5df6046f33faa4913b3a",
+  "fixed_ircot_sha256": "3d026c7c3ade33c479bda7acb4ccc44a8d4ac711c5c864cfcd5d670d2e46658d",
+  "python": "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+  "python_version": "3.8.20 (default, Oct  3 2024, 15:24:27) \n[GCC 11.2.0]",
+  "python_hash_seed": "0",
+  "versions": {
+    "openai": "2.2.0",
+    "httpx": "0.28.1",
+    "numpy": "1.24.4",
+    "ujson": "5.10.0",
+    "ftfy": "6.2.3"
+  },
+  "settings": {
+    "1": {
+      "match_all_on_failure": true,
+      "query_source": "last_answer",
+      "regex": ".* answer is:? (.*)\\.?",
+      "remove_last_fullstop": true
+    },
+    "8": {
+      "match_all_on_failure": true,
+      "query_source": "last_answer",
+      "regex": ".* answer is:? (.*)\\.?",
+      "remove_last_fullstop": true
+    },
+    "15": {
+      "match_all_on_failure": true,
+      "query_source": "last_answer",
+      "regex": ".* answer is:? (.*)\\.?",
+      "remove_last_fullstop": true
+    }
+  },
+  "official_commands": [
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/official_evaluation/hotpotqa/hotpot_evaluate_v1.py",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014_repeat/k_1/before/official_predictions.json",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014_repeat/k_1/before/official_gold.json"
+    ],
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/official_evaluation/hotpotqa/hotpot_evaluate_v1.py",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014_repeat/k_1/after/official_predictions.json",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014_repeat/k_1/after/official_gold.json"
+    ],
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/official_evaluation/hotpotqa/hotpot_evaluate_v1.py",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014_repeat/k_8/before/official_predictions.json",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014_repeat/k_8/before/official_gold.json"
+    ],
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/official_evaluation/hotpotqa/hotpot_evaluate_v1.py",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014_repeat/k_8/after/official_predictions.json",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014_repeat/k_8/after/official_gold.json"
+    ],
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/official_evaluation/hotpotqa/hotpot_evaluate_v1.py",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014_repeat/k_15/before/official_predictions.json",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014_repeat/k_15/before/official_gold.json"
+    ],
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/official_evaluation/hotpotqa/hotpot_evaluate_v1.py",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014_repeat/k_15/after/official_predictions.json",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014_repeat/k_15/after/official_gold.json"
+    ]
+  ],
+  "replay_command": [
+    "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_unicode_json_diagnostic/replay.py",
+    "--source",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_prompt_token_40_20261013",
+    "--output",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014_repeat"
+  ],
+  "generation": "Saved text only; generator stub; parent HTTP calls fail closed; no model, retrieval or tokenizer run",
+  "snapshot_sha256": {
+    "analysis/hotpot_unicode_json_diagnostic/ircot_before.py.txt": "e7f7c69ed5e5e8dccb4fbe7985f781cef49e2fad51cc5df6046f33faa4913b3a",
+    "analysis/hotpot_unicode_json_diagnostic/protected_before.json": "a6ba2507d81fb15c401fcb7f551dea90bab0372c33ab00e625442cab09ed6de1",
+    "analysis/hotpot_unicode_json_diagnostic/replay.py": "dad09a3b8fad5fcf7f2346bc61def6d15a70ed1c500cc71a79d31e6942289944",
+    "commaqa/inference/ircot.py": "3d026c7c3ade33c479bda7acb4ccc44a8d4ac711c5c864cfcd5d670d2e46658d",
+    "tests/test_answer_extractor_json.py": "6f0da0efbb6ea642bb8ad4da3f63c349b9cace7c9358cf25bc2234f83bc5fefd"
+  }
+}

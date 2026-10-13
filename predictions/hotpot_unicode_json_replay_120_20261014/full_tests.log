@@ -1,0 +1,40 @@
+test_distribution_statistics (test_analyze_hotpot_500_500.AnalyzeHotpotTest) ... ok
+test_percentile_uses_linear_interpolation (test_analyze_hotpot_500_500.AnalyzeHotpotTest) ... ok
+test_direct_qa_retains_existing_final_json_decode (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_invalid_quoted_json_keeps_legacy_outer_quote_handling (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_json_escaped_newline_is_restored_before_regex (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_json_lists_keep_intermediate_representation_and_final_list_semantics (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_json_strings_decode_once_before_matching (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_last_question_keeps_legacy_outer_quote_handling (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_list_captured_inside_cot_keeps_json_structure (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_literal_escaped_list_is_not_repaired_or_decoded_again (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_no_match_and_fullstop_settings_are_unchanged (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_original_regex_and_fallback_remain_line_sensitive (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_other_json_values_are_not_coerced (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_participant_serialization_roundtrip (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_plain_strings_and_last_question_preserve_literal_escapes (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_serialized_cot_through_actual_participant_extractor_and_final_prediction (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_qwen_openai_client (unittest.loader._FailedTest) ... ERROR
+test_conversion_preserves_required_rag_fields (test_subsample_hotpot_by_type.SubsampleHotpotByTypeTest) ... ok
+test_manifest_records_reproducibility_inputs_and_ids (test_subsample_hotpot_by_type.SubsampleHotpotByTypeTest) ... ok
+test_stratified_sample_rejects_insufficient_type (test_subsample_hotpot_by_type.SubsampleHotpotByTypeTest) ... ok
+test_stratified_sample_selects_each_type_deterministically (test_subsample_hotpot_by_type.SubsampleHotpotByTypeTest) ... ok
+
+======================================================================
+ERROR: test_qwen_openai_client (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: test_qwen_openai_client
+Traceback (most recent call last):
+  File "/home/dengxin/miniconda3/envs/adaptiverag/lib/python3.8/unittest/loader.py", line 436, in _find_test_path
+    module = self._get_module_from_name(name)
+  File "/home/dengxin/miniconda3/envs/adaptiverag/lib/python3.8/unittest/loader.py", line 377, in _get_module_from_name
+    __import__(name)
+  File "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/tests/test_qwen_openai_client.py", line 5, in <module>
+    from commaqa.models.gpt3generator import get_openai_client
+ImportError: cannot import name 'get_openai_client' from 'commaqa.models.gpt3generator' (/media/hnu/hnu2021/dengxin/luoyichen/kbqa/commaqa/models/gpt3generator.py)
+
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.038s
+
+FAILED (errors=1)

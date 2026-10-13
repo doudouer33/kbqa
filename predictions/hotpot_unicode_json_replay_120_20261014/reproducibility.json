@@ -1,0 +1,30 @@
+{
+  "independent_replay_directory": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014_repeat",
+  "python_hash_seed": "0",
+  "all_predictions_traces_scores_identical": true,
+  "compared_file_count": 22,
+  "identical_sha256": {
+    "comparison.jsonl": "0047a6b821b3cfcaf85d064f7229ea41c37c2a5b458ec787ad2f58524c36284f",
+    "comparison.csv": "816f689fee930a677be70013e2b5bfde9c7053175955d9502d83a88ca57aa146",
+    "changed_predictions.json": "66e46e6abbaffc2c3306200f653e418575a2863c791a3f94f90a792fae87a525",
+    "summary.json": "9887281979e1e2341c6f34f7a1ecf0e12ebc4cffc85e9303f7ece25fb6548953",
+    "k_1/before/predictions.json": "44d5e685a09ade8ef263fbef56d0634e19c5cadafdf5f694a1fbbe8e1de7b2fc",
+    "k_1/before/official_metrics.json": "5a2621f20a14bf55ee8de65490a5c5e2ed36fa059c6efcce82cc5d2635acce3f",
+    "k_1/before/repository_metrics.json": "ed84bea1961245604053918fbbd4d75f3145eea214b6d92eddfb1a5b88ae63c6",
+    "k_1/after/predictions.json": "ae46adf19c6f048b28ec0e9418f56be00bd4d1b1f82e1509817ecfe5c5ea3ffa",
+    "k_1/after/official_metrics.json": "26a1d6909e4e0f5516565e5af24000ae096d564a5dbf846b3f882b4cfee2da3a",
+    "k_1/after/repository_metrics.json": "d7f2edbc1832d5d3321658a61d4553f8551d4d2f4dbbbf6048dc7377867f9d81",
+    "k_8/before/predictions.json": "fcb52cae9f461760f5ac9d459e5ce16c1234522be57e6a0f88e4ace7a61f4016",
+    "k_8/before/official_metrics.json": "ecdf1d3042b96c486c359cea342a9bdb583745297143a183ebff6989173eb229",
+    "k_8/before/repository_metrics.json": "a39a7013871d5ce9ed4b544ffa4fa71dc9757e0e0f9dc3cb1782dfcaaaf31de5",
+    "k_8/after/predictions.json": "a553bbfe43269d39c664bf6a1037a5fbcbc4a5d0d68f5a5ee1f9d016b915e205",
+    "k_8/after/official_metrics.json": "ecdf1d3042b96c486c359cea342a9bdb583745297143a183ebff6989173eb229",
+    "k_8/after/repository_metrics.json": "a39a7013871d5ce9ed4b544ffa4fa71dc9757e0e0f9dc3cb1782dfcaaaf31de5",
+    "k_15/before/predictions.json": "e5872a9d3bed1cd0e80d771d451a82e12003b71ae31568c13307f18f2f5724b7",
+    "k_15/before/official_metrics.json": "fbc305961a7e86852f7ec24e8f65b19e7c6da09570c042b6f3c75b87dc62bc08",
+    "k_15/before/repository_metrics.json": "f574634cc40fa773d4fde07ed8ed681c6c5cbd6c828d08f94bab5408390278ed",
+    "k_15/after/predictions.json": "1e4643fd67c632bef201b46f9d50bb5a8d125c7b4694c66823db1731a80c9b7d",
+    "k_15/after/official_metrics.json": "fbc305961a7e86852f7ec24e8f65b19e7c6da09570c042b6f3c75b87dc62bc08",
+    "k_15/after/repository_metrics.json": "f574634cc40fa773d4fde07ed8ed681c6c5cbd6c828d08f94bab5408390278ed"
+  }
+}

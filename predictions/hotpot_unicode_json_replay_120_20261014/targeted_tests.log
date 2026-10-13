@@ -1,0 +1,19 @@
+test_direct_qa_retains_existing_final_json_decode (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_invalid_quoted_json_keeps_legacy_outer_quote_handling (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_json_escaped_newline_is_restored_before_regex (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_json_lists_keep_intermediate_representation_and_final_list_semantics (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_json_strings_decode_once_before_matching (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_last_question_keeps_legacy_outer_quote_handling (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_list_captured_inside_cot_keeps_json_structure (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_literal_escaped_list_is_not_repaired_or_decoded_again (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_no_match_and_fullstop_settings_are_unchanged (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_original_regex_and_fallback_remain_line_sensitive (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_other_json_values_are_not_coerced (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_participant_serialization_roundtrip (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_plain_strings_and_last_question_preserve_literal_escapes (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_serialized_cot_through_actual_participant_extractor_and_final_prediction (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.037s
+
+OK

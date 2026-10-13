@@ -218,7 +218,15 @@ class AnswerExtractor(ParticipantModel):
             query = new_state.data.get_last_question()
 
         if query.startswith('"') and query.endswith('"'):
-            query = query[1:-1]
+            if self.query_source == "last_answer":
+                # LLMQAParticipantModel stores strings with json.dumps. Decode
+                # that one layer before matching, preserving literal escapes.
+                try:
+                    query = json.loads(query)
+                except json.JSONDecodeError:
+                    query = query[1:-1]  # Preserve legacy handling of raw quoted text.
+            else:
+                query = query[1:-1]
 
         m = self.regex.match(query)
         if self.match_all_on_failure and not self.regex.match(query):
@@ -232,14 +240,6 @@ class AnswerExtractor(ParticipantModel):
 
             if debug:
                 print("EXT: " + answer)
-
-            try:  # Hacky. Fix later. This is to handle '[\\"1,450 miles\\"]' to '["1,450 miles"]'
-                json.loads(answer)
-            except:
-                try:
-                    answer = json.dumps(json.loads(answer.encode("utf-8").decode("unicode_escape")))
-                except:
-                    pass
 
             new_state.data.add_answer(QuestionAnsweringStep(answer=answer, score=0, participant=state.next))
             new_state.last_output = answer

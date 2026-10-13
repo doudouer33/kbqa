@@ -1,0 +1,278 @@
+[
+  {
+    "k": 1,
+    "qid": "5a7248665542990c210a40b1",
+    "type": "bridge",
+    "question": "What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played? ",
+    "gold": [
+      "Rooster"
+    ],
+    "raw_output": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atlético Mineiro. So the answer is: Atlético Mineiro.",
+    "raw_sha256": "b9915e17939da588a7f227c3fd0c6127426d4aab412a1c73ba3b908e38d10602",
+    "before": {
+      "serialized_input": "\"The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atl\\u00e9tico Mineiro. So the answer is: Atl\\u00e9tico Mineiro.\"",
+      "llm_answer": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atlético Mineiro. So the answer is: Atlético Mineiro.",
+      "regex_input": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atl\\u00e9tico Mineiro. So the answer is: Atl\\u00e9tico Mineiro.",
+      "primary_match": true,
+      "matched_group": "Atl\\u00e9tico Mineiro.",
+      "fallback": false,
+      "extractor_output": "Atl\\u00e9tico Mineiro",
+      "prediction": "Atl\\u00e9tico Mineiro"
+    },
+    "after": {
+      "serialized_input": "\"The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atl\\u00e9tico Mineiro. So the answer is: Atl\\u00e9tico Mineiro.\"",
+      "llm_answer": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atlético Mineiro. So the answer is: Atlético Mineiro.",
+      "regex_input": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atlético Mineiro. So the answer is: Atlético Mineiro.",
+      "primary_match": true,
+      "matched_group": "Atlético Mineiro.",
+      "fallback": false,
+      "extractor_output": "Atlético Mineiro",
+      "prediction": "Atlético Mineiro"
+    },
+    "before_scores": {
+      "official_em": 0.0,
+      "official_f1": 0,
+      "repository_em": 0,
+      "repository_f1": 0.0
+    },
+    "after_scores": {
+      "official_em": 0.0,
+      "official_f1": 0,
+      "repository_em": 0,
+      "repository_f1": 0.0
+    },
+    "changed": true,
+    "known_unicode_pollution": true,
+    "reason": "Unicode JSON escapes restored"
+  },
+  {
+    "k": 1,
+    "qid": "5a8bbfb15542995e66a474f6",
+    "type": "comparison",
+    "question": "Peter Curtis and Scott Draper are both what?",
+    "gold": [
+      "former tennis player"
+    ],
+    "raw_output": "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\nSo the answer is: tennis player.",
+    "raw_sha256": "fe3363471b4fc462167e83bbcdbcf68634f9e912f8af13071b966eba0849a10a",
+    "before": {
+      "serialized_input": "\"Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\\nSo the answer is: tennis player.\"",
+      "llm_answer": "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\nSo the answer is: tennis player.",
+      "regex_input": "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\\nSo the answer is: tennis player.",
+      "primary_match": true,
+      "matched_group": "tennis player.",
+      "fallback": false,
+      "extractor_output": "tennis player",
+      "prediction": "tennis player"
+    },
+    "after": {
+      "serialized_input": "\"Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\\nSo the answer is: tennis player.\"",
+      "llm_answer": "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\nSo the answer is: tennis player.",
+      "regex_input": "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\nSo the answer is: tennis player.",
+      "primary_match": false,
+      "matched_group": null,
+      "fallback": true,
+      "extractor_output": "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player",
+      "prediction": "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player"
+    },
+    "before_scores": {
+      "official_em": 0.0,
+      "official_f1": 0.8,
+      "repository_em": 0,
+      "repository_f1": 0.8
+    },
+    "after_scores": {
+      "official_em": 0.0,
+      "official_f1": 0.1621621621621622,
+      "repository_em": 0,
+      "repository_f1": 0.18
+    },
+    "changed": true,
+    "known_unicode_pollution": false,
+    "reason": "Real newline restored before unchanged regex/fallback"
+  },
+  {
+    "k": 1,
+    "qid": "5abcc818554299658360048b",
+    "type": "bridge",
+    "question": "In which event did Tyson Gay and Rodney Martin both represent the United States at the 2008 Beijing Olympics?",
+    "gold": [
+      "4 x 100 metre relay"
+    ],
+    "raw_output": "Rodney Martin and Tyson Gay both represented the United States in the 4 × 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 × 100 metre relay.",
+    "raw_sha256": "0574c5ea46fda2bcfb45af933ba370d7452eb666d116051e331983f484aede65",
+    "before": {
+      "serialized_input": "\"Rodney Martin and Tyson Gay both represented the United States in the 4 \\u00d7 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 \\u00d7 100 metre relay.\"",
+      "llm_answer": "Rodney Martin and Tyson Gay both represented the United States in the 4 × 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 × 100 metre relay.",
+      "regex_input": "Rodney Martin and Tyson Gay both represented the United States in the 4 \\u00d7 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 \\u00d7 100 metre relay.",
+      "primary_match": true,
+      "matched_group": "4 \\u00d7 100 metre relay.",
+      "fallback": false,
+      "extractor_output": "4 \\u00d7 100 metre relay",
+      "prediction": "4 \\u00d7 100 metre relay"
+    },
+    "after": {
+      "serialized_input": "\"Rodney Martin and Tyson Gay both represented the United States in the 4 \\u00d7 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 \\u00d7 100 metre relay.\"",
+      "llm_answer": "Rodney Martin and Tyson Gay both represented the United States in the 4 × 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 × 100 metre relay.",
+      "regex_input": "Rodney Martin and Tyson Gay both represented the United States in the 4 × 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 × 100 metre relay.",
+      "primary_match": true,
+      "matched_group": "4 × 100 metre relay.",
+      "fallback": false,
+      "extractor_output": "4 × 100 metre relay",
+      "prediction": "4 × 100 metre relay"
+    },
+    "before_scores": {
+      "official_em": 0.0,
+      "official_f1": 0.8000000000000002,
+      "repository_em": 0,
+      "repository_f1": 0.8
+    },
+    "after_scores": {
+      "official_em": 0.0,
+      "official_f1": 0.8000000000000002,
+      "repository_em": 0,
+      "repository_f1": 0.8
+    },
+    "changed": true,
+    "known_unicode_pollution": true,
+    "reason": "Unicode JSON escapes restored"
+  },
+  {
+    "k": 8,
+    "qid": "5a7248665542990c210a40b1",
+    "type": "bridge",
+    "question": "What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played? ",
+    "gold": [
+      "Rooster"
+    ],
+    "raw_output": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atlético Mineiro. So the answer is: Atlético Mineiro.",
+    "raw_sha256": "b9915e17939da588a7f227c3fd0c6127426d4aab412a1c73ba3b908e38d10602",
+    "before": {
+      "serialized_input": "\"The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atl\\u00e9tico Mineiro. So the answer is: Atl\\u00e9tico Mineiro.\"",
+      "llm_answer": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atlético Mineiro. So the answer is: Atlético Mineiro.",
+      "regex_input": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atl\\u00e9tico Mineiro. So the answer is: Atl\\u00e9tico Mineiro.",
+      "primary_match": true,
+      "matched_group": "Atl\\u00e9tico Mineiro.",
+      "fallback": false,
+      "extractor_output": "Atl\\u00e9tico Mineiro",
+      "prediction": "Atl\\u00e9tico Mineiro"
+    },
+    "after": {
+      "serialized_input": "\"The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atl\\u00e9tico Mineiro. So the answer is: Atl\\u00e9tico Mineiro.\"",
+      "llm_answer": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atlético Mineiro. So the answer is: Atlético Mineiro.",
+      "regex_input": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atlético Mineiro. So the answer is: Atlético Mineiro.",
+      "primary_match": true,
+      "matched_group": "Atlético Mineiro.",
+      "fallback": false,
+      "extractor_output": "Atlético Mineiro",
+      "prediction": "Atlético Mineiro"
+    },
+    "before_scores": {
+      "official_em": 0.0,
+      "official_f1": 0,
+      "repository_em": 0,
+      "repository_f1": 0.0
+    },
+    "after_scores": {
+      "official_em": 0.0,
+      "official_f1": 0,
+      "repository_em": 0,
+      "repository_f1": 0.0
+    },
+    "changed": true,
+    "known_unicode_pollution": true,
+    "reason": "Unicode JSON escapes restored"
+  },
+  {
+    "k": 15,
+    "qid": "5a7248665542990c210a40b1",
+    "type": "bridge",
+    "question": "What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played? ",
+    "gold": [
+      "Rooster"
+    ],
+    "raw_output": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atlético Mineiro. So the answer is: Atlético Mineiro.",
+    "raw_sha256": "b9915e17939da588a7f227c3fd0c6127426d4aab412a1c73ba3b908e38d10602",
+    "before": {
+      "serialized_input": "\"The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atl\\u00e9tico Mineiro. So the answer is: Atl\\u00e9tico Mineiro.\"",
+      "llm_answer": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atlético Mineiro. So the answer is: Atlético Mineiro.",
+      "regex_input": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atl\\u00e9tico Mineiro. So the answer is: Atl\\u00e9tico Mineiro.",
+      "primary_match": true,
+      "matched_group": "Atl\\u00e9tico Mineiro.",
+      "fallback": false,
+      "extractor_output": "Atl\\u00e9tico Mineiro",
+      "prediction": "Atl\\u00e9tico Mineiro"
+    },
+    "after": {
+      "serialized_input": "\"The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atl\\u00e9tico Mineiro. So the answer is: Atl\\u00e9tico Mineiro.\"",
+      "llm_answer": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atlético Mineiro. So the answer is: Atlético Mineiro.",
+      "regex_input": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atlético Mineiro. So the answer is: Atlético Mineiro.",
+      "primary_match": true,
+      "matched_group": "Atlético Mineiro.",
+      "fallback": false,
+      "extractor_output": "Atlético Mineiro",
+      "prediction": "Atlético Mineiro"
+    },
+    "before_scores": {
+      "official_em": 0.0,
+      "official_f1": 0,
+      "repository_em": 0,
+      "repository_f1": 0.0
+    },
+    "after_scores": {
+      "official_em": 0.0,
+      "official_f1": 0,
+      "repository_em": 0,
+      "repository_f1": 0.0
+    },
+    "changed": true,
+    "known_unicode_pollution": true,
+    "reason": "Unicode JSON escapes restored"
+  },
+  {
+    "k": 15,
+    "qid": "5abcc818554299658360048b",
+    "type": "bridge",
+    "question": "In which event did Tyson Gay and Rodney Martin both represent the United States at the 2008 Beijing Olympics?",
+    "gold": [
+      "4 x 100 metre relay"
+    ],
+    "raw_output": "Tyson Gay and Rodney Martin both represented the United States in the 4 × 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 × 100 metre relay.",
+    "raw_sha256": "87c08dae0d49bea7d58340e0cb70768b550d05471dbfa8f7faffd1d2c0837fe8",
+    "before": {
+      "serialized_input": "\"Tyson Gay and Rodney Martin both represented the United States in the 4 \\u00d7 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 \\u00d7 100 metre relay.\"",
+      "llm_answer": "Tyson Gay and Rodney Martin both represented the United States in the 4 × 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 × 100 metre relay.",
+      "regex_input": "Tyson Gay and Rodney Martin both represented the United States in the 4 \\u00d7 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 \\u00d7 100 metre relay.",
+      "primary_match": true,
+      "matched_group": "4 \\u00d7 100 metre relay.",
+      "fallback": false,
+      "extractor_output": "4 \\u00d7 100 metre relay",
+      "prediction": "4 \\u00d7 100 metre relay"
+    },
+    "after": {
+      "serialized_input": "\"Tyson Gay and Rodney Martin both represented the United States in the 4 \\u00d7 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 \\u00d7 100 metre relay.\"",
+      "llm_answer": "Tyson Gay and Rodney Martin both represented the United States in the 4 × 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 × 100 metre relay.",
+      "regex_input": "Tyson Gay and Rodney Martin both represented the United States in the 4 × 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 × 100 metre relay.",
+      "primary_match": true,
+      "matched_group": "4 × 100 metre relay.",
+      "fallback": false,
+      "extractor_output": "4 × 100 metre relay",
+      "prediction": "4 × 100 metre relay"
+    },
+    "before_scores": {
+      "official_em": 0.0,
+      "official_f1": 0.8000000000000002,
+      "repository_em": 0,
+      "repository_f1": 0.8
+    },
+    "after_scores": {
+      "official_em": 0.0,
+      "official_f1": 0.8000000000000002,
+      "repository_em": 0,
+      "repository_f1": 0.8
+    },
+    "changed": true,
+    "known_unicode_pollution": true,
+    "reason": "Unicode JSON escapes restored"
+  }
+]

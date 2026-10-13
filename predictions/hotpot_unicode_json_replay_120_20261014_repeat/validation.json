@@ -1,0 +1,17 @@
+{
+  "records": 120,
+  "unique_questions": 40,
+  "ordered_inputs_identical": true,
+  "baseline_predictions_match_saved": 120,
+  "baseline_traces_and_scores_match_saved": 120,
+  "fixed_regex_inputs_equal_raw_stripped": 120,
+  "official_cli_runs": 6,
+  "repository_evaluator_runs": 6,
+  "protected_files": 472,
+  "changed_from_original": [
+    "commaqa/inference/ircot.py"
+  ],
+  "protected_files_unchanged_during_replay": true,
+  "history_unchanged": true,
+  "model_api_calls": 0
+}
