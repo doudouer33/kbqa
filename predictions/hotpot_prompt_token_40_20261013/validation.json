@@ -1,0 +1,92 @@
+{
+  "records": 120,
+  "wire_requests": 120,
+  "responses_http_200": 120,
+  "all_fewshot_counts_15": true,
+  "cropped_prompts": 0,
+  "instructions_present": 120,
+  "protected_files_unchanged": true,
+  "saved_configs_only_prompt_and_budget_differ": true,
+  "sample_bytes_identical": true,
+  "question_order_identical": true,
+  "retrieval_results_identical": true,
+  "current_question_context_identical": true,
+  "original_15_example_contents_unchanged": true,
+  "all_k_example_ids_and_order_identical": true,
+  "scores_match_original_evaluators": true,
+  "saved_metrics": [
+    {
+      "k": 1,
+      "official": {
+        "f1": 0.63548,
+        "em": 0.425,
+        "precision": 0.69917,
+        "recall": 0.61667,
+        "count": 40
+      },
+      "repository": {
+        "em": 0.425,
+        "f1": 0.627,
+        "precision": 0.695,
+        "recall": 0.605,
+        "count": 40,
+        "sp_em": 0.425,
+        "sp_f1": 0.425,
+        "sp_precision": 0.425,
+        "sp_recall": 0.425
+      },
+      "repository_per_question_f1_mean": 0.6265000000000001,
+      "repository_agrees_within_saved_precision": true
+    },
+    {
+      "k": 8,
+      "official": {
+        "f1": 0.5422,
+        "em": 0.4,
+        "precision": 0.5675,
+        "recall": 0.53833,
+        "count": 40
+      },
+      "repository": {
+        "em": 0.4,
+        "f1": 0.553,
+        "precision": 0.582,
+        "recall": 0.568,
+        "count": 40,
+        "sp_em": 0.4,
+        "sp_f1": 0.4,
+        "sp_precision": 0.4,
+        "sp_recall": 0.4
+      },
+      "repository_per_question_f1_mean": 0.553,
+      "repository_agrees_within_saved_precision": true
+    },
+    {
+      "k": 15,
+      "official": {
+        "f1": 0.59375,
+        "em": 0.475,
+        "precision": 0.62,
+        "recall": 0.57833,
+        "count": 40
+      },
+      "repository": {
+        "em": 0.475,
+        "f1": 0.601,
+        "precision": 0.633,
+        "recall": 0.583,
+        "count": 40,
+        "sp_em": 0.475,
+        "sp_f1": 0.475,
+        "sp_precision": 0.475,
+        "sp_recall": 0.475
+      },
+      "repository_per_question_f1_mean": 0.6012500000000001,
+      "repository_agrees_within_saved_precision": true
+    }
+  ],
+  "server_chat_template_overheads": [
+    29
+  ],
+  "output_length_truncations": 0
+}

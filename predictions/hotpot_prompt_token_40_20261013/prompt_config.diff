@@ -1,0 +1,49 @@
+--- base_configs/oner_qa_qwen_hotpotqa_stop_diagnostic.jsonnet
++++ base_configs/oner_qa_qwen_hotpotqa_prompt_token_diagnostic.jsonnet
+@@ -1,13 +1,13 @@
+-// This diagnostic preserves the archived dev_1000 experiment settings.
+-// Its only generation change is stop=[]; other models keep their defaults.
++// Independent CoT prompt-format and token-budget experiment.
++// Preserve stop=[], retrieval, answer extraction, and evaluation behavior.
+ # Set dataset:
+ local dataset = "hotpotqa";
+ local retrieval_corpus_name = dataset;
+ local add_pinned_paras = if dataset == "iirc" then true else false;
+ local qwen_tokenizer_model_name = "Qwen/Qwen2.5-7B-Instruct";
+ // Reserve room for the OpenAI chat template tokens added by vLLM.
+-local qwen_local_model_length_limit = 4000;
+-local qwen_max_tokens = 300;
++local qwen_local_model_length_limit = 16384;
++local qwen_max_tokens = 512;
+ local valid_qids = ["5abb14bd5542992ccd8e7f07", "5ac2ada5554299657fa2900d", "5a758ea55542992db9473680", "5ae0185b55429942ec259c1b", "5a8ed9f355429917b4a5bddd", "5abfb3435542990832d3a1c1", "5ab92dba554299131ca422a2", "5a835abe5542996488c2e426", "5a89c14f5542993b751ca98a", "5a90620755429933b8a20508", "5a7bbc50554299042af8f7d0", "5a8f44ab5542992414482a25", "5add363c5542990dbb2f7dc8", "5a7fc53555429969796c1b55", "5a790e7855429970f5fffe3d"];
+ local prompt_reader_args = {
+     "filter_by_key_values": {
+@@ -60,7 +60,7 @@
+         "answer_main_question": {
+             "name": "llmqa",
+             "next_model": if std.endsWith(rc_qa_type, "cot") then "extract_answer" else null,
+-            "prompt_file": "prompts/"+dataset+"/"+rc_context_type+"_context_"+rc_qa_type+"_qa_codex.txt",
++            "prompt_file": "prompts/hotpotqa/gold_with_1_distractors_context_cot_qa_prompt_token.txt",
+             "prompt_reader_args": prompt_reader_args,
+             "end_state": "[EOQ]",
+             "gen_model": "gpt3",
+--- prompts/hotpotqa/gold_with_1_distractors_context_cot_qa_codex.txt
++++ prompts/hotpotqa/gold_with_1_distractors_context_cot_qa_prompt_token.txt
+@@ -265,6 +265,17 @@
+ 
+ 
+ # METADATA: {"qid": "5abb14bd5542992ccd8e7f07"}
++Answer the question using the provided context.
++Reason step by step before giving your final answer.
++
++Strict output requirements:
++1. Your entire response must be a single line. Do not output any newline characters.
++2. You may explain your reasoning before the final answer, but keep all reasoning on the same line.
++3. End your response with exactly this format: So the answer is: <answer>.
++4. The <answer> must contain only the short answer, without explanations or additional descriptions.
++5. For yes/no questions, the <answer> must be exactly "yes" or "no".
++6. Do not output anything after the final answer.
++
+ Wikipedia Title: Guantanamo: My Journey
+ Guantanamo: My Journey is the autobiography of David Hicks, an Australian who was held in the U.S. Guantanamo Bay detention camp for years before eventually pleading guilty to the charge of "material support to terrorism" in a military commission trial. The first 174 pages of the book details his early life, and subsequent standard military training in Kosovo, Pakistan and Afghanistan. The book heavily details Hicks' time spent in Guantanamo Bay prison, where he spent 5 and a half years following his capture in 2001. The book is the first published account by Hicks of his time spent at Guantanamo Bay and the events leading up to his arrest. In August 2011 assets from the book were frozen as the Commonwealth DPP attempted to pursue Hicks through the courts to stop him profiting from the autobiography.
+ 

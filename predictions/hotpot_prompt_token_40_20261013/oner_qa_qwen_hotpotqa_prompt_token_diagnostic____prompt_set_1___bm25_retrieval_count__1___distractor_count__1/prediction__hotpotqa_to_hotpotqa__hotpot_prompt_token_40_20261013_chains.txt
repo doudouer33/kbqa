@@ -1,0 +1,360 @@
+
+5a7248665542990c210a40b1
+What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played? 
+A: ["Fred (footballer)"]
+Q: What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played?
+A: "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atl\u00e9tico Mineiro. So the answer is: Atl\u00e9tico Mineiro."
+A: Atl\u00e9tico Mineiro
+Q: [EOQ]
+S: 0.0
+
+5a79b495554299148911fa3b
+Which serial killer was known to start killing first, Wayne Boden or Ted Bundy?
+A: ["Wayne Boden"]
+Q: Which serial killer was known to start killing first, Wayne Boden or Ted Bundy?
+A: "Wayne Clifford Boden was active between 1969 and 1971, while Ted Bundy's first known murder was in 1974. Thus, Wayne Boden started killing first. So the answer is: Wayne Boden."
+A: Wayne Boden
+Q: [EOQ]
+S: 0.0
+
+5abdc0ad55429933744ab81b
+Which band was formed first, Goldfinger or The Fray?
+A: ["Goldfinger (band)"]
+Q: Which band was formed first, Goldfinger or The Fray?
+A: "The band formed first was Goldfinger, as they formed in 1994, while The Fray was formed in 2001. So the answer is: Goldfinger."
+A: Goldfinger
+Q: [EOQ]
+S: 0.0
+
+5ac00278554299012d1db56b
+What profession do Raj Kapoor and Mike Cahill share?
+A: ["Raj Kapoor"]
+Q: What profession do Raj Kapoor and Mike Cahill share?
+A: "Raj Kapoor was an actor, producer, and director. Mike Cahill is a filmmaker, screenwriter, and director. They share the profession of director. So the answer is: director."
+A: director
+Q: [EOQ]
+S: 0.0
+
+5a8bbfb15542995e66a474f6
+Peter Curtis and Scott Draper are both what?
+A: ["Scott Draper"]
+Q: Peter Curtis and Scott Draper are both what?
+A: "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\nSo the answer is: tennis player."
+A: tennis player
+Q: [EOQ]
+S: 0.0
+
+5ac173295542994ab5c67d45
+What occupation do Graham Streeter and Geir Hansteen Jörgensen both have in common.
+A: ["Geir Hansteen J\u00f6rgensen"]
+Q: What occupation do Graham Streeter and Geir Hansteen Jörgensen both have in common.
+A: "Graham Streeter is a British film and television director, while Geir Hansteen J\u00f6rgensen is a Swedish television, film and commercials director. Both share the occupation of being directors. So the answer is: director."
+A: director
+Q: [EOQ]
+S: 0.0
+
+5abcc818554299658360048b
+In which event did Tyson Gay and Rodney Martin both represent the United States at the 2008 Beijing Olympics?
+A: ["Rodney Martin (athlete)"]
+Q: In which event did Tyson Gay and Rodney Martin both represent the United States at the 2008 Beijing Olympics?
+A: "Rodney Martin and Tyson Gay both represented the United States in the 4 \u00d7 100 metre relay at the 2008 Beijing Olympics. So the answer is: 4 \u00d7 100 metre relay."
+A: 4 \u00d7 100 metre relay
+Q: [EOQ]
+S: 0.0
+
+5a7aa9425542992d025e66e4
+Who passed away first Robert Graves or Dino Buzzati ?
+A: ["Dino Buzzati"]
+Q: Who passed away first Robert Graves or Dino Buzzati ?
+A: "Dino Buzzati passed away on 28 January 1972. Robert Graves passed away on December 2, 1985. Thus, Dino Buzzati passed away first. So the answer is: Dino Buzzati."
+A: Dino Buzzati
+Q: [EOQ]
+S: 0.0
+
+5ae1b1aa5542997283cd223f
+What was the other Los Angeles team that the 1999 Clippers top draft pick played for and won two championships with?
+A: ["Los Angeles Clippers"]
+Q: What was the other Los Angeles team that the 1999 Clippers top draft pick played for and won two championships with?
+A: "The other Los Angeles team that the 1999 Clippers top draft pick, Kobe Bryant, played for and won two championships with is the Los Angeles Lakers. So the answer is: Los Angeles Lakers."
+A: Los Angeles Lakers
+Q: [EOQ]
+S: 0.0
+
+5a88c92d5542993b751ca84e
+What breed of dog are the Basset Bleu de Gascogne and the Beagle?
+A: ["Basset Bleu de Gascogne"]
+Q: What breed of dog are the Basset Bleu de Gascogne and the Beagle?
+A: "The Basset Bleu de Gascogne and the Beagle are both breeds of hound dogs. So the answer is: hound."
+A: hound
+Q: [EOQ]
+S: 0.0
+
+5ae14def55429901ffe4ae4a
+Do both Lee Tamahori and Robert Redford work as a director?
+A: ["Lee Tamahori"]
+Q: Do both Lee Tamahori and Robert Redford work as a director?
+A: "Lee Tamahori is a filmmaker who directs movies. Robert Redford is known for his work as an actor, director, and producer. Both have worked as directors at some point in their careers. So the answer is: yes."
+A: yes
+Q: [EOQ]
+S: 0.0
+
+5a7f732d5542992e7d278d02
+Who was born first, Adrian McLaren or Ryan McLaren?
+A: ["Adrian McLaren"]
+Q: Who was born first, Adrian McLaren or Ryan McLaren?
+A: "Adrian McLaren was born on 21 April 1980. Ryan McLaren, Adrian's cousin, was born after Adrian. Thus, Adrian McLaren was born first. So the answer is: Adrian McLaren."
+A: Adrian McLaren
+Q: [EOQ]
+S: 0.0
+
+5a7e6c725542991319bc94a4
+Which band was formed first, Fitz and The Tantrums or The Contortionist?
+A: ["Fitz and the Tantrums discography"]
+Q: Which band was formed first, Fitz and The Tantrums or The Contortionist?
+A: "The Contortionist was formed in 1997, while Fitz and The Tantrums were formed in 2008. Thus, The Contortionist was formed first. So the answer is: The Contortionist."
+A: The Contortionist
+Q: [EOQ]
+S: 0.0
+
+5a7f5e0455429969796c1a12
+Spill.com gave their final review for a movie directed by who?
+A: ["Spill.com"]
+Q: Spill.com gave their final review for a movie directed by who?
+A: "Spill.com gave their final review for the 2013 Disney film \"Saving Mr. Banks\". The movie was directed by John Lee Hancock. So the answer is: John Lee Hancock."
+A: John Lee Hancock
+Q: [EOQ]
+S: 0.0
+
+5a7982435542994bb945701f
+What was the formal name of the building that housed the scene that formed the band Hjertestop?
+A: ["Hjertestop"]
+Q: What was the formal name of the building that housed the scene that formed the band Hjertestop?
+A: "The formal name of the building that housed the scene that formed the band Hjertestop was Ungdomshuset. So the answer is: Ungdomshuset."
+A: Ungdomshuset
+Q: [EOQ]
+S: 0.0
+
+5ac029655542992a796decb3
+Which game is designed by more persons, Elfenland or San Marco?
+A: ["Elfenland"]
+Q: Which game is designed by more persons, Elfenland or San Marco?
+A: "Elfenland is designed by Alan R. Moon, while San Marco is designed by both Alan R. Moon and Reiner Knizia. Thus, San Marco is designed by more persons. So the answer is: San Marco."
+A: San Marco
+Q: [EOQ]
+S: 0.0
+
+5a8cdcb0554299441c6b9f33
+Was the film Splash released before the film Tangled? 
+A: ["Tangled: Before Ever After"]
+Q: Was the film Splash released before the film Tangled?
+A: "Tangled was released in 2010, while Splash was released in 1986. Thus, Splash was released before Tangled. So the answer is: yes."
+A: yes
+Q: [EOQ]
+S: 0.0
+
+5a89bf18554299669944a591
+Do writers John O'Hara and Bobbie Ann Mason share the same nationality?
+A: ["Bobbie Ann Mason"]
+Q: Do writers John O'Hara and Bobbie Ann Mason share the same nationality?
+A: "John O'Hara was an American novelist, short story writer, and playwright, and Bobbie Ann Mason is also an American writer. Thus, they share the same nationality. So the answer is: yes."
+A: yes
+Q: [EOQ]
+S: 0.0
+
+5a7f68365542994857a7672e
+Which band was formed at an earlier date, Unwritten Law or Jon Spencer Blues Explosion?
+A: ["Jon Spencer Blues Explosion"]
+Q: Which band was formed at an earlier date, Unwritten Law or Jon Spencer Blues Explosion?
+A: "Unwritten Law was formed in 1983, while the Jon Spencer Blues Explosion was formed in 1991. Thus, Unwritten Law was formed at an earlier date. So the answer is: Unwritten Law."
+A: Unwritten Law
+Q: [EOQ]
+S: 0.0
+
+5a7a2dac5542990198eaf0b6
+Who is younger, Keisuke Kuwata or Moya Brennan?
+A: ["Keisuke Kuwata"]
+Q: Who is younger, Keisuke Kuwata or Moya Brennan?
+A: "Keisuke Kuwata was born on February 26, 1956. Moya Brennan, also known as Moya Doherty, was born on October 25, 1959. Thus, Keisuke Kuwata is younger. So the answer is: Keisuke Kuwata."
+A: Keisuke Kuwata
+Q: [EOQ]
+S: 0.0
+
+5ac51c2255429924173fb5b4
+Neil B. Shulman was the associate producer of what 1991 American romantic comedy film directed by Michael Caton-Jones?
+A: ["Doc Hollywood"]
+Q: Neil B. Shulman was the associate producer of what 1991 American romantic comedy film directed by Michael Caton-Jones?
+A: "Neil B. Shulman was the author of the book \"What? Dead...Again?\" which the 1991 American romantic comedy film \"Doc Hollywood\" was based on. So the answer is: Doc Hollywood."
+A: Doc Hollywood
+Q: [EOQ]
+S: 0.0
+
+5a89a74e554299669944a562
+Who directed the second film in a British series of action comedy film parodying the James Bond secret agent genre with comedy similar to Rowan Atkinson's Mr. Bean character?
+A: ["Johnny English (film series)"]
+Q: Who directed the second film in a British series of action comedy film parodying the James Bond secret agent genre with comedy similar to Rowan Atkinson's Mr. Bean character?
+A: "The second film in the Johnny English series is \"Johnny English Reborn\" (2011). While the screenplay was written by Neal Purvis and Robert Wade, and Rowan Atkinson stars as Johnny English, the director of \"Johnny English Reborn\" is not specified in the given context. However, based on available information, the director of this film is Ol Parker. So the answer is: Ol Parker."
+A: Ol Parker
+Q: [EOQ]
+S: 0.0
+
+5ab70f79554299110f219aa9
+What is the nationality of this company that services MS Moby Dada?
+A: ["MS Moby Dada"]
+Q: What is the nationality of this company that services MS Moby Dada?
+A: "MS Moby Dada is operated by Moby Lines, which is an American company. So the answer is: American."
+A: American
+Q: [EOQ]
+S: 0.0
+
+5ae4ad3155429913cc2044cb
+Do both Adventist World and Girls' Life have a headquarter or editor based in Maryland?
+A: ["Adventist World"]
+Q: Do both Adventist World and Girls' Life have a headquarter or editor based in Maryland?
+A: "Adventist World has editors based in Silver Spring, Maryland. Girls' Life, published by Girl Scouts of the USA, has its headquarters in New York, New York. Thus, only Adventist World has an editor based in Maryland. So the answer is: no."
+A: no
+Q: [EOQ]
+S: 0.0
+
+5ac10c5e554299294b219074
+What state is home to the Lake Wobegon Trails and the recording location for the live radio show "A Prairie Home Companion"?
+A: ["Lake Wobegon Trails"]
+Q: What state is home to the Lake Wobegon Trails and the recording location for the live radio show "A Prairie Home Companion"?
+A: "The state that is home to the Lake Wobegon Trails and the recording location for the live radio show \"A Prairie Home Companion\" is Minnesota. So the answer is: Minnesota."
+A: Minnesota
+Q: [EOQ]
+S: 0.0
+
+5ac43d575542997ea680ca39
+ Ravi Khote:has included his music in which 2003 Indian drama?
+A: ["K. S. Ravi"]
+Q: Ravi Khote:has included his music in which 2003 Indian drama?
+A: "Ravi Khote is not mentioned in the provided context and there is no information about any music included in a 2003 Indian drama by K. S. Ravi. So the answer is: no."
+A: no
+Q: [EOQ]
+S: 0.0
+
+5a77d4eb55429949eeb29f74
+Who was born first, Yanka Dyagileva or Alexander Bashlachev?
+A: ["Yanka Dyagileva"]
+Q: Who was born first, Yanka Dyagileva or Alexander Bashlachev?
+A: "Yanka Dyagileva was born on 4 September 1966. Alexander Bashlachev was born on 24 October 1962. Thus, Alexander Bashlachev was born first. So the answer is: Alexander Bashlachev."
+A: Alexander Bashlachev
+Q: [EOQ]
+S: 0.0
+
+5a84afdc5542991dd0999d81
+What golf course, located in Fulton County, Georgia, saw Keegan Bradley win a championship?
+A: ["Bowden Golf Course"]
+Q: What golf course, located in Fulton County, Georgia, saw Keegan Bradley win a championship?
+A: "The information provided does not mention a golf course in Fulton County, Georgia, where Keegan Bradley won a championship. Therefore, I cannot determine the answer based on the given context. So the answer is: no."
+A: no
+Q: [EOQ]
+S: 0.0
+
+5a728f745542991f9a20c4e6
+Which magazine was founded first, Diva or Elle?
+A: ["Elle (magazine)"]
+Q: Which magazine was founded first, Diva or Elle?
+A: "Diva was founded in 1975, while Elle was founded in 1945. Thus, Elle was founded first. So the answer is: Elle."
+A: Elle
+Q: [EOQ]
+S: 0.0
+
+5abd0eae5542996e802b46d4
+Are Muzzle and Screaming Trees both alternative rock bands?
+A: ["Muzzle (band)"]
+Q: Are Muzzle and Screaming Trees both alternative rock bands?
+A: "Muzzle is an alternative rock band. Screaming Trees is also an alternative rock band. Therefore, the answer is: yes. So the answer is: yes."
+A: yes
+Q: [EOQ]
+S: 0.0
+
+5a85f2f55542997b5ce40036
+Which genus of flowering plants has the most species, Caesalpinia or Achimenes?
+A: ["Achimenes"]
+Q: Which genus of flowering plants has the most species, Caesalpinia or Achimenes?
+A: "Achimenes is a genus of about 25 species of tropical and subtropical rhizomatous perennial herbs. Caesalpinia, on the other hand, is a genus in the legume family with significantly more species. So the answer is: Achimenes."
+A: Achimenes
+Q: [EOQ]
+S: 0.0
+
+5a801e845542992097ad2fd9
+Which magazine produces more print editions yearly, Nautilus or TV Guide?
+A: ["Nautilus (science magazine)"]
+Q: Which magazine produces more print editions yearly, Nautilus or TV Guide?
+A: "Nautilus produces six print editions yearly, while TV Guide produces around 52 issues yearly. Thus, TV Guide produces more print editions yearly. So the answer is: TV Guide."
+A: TV Guide
+Q: [EOQ]
+S: 0.0
+
+5abda4dd55429965af743d95
+Ivan Konrad Trajkovič qualified for which major international multi-sport event celebrated in the tradition of the Olympic Games, as governed by the International Olympic Committee?
+A: ["2020 Summer Olympics"]
+Q: Ivan Konrad Trajkovič qualified for which major international multi-sport event celebrated in the tradition of the Olympic Games, as governed by the International Olympic Committee?
+A: "Ivan Konrad Trajkovi\u010d qualified for the 2020 Summer Olympics, officially known as the Games of the XXXII Olympiad and commonly known as Tokyo 2020, which is a major international multi-sport event celebrated in the tradition of the Olympic Games as governed by the International Olympic Committee (IOC). So the answer is: the 2020 Summer Olympics."
+A: the 2020 Summer Olympics
+Q: [EOQ]
+S: 0.0
+
+5ac3126f5542995ef918c0e8
+ Is it correct to state that Tetrapanax is an evergreen shrub as opposed to Hippophae which is a genus of sea buckthorns, a deciduous shrub?
+A: ["Hippophae"]
+Q: Is it correct to state that Tetrapanax is an evergreen shrub as opposed to Hippophae which is a genus of sea buckthorns, a deciduous shrub?
+A: "Tetrapanax is not mentioned in the provided context, but based on the information given about Hippophae, it is correct to state that Hippophae is a genus of sea buckthorns which are deciduous shrubs, as opposed to being evergreen. So the answer is: yes."
+A: yes
+Q: [EOQ]
+S: 0.0
+
+5a89fb525542993b751ca9d6
+Which composer created Night Ferry first performed in 2012 at Symphony Center in Chicago?
+A: ["Night Ferry (composition)"]
+Q: Which composer created Night Ferry first performed in 2012 at Symphony Center in Chicago?
+A: "Anna Clyne created Night Ferry, which was first performed in 2012 at Symphony Center in Chicago. So the answer is: Anna Clyne."
+A: Anna Clyne
+Q: [EOQ]
+S: 0.0
+
+5a8d838955429941ae14dfe5
+Eleventh Dream Day and The Shins are both rock bands from where?
+A: ["Eleventh Dream Day"]
+Q: Eleventh Dream Day and The Shins are both rock bands from where?
+A: "Eleventh Dream Day is from Chicago, Illinois, United States. The Shins are from Albuquerque, New Mexico, United States. Since only the location of Eleventh Dream Day is provided in the context, and no information about The Shins is given, the answer can only be based on the available information. So the answer is: Chicago, Illinois, United States. So the answer is: Chicago, Illinois, United States."
+A: Chicago, Illinois, United States
+Q: [EOQ]
+S: 0.0
+
+5abd14c455429924427fceec
+Who will conduct the firing cannons in Victoria as part of a musical piece written to celebrate the defeat of Napoleon in Russia?
+A: ["Napoleons, Victoria"]
+Q: Who will conduct the firing cannons in Victoria as part of a musical piece written to celebrate the defeat of Napoleon in Russia?
+A: "The information provided does not contain any details about conducting firing cannons in Victoria to celebrate the defeat of Napoleon in Russia. Therefore, based on the given context, it's not possible to determine who will conduct such an event. So the answer is: no."
+A: no
+Q: [EOQ]
+S: 0.0
+
+5ab82dbb5542990e739ec857
+The FIBT World Championships 1960 took place in a town located in which part of Italy ?
+A: ["FIBT World Championships 1971"]
+Q: The FIBT World Championships 1960 took place in a town located in which part of Italy ?
+A: "The FIBT World Championships 1960 took place in Cortina d'Ampezzo, a town located in the Veneto region of Italy. So the answer is: Veneto."
+A: Veneto
+Q: [EOQ]
+S: 0.0
+
+5a8f13d55542997ba9cb31c9
+Philip Savage served as Direcor of Player Personnel for the Baltimore Ravens under what general manager who was inducted into both the College and Pro Football Halls of Fame?
+A: ["Phil Savage"]
+Q: Philip Savage served as Direcor of Player Personnel for the Baltimore Ravens under what general manager who was inducted into both the College and Pro Football Halls of Fame?
+A: "Philip Savage served as Director of Player Personnel for the Baltimore Ravens under Ozzie Newsome, who was inducted into both the College and Pro Football Halls of Fame. So the answer is: Ozzie Newsome."
+A: Ozzie Newsome
+Q: [EOQ]
+S: 0.0
+
+5ac160605542994ab5c67d02
+Who coached the Indians and was the first Native American to win a gold metal his home country?
+A: ["Native metal"]
+Q: Who coached the Indians and was the first Native American to win a gold metal his home country?
+A: "The question does not match the provided context. Based on the given information, there is no answer related to a coach or a Native American winning a gold medal. So the answer is: no."
+A: no
+Q: [EOQ]
+S: 0.0
