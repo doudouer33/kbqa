@@ -1,0 +1,16 @@
+{
+  "records": 120,
+  "counts_by_k": {
+    "1": 40,
+    "8": 40,
+    "15": 40
+  },
+  "http_requests": 120,
+  "http_responses": 120,
+  "all_stop_empty": true,
+  "all_max_tokens_300": true,
+  "no_api_errors": true,
+  "historical_files_hashes_unchanged": true,
+  "official_and_repository_evaluation_match_offline_with_original_rounding": true,
+  "actual_saved_configs_equal_historical_except_stop": true
+}

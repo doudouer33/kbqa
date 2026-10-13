@@ -1,0 +1,423 @@
+{
+  "output": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_stop_40_20261013_1050",
+  "counts": {
+    "bridge": 20,
+    "comparison": 20
+  },
+  "commands": [
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "run.py",
+      "write",
+      "base_configs/oner_qa_qwen_hotpotqa_stop_diagnostic.jsonnet",
+      "--instantiation_scheme",
+      "oner_qa",
+      "--prompt_set",
+      "1",
+      "--set_name",
+      "hotpot_stop_40_20261013_1050",
+      "--topk_values",
+      "1,8,15",
+      "--llm_port_num",
+      "8002",
+      "--no_diff"
+    ],
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "run.py",
+      "predict",
+      "base_configs/oner_qa_qwen_hotpotqa_stop_diagnostic.jsonnet",
+      "--instantiation_scheme",
+      "oner_qa",
+      "--prompt_set",
+      "1",
+      "--set_name",
+      "hotpot_stop_40_20261013_1050",
+      "--topk_values",
+      "1,8,15",
+      "--llm_port_num",
+      "8002",
+      "--evaluation_path",
+      "processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl",
+      "--silent"
+    ]
+  ]
+}
+Writing in instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet
+Writing in instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__8___distractor_count__1.jsonnet
+Writing in instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__15___distractor_count__1.jsonnet
+/home/dengxin/miniconda3/envs/adaptiverag/lib/python3.8/site-packages/huggingface_hub/file_download.py:949: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'Qwen2Tokenizer'. 
+The class this function is called from is 'PreTrainedTokenizerFast'.
+WARNING: Dropped 9 / 15 examples.
+Running inference on examples
+0it [00:00, ?it/s]
+0it [00:00, ?it/s][ADIAGNOSTIC k=1 qid=5a7248665542990c210a40b1 api_calls=1 seconds=1.64
+1it [00:01,  1.64s/it]
+1it [00:01,  1.64s/it][ADIAGNOSTIC k=1 qid=5a79b495554299148911fa3b api_calls=1 seconds=1.30
+2it [00:02,  1.44s/it]
+2it [00:02,  1.44s/it][ADIAGNOSTIC k=1 qid=5abdc0ad55429933744ab81b api_calls=1 seconds=1.71
+3it [00:04,  1.56s/it]
+3it [00:04,  1.56s/it][ADIAGNOSTIC k=1 qid=5ac00278554299012d1db56b api_calls=1 seconds=1.38
+4it [00:06,  1.49s/it]
+4it [00:06,  1.49s/it][ADIAGNOSTIC k=1 qid=5a8bbfb15542995e66a474f6 api_calls=1 seconds=1.36
+5it [00:07,  1.44s/it]
+5it [00:07,  1.44s/it][ADIAGNOSTIC k=1 qid=5ac173295542994ab5c67d45 api_calls=1 seconds=1.62
+6it [00:09,  1.50s/it]
+6it [00:09,  1.50s/it][ADIAGNOSTIC k=1 qid=5abcc818554299658360048b api_calls=1 seconds=1.87
+7it [00:10,  1.62s/it]
+7it [00:10,  1.62s/it][ADIAGNOSTIC k=1 qid=5a7aa9425542992d025e66e4 api_calls=1 seconds=1.61
+8it [00:12,  1.62s/it]
+8it [00:12,  1.62s/it][ADIAGNOSTIC k=1 qid=5ae1b1aa5542997283cd223f api_calls=1 seconds=1.78
+9it [00:14,  1.67s/it]
+9it [00:14,  1.67s/it][ADIAGNOSTIC k=1 qid=5a88c92d5542993b751ca84e api_calls=1 seconds=1.52
+10it [00:15,  1.63s/it]
+10it [00:15,  1.63s/it][ADIAGNOSTIC k=1 qid=5ae14def55429901ffe4ae4a api_calls=1 seconds=2.15
+11it [00:17,  1.79s/it]
+11it [00:17,  1.79s/it][ADIAGNOSTIC k=1 qid=5a7f732d5542992e7d278d02 api_calls=1 seconds=1.61
+12it [00:19,  1.73s/it]
+12it [00:19,  1.73s/it][ADIAGNOSTIC k=1 qid=5a7e6c725542991319bc94a4 api_calls=1 seconds=1.95
+13it [00:21,  1.80s/it]
+13it [00:21,  1.80s/it][ADIAGNOSTIC k=1 qid=5a7f5e0455429969796c1a12 api_calls=1 seconds=0.94
+14it [00:22,  1.54s/it]
+14it [00:22,  1.54s/it][ADIAGNOSTIC k=1 qid=5a7982435542994bb945701f api_calls=1 seconds=1.26
+15it [00:23,  1.46s/it]
+15it [00:23,  1.46s/it][ADIAGNOSTIC k=1 qid=5ac029655542992a796decb3 api_calls=1 seconds=1.15
+16it [00:24,  1.37s/it]
+16it [00:24,  1.37s/it][ADIAGNOSTIC k=1 qid=5a8cdcb0554299441c6b9f33 api_calls=1 seconds=2.25
+17it [00:27,  1.63s/it]
+17it [00:27,  1.63s/it][ADIAGNOSTIC k=1 qid=5a89bf18554299669944a591 api_calls=1 seconds=2.74
+18it [00:29,  1.96s/it]
+18it [00:29,  1.96s/it][ADIAGNOSTIC k=1 qid=5a7f68365542994857a7672e api_calls=1 seconds=2.30
+19it [00:32,  2.07s/it]
+19it [00:32,  2.07s/it][ADIAGNOSTIC k=1 qid=5a7a2dac5542990198eaf0b6 api_calls=1 seconds=1.73
+20it [00:33,  1.96s/it]
+20it [00:33,  1.96s/it][ADIAGNOSTIC k=1 qid=5ac51c2255429924173fb5b4 api_calls=1 seconds=1.88
+21it [00:35,  1.94s/it]
+21it [00:35,  1.94s/it][ADIAGNOSTIC k=1 qid=5a89a74e554299669944a562 api_calls=1 seconds=1.72
+22it [00:37,  1.87s/it]
+22it [00:37,  1.87s/it][ADIAGNOSTIC k=1 qid=5ab70f79554299110f219aa9 api_calls=1 seconds=1.09
+23it [00:38,  1.64s/it]
+23it [00:38,  1.64s/it][ADIAGNOSTIC k=1 qid=5ae4ad3155429913cc2044cb api_calls=1 seconds=1.57
+24it [00:40,  1.62s/it]
+24it [00:40,  1.62s/it][ADIAGNOSTIC k=1 qid=5ac10c5e554299294b219074 api_calls=1 seconds=1.37
+25it [00:41,  1.54s/it]
+25it [00:41,  1.54s/it][ADIAGNOSTIC k=1 qid=5ac43d575542997ea680ca39 api_calls=1 seconds=2.12
+26it [00:43,  1.72s/it]
+26it [00:43,  1.72s/it][ADIAGNOSTIC k=1 qid=5a77d4eb55429949eeb29f74 api_calls=1 seconds=2.30
+27it [00:45,  1.89s/it]
+27it [00:45,  1.89s/it][ADIAGNOSTIC k=1 qid=5a84afdc5542991dd0999d81 api_calls=1 seconds=1.76
+28it [00:47,  1.85s/it]
+28it [00:47,  1.85s/it][ADIAGNOSTIC k=1 qid=5a728f745542991f9a20c4e6 api_calls=1 seconds=2.19
+29it [00:49,  1.96s/it]
+29it [00:49,  1.96s/it][ADIAGNOSTIC k=1 qid=5abd0eae5542996e802b46d4 api_calls=1 seconds=2.68
+30it [00:52,  2.17s/it]
+30it [00:52,  2.17s/it][ADIAGNOSTIC k=1 qid=5a85f2f55542997b5ce40036 api_calls=1 seconds=2.69
+31it [00:55,  2.33s/it]
+31it [00:55,  2.33s/it][ADIAGNOSTIC k=1 qid=5a801e845542992097ad2fd9 api_calls=1 seconds=2.06
+32it [00:57,  2.25s/it]
+32it [00:57,  2.25s/it][ADIAGNOSTIC k=1 qid=5abda4dd55429965af743d95 api_calls=1 seconds=1.52
+33it [00:58,  2.03s/it]
+33it [00:58,  2.03s/it][ADIAGNOSTIC k=1 qid=5ac3126f5542995ef918c0e8 api_calls=1 seconds=2.23
+34it [01:01,  2.09s/it]
+34it [01:01,  2.09s/it][ADIAGNOSTIC k=1 qid=5a89fb525542993b751ca9d6 api_calls=1 seconds=1.10
+35it [01:02,  1.79s/it]
+35it [01:02,  1.79s/it][ADIAGNOSTIC k=1 qid=5a8d838955429941ae14dfe5 api_calls=1 seconds=1.38
+36it [01:03,  1.67s/it]
+36it [01:03,  1.67s/it][ADIAGNOSTIC k=1 qid=5abd14c455429924427fceec api_calls=1 seconds=1.65
+37it [01:05,  1.66s/it]
+37it [01:05,  1.66s/it][ADIAGNOSTIC k=1 qid=5ab82dbb5542990e739ec857 api_calls=1 seconds=1.42
+38it [01:06,  1.59s/it]
+38it [01:06,  1.59s/it][ADIAGNOSTIC k=1 qid=5a8f13d55542997ba9cb31c9 api_calls=1 seconds=1.23
+39it [01:07,  1.48s/it]
+39it [01:07,  1.48s/it][ADIAGNOSTIC k=1 qid=5ac160605542994ab5c67d02 api_calls=1 seconds=2.58
+40it [01:10,  1.81s/it]
+40it [01:10,  1.81s/it][A40it [01:10,  1.76s/it]
+40it [01:10,  1.76s/it]
+Writing predictions in predictions/hotpot_stop_40_20261013_1050/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/prediction__hotpotqa_to_hotpotqa__hotpot_stop_40_20261013_1050.json
+0it [00:00, ?it/s]40it [00:00, 11923.26it/s]
+{
+    "em": 0.025,
+    "f1": 0.181,
+    "precision": 0.155,
+    "recall": 0.677,
+    "count": 40,
+    "sp_em": 0.025,
+    "sp_f1": 0.025,
+    "sp_precision": 0.025,
+    "sp_recall": 0.025
+}
+Saving metrics in predictions/hotpot_stop_40_20261013_1050/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/evaluation_metrics__hotpotqa_to_hotpotqa__hotpot_stop_40_20261013_1050.json
+{'em': 0.025, 'f1': 0.181, 'precision': 0.155, 'recall': 0.677, 'count': 40, 'sp_em': 0.025, 'sp_f1': 0.025, 'sp_precision': 0.025, 'sp_recall': 0.025}
+0it [00:00, ?it/s]40it [00:00, 11924.11it/s]
+{
+    "f1": 0.14738,
+    "em": 0.025,
+    "precision": 0.12815,
+    "recall": 0.61417,
+    "count": 40
+}
+Saving metrics in predictions/hotpot_stop_40_20261013_1050/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/official_evaluation_metrics__hotpotqa_to_hotpotqa__hotpot_stop_40_20261013_1050.json
+{'f1': 0.14738, 'em': 0.025, 'precision': 0.12815, 'recall': 0.61417, 'count': 40}
+Run predict_command: 
+RETRIEVER_HOST=http://localhost RETRIEVER_PORT=8000 LLM_SERVER_HOST=http://localhost LLM_SERVER_PORT=8002 python -m commaqa.inference.configurable_inference --config instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet --input processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl --output predictions/hotpot_stop_40_20261013_1050/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/prediction__hotpotqa_to_hotpotqa__hotpot_stop_40_20261013_1050.json --silent
+
+Run evaluate_command: 
+python evaluate.py instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl --set_name hotpot_stop_40_20261013_1050 --llm_port_num 8002
+
+Run evaluate_command: 
+python evaluate.py instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl --official --set_name hotpot_stop_40_20261013_1050 --llm_port_num 8002
+
+/home/dengxin/miniconda3/envs/adaptiverag/lib/python3.8/site-packages/huggingface_hub/file_download.py:949: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'Qwen2Tokenizer'. 
+The class this function is called from is 'PreTrainedTokenizerFast'.
+WARNING: Dropped 9 / 15 examples.
+Running inference on examples
+0it [00:00, ?it/s]
+0it [00:00, ?it/s][ADIAGNOSTIC k=8 qid=5a7248665542990c210a40b1 api_calls=1 seconds=2.42
+1it [00:02,  2.42s/it]
+1it [00:02,  2.42s/it][ADIAGNOSTIC k=8 qid=5a79b495554299148911fa3b api_calls=1 seconds=1.45
+2it [00:03,  1.85s/it]
+2it [00:03,  1.85s/it][ADIAGNOSTIC k=8 qid=5abdc0ad55429933744ab81b api_calls=1 seconds=1.12
+3it [00:04,  1.52s/it]
+3it [00:04,  1.52s/it][ADIAGNOSTIC k=8 qid=5ac00278554299012d1db56b api_calls=1 seconds=1.18
+4it [00:06,  1.39s/it]
+4it [00:06,  1.39s/it][ADIAGNOSTIC k=8 qid=5a8bbfb15542995e66a474f6 api_calls=1 seconds=1.88
+5it [00:08,  1.57s/it]
+5it [00:08,  1.57s/it][ADIAGNOSTIC k=8 qid=5ac173295542994ab5c67d45 api_calls=1 seconds=1.36
+6it [00:09,  1.50s/it]
+6it [00:09,  1.50s/it][ADIAGNOSTIC k=8 qid=5abcc818554299658360048b api_calls=1 seconds=2.02
+7it [00:11,  1.67s/it]
+7it [00:11,  1.67s/it][ADIAGNOSTIC k=8 qid=5a7aa9425542992d025e66e4 api_calls=1 seconds=1.71
+8it [00:13,  1.68s/it]
+8it [00:13,  1.68s/it][ADIAGNOSTIC k=8 qid=5ae1b1aa5542997283cd223f api_calls=1 seconds=1.45
+9it [00:14,  1.61s/it]
+9it [00:14,  1.61s/it][ADIAGNOSTIC k=8 qid=5a88c92d5542993b751ca84e api_calls=1 seconds=2.80
+10it [00:17,  1.98s/it]
+10it [00:17,  1.98s/it][ADIAGNOSTIC k=8 qid=5ae14def55429901ffe4ae4a api_calls=1 seconds=1.96
+11it [00:19,  1.97s/it]
+11it [00:19,  1.97s/it][ADIAGNOSTIC k=8 qid=5a7f732d5542992e7d278d02 api_calls=1 seconds=1.07
+12it [00:20,  1.70s/it]
+12it [00:20,  1.70s/it][ADIAGNOSTIC k=8 qid=5a7e6c725542991319bc94a4 api_calls=1 seconds=1.18
+13it [00:21,  1.54s/it]
+13it [00:21,  1.54s/it][ADIAGNOSTIC k=8 qid=5a7f5e0455429969796c1a12 api_calls=1 seconds=0.95
+14it [00:22,  1.36s/it]
+14it [00:22,  1.36s/it][ADIAGNOSTIC k=8 qid=5a7982435542994bb945701f api_calls=1 seconds=1.77
+15it [00:24,  1.49s/it]
+15it [00:24,  1.49s/it][ADIAGNOSTIC k=8 qid=5ac029655542992a796decb3 api_calls=1 seconds=1.27
+16it [00:25,  1.42s/it]
+16it [00:25,  1.42s/it][ADIAGNOSTIC k=8 qid=5a8cdcb0554299441c6b9f33 api_calls=1 seconds=1.94
+17it [00:27,  1.58s/it]
+17it [00:27,  1.58s/it][ADIAGNOSTIC k=8 qid=5a89bf18554299669944a591 api_calls=1 seconds=2.06
+18it [00:29,  1.72s/it]
+18it [00:29,  1.72s/it][ADIAGNOSTIC k=8 qid=5a7f68365542994857a7672e api_calls=1 seconds=1.16
+19it [00:30,  1.56s/it]
+19it [00:30,  1.56s/it][ADIAGNOSTIC k=8 qid=5a7a2dac5542990198eaf0b6 api_calls=1 seconds=1.46
+20it [00:32,  1.53s/it]
+20it [00:32,  1.53s/it][ADIAGNOSTIC k=8 qid=5ac51c2255429924173fb5b4 api_calls=1 seconds=1.22
+21it [00:33,  1.43s/it]
+21it [00:33,  1.43s/it][ADIAGNOSTIC k=8 qid=5a89a74e554299669944a562 api_calls=1 seconds=1.40
+22it [00:34,  1.42s/it]
+22it [00:34,  1.42s/it][ADIAGNOSTIC k=8 qid=5ab70f79554299110f219aa9 api_calls=1 seconds=1.53
+23it [00:36,  1.46s/it]
+23it [00:36,  1.46s/it][ADIAGNOSTIC k=8 qid=5ae4ad3155429913cc2044cb api_calls=1 seconds=1.60
+24it [00:38,  1.50s/it]
+24it [00:38,  1.50s/it][ADIAGNOSTIC k=8 qid=5ac10c5e554299294b219074 api_calls=1 seconds=1.58
+25it [00:39,  1.53s/it]
+25it [00:39,  1.53s/it][ADIAGNOSTIC k=8 qid=5ac43d575542997ea680ca39 api_calls=1 seconds=1.94
+26it [00:41,  1.65s/it]
+26it [00:41,  1.65s/it][ADIAGNOSTIC k=8 qid=5a77d4eb55429949eeb29f74 api_calls=1 seconds=1.33
+27it [00:42,  1.55s/it]
+27it [00:42,  1.55s/it][ADIAGNOSTIC k=8 qid=5a84afdc5542991dd0999d81 api_calls=1 seconds=2.64
+28it [00:45,  1.88s/it]
+28it [00:45,  1.88s/it][ADIAGNOSTIC k=8 qid=5a728f745542991f9a20c4e6 api_calls=1 seconds=1.10
+29it [00:46,  1.65s/it]
+29it [00:46,  1.65s/it][ADIAGNOSTIC k=8 qid=5abd0eae5542996e802b46d4 api_calls=1 seconds=2.24
+30it [00:48,  1.83s/it]
+30it [00:48,  1.83s/it][ADIAGNOSTIC k=8 qid=5a85f2f55542997b5ce40036 api_calls=1 seconds=2.57
+31it [00:51,  2.05s/it]
+31it [00:51,  2.05s/it][ADIAGNOSTIC k=8 qid=5a801e845542992097ad2fd9 api_calls=1 seconds=2.76
+32it [00:54,  2.26s/it]
+32it [00:54,  2.26s/it][ADIAGNOSTIC k=8 qid=5abda4dd55429965af743d95 api_calls=1 seconds=1.69
+33it [00:55,  2.09s/it]
+33it [00:55,  2.09s/it][ADIAGNOSTIC k=8 qid=5ac3126f5542995ef918c0e8 api_calls=1 seconds=2.10
+34it [00:57,  2.09s/it]
+34it [00:57,  2.09s/it][ADIAGNOSTIC k=8 qid=5a89fb525542993b751ca9d6 api_calls=1 seconds=1.70
+35it [00:59,  1.98s/it]
+35it [00:59,  1.98s/it][ADIAGNOSTIC k=8 qid=5a8d838955429941ae14dfe5 api_calls=1 seconds=1.77
+36it [01:01,  1.92s/it]
+36it [01:01,  1.92s/it][ADIAGNOSTIC k=8 qid=5abd14c455429924427fceec api_calls=1 seconds=2.66
+37it [01:04,  2.14s/it]
+37it [01:04,  2.14s/it][ADIAGNOSTIC k=8 qid=5ab82dbb5542990e739ec857 api_calls=1 seconds=1.41
+38it [01:05,  1.92s/it]
+38it [01:05,  1.92s/it][ADIAGNOSTIC k=8 qid=5a8f13d55542997ba9cb31c9 api_calls=1 seconds=1.99
+39it [01:07,  1.94s/it]
+39it [01:07,  1.94s/it][ADIAGNOSTIC k=8 qid=5ac160605542994ab5c67d02 api_calls=1 seconds=1.90
+40it [01:09,  1.93s/it]
+40it [01:09,  1.93s/it][A40it [01:09,  1.74s/it]
+40it [01:09,  1.74s/it]
+Writing predictions in predictions/hotpot_stop_40_20261013_1050/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__8___distractor_count__1/prediction__hotpotqa_to_hotpotqa__hotpot_stop_40_20261013_1050.json
+0it [00:00, ?it/s]40it [00:00, 11924.11it/s]
+{
+    "em": 0.175,
+    "f1": 0.34,
+    "precision": 0.339,
+    "recall": 0.645,
+    "count": 40,
+    "sp_em": 0.175,
+    "sp_f1": 0.175,
+    "sp_precision": 0.175,
+    "sp_recall": 0.175
+}
+Saving metrics in predictions/hotpot_stop_40_20261013_1050/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__8___distractor_count__1/evaluation_metrics__hotpotqa_to_hotpotqa__hotpot_stop_40_20261013_1050.json
+{'em': 0.175, 'f1': 0.34, 'precision': 0.339, 'recall': 0.645, 'count': 40, 'sp_em': 0.175, 'sp_f1': 0.175, 'sp_precision': 0.175, 'sp_recall': 0.175}
+0it [00:00, ?it/s]40it [00:00, 12032.72it/s]
+{
+    "f1": 0.30867,
+    "em": 0.175,
+    "precision": 0.31035,
+    "recall": 0.54,
+    "count": 40
+}
+Saving metrics in predictions/hotpot_stop_40_20261013_1050/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__8___distractor_count__1/official_evaluation_metrics__hotpotqa_to_hotpotqa__hotpot_stop_40_20261013_1050.json
+{'f1': 0.30867, 'em': 0.175, 'precision': 0.31035, 'recall': 0.54, 'count': 40}
+Run predict_command: 
+RETRIEVER_HOST=http://localhost RETRIEVER_PORT=8000 LLM_SERVER_HOST=http://localhost LLM_SERVER_PORT=8002 python -m commaqa.inference.configurable_inference --config instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__8___distractor_count__1.jsonnet --input processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl --output predictions/hotpot_stop_40_20261013_1050/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__8___distractor_count__1/prediction__hotpotqa_to_hotpotqa__hotpot_stop_40_20261013_1050.json --silent
+
+Run evaluate_command: 
+python evaluate.py instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__8___distractor_count__1.jsonnet processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl --set_name hotpot_stop_40_20261013_1050 --llm_port_num 8002
+
+Run evaluate_command: 
+python evaluate.py instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__8___distractor_count__1.jsonnet processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl --official --set_name hotpot_stop_40_20261013_1050 --llm_port_num 8002
+
+/home/dengxin/miniconda3/envs/adaptiverag/lib/python3.8/site-packages/huggingface_hub/file_download.py:949: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'Qwen2Tokenizer'. 
+The class this function is called from is 'PreTrainedTokenizerFast'.
+WARNING: Dropped 9 / 15 examples.
+Running inference on examples
+0it [00:00, ?it/s]
+0it [00:00, ?it/s][ADIAGNOSTIC k=15 qid=5a7248665542990c210a40b1 api_calls=1 seconds=1.90
+1it [00:01,  1.90s/it]
+1it [00:01,  1.90s/it][ADIAGNOSTIC k=15 qid=5a79b495554299148911fa3b api_calls=1 seconds=1.23
+2it [00:03,  1.51s/it]
+2it [00:03,  1.51s/it][ADIAGNOSTIC k=15 qid=5abdc0ad55429933744ab81b api_calls=1 seconds=1.04
+3it [00:04,  1.30s/it]
+3it [00:04,  1.30s/it][ADIAGNOSTIC k=15 qid=5ac00278554299012d1db56b api_calls=1 seconds=1.29
+4it [00:05,  1.29s/it]
+4it [00:05,  1.29s/it][ADIAGNOSTIC k=15 qid=5a8bbfb15542995e66a474f6 api_calls=1 seconds=1.85
+5it [00:07,  1.49s/it]
+5it [00:07,  1.49s/it][ADIAGNOSTIC k=15 qid=5ac173295542994ab5c67d45 api_calls=1 seconds=1.40
+6it [00:08,  1.46s/it]
+6it [00:08,  1.46s/it][ADIAGNOSTIC k=15 qid=5abcc818554299658360048b api_calls=1 seconds=1.94
+7it [00:10,  1.62s/it]
+7it [00:10,  1.62s/it][ADIAGNOSTIC k=15 qid=5a7aa9425542992d025e66e4 api_calls=1 seconds=1.70
+8it [00:12,  1.65s/it]
+8it [00:12,  1.65s/it][ADIAGNOSTIC k=15 qid=5ae1b1aa5542997283cd223f api_calls=1 seconds=1.68
+9it [00:14,  1.66s/it]
+9it [00:14,  1.66s/it][ADIAGNOSTIC k=15 qid=5a88c92d5542993b751ca84e api_calls=1 seconds=2.75
+10it [00:16,  2.00s/it]
+10it [00:16,  2.00s/it][ADIAGNOSTIC k=15 qid=5ae14def55429901ffe4ae4a api_calls=1 seconds=2.20
+11it [00:19,  2.06s/it]
+11it [00:19,  2.06s/it][ADIAGNOSTIC k=15 qid=5a7f732d5542992e7d278d02 api_calls=1 seconds=1.02
+12it [00:20,  1.74s/it]
+12it [00:20,  1.74s/it][ADIAGNOSTIC k=15 qid=5a7e6c725542991319bc94a4 api_calls=1 seconds=1.29
+13it [00:21,  1.61s/it]
+13it [00:21,  1.61s/it][ADIAGNOSTIC k=15 qid=5a7f5e0455429969796c1a12 api_calls=1 seconds=1.02
+14it [00:22,  1.43s/it]
+14it [00:22,  1.43s/it][ADIAGNOSTIC k=15 qid=5a7982435542994bb945701f api_calls=1 seconds=1.69
+15it [00:24,  1.51s/it]
+15it [00:24,  1.51s/it][ADIAGNOSTIC k=15 qid=5ac029655542992a796decb3 api_calls=1 seconds=1.22
+16it [00:25,  1.42s/it]
+16it [00:25,  1.42s/it][ADIAGNOSTIC k=15 qid=5a8cdcb0554299441c6b9f33 api_calls=1 seconds=1.47
+17it [00:26,  1.44s/it]
+17it [00:26,  1.44s/it][ADIAGNOSTIC k=15 qid=5a89bf18554299669944a591 api_calls=1 seconds=1.55
+18it [00:28,  1.47s/it]
+18it [00:28,  1.47s/it][ADIAGNOSTIC k=15 qid=5a7f68365542994857a7672e api_calls=1 seconds=1.91
+19it [00:30,  1.61s/it]
+19it [00:30,  1.61s/it][ADIAGNOSTIC k=15 qid=5a7a2dac5542990198eaf0b6 api_calls=1 seconds=1.87
+20it [00:32,  1.69s/it]
+20it [00:32,  1.69s/it][ADIAGNOSTIC k=15 qid=5ac51c2255429924173fb5b4 api_calls=1 seconds=1.22
+21it [00:33,  1.55s/it]
+21it [00:33,  1.55s/it][ADIAGNOSTIC k=15 qid=5a89a74e554299669944a562 api_calls=1 seconds=1.40
+22it [00:34,  1.50s/it]
+22it [00:34,  1.50s/it][ADIAGNOSTIC k=15 qid=5ab70f79554299110f219aa9 api_calls=1 seconds=1.21
+23it [00:35,  1.42s/it]
+23it [00:35,  1.42s/it][ADIAGNOSTIC k=15 qid=5ae4ad3155429913cc2044cb api_calls=1 seconds=1.56
+24it [00:37,  1.46s/it]
+24it [00:37,  1.46s/it][ADIAGNOSTIC k=15 qid=5ac10c5e554299294b219074 api_calls=1 seconds=1.25
+25it [00:38,  1.40s/it]
+25it [00:38,  1.40s/it][ADIAGNOSTIC k=15 qid=5ac43d575542997ea680ca39 api_calls=1 seconds=2.00
+26it [00:40,  1.58s/it]
+26it [00:40,  1.58s/it][ADIAGNOSTIC k=15 qid=5a77d4eb55429949eeb29f74 api_calls=1 seconds=1.19
+27it [00:41,  1.46s/it]
+27it [00:41,  1.46s/it][ADIAGNOSTIC k=15 qid=5a84afdc5542991dd0999d81 api_calls=1 seconds=1.82
+28it [00:43,  1.57s/it]
+28it [00:43,  1.57s/it][ADIAGNOSTIC k=15 qid=5a728f745542991f9a20c4e6 api_calls=1 seconds=2.37
+29it [00:46,  1.81s/it]
+29it [00:46,  1.81s/it][ADIAGNOSTIC k=15 qid=5abd0eae5542996e802b46d4 api_calls=1 seconds=2.04
+30it [00:48,  1.88s/it]
+30it [00:48,  1.88s/it][ADIAGNOSTIC k=15 qid=5a85f2f55542997b5ce40036 api_calls=1 seconds=3.32
+31it [00:51,  2.31s/it]
+31it [00:51,  2.31s/it][ADIAGNOSTIC k=15 qid=5a801e845542992097ad2fd9 api_calls=1 seconds=2.12
+32it [00:53,  2.26s/it]
+32it [00:53,  2.26s/it][ADIAGNOSTIC k=15 qid=5abda4dd55429965af743d95 api_calls=1 seconds=1.73
+33it [00:55,  2.10s/it]
+33it [00:55,  2.10s/it][ADIAGNOSTIC k=15 qid=5ac3126f5542995ef918c0e8 api_calls=1 seconds=2.65
+34it [00:57,  2.26s/it]
+34it [00:57,  2.26s/it][ADIAGNOSTIC k=15 qid=5a89fb525542993b751ca9d6 api_calls=1 seconds=1.78
+35it [00:59,  2.12s/it]
+35it [00:59,  2.12s/it][ADIAGNOSTIC k=15 qid=5a8d838955429941ae14dfe5 api_calls=1 seconds=1.64
+36it [01:01,  1.98s/it]
+36it [01:01,  1.98s/it][ADIAGNOSTIC k=15 qid=5abd14c455429924427fceec api_calls=1 seconds=1.85
+37it [01:03,  1.94s/it]
+37it [01:03,  1.94s/it][ADIAGNOSTIC k=15 qid=5ab82dbb5542990e739ec857 api_calls=1 seconds=1.63
+38it [01:04,  1.85s/it]
+38it [01:04,  1.85s/it][ADIAGNOSTIC k=15 qid=5a8f13d55542997ba9cb31c9 api_calls=1 seconds=2.00
+39it [01:06,  1.89s/it]
+39it [01:06,  1.89s/it][ADIAGNOSTIC k=15 qid=5ac160605542994ab5c67d02 api_calls=1 seconds=2.20
+40it [01:09,  1.99s/it]
+40it [01:09,  1.99s/it][A40it [01:09,  1.73s/it]
+40it [01:09,  1.73s/it]
+Writing predictions in predictions/hotpot_stop_40_20261013_1050/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/prediction__hotpotqa_to_hotpotqa__hotpot_stop_40_20261013_1050.json
+0it [00:00, ?it/s]40it [00:00, 11587.28it/s]
+{
+    "em": 0.15,
+    "f1": 0.286,
+    "precision": 0.263,
+    "recall": 0.605,
+    "count": 40,
+    "sp_em": 0.15,
+    "sp_f1": 0.15,
+    "sp_precision": 0.15,
+    "sp_recall": 0.15
+}
+Saving metrics in predictions/hotpot_stop_40_20261013_1050/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/evaluation_metrics__hotpotqa_to_hotpotqa__hotpot_stop_40_20261013_1050.json
+{'em': 0.15, 'f1': 0.286, 'precision': 0.263, 'recall': 0.605, 'count': 40, 'sp_em': 0.15, 'sp_f1': 0.15, 'sp_precision': 0.15, 'sp_recall': 0.15}
+0it [00:00, ?it/s]40it [00:00, 11979.45it/s]
+{
+    "f1": 0.2442,
+    "em": 0.15,
+    "precision": 0.22798,
+    "recall": 0.50083,
+    "count": 40
+}
+Saving metrics in predictions/hotpot_stop_40_20261013_1050/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/official_evaluation_metrics__hotpotqa_to_hotpotqa__hotpot_stop_40_20261013_1050.json
+{'f1': 0.2442, 'em': 0.15, 'precision': 0.22798, 'recall': 0.50083, 'count': 40}
+Run predict_command: 
+RETRIEVER_HOST=http://localhost RETRIEVER_PORT=8000 LLM_SERVER_HOST=http://localhost LLM_SERVER_PORT=8002 python -m commaqa.inference.configurable_inference --config instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__15___distractor_count__1.jsonnet --input processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl --output predictions/hotpot_stop_40_20261013_1050/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/prediction__hotpotqa_to_hotpotqa__hotpot_stop_40_20261013_1050.json --silent
+
+Run evaluate_command: 
+python evaluate.py instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__15___distractor_count__1.jsonnet processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl --set_name hotpot_stop_40_20261013_1050 --llm_port_num 8002
+
+Run evaluate_command: 
+python evaluate.py instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__15___distractor_count__1.jsonnet processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl --official --set_name hotpot_stop_40_20261013_1050 --llm_port_num 8002
+
+python predict.py instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl --set_name hotpot_stop_40_20261013_1050 --llm_port_num 8002 --silent
+python predict.py instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__8___distractor_count__1.jsonnet processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl --set_name hotpot_stop_40_20261013_1050 --llm_port_num 8002 --silent
+python predict.py instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__15___distractor_count__1.jsonnet processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl --set_name hotpot_stop_40_20261013_1050 --llm_port_num 8002 --silent

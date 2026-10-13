@@ -1,0 +1,360 @@
+
+5a7248665542990c210a40b1
+What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played? 
+A: ["Fred (footballer)", "Renato Chaves", "Freddy Chaves", "Frederico Rosa", "Frederico Da Costa", "Frederico Ven\u00e2ncio", "Frederico", "Esteban Chaves"]
+Q: What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played?
+A: "Based on the information provided, Frederico Chaves Guedes, known as Fred, is a striker who plays for Atl\u00e9tico Mineiro in the Campeonato Brasileiro S\u00e9rie A. The colloquial name for Atl\u00e9tico Mineiro is \"Galo,\" which is short for \"Ave-Maria,\" the team's original nickname. However, the most common and widely recognized colloquial name for Atl\u00e9tico Mineiro is \"Galo,\" which means \"Rooster\" in Portuguese. So, the answer is: Galo."
+A: Galo
+Q: [EOQ]
+S: 0.0
+
+5a79b495554299148911fa3b
+Which serial killer was known to start killing first, Wayne Boden or Ted Bundy?
+A: ["Wayne Boden", "Ted Bundy (film)", "Bundy: An American Icon", "Olivia Newton Bundy", "The Deliberate Stranger", "Carol M. Bundy", "Ted Bundy", "Serial killer"]
+Q: Which serial killer was known to start killing first, Wayne Boden or Ted Bundy?
+A: "Based on the information provided, Wayne Boden was active between 1969 and 1971, while Ted Bundy's killing spree began in the 1970s. Given that 1969 predates the earliest known activity of Ted Bundy, Wayne Boden started killing first. So the answer is: Wayne Boden."
+A: Wayne Boden
+Q: [EOQ]
+S: 0.0
+
+5abdc0ad55429933744ab81b
+Which band was formed first, Goldfinger or The Fray?
+A: ["Goldfinger (band)", "The Best of Goldfinger", "The Fray", "Race the Fray", "Auric Goldfinger", "Goldfinger (album)", "Goldfinger (dragster)", "Goldfinger (novel)"]
+Q: Which band was formed first, Goldfinger or The Fray?
+A: "Goldfinger, the American rock band, was formed in 1994, while The Fray, the American pop rock band, was formed in 2002. Therefore, Goldfinger was formed first."
+A: Goldfinger, the American rock band, was formed in 1994, while The Fray, the American pop rock band, was formed in 2002. Therefore, Goldfinger was formed first
+Q: [EOQ]
+S: 0.0
+
+5ac00278554299012d1db56b
+What profession do Raj Kapoor and Mike Cahill share?
+A: ["Raj Kapoor", "Raj Kapoor filmography", "Raj Kapoor bibliography", "Mike Cahill (director)", "Aditya Raj Kapoor", "List of awards and nominations received by Raj Kapoor", "Raj Kapoor (Tamil film director)", "Do Ustad (1959 film)"]
+Q: What profession do Raj Kapoor and Mike Cahill share?
+A: "Raj Kapoor and Mike Cahill do not share the same profession based on the information provided. Raj Kapoor was an Indian film actor, producer, and director in Hindi cinema, while Mike Cahill is an American film director and screenwriter. Therefore, they do not share a common profession."
+A: Raj Kapoor and Mike Cahill do not share the same profession based on the information provided. Raj Kapoor was an Indian film actor, producer, and director in Hindi cinema, while Mike Cahill is an American film director and screenwriter. Therefore, they do not share a common profession
+Q: [EOQ]
+S: 0.0
+
+5a8bbfb15542995e66a474f6
+Peter Curtis and Scott Draper are both what?
+A: ["Scott Draper", "Peter Draper", "Scott Curtis", "Peter Curtis (tennis)", "Curtis Scott", "Curtis M. Scott", "Peter Curtis (diplomat)", "Curtis Arnoux Peters"]
+Q: Peter Curtis and Scott Draper are both what?
+A: "Peter Curtis and Scott Draper are both athletes, specifically tennis players.\n\n- Peter Curtis was a former British professional tennis player who won one Grand Slam in mixed doubles with his wife at the time, Mary Ann Eisel Curtis.\n\n- Scott Draper is an American former tennis player and golfer who won the Australian Open Mixed Doubles with Sam Stosur in 2005 and reached the fourth round of the French Open and US Open in the late 1990s.\n\nSo, the answer is that they are both tennis players."
+A: that they are both tennis players
+Q: [EOQ]
+S: 0.0
+
+5ac173295542994ab5c67d45
+What occupation do Graham Streeter and Geir Hansteen Jörgensen both have in common.
+A: ["Geir Hansteen J\u00f6rgensen", "Graham Streeter", "Viggo Hansteen", "Kirsten Hansteen", "Mons Hansteen", "Kapp Hansteen", "Geir Zahl", "Waldemar Hansteen"]
+Q: What occupation do Graham Streeter and Geir Hansteen Jörgensen both have in common.
+A: "Graham Streeter and Geir Hansteen J\u00f6rgensen both have the occupation of film director in common. Graham Streeter is an American film director, screenwriter, and cinematographer, while Geir Hansteen J\u00f6rgensen is a Swedish television, film, and commercials director."
+A: Graham Streeter and Geir Hansteen J\u00f6rgensen both have the occupation of film director in common. Graham Streeter is an American film director, screenwriter, and cinematographer, while Geir Hansteen J\u00f6rgensen is a Swedish television, film, and commercials director
+Q: [EOQ]
+S: 0.0
+
+5abcc818554299658360048b
+In which event did Tyson Gay and Rodney Martin both represent the United States at the 2008 Beijing Olympics?
+A: ["Rodney Martin (athlete)", "United States at the 2008 Summer Olympics", "2008 United States Olympic Trials (swimming)", "Beijing Olympic Village", "Tyson Events Center", "Basketball at the 2008 Summer Olympics", "Tyson Gay", "Andorra at the 2008 Summer Olympics"]
+Q: In which event did Tyson Gay and Rodney Martin both represent the United States at the 2008 Beijing Olympics?
+A: "Tyson Gay and Rodney Martin both represented the United States in the 100 meters sprint event at the 2008 Beijing Olympics. Tyson Gay was part of the gold medal-winning 4x100m relay team, and while Rodney Martin did not compete in the 100 meters, he was part of the 4x100m relay team that won the gold medal. Therefore, the event they both represented the United States in was the 4x100m relay."
+A: Tyson Gay and Rodney Martin both represented the United States in the 100 meters sprint event at the 2008 Beijing Olympics. Tyson Gay was part of the gold medal-winning 4x100m relay team, and while Rodney Martin did not compete in the 100 meters, he was part of the 4x100m relay team that won the gold medal. Therefore, the event they both represented the United States in was the 4x100m relay
+Q: [EOQ]
+S: 0.0
+
+5a7aa9425542992d025e66e4
+Who passed away first Robert Graves or Dino Buzzati ?
+A: ["Dino Buzzati", "Pass away", "Robert Graves", "Robert Graves (engraver)", "Robert Graves (disambiguation)", "Robert Edmund Graves", "Passed Away (film)", "Far Away Trains Passing By"]
+Q: Who passed away first Robert Graves or Dino Buzzati ?
+A: "To determine who passed away first between Robert Graves and Dino Buzzati, we need to look at their respective dates of death.\n\n- Robert Graves died on 7 December 1985.\n- Dino Buzzati died on 28 January 1972.\n\nSince 28 January 1972 comes before 7 December 1985, Dino Buzzati passed away first. So the answer is: Dino Buzzati."
+A: Dino Buzzati
+Q: [EOQ]
+S: 0.0
+
+5ae1b1aa5542997283cd223f
+What was the other Los Angeles team that the 1999 Clippers top draft pick played for and won two championships with?
+A: ["Los Angeles Clippers", "1999\u20132000 Los Angeles Clippers season", "Los Angeles Clippers draft history", "List of Los Angeles Angels first-round draft picks", "List of Los Angeles Clippers head coaches", "List of Los Angeles Clippers seasons", "List of Los Angeles Clippers broadcasters"]
+Q: What was the other Los Angeles team that the 1999 Clippers top draft pick played for and won two championships with?
+A: "The 1999\u20132000 Los Angeles Clippers' top draft pick was Lamar Odom. Lamar Odom played for the Los Angeles Lakers and won two championships with them. Therefore, the other Los Angeles team that Lamar Odom played for and won championships with is the Los Angeles Lakers."
+A: The 1999\u20132000 Los Angeles Clippers' top draft pick was Lamar Odom. Lamar Odom played for the Los Angeles Lakers and won two championships with them. Therefore, the other Los Angeles team that Lamar Odom played for and won championships with is the Los Angeles Lakers
+Q: [EOQ]
+S: 0.0
+
+5a88c92d5542993b751ca84e
+What breed of dog are the Basset Bleu de Gascogne and the Beagle?
+A: ["Basset Bleu de Gascogne", "Griffon Bleu de Gascogne", "Petit Bleu de Gascogne", "Grand Bleu de Gascogne", "Basset Fauve de Bretagne", "Beagle-Harrier", "Basset Hound", "Husky beagle"]
+Q: What breed of dog are the Basset Bleu de Gascogne and the Beagle?
+A: "The Basset Bleu de Gascogne and the Beagle are both breeds of scenthound type dogs, but they belong to different lineages and have distinct origins and characteristics.\n\n- **Basset Bleu de Gascogne**: This breed is a long-backed, short-legged hound that originated in France in the Middle Ages. It is a descendant of the Grand Bleu de Gascogne and is known for its distinctive blue-gray coat and hunting abilities.\n\n- **Beagle**: This is a short-legged hound breed that is also a scenthound. Beagles are known for their excellent sense of smell and are often used in hunting, particularly for tracking small game. They are smaller in stature compared to the Basset Bleu de Gascogne and have a different coat color and pattern.\n\nSo, while both are scenthounds, they are distinct breeds with their own histories and traits."
+A: The Basset Bleu de Gascogne and the Beagle are both breeds of scenthound type dogs, but they belong to different lineages and have distinct origins and characteristics.\n\n- **Basset Bleu de Gascogne**: This breed is a long-backed, short-legged hound that originated in France in the Middle Ages. It is a descendant of the Grand Bleu de Gascogne and is known for its distinctive blue-gray coat and hunting abilities.\n\n- **Beagle**: This is a short-legged hound breed that is also a scenthound. Beagles are known for their excellent sense of smell and are often used in hunting, particularly for tracking small game. They are smaller in stature compared to the Basset Bleu de Gascogne and have a different coat color and pattern.\n\nSo, while both are scenthounds, they are distinct breeds with their own histories and traits
+Q: [EOQ]
+S: 0.0
+
+5ae14def55429901ffe4ae4a
+Do both Lee Tamahori and Robert Redford work as a director?
+A: ["Lee Tamahori", "Robert Redford filmography", "Robert Redford", "List of awards and nominations received by Robert Redford", "Amy Redford", "Lee Roberts", "Grace Lee (director)", "Ryan Redford"]
+Q: Do both Lee Tamahori and Robert Redford work as a director?
+A: "Yes, both Lee Tamahori and Robert Redford work as directors.\n\nLee Tamahori is known for directing films such as \"Once Were Warriors\" (1994) and \"Die Another Day\" (2002).\n\nRobert Redford has also directed several films, including \"A River Runs Through It\" (1992), \"The Conspirator\" (2010), and \"All Is Lost\" (2013).\n\nSo, to directly answer the question: Yes, both Lee Tamahori and Robert Redford work as directors."
+A: Yes, both Lee Tamahori and Robert Redford work as directors.\n\nLee Tamahori is known for directing films such as \"Once Were Warriors\" (1994) and \"Die Another Day\" (2002).\n\nRobert Redford has also directed several films, including \"A River Runs Through It\" (1992), \"The Conspirator\" (2010), and \"All Is Lost\" (2013).\n\nSo, to directly answer the question: Yes, both Lee Tamahori and Robert Redford work as directors
+Q: [EOQ]
+S: 0.0
+
+5a7f732d5542992e7d278d02
+Who was born first, Adrian McLaren or Ryan McLaren?
+A: ["Adrian McLaren", "Ryan McLaren", "McLaren 12C", "McLaren MP4-20", "McLaren v McLaren", "McLaren", "McLaren Automotive", "McLaren (disambiguation)"]
+Q: Who was born first, Adrian McLaren or Ryan McLaren?
+A: "Adrian McLaren was born on 21 April 1980, while Ryan McLaren was born on 9 February 1983. Therefore, Adrian McLaren was born first."
+A: Adrian McLaren was born on 21 April 1980, while Ryan McLaren was born on 9 February 1983. Therefore, Adrian McLaren was born first
+Q: [EOQ]
+S: 0.0
+
+5a7e6c725542991319bc94a4
+Which band was formed first, Fitz and The Tantrums or The Contortionist?
+A: ["Fitz and the Tantrums discography", "Fitz and the Tantrums (album)", "Pickin' Up the Pieces (Fitz and The Tantrums album)", "Fitz and The Tantrums", "Tantrum of the Muse", "Tantrum (album)", "Tantrum (Sri Lankan band)", "The Contortionist"]
+Q: Which band was formed first, Fitz and The Tantrums or The Contortionist?
+A: "Fitz and The Tantrums was formed in 2008, while The Contortionist was formed in 2007. Therefore, The Contortionist was formed first. So the answer is: The Contortionist."
+A: The Contortionist
+Q: [EOQ]
+S: 0.0
+
+5a7f5e0455429969796c1a12
+Spill.com gave their final review for a movie directed by who?
+A: ["Spill.com", "Movie Review Query Engine", "Movie Review Intelligence", "ITV at the Movies", "The Woman Who Gave", "Movie and Television Review and Classification Board", "Full and Final", "Leonard Maltin's Movie Guide"]
+Q: Spill.com gave their final review for a movie directed by who?
+A: "Spill.com gave their final review for the 2013 Disney film \"Saving Mr. Banks,\" which was directed by John Lee Hancock."
+A: Spill.com gave their final review for the 2013 Disney film \"Saving Mr. Banks,\" which was directed by John Lee Hancock
+Q: [EOQ]
+S: 0.0
+
+5a7982435542994bb945701f
+What was the formal name of the building that housed the scene that formed the band Hjertestop?
+A: ["Hjertestop", "Little band scene", "The Seldom Scene", "Behind the Scenes (band)", "At the Scene", "A Formal Sigh", "The Names (band)", "Deleted Scenes (band)"]
+Q: What was the formal name of the building that housed the scene that formed the band Hjertestop?
+A: "The formal name of the building that housed the scene that formed the band Hjertestop was Ungdomshuset. Ungdomshuset was a center for youth culture and political activism in Copenhagen, Denmark, which served as a hub for the punk and alternative music scenes in the late 1970s and early 1980s. It was here that many of the bands associated with the punk movement, including Hjertestop, formed and gained prominence."
+A: The formal name of the building that housed the scene that formed the band Hjertestop was Ungdomshuset. Ungdomshuset was a center for youth culture and political activism in Copenhagen, Denmark, which served as a hub for the punk and alternative music scenes in the late 1970s and early 1980s. It was here that many of the bands associated with the punk movement, including Hjertestop, formed and gained prominence
+Q: [EOQ]
+S: 0.0
+
+5ac029655542992a796decb3
+Which game is designed by more persons, Elfenland or San Marco?
+A: ["Elfenland", "San Marco (board game)", "San Marcos High School (San Marcos, California)", "San Marco basin", "San Marcos, Cajamarca", "San Marco", "San Pablo, San Marcos", "San Marcos, Guatemala"]
+Q: Which game is designed by more persons, Elfenland or San Marco?
+A: "Elfenland is designed by Alan R. Moon, a single person. San Marco is a game designed by Alan R. Moon and Aaron Weissblum, two people. Therefore, San Marco is designed by more persons than Elfenland. So the answer is: San Marco."
+A: San Marco
+Q: [EOQ]
+S: 0.0
+
+5a8cdcb0554299441c6b9f33
+Was the film Splash released before the film Tangled? 
+A: ["Tangled: Before Ever After", "Splash (film)", "Tangled Skeins", "A Bigger Splash (film)", "Splash of colour", "Tangled Trails", "Tangled Destinies", "Tangled: The Video Game"]
+Q: Was the film Splash released before the film Tangled?
+A: "To answer this question, we need to compare the release years of the films \"Splash\" and \"Tangled.\"\n\n- \"Splash\" is a 1984 American fantasy romantic comedy film.\n- \"Tangled\" is a 2010 animated fantasy film produced by Walt Disney Animation Studios.\n\nSince 1984 comes before 2010, the film \"Splash\" was indeed released before the film \"Tangled.\"\n\nSo the answer is: Yes, the film \"Splash\" was released before the film \"Tangled.\""
+A: Yes, the film \"Splash\" was released before the film \"Tangled.\"
+Q: [EOQ]
+S: 0.0
+
+5a89bf18554299669944a591
+Do writers John O'Hara and Bobbie Ann Mason share the same nationality?
+A: ["Bobbie Ann Mason", "Bobbie Ann Mason (song)", "John O'Hara (disambiguation)", "Judi Ann Mason", "John O'Hara (footballer, born 1981)", "John Myers O'Hara", "John Mason (poet)", "John Mason (playwright)"]
+Q: Do writers John O'Hara and Bobbie Ann Mason share the same nationality?
+A: "No, writers John O'Hara and Bobbie Ann Mason do not share the same nationality.\n\nJohn O'Hara was an American writer, known for works such as \"Appointment in Samarra\" and \"Butterfield 8\". He was born in 1905 and passed away in 1970.\n\nBobbie Ann Mason is also an American writer, known for her novels and short stories. She was born in 1940 and is from Kentucky, which is part of the Southern United States.\n\nBoth are American, but they lived in different time periods."
+A: No, writers John O'Hara and Bobbie Ann Mason do not share the same nationality.\n\nJohn O'Hara was an American writer, known for works such as \"Appointment in Samarra\" and \"Butterfield 8\". He was born in 1905 and passed away in 1970.\n\nBobbie Ann Mason is also an American writer, known for her novels and short stories. She was born in 1940 and is from Kentucky, which is part of the Southern United States.\n\nBoth are American, but they lived in different time periods
+Q: [EOQ]
+S: 0.0
+
+5a7f68365542994857a7672e
+Which band was formed at an earlier date, Unwritten Law or Jon Spencer Blues Explosion?
+A: ["Jon Spencer Blues Explosion", "Damage (Blues Explosion album)", "Jon Spencer", "Orange (Jon Spencer Blues Explosion album)", "The Jon Spencer Blues Explosion (album)", "Brassy (band)", "Spencer Dickinson", "Unwritten Law (album)"]
+Q: Which band was formed at an earlier date, Unwritten Law or Jon Spencer Blues Explosion?
+A: "The Jon Spencer Blues Explosion was formed in 1991, while Unwritten Law was formed much later, in 1998. Therefore, the band formed at an earlier date is Jon Spencer Blues Explosion."
+A: The Jon Spencer Blues Explosion was formed in 1991, while Unwritten Law was formed much later, in 1998. Therefore, the band formed at an earlier date is Jon Spencer Blues Explosion
+Q: [EOQ]
+S: 0.0
+
+5a7a2dac5542990198eaf0b6
+Who is younger, Keisuke Kuwata or Moya Brennan?
+A: ["Keisuke Kuwata", "Keisuke Kuwata (album)", "Moya Brennan", "Signature (Moya Brennan album)", "Merry-Go-Round (Moya Brennan song)", "Show Me (Moya Brennan song)", "Heart Strings (Moya Brennan album)", "Kuwata"]
+Q: Who is younger, Keisuke Kuwata or Moya Brennan?
+A: "Keisuke Kuwata was born on February 26, 1956, while Moya Brennan, whose birth name is M\u00e1ire N\u00ed Bhraon\u00e1in, was born on August 4, 1952. Therefore, Moya Brennan is younger than Keisuke Kuwata. So the answer is: Moya Brennan."
+A: Moya Brennan
+Q: [EOQ]
+S: 0.0
+
+5ac51c2255429924173fb5b4
+Neil B. Shulman was the associate producer of what 1991 American romantic comedy film directed by Michael Caton-Jones?
+A: ["Doc Hollywood", "Michael Caton-Jones", "Neil B. Shulman", "B. Monkey", "Romantic Comedy (1983 film)", "The Romantic (film)", "Romantic Comedy 101", "Romantic Comedy (2010 film)"]
+Q: Neil B. Shulman was the associate producer of what 1991 American romantic comedy film directed by Michael Caton-Jones?
+A: "Neil B. Shulman was the associate producer of the 1991 American romantic comedy film \"Doc Hollywood,\" which was directed by Michael Caton-Jones. So the answer is: Doc Hollywood."
+A: Doc Hollywood
+Q: [EOQ]
+S: 0.0
+
+5a89a74e554299669944a562
+Who directed the second film in a British series of action comedy film parodying the James Bond secret agent genre with comedy similar to Rowan Atkinson's Mr. Bean character?
+A: ["Johnny English (film series)", "Johnny English", "Johnny English Reborn", "Mr. Bean (character)", "Mr. Bean's Holiday", "Bean (film)", "Aces Go Places (film series)", "British comedy films"]
+Q: Who directed the second film in a British series of action comedy film parodying the James Bond secret agent genre with comedy similar to Rowan Atkinson's Mr. Bean character?
+A: "The second film in the British series of action comedy films parodying the James Bond secret agent genre, with comedy similar to Rowan Atkinson's Mr. Bean character, is \"Johnny English Reborn\". It was directed by Oliver Parker. So the answer is: Oliver Parker."
+A: Oliver Parker
+Q: [EOQ]
+S: 0.0
+
+5ab70f79554299110f219aa9
+What is the nationality of this company that services MS Moby Dada?
+A: ["MS Moby Dada", "MS Moby Drea", "MS Moby Otta", "MS Moby Tommy", "MS Moby Zaz\u00e0", "Sky-mobi", "Moby Lines", "Moby Media Group"]
+Q: What is the nationality of this company that services MS Moby Dada?
+A: "The nationality of the company that operates MS Moby Dada is Danish, as MS Moby Dada was originally operated by DFDS Seaways, which is a Danish shipping company. However, the current operator, Moby Lines, is Italian. Since the question asks for the nationality of the company that services MS Moby Dada at the time it was operated by DFDS Seaways, the answer is Danish."
+A: Danish
+Q: [EOQ]
+S: 0.0
+
+5ae4ad3155429913cc2044cb
+Do both Adventist World and Girls' Life have a headquarter or editor based in Maryland?
+A: ["Adventist World", "Adventist Review", "Girls' Life (magazine)", "Adventist HealthCare", "General Conference of Seventh-day Adventists", "MS-DOS Editor", "Adventist Mission", "Board of Editors in the Life Sciences"]
+Q: Do both Adventist World and Girls' Life have a headquarter or editor based in Maryland?
+A: "Yes, both Adventist World and Girls' Life have headquarters or editors based in Maryland.\n\n- **Adventist World**: The magazine is published by the Review and Herald Publishing Association, and its editors are based in Silver Spring, Maryland.\n- **Girls' Life**: The magazine is headquartered in Baltimore, Maryland.\n\nSo, both publications have significant operations in Maryland."
+A: Yes, both Adventist World and Girls' Life have headquarters or editors based in Maryland.\n\n- **Adventist World**: The magazine is published by the Review and Herald Publishing Association, and its editors are based in Silver Spring, Maryland.\n- **Girls' Life**: The magazine is headquartered in Baltimore, Maryland.\n\nSo, both publications have significant operations in Maryland
+Q: [EOQ]
+S: 0.0
+
+5ac10c5e554299294b219074
+What state is home to the Lake Wobegon Trails and the recording location for the live radio show "A Prairie Home Companion"?
+A: ["Lake Wobegon Trails", "A Prairie Home Companion", "A Prairie Home Album", "Lake Wobegon", "Leaving Home: A Collection of Lake Wobegon Stories", "Lake Wobegon Days", "A Prairie Home Companion (film)", "A Prairie Home Companion with Chris Thile"]
+Q: What state is home to the Lake Wobegon Trails and the recording location for the live radio show "A Prairie Home Companion"?
+A: "The state that is home to the Lake Wobegon Trails and the recording location for the live radio show \"A Prairie Home Companion\" is Minnesota. The Lake Wobegon Trails are two paved recreational rail trails in central Minnesota, and the radio show \"A Prairie Home Companion\" airs from the Fitzgerald Theater in Saint Paul, Minnesota. So the answer is: Minnesota."
+A: Minnesota
+Q: [EOQ]
+S: 0.0
+
+5ac43d575542997ea680ca39
+ Ravi Khote:has included his music in which 2003 Indian drama?
+A: ["K. S. Ravi", "Jayam Ravi", "Ravi (music director)", "Abburi Ravi", "Sreejith Ravi", "Ravi Shankar (cartoonist)", "Ravi Teja filmography", "Ravi Varman"]
+Q: Ravi Khote:has included his music in which 2003 Indian drama?
+A: "Based on the information provided, there is no mention of a person named Ravi Khote or any specific drama from 2003 that includes music by Ravi. The names and details provided in the Wikipedia titles and descriptions do not include a Ravi Khote or a 2003 drama. Therefore, I cannot provide an answer to this question with the given information. If you have more context or details about Ravi Khote and the drama, please provide them and I will be happy to help further."
+A: Based on the information provided, there is no mention of a person named Ravi Khote or any specific drama from 2003 that includes music by Ravi. The names and details provided in the Wikipedia titles and descriptions do not include a Ravi Khote or a 2003 drama. Therefore, I cannot provide an answer to this question with the given information. If you have more context or details about Ravi Khote and the drama, please provide them and I will be happy to help further
+Q: [EOQ]
+S: 0.0
+
+5a77d4eb55429949eeb29f74
+Who was born first, Yanka Dyagileva or Alexander Bashlachev?
+A: ["Yanka Dyagileva", "Alexander Bashlachev", "Yanka Maur", "Yanka Kupala Park", "Yanka Kupala", "Alina Simone", "Yanka Kupala National Academic Theatre", "Alexander First Nation"]
+Q: Who was born first, Yanka Dyagileva or Alexander Bashlachev?
+A: "Yanka Dyagileva was born on September 4, 1966, while Alexander Bashlachev was born on May 27, 1960. Therefore, Alexander Bashlachev was born first. So the answer is: Alexander Bashlachev."
+A: Alexander Bashlachev
+Q: [EOQ]
+S: 0.0
+
+5a84afdc5542991dd0999d81
+What golf course, located in Fulton County, Georgia, saw Keegan Bradley win a championship?
+A: ["Bowden Golf Course", "Keegan Bradley", "Fulton County, Georgia", "OGA Golf Course", "University Ridge Golf Course", "Municipal Golf Course", "Bradley, Georgia", "Fulton County Sheriff's Office (Georgia)"]
+Q: What golf course, located in Fulton County, Georgia, saw Keegan Bradley win a championship?
+A: "Based on the information provided, Keegan Bradley won the 2011 PGA Championship, which is a major golf tournament. While the question asks about a golf course in Fulton County, Georgia where Keegan Bradley won a championship, the specific course is not mentioned in the given information. However, Keegan Bradley is known to have won the 2011 PGA Championship at the Turnberry course in Scotland, not in Fulton County, Georgia. \n\nSince the question does not provide a specific golf course in Fulton County, Georgia where Keegan Bradley won a championship, and given the information available, there is no direct answer to this question. If we are to infer based on the information provided, we cannot definitively state which golf course in Fulton County, Georgia, if any, was the site of Bradley's championship win."
+A: Based on the information provided, Keegan Bradley won the 2011 PGA Championship, which is a major golf tournament. While the question asks about a golf course in Fulton County, Georgia where Keegan Bradley won a championship, the specific course is not mentioned in the given information. However, Keegan Bradley is known to have won the 2011 PGA Championship at the Turnberry course in Scotland, not in Fulton County, Georgia. \n\nSince the question does not provide a specific golf course in Fulton County, Georgia where Keegan Bradley won a championship, and given the information available, there is no direct answer to this question. If we are to infer based on the information provided, we cannot definitively state which golf course in Fulton County, Georgia, if any, was the site of Bradley's championship win
+Q: [EOQ]
+S: 0.0
+
+5a728f745542991f9a20c4e6
+Which magazine was founded first, Diva or Elle?
+A: ["Elle (magazine)", "Diva (magazine)", "Elle (India)", "Elle Style Awards", "Delusional Downtown Divas", "Elle Decor", "Hemerophila diva", "List of Elle (India) cover models"]
+Q: Which magazine was founded first, Diva or Elle?
+A: "Diva magazine was founded first. Diva was launched in March 1994, while Elle, the French-origin lifestyle magazine, was founded in 1945. So the answer is: Diva."
+A: Diva
+Q: [EOQ]
+S: 0.0
+
+5abd0eae5542996e802b46d4
+Are Muzzle and Screaming Trees both alternative rock bands?
+A: ["Muzzle (band)", "Screaming Trees", "Screaming Trees discography", "Scream Silence", "Primal Scream discography", "All I Know (Screaming Trees song)", "Bed of Roses (Screaming Trees song)", "Scream (band)"]
+Q: Are Muzzle and Screaming Trees both alternative rock bands?
+A: "Yes, both Muzzle and Screaming Trees are alternative rock bands.\n\n- Muzzle is described as an alternative rock band formed in 1994. They have released two albums with Reprise Records: \"Betty Pickup\" in 1996 and \"Actual Size\" in 1999.\n\n- Screaming Trees is also an alternative rock band, formed in Ellensburg, Washington in 1985. They are known for their grunge and alternative rock sound, and have released seven studio albums, three compilation albums, five extended plays (EPs), and six singles.\n\nTherefore, both bands fit the description of alternative rock bands."
+A: Yes, both Muzzle and Screaming Trees are alternative rock bands.\n\n- Muzzle is described as an alternative rock band formed in 1994. They have released two albums with Reprise Records: \"Betty Pickup\" in 1996 and \"Actual Size\" in 1999.\n\n- Screaming Trees is also an alternative rock band, formed in Ellensburg, Washington in 1985. They are known for their grunge and alternative rock sound, and have released seven studio albums, three compilation albums, five extended plays (EPs), and six singles.\n\nTherefore, both bands fit the description of alternative rock bands
+Q: [EOQ]
+S: 0.0
+
+5a85f2f55542997b5ce40036
+Which genus of flowering plants has the most species, Caesalpinia or Achimenes?
+A: ["Achimenes", "Achimenes grandiflora", "Caesalpinia", "Achimenes erecta", "Achimenes longiflora", "Caesalpinia pulcherrima", "Flowering Plants: Evolution Above the Species Level", "The Different Forms of Flowers on Plants of the Same Species"]
+Q: Which genus of flowering plants has the most species, Caesalpinia or Achimenes?
+A: "To determine which genus has more species, we need to look at the information provided about each genus:\n\n- **Caesalpinia**: The description states that it contains tropical or subtropical woody plants and historically has been included with anywhere from 70 to 165 species, depending on the inclusion of species from other genera.\n\n- **Achimenes**: The description mentions that it is a genus of about 25 species of tropical and subtropical rhizomatous perennial herbs.\n\nComparing the two, Caesalpinia has a much wider range of species, with historical counts ranging from 70 to 165, while Achimenes has only about 25 species.\n\nTherefore, the genus **Caesalpinia** has more species than Achimenes."
+A: To determine which genus has more species, we need to look at the information provided about each genus:\n\n- **Caesalpinia**: The description states that it contains tropical or subtropical woody plants and historically has been included with anywhere from 70 to 165 species, depending on the inclusion of species from other genera.\n\n- **Achimenes**: The description mentions that it is a genus of about 25 species of tropical and subtropical rhizomatous perennial herbs.\n\nComparing the two, Caesalpinia has a much wider range of species, with historical counts ranging from 70 to 165, while Achimenes has only about 25 species.\n\nTherefore, the genus **Caesalpinia** has more species than Achimenes
+Q: [EOQ]
+S: 0.0
+
+5a801e845542992097ad2fd9
+Which magazine produces more print editions yearly, Nautilus or TV Guide?
+A: ["Nautilus (science magazine)", "TV Guide", "TV Guide (Canada)", "Print (magazine)", "TV Guide Award", "More (Belgian magazine)", "The Nautilus (magazine)", "List of TV Guide editions"]
+Q: Which magazine produces more print editions yearly, Nautilus or TV Guide?
+A: "To determine which magazine produces more print editions yearly, we need to compare the print edition frequencies of Nautilus and TV Guide.\n\n- **Nautilus**: It publishes a print edition six times a year.\n- **TV Guide (Canada)**: It was a weekly Canadian magazine that published once a week, which would be 52 issues a year. However, the Canadian version ceased publication in 2006.\n\nGiven that the current TV Guide (the American version) is a bi-weekly magazine, it would publish 26 issues a year.\n\nTherefore, Nautilus produces more print editions yearly than the current TV Guide, as 6 issues per year is more than 26 issues per year for the American TV Guide and significantly more than the 52 issues per year for the Canadian TV Guide before its cessation.\n\nSo, the answer is: Nautilus."
+A: Nautilus
+Q: [EOQ]
+S: 0.0
+
+5abda4dd55429965af743d95
+Ivan Konrad Trajkovič qualified for which major international multi-sport event celebrated in the tradition of the Olympic Games, as governed by the International Olympic Committee?
+A: ["2020 Summer Olympics", "Ivan Trajkovi\u010d", "Multi-sport event", "2012 Summer Olympics", "International Olympic Committee and gender equality in sports", "International Olympic Committee", "International World Games Association", "Indonesian Olympic Committee"]
+Q: Ivan Konrad Trajkovič qualified for which major international multi-sport event celebrated in the tradition of the Olympic Games, as governed by the International Olympic Committee?
+A: "Ivan Konrad Trajkovi\u010d qualified for the 2012 Summer Olympics, which was formally known as the Games of the XXX Olympiad and commonly referred to as London 2012. This event was a major international multi-sport competition governed by the International Olympic Committee (IOC). So the answer is: the 2012 Summer Olympics (London 2012)."
+A: the 2012 Summer Olympics (London 2012)
+Q: [EOQ]
+S: 0.0
+
+5ac3126f5542995ef918c0e8
+ Is it correct to state that Tetrapanax is an evergreen shrub as opposed to Hippophae which is a genus of sea buckthorns, a deciduous shrub?
+A: ["Hippophae", "Hippophae rhamnoides", "Tetrapanax", "Sea buckthorn oil", "Shrub", "List of plants known as buckthorn", "Shrub-steppe", "The Shrubs"]
+Q: Is it correct to state that Tetrapanax is an evergreen shrub as opposed to Hippophae which is a genus of sea buckthorns, a deciduous shrub?
+A: "Yes, it is correct to state that Tetrapanax is an evergreen shrub, whereas Hippophae is a genus of sea buckthorns, which are deciduous shrubs. Tetrapanax papyrifer is described as an evergreen shrub in the family Araliaceae, endemic to Taiwan and widely cultivated in East Asia. On the other hand, Hippophae rhamnoides, a species within the genus Hippophae, is a deciduous shrub native to cold-temperate regions of Europe and Asia. Therefore, the statement is accurate."
+A: Yes, it is correct to state that Tetrapanax is an evergreen shrub, whereas Hippophae is a genus of sea buckthorns, which are deciduous shrubs. Tetrapanax papyrifer is described as an evergreen shrub in the family Araliaceae, endemic to Taiwan and widely cultivated in East Asia. On the other hand, Hippophae rhamnoides, a species within the genus Hippophae, is a deciduous shrub native to cold-temperate regions of Europe and Asia. Therefore, the statement is accurate
+Q: [EOQ]
+S: 0.0
+
+5a89fb525542993b751ca9d6
+Which composer created Night Ferry first performed in 2012 at Symphony Center in Chicago?
+A: ["Night Ferry (composition)", "Symphony Center", "Symphony No. 1 (Corigliano)", "Symphony No. 1 (Price)", "American Symphony", "Spangled Unicorn", "Annenberg Center for the Performing Arts", "Soundings (Carter)"]
+Q: Which composer created Night Ferry first performed in 2012 at Symphony Center in Chicago?
+A: "The composer who created \"Night Ferry,\" which was first performed in 2012 at Symphony Center in Chicago, is Anna Clyne. Symphony Center is located in Chicago, and \"Night Ferry\" was commissioned by the Chicago Symphony Orchestra, with its first performance taking place on February 9, 2012, under conductor Riccardo Muti. So the answer is: Anna Clyne."
+A: Anna Clyne
+Q: [EOQ]
+S: 0.0
+
+5a8d838955429941ae14dfe5
+Eleventh Dream Day and The Shins are both rock bands from where?
+A: ["Eleventh Dream Day", "Shin (band)", "Dream All Day", "Rock Dream", "Where Dream and Day Collide", "Green Day: Rock Band", "From Where You Are", "Caravan of Dreams (band)"]
+Q: Eleventh Dream Day and The Shins are both rock bands from where?
+A: "Eleventh Dream Day is an American alternative rock band from Chicago, Illinois, United States. The Shins, on the other hand, are from Albuquerque, New Mexico, United States. Therefore, while Eleventh Dream Day is from the United States, The Shins are from a different part of the United States. \n\nTo directly answer the question: Eleventh Dream Day and The Shins are both rock bands from the United States, but they are from different cities within the country."
+A: Eleventh Dream Day is an American alternative rock band from Chicago, Illinois, United States. The Shins, on the other hand, are from Albuquerque, New Mexico, United States. Therefore, while Eleventh Dream Day is from the United States, The Shins are from a different part of the United States. \n\nTo directly answer the question: Eleventh Dream Day and The Shins are both rock bands from the United States, but they are from different cities within the country
+Q: [EOQ]
+S: 0.0
+
+5abd14c455429924427fceec
+Who will conduct the firing cannons in Victoria as part of a musical piece written to celebrate the defeat of Napoleon in Russia?
+A: ["Napoleons, Victoria", "Music in Twelve Parts", "Interpretations: Celebrating the Music of Earth, Wind &amp; Fire", "Napoleon (musical)", "Cannon", "Cannons Creek, Victoria", "MTV Russia Music Awards", "Celebration of the Lizard"]
+Q: Who will conduct the firing cannons in Victoria as part of a musical piece written to celebrate the defeat of Napoleon in Russia?
+A: "Based on the information provided, there is no indication that there will be a firing of cannons in Victoria as part of a musical piece celebrating the defeat of Napoleon in Russia. The details given about Napoleon (the musical), cannons, and cannons creek in Victoria do not provide any context for a performance piece celebrating Napoleon's defeat in Russia. \n\nThe \"Napoleon\" musical by Timothy Williams and Andrew Sabiston is about Napoleon Bonaparte, but there is no mention of cannons or a performance piece celebrating his defeat in Russia. Similarly, while cannons are discussed in the context of their historical and modern definitions, there is no specific mention of a performance or musical piece involving cannons in Victoria.\n\nTherefore, the question cannot be answered with the given information. If such a performance exists, it is not described in the provided Wikipedia titles and articles."
+A: Based on the information provided, there is no indication that there will be a firing of cannons in Victoria as part of a musical piece celebrating the defeat of Napoleon in Russia. The details given about Napoleon (the musical), cannons, and cannons creek in Victoria do not provide any context for a performance piece celebrating Napoleon's defeat in Russia. \n\nThe \"Napoleon\" musical by Timothy Williams and Andrew Sabiston is about Napoleon Bonaparte, but there is no mention of cannons or a performance piece celebrating his defeat in Russia. Similarly, while cannons are discussed in the context of their historical and modern definitions, there is no specific mention of a performance or musical piece involving cannons in Victoria.\n\nTherefore, the question cannot be answered with the given information. If such a performance exists, it is not described in the provided Wikipedia titles and articles
+Q: [EOQ]
+S: 0.0
+
+5ab82dbb5542990e739ec857
+The FIBT World Championships 1960 took place in a town located in which part of Italy ?
+A: ["FIBT World Championships 1971", "FIBT World Championships 1960", "FIBT World Championships 1975", "FIBT World Championships 1950", "FIBT World Championships 1954", "FIBT World Championships 1949", "FIBT World Championships 1951", "FIBT World Championships 1996"]
+Q: The FIBT World Championships 1960 took place in a town located in which part of Italy ?
+A: "The FIBT World Championships 1960 took place in Cortina d'Ampezzo, Italy. Cortina d'Ampezzo is located in the Alpine region of northeastern Italy, in the province of Belluno, in the autonomous region of Veneto. So the answer is: northeastern Italy."
+A: northeastern Italy
+Q: [EOQ]
+S: 0.0
+
+5a8f13d55542997ba9cb31c9
+Philip Savage served as Direcor of Player Personnel for the Baltimore Ravens under what general manager who was inducted into both the College and Pro Football Halls of Fame?
+A: ["Phil Savage", "Ozzie Newsome", "Pro Football Hall of Fame Game", "College Football Hall of Fame", "Pro Football Hall of Fame", "Baltimore Ravens Ring of Honor", "Scottish Football Hall of Fame", "List of Pro Football Hall of Fame inductees"]
+Q: Philip Savage served as Direcor of Player Personnel for the Baltimore Ravens under what general manager who was inducted into both the College and Pro Football Halls of Fame?
+A: "Philip Savage served as Director of Player Personnel for the Baltimore Ravens under Ozzie Newsome, who was inducted into both the College and Pro Football Halls of Fame. Ozzie Newsome Jr. is a former American football tight end for the Cleveland Browns and the current general manager of the Baltimore Ravens. He was inducted into the College Football Hall of Fame in 1994 and the Pro Football Hall of Fame in 1999. So the answer is: Ozzie Newsome."
+A: Ozzie Newsome
+Q: [EOQ]
+S: 0.0
+
+5ac160605542994ab5c67d02
+Who coached the Indians and was the first Native American to win a gold metal his home country?
+A: ["Native metal", "Indian country", "Native American Indian Heritage Month", "List of Native American leaders of the Indian Wars", "Gold coach", "List of Indian Super League coaches", "Indian Americans", "Native Americans in the United States"]
+Q: Who coached the Indians and was the first Native American to win a gold metal his home country?
+A: "The information provided does not contain any details about a Native American coach who won a gold medal at home. The Wikipedia titles and content given are about Native American heritage, leaders, and other topics but do not provide the specific information needed to answer this question. \n\nTo accurately answer this question, we would need information about a Native American individual who coached a team and also won a gold medal in an Olympic or other major sporting event in their home country. This specific information is not available in the given context."
+A: The information provided does not contain any details about a Native American coach who won a gold medal at home. The Wikipedia titles and content given are about Native American heritage, leaders, and other topics but do not provide the specific information needed to answer this question. \n\nTo accurately answer this question, we would need information about a Native American individual who coached a team and also won a gold medal in an Olympic or other major sporting event in their home country. This specific information is not available in the given context
+Q: [EOQ]
+S: 0.0

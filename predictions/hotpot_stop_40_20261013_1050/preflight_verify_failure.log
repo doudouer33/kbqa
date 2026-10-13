@@ -1,0 +1,82 @@
+{
+  "output": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_stop_40_20261013_1048",
+  "counts": {
+    "bridge": 20,
+    "comparison": 20
+  },
+  "commands": [
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "run.py",
+      "write",
+      "base_configs/oner_qa_qwen_hotpotqa_stop_diagnostic.jsonnet",
+      "--instantiation_scheme",
+      "oner_qa",
+      "--prompt_set",
+      "1",
+      "--set_name",
+      "hotpot_stop_40_20261013_1048",
+      "--topk_values",
+      "1,8,15",
+      "--llm_port_num",
+      "8002",
+      "--no_diff"
+    ],
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "run.py",
+      "verify",
+      "base_configs/oner_qa_qwen_hotpotqa_stop_diagnostic.jsonnet",
+      "--instantiation_scheme",
+      "oner_qa",
+      "--prompt_set",
+      "1",
+      "--set_name",
+      "hotpot_stop_40_20261013_1048",
+      "--topk_values",
+      "1,8,15",
+      "--llm_port_num",
+      "8002"
+    ],
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "run.py",
+      "predict",
+      "base_configs/oner_qa_qwen_hotpotqa_stop_diagnostic.jsonnet",
+      "--instantiation_scheme",
+      "oner_qa",
+      "--prompt_set",
+      "1",
+      "--set_name",
+      "hotpot_stop_40_20261013_1048",
+      "--topk_values",
+      "1,8,15",
+      "--llm_port_num",
+      "8002",
+      "--evaluation_path",
+      "processed_data/hotpotqa/hotpot_stop_40_20261013_1048.jsonl",
+      "--silent"
+    ]
+  ]
+}
+Writing in instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet
+Writing in instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__8___distractor_count__1.jsonnet
+Writing in instantiated_configs/oner_qa_qwen_hotpotqa_stop_diagnostic____prompt_set_1___bm25_retrieval_count__15___distractor_count__1.jsonnet
+Traceback (most recent call last):
+  File "run.py", line 1729, in <module>
+    main()
+  File "run.py", line 44, in wrapper
+    result = func(*args, **kwargs)
+  File "run.py", line 1330, in main
+    verify_config(local_file_path)
+  File "run.py", line 853, in verify_config
+    llm_server_address = get_llm_server_address(args.llm_port_num)
+NameError: name 'args' is not defined
+Traceback (most recent call last):
+  File "analysis/hotpot_stop_diagnostic/run_diagnostic.py", line 88, in <module>
+    main()
+  File "analysis/hotpot_stop_diagnostic/run_diagnostic.py", line 72, in main
+    subprocess.run(command, env=env, check=True)
+  File "/home/dengxin/miniconda3/envs/adaptiverag/lib/python3.8/subprocess.py", line 516, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/home/dengxin/miniconda3/envs/adaptiverag/bin/python', 'run.py', 'verify', 'base_configs/oner_qa_qwen_hotpotqa_stop_diagnostic.jsonnet', '--instantiation_scheme', 'oner_qa', '--prompt_set', '1', '--set_name', 'hotpot_stop_40_20261013_1048', '--topk_values', '1,8,15', '--llm_port_num', '8002']' returned non-zero exit status 1.

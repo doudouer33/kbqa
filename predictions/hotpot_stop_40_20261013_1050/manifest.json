@@ -1,0 +1,201 @@
+{
+  "started_at": "2026-10-13T10:48:08.960705+08:00",
+  "git_revision": "12bd72bcf14b143f25e91e9519f90efabfa7bb56",
+  "source": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/processed_data/hotpotqa/dev_1000_subsampled.jsonl",
+  "source_sha256": "b9798320af36fbeedf1e81ed7690673016ba77b3cdc085d268c36b50669b04af",
+  "sample_selection": "First 20 bridge and first 20 comparison in source order; no outcome-based selection",
+  "question_ids": [
+    "5a7248665542990c210a40b1",
+    "5a79b495554299148911fa3b",
+    "5abdc0ad55429933744ab81b",
+    "5ac00278554299012d1db56b",
+    "5a8bbfb15542995e66a474f6",
+    "5ac173295542994ab5c67d45",
+    "5abcc818554299658360048b",
+    "5a7aa9425542992d025e66e4",
+    "5ae1b1aa5542997283cd223f",
+    "5a88c92d5542993b751ca84e",
+    "5ae14def55429901ffe4ae4a",
+    "5a7f732d5542992e7d278d02",
+    "5a7e6c725542991319bc94a4",
+    "5a7f5e0455429969796c1a12",
+    "5a7982435542994bb945701f",
+    "5ac029655542992a796decb3",
+    "5a8cdcb0554299441c6b9f33",
+    "5a89bf18554299669944a591",
+    "5a7f68365542994857a7672e",
+    "5a7a2dac5542990198eaf0b6",
+    "5ac51c2255429924173fb5b4",
+    "5a89a74e554299669944a562",
+    "5ab70f79554299110f219aa9",
+    "5ae4ad3155429913cc2044cb",
+    "5ac10c5e554299294b219074",
+    "5ac43d575542997ea680ca39",
+    "5a77d4eb55429949eeb29f74",
+    "5a84afdc5542991dd0999d81",
+    "5a728f745542991f9a20c4e6",
+    "5abd0eae5542996e802b46d4",
+    "5a85f2f55542997b5ce40036",
+    "5a801e845542992097ad2fd9",
+    "5abda4dd55429965af743d95",
+    "5ac3126f5542995ef918c0e8",
+    "5a89fb525542993b751ca9d6",
+    "5a8d838955429941ae14dfe5",
+    "5abd14c455429924427fceec",
+    "5ab82dbb5542990e739ec857",
+    "5a8f13d55542997ba9cb31c9",
+    "5ac160605542994ab5c67d02"
+  ],
+  "counts": {
+    "bridge": 20,
+    "comparison": 20
+  },
+  "dataset": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl",
+  "dataset_sha256": "c1682cf23e56a1bc316731260ef85f02d76743fab146e6dcca60911d2f62bc73",
+  "models": {
+    "object": "list",
+    "data": [
+      {
+        "id": "Qwen2.5-7B-Instruct",
+        "object": "model",
+        "created": 1791859688,
+        "owned_by": "vllm",
+        "root": "Qwen2.5-7B-Instruct",
+        "parent": null,
+        "max_model_len": 32768,
+        "permission": [
+          {
+            "id": "modelperm-ffcc899cb424439bb2664f81eadc2914",
+            "object": "model_permission",
+            "created": 1791859688,
+            "allow_create_engine": false,
+            "allow_sampling": true,
+            "allow_logprobs": true,
+            "allow_search_indices": false,
+            "allow_view": true,
+            "allow_fine_tuning": false,
+            "organization": "*",
+            "group": null,
+            "is_blocking": false
+          }
+        ]
+      }
+    ]
+  },
+  "python": "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+  "versions": {
+    "openai": "2.2.0",
+    "httpx": "0.28.1",
+    "transformers": "4.26.0.dev0",
+    "torch": "1.13.1+cu117",
+    "diskcache": "5.6.3"
+  },
+  "historical_inputs": [
+    {
+      "k": 1,
+      "files": [
+        {
+          "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/dev_1000/oner_qa_qwen_hotpotqa____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/config__hotpotqa_to_hotpotqa__dev_1000_subsampled.jsonnet",
+          "sha256": "488e91b76e45b398a643e2438d25e270b67095f3c59ca07d12162e5c15dc8811"
+        },
+        {
+          "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/dev_1000/oner_qa_qwen_hotpotqa____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+          "sha256": "54aea37804501bf69853161f87a1273e9843382b35b65c6c9a60669a7c24eacf"
+        },
+        {
+          "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/dev_1000/oner_qa_qwen_hotpotqa____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled_chains.txt",
+          "sha256": "00bb1b8f97538742da2dc34a610e3fd12da03bdf7d1532727d1a7c82903b467c"
+        }
+      ]
+    },
+    {
+      "k": 8,
+      "files": [
+        {
+          "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/dev_1000/oner_qa_qwen_hotpotqa____prompt_set_1___bm25_retrieval_count__8___distractor_count__1/config__hotpotqa_to_hotpotqa__dev_1000_subsampled.jsonnet",
+          "sha256": "61fce74dbeff6568d3b60f59bebcc7e22be8efddb49ab6633fcf72e9b97877a2"
+        },
+        {
+          "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/dev_1000/oner_qa_qwen_hotpotqa____prompt_set_1___bm25_retrieval_count__8___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+          "sha256": "1a5a997d3e679fd51dacf7040074b2792d0e59b73104d79c2b3a31c670387d70"
+        },
+        {
+          "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/dev_1000/oner_qa_qwen_hotpotqa____prompt_set_1___bm25_retrieval_count__8___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled_chains.txt",
+          "sha256": "19736249bf270e6d1a3cafd07557d572ebdcbf9188031467fcf4bfec85808f9d"
+        }
+      ]
+    },
+    {
+      "k": 15,
+      "files": [
+        {
+          "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/dev_1000/oner_qa_qwen_hotpotqa____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/config__hotpotqa_to_hotpotqa__dev_1000_subsampled.jsonnet",
+          "sha256": "e00f64f3e81488760c3c0d6770707b440c03aadca402b3f5fba2e12b9a48b403"
+        },
+        {
+          "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/dev_1000/oner_qa_qwen_hotpotqa____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+          "sha256": "645953fe75a75a6b03ad6458f7ff62fdf28a5d8a36e86cdb3a80c8d1f2519f7a"
+        },
+        {
+          "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/dev_1000/oner_qa_qwen_hotpotqa____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled_chains.txt",
+          "sha256": "411cf6c1b70a50d7c09e2c22d8f43fb707755e49fba63ef167e48517b136f2a3"
+        }
+      ]
+    }
+  ],
+  "generation_cache": "cached_openai_call.__wrapped__; bypass old and new generation cache",
+  "environment_adaptations": {
+    "PATH": "/home/dengxin/miniconda3/envs/adaptiverag/bin:/media/hnu/hnu2021/dengxin/luoyichen/.codex/packages/app-server-daemon/releases/0.162.1-x86_64-unknown-linux-musl/codex-path:/home/dengxin/.local/bin:/home/dengxin/bin:/media/hnu/hnu2021/dengxin/luoyichen/.codex/tmp/arg0/codex-arg0xkp9Sy:/media/hnu/hnu2021/dengxin/luoyichen/.codex/packages/app-server-daemon/releases/0.162.1-x86_64-unknown-linux-musl/codex-path:/media/hnu/hnu2021/dengxin/luoyichen/.codex/tmp/arg0/codex-arg0gJPhDv:/home/dengxin/.nvm/versions/node/v22.22.2/lib/node_modules/@openai/codex/node_modules/@openai/codex-linux-x64/vendor/x86_64-unknown-linux-musl/codex-path:/home/dengxin/.bun/bin:/home/dengxin/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand:/home/dengxin/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli:/home/dengxin/.vscode-server/cli/servers/Stable-2a59476c9bfcb90b3ddc372c36762471b7dfad1c/server/bin/remote-cli:/home/dengxin/.nvm/versions/node/v22.22.2/bin:/home/dengxin/.local/bin:/home/dengxin/bin:/opt/miniconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/dengxin/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts",
+    "OPENAI_BASE_URL": "http://127.0.0.1:8002/v1",
+    "NO_PROXY": "127.0.0.1,localhost,::1",
+    "HF_HUB_OFFLINE": "1",
+    "PYTHONPATH": "analysis/hotpot_stop_diagnostic:/media/hnu/hnu2021/dengxin/luoyichen/kbqa"
+  },
+  "verification_adaptation": "run.py verify failed before inference: run.py:853 references undefined args; no repository fix, Jsonnet is validated in this driver instead",
+  "commands": [
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "run.py",
+      "write",
+      "base_configs/oner_qa_qwen_hotpotqa_stop_diagnostic.jsonnet",
+      "--instantiation_scheme",
+      "oner_qa",
+      "--prompt_set",
+      "1",
+      "--set_name",
+      "hotpot_stop_40_20261013_1050",
+      "--topk_values",
+      "1,8,15",
+      "--llm_port_num",
+      "8002",
+      "--no_diff"
+    ],
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "run.py",
+      "predict",
+      "base_configs/oner_qa_qwen_hotpotqa_stop_diagnostic.jsonnet",
+      "--instantiation_scheme",
+      "oner_qa",
+      "--prompt_set",
+      "1",
+      "--set_name",
+      "hotpot_stop_40_20261013_1050",
+      "--topk_values",
+      "1,8,15",
+      "--llm_port_num",
+      "8002",
+      "--evaluation_path",
+      "processed_data/hotpotqa/hotpot_stop_40_20261013_1050.jsonl",
+      "--silent"
+    ]
+  ],
+  "functional_change": "stop=[] only; historical max_tokens=300 and prompt budget=4000 retained",
+  "completed_at": "2026-10-13T10:51:57.272894+08:00",
+  "validation": {
+    "records": 120,
+    "wire_requests": 120,
+    "all_stop_empty": true,
+    "historical_artifacts_unchanged": true
+  }
+}

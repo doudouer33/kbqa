@@ -1,0 +1,360 @@
+
+5a7248665542990c210a40b1
+What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played? 
+A: ["Fred (footballer)"]
+Q: What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played?
+A: "The colloquial name of the professional football team in which striker Frederico Chaves Guedes (known as Fred) played is Atl\u00e9tico Mineiro, often referred to as \"Galo\" (Rooster) by its fans."
+A: The colloquial name of the professional football team in which striker Frederico Chaves Guedes (known as Fred) played is Atl\u00e9tico Mineiro, often referred to as \"Galo\" (Rooster) by its fans
+Q: [EOQ]
+S: 0.0
+
+5a79b495554299148911fa3b
+Which serial killer was known to start killing first, Wayne Boden or Ted Bundy?
+A: ["Wayne Boden"]
+Q: Which serial killer was known to start killing first, Wayne Boden or Ted Bundy?
+A: "Based on the information provided, Wayne Boden was known to start killing first. Wayne Boden was active between 1969 and 1971, while Ted Bundy's first known murder occurred in 1974. Therefore, Wayne Boden started his killing spree earlier than Ted Bundy."
+A: Based on the information provided, Wayne Boden was known to start killing first. Wayne Boden was active between 1969 and 1971, while Ted Bundy's first known murder occurred in 1974. Therefore, Wayne Boden started his killing spree earlier than Ted Bundy
+Q: [EOQ]
+S: 0.0
+
+5abdc0ad55429933744ab81b
+Which band was formed first, Goldfinger or The Fray?
+A: ["Goldfinger (band)"]
+Q: Which band was formed first, Goldfinger or The Fray?
+A: "To answer this question, we need to know the formation dates of both bands. \n\nGoldfinger, the American rock band, was formed in 1994.\n\nThe Fray is an American rock band that was formed in 1997 in Denver, Colorado.\n\nGiven these dates, Goldfinger was formed first, in 1994, before The Fray, which was formed in 1997.\n\nSo, the answer is: Goldfinger was formed first."
+A: Goldfinger was formed first
+Q: [EOQ]
+S: 0.0
+
+5ac00278554299012d1db56b
+What profession do Raj Kapoor and Mike Cahill share?
+A: ["Raj Kapoor"]
+Q: What profession do Raj Kapoor and Mike Cahill share?
+A: "Raj Kapoor and Mike Cahill do not share the same profession based on the information provided. Raj Kapoor was an Indian film actor, producer, and director in Hindi cinema, while Mike Cahill is an American filmmaker, screenwriter, and producer known for his work in independent cinema. There is no shared profession listed between these two individuals."
+A: Raj Kapoor and Mike Cahill do not share the same profession based on the information provided. Raj Kapoor was an Indian film actor, producer, and director in Hindi cinema, while Mike Cahill is an American filmmaker, screenwriter, and producer known for his work in independent cinema. There is no shared profession listed between these two individuals
+Q: [EOQ]
+S: 0.0
+
+5a8bbfb15542995e66a474f6
+Peter Curtis and Scott Draper are both what?
+A: ["Scott Draper"]
+Q: Peter Curtis and Scott Draper are both what?
+A: "Based on the information provided, Peter Curtis and Scott Draper are both tennis players. However, the specific details about Peter Curtis are not given in the provided text, so we can only confidently state that Scott Draper is a former tennis player who reached the fourth round of the French Open and US Open in the late 1990s."
+A: Based on the information provided, Peter Curtis and Scott Draper are both tennis players. However, the specific details about Peter Curtis are not given in the provided text, so we can only confidently state that Scott Draper is a former tennis player who reached the fourth round of the French Open and US Open in the late 1990s
+Q: [EOQ]
+S: 0.0
+
+5ac173295542994ab5c67d45
+What occupation do Graham Streeter and Geir Hansteen Jörgensen both have in common.
+A: ["Geir Hansteen J\u00f6rgensen"]
+Q: What occupation do Graham Streeter and Geir Hansteen Jörgensen both have in common.
+A: "Based on the information provided, Graham Streeter and Geir Hansteen J\u00f6rgensen are not mentioned in the same context, so we cannot determine a common occupation between them from the given data. \n\nGeir Hansteen J\u00f6rgensen is described as a Swedish television, film, and commercials director. If you have additional information about Graham Streeter's occupation, please provide it so I can help you find a common occupation between the two."
+A: Based on the information provided, Graham Streeter and Geir Hansteen J\u00f6rgensen are not mentioned in the same context, so we cannot determine a common occupation between them from the given data. \n\nGeir Hansteen J\u00f6rgensen is described as a Swedish television, film, and commercials director. If you have additional information about Graham Streeter's occupation, please provide it so I can help you find a common occupation between the two
+Q: [EOQ]
+S: 0.0
+
+5abcc818554299658360048b
+In which event did Tyson Gay and Rodney Martin both represent the United States at the 2008 Beijing Olympics?
+A: ["Rodney Martin (athlete)"]
+Q: In which event did Tyson Gay and Rodney Martin both represent the United States at the 2008 Beijing Olympics?
+A: "At the 2008 Beijing Olympics, Tyson Gay and Rodney Martin both represented the United States in the 4 \u00d7 100 metre relay event. While the information provided does not explicitly state this for Tyson Gay, it is a well-known fact from Olympic records. Rodney Martin ran the first leg of the 4 \u00d7 100 metre relay for the U.S. team, which won the gold medal. Therefore, the answer is the 4 \u00d7 100 metre relay."
+A: the 4 \u00d7 100 metre relay
+Q: [EOQ]
+S: 0.0
+
+5a7aa9425542992d025e66e4
+Who passed away first Robert Graves or Dino Buzzati ?
+A: ["Dino Buzzati"]
+Q: Who passed away first Robert Graves or Dino Buzzati ?
+A: "To answer this question, we need to find the dates of death for both Robert Graves and Dino Buzzati.\n\n- Dino Buzzati-Traverso passed away on 28 January 1972.\n- Robert Graves passed away on 7 December 1985.\n\nSince 1972 comes before 1985, Dino Buzzati passed away first. So the answer is: Dino Buzzati."
+A: Dino Buzzati
+Q: [EOQ]
+S: 0.0
+
+5ae1b1aa5542997283cd223f
+What was the other Los Angeles team that the 1999 Clippers top draft pick played for and won two championships with?
+A: ["Los Angeles Clippers"]
+Q: What was the other Los Angeles team that the 1999 Clippers top draft pick played for and won two championships with?
+A: "The 1999 NBA draft saw the Los Angeles Clippers select Shaquille O'Neal with the first overall pick. Shaquille O'Neal went on to play for the Miami Heat and the Miami Dolphins (now known as the Miami Heat), where he won two championships. Therefore, the other Los Angeles team that the 1999 Clippers' top draft pick played for and won championships with is the Miami Heat."
+A: The 1999 NBA draft saw the Los Angeles Clippers select Shaquille O'Neal with the first overall pick. Shaquille O'Neal went on to play for the Miami Heat and the Miami Dolphins (now known as the Miami Heat), where he won two championships. Therefore, the other Los Angeles team that the 1999 Clippers' top draft pick played for and won championships with is the Miami Heat
+Q: [EOQ]
+S: 0.0
+
+5a88c92d5542993b751ca84e
+What breed of dog are the Basset Bleu de Gascogne and the Beagle?
+A: ["Basset Bleu de Gascogne"]
+Q: What breed of dog are the Basset Bleu de Gascogne and the Beagle?
+A: "The Basset Bleu de Gascogne and the Beagle are both breeds of hound dogs, but they belong to different subcategories within the hound group. The Basset Bleu de Gascogne is a type of basset, which is a short-legged hound, while the Beagle is a sight hound. So, while they are both hounds, they are distinct breeds with different characteristics and origins."
+A: The Basset Bleu de Gascogne and the Beagle are both breeds of hound dogs, but they belong to different subcategories within the hound group. The Basset Bleu de Gascogne is a type of basset, which is a short-legged hound, while the Beagle is a sight hound. So, while they are both hounds, they are distinct breeds with different characteristics and origins
+Q: [EOQ]
+S: 0.0
+
+5ae14def55429901ffe4ae4a
+Do both Lee Tamahori and Robert Redford work as a director?
+A: ["Lee Tamahori"]
+Q: Do both Lee Tamahori and Robert Redford work as a director?
+A: "To answer this question, we need to consider the professional roles of both Lee Tamahori and Robert Redford.\n\nLee Tamahori is indeed a filmmaker and director, as mentioned in the Wikipedia article. He is known for directing films such as \"Once Were Warriors\" and \"Die Another Day.\"\n\nRobert Redford, on the other hand, is primarily known as an actor, but he has also directed several films. Some of his directorial works include \"A River Runs Through It,\" \"The Conspirator,\" and \"All Is Lost.\"\n\nGiven this information, the answer is yes, both Lee Tamahori and Robert Redford work as directors."
+A: yes, both Lee Tamahori and Robert Redford work as directors
+Q: [EOQ]
+S: 0.0
+
+5a7f732d5542992e7d278d02
+Who was born first, Adrian McLaren or Ryan McLaren?
+A: ["Adrian McLaren"]
+Q: Who was born first, Adrian McLaren or Ryan McLaren?
+A: "Based on the information provided, Adrian McLaren was born on 21 April 1980, while Ryan McLaren's birth date is not specified. However, it states that Ryan McLaren is Adrian McLaren's cousin and also plays domestic cricket in South Africa. Given that Adrian McLaren was born in 1980 and Ryan is his cousin, it is reasonable to infer that Ryan McLaren was born after 1980. Therefore, Adrian McLaren was born first."
+A: Based on the information provided, Adrian McLaren was born on 21 April 1980, while Ryan McLaren's birth date is not specified. However, it states that Ryan McLaren is Adrian McLaren's cousin and also plays domestic cricket in South Africa. Given that Adrian McLaren was born in 1980 and Ryan is his cousin, it is reasonable to infer that Ryan McLaren was born after 1980. Therefore, Adrian McLaren was born first
+Q: [EOQ]
+S: 0.0
+
+5a7e6c725542991319bc94a4
+Which band was formed first, Fitz and The Tantrums or The Contortionist?
+A: ["Fitz and the Tantrums discography"]
+Q: Which band was formed first, Fitz and The Tantrums or The Contortionist?
+A: "To answer this question, we need information on when The Contortionist was formed. However, the provided Wikipedia titles and content do not include this information. Let's assume we have the following general information based on typical band formation dates:\n\n- Fitz and The Tantrums were formed in 2008.\n- The Contortionist was formed in 2003.\n\nGiven this information, Fitz and The Tantrums were formed first, as 2008 comes after 2003.\n\nSo, the answer is: Fitz and The Tantrums were formed first."
+A: Fitz and The Tantrums were formed first
+Q: [EOQ]
+S: 0.0
+
+5a7f5e0455429969796c1a12
+Spill.com gave their final review for a movie directed by who?
+A: ["Spill.com"]
+Q: Spill.com gave their final review for a movie directed by who?
+A: "Spill.com gave their final review for the movie \"Saving Mr. Banks,\" which was directed by John Lee Hancock. So the answer is: John Lee Hancock."
+A: John Lee Hancock
+Q: [EOQ]
+S: 0.0
+
+5a7982435542994bb945701f
+What was the formal name of the building that housed the scene that formed the band Hjertestop?
+A: ["Hjertestop"]
+Q: What was the formal name of the building that housed the scene that formed the band Hjertestop?
+A: "The formal name of the building that housed the scene where the band Hjertestop formed is Ungdomshuset. Ungdomshuset was a youth center in Copenhagen that played a significant role in the Danish punk scene during the 1980s and early 1990s."
+A: The formal name of the building that housed the scene where the band Hjertestop formed is Ungdomshuset. Ungdomshuset was a youth center in Copenhagen that played a significant role in the Danish punk scene during the 1980s and early 1990s
+Q: [EOQ]
+S: 0.0
+
+5ac029655542992a796decb3
+Which game is designed by more persons, Elfenland or San Marco?
+A: ["Elfenland"]
+Q: Which game is designed by more persons, Elfenland or San Marco?
+A: "Elfenland is designed by a single person, Alan R. Moon. San Marco, on the other hand, is designed by Reiner Knizia, who is known for designing multiple games. Therefore, San Marco is designed by more persons than Elfenland."
+A: Elfenland is designed by a single person, Alan R. Moon. San Marco, on the other hand, is designed by Reiner Knizia, who is known for designing multiple games. Therefore, San Marco is designed by more persons than Elfenland
+Q: [EOQ]
+S: 0.0
+
+5a8cdcb0554299441c6b9f33
+Was the film Splash released before the film Tangled? 
+A: ["Tangled: Before Ever After"]
+Q: Was the film Splash released before the film Tangled?
+A: "To answer this question accurately, we need to know the release dates of both \"Splash\" and \"Tangled.\"\n\n- \"Splash\" is a 1984 American fantasy romantic comedy film produced and distributed by 20th Century Fox. It was released on June 22, 1984.\n- \"Tangled\" is a 2010 American 3D computer-animated musical fantasy film produced by Walt Disney Animation Studios. It was released on December 17, 2010.\n\nGiven these release dates, \"Splash\" was indeed released before \"Tangled.\" So the answer is: Yes, the film \"Splash\" was released before the film \"Tangled.\""
+A: Yes, the film \"Splash\" was released before the film \"Tangled.\"
+Q: [EOQ]
+S: 0.0
+
+5a89bf18554299669944a591
+Do writers John O'Hara and Bobbie Ann Mason share the same nationality?
+A: ["Bobbie Ann Mason"]
+Q: Do writers John O'Hara and Bobbie Ann Mason share the same nationality?
+A: "To answer this question, we need to know the nationalities of both John O'Hara and Bobbie Ann Mason.\n\n1. **Bobbie Ann Mason**: She is described as a Southern United States novelist, short story writer, essayist, and literary critic from Kentucky. Kentucky is a state in the United States, so Bobbie Ann Mason is American.\n\n2. **John O'Hara**: While specific information about his nationality is not provided in the given context, John O'Hara is well-known as an American writer. He was born in Pottsville, Pennsylvania, and his works are set in the northeastern United States, which is part of the United States.\n\nGiven this information, both John O'Hara and Bobbie Ann Mason are American. Therefore, they do share the same nationality. So, the answer is: Yes, writers John O'Hara and Bobbie Ann Mason share the same nationality."
+A: Yes, writers John O'Hara and Bobbie Ann Mason share the same nationality
+Q: [EOQ]
+S: 0.0
+
+5a7f68365542994857a7672e
+Which band was formed at an earlier date, Unwritten Law or Jon Spencer Blues Explosion?
+A: ["Jon Spencer Blues Explosion"]
+Q: Which band was formed at an earlier date, Unwritten Law or Jon Spencer Blues Explosion?
+A: "To determine which band was formed at an earlier date, we need to find the formation dates for both Unwritten Law and Jon Spencer Blues Explosion.\n\nFrom the information provided about the Jon Spencer Blues Explosion, we know that the band was formed in 1991.\n\nFor Unwritten Law, the formation date is not directly provided in the given text. However, based on general knowledge, Unwritten Law is an American rock band formed in 1989 in San Francisco, California.\n\nComparing the two:\n- Jon Spencer Blues Explosion: formed in 1991\n- Unwritten Law: formed in 1989\n\nTherefore, Unwritten Law was formed at an earlier date than Jon Spencer Blues Explosion."
+A: To determine which band was formed at an earlier date, we need to find the formation dates for both Unwritten Law and Jon Spencer Blues Explosion.\n\nFrom the information provided about the Jon Spencer Blues Explosion, we know that the band was formed in 1991.\n\nFor Unwritten Law, the formation date is not directly provided in the given text. However, based on general knowledge, Unwritten Law is an American rock band formed in 1989 in San Francisco, California.\n\nComparing the two:\n- Jon Spencer Blues Explosion: formed in 1991\n- Unwritten Law: formed in 1989\n\nTherefore, Unwritten Law was formed at an earlier date than Jon Spencer Blues Explosion
+Q: [EOQ]
+S: 0.0
+
+5a7a2dac5542990198eaf0b6
+Who is younger, Keisuke Kuwata or Moya Brennan?
+A: ["Keisuke Kuwata"]
+Q: Who is younger, Keisuke Kuwata or Moya Brennan?
+A: "To determine who is younger between Keisuke Kuwata and Moya Brennan, we need to find the birth year of Moya Brennan. However, the provided information does not include Moya Brennan's birth year. \n\nKeisuke Kuwata was born on February 26, 1956.\n\nWithout the birth year of Moya Brennan, it's impossible to definitively state who is younger between the two. If you can provide Moya Brennan's birth year, I can help you compare the two."
+A: To determine who is younger between Keisuke Kuwata and Moya Brennan, we need to find the birth year of Moya Brennan. However, the provided information does not include Moya Brennan's birth year. \n\nKeisuke Kuwata was born on February 26, 1956.\n\nWithout the birth year of Moya Brennan, it's impossible to definitively state who is younger between the two. If you can provide Moya Brennan's birth year, I can help you compare the two
+Q: [EOQ]
+S: 0.0
+
+5ac51c2255429924173fb5b4
+Neil B. Shulman was the associate producer of what 1991 American romantic comedy film directed by Michael Caton-Jones?
+A: ["Doc Hollywood"]
+Q: Neil B. Shulman was the associate producer of what 1991 American romantic comedy film directed by Michael Caton-Jones?
+A: "Neil B. Shulman was not the associate producer of \"Doc Hollywood.\" According to the information provided, \"Doc Hollywood\" is a 1991 American romantic comedy film directed by Michael Caton-Jones, and based on Neil B. Shulman's book, \"What? Dead...Again?\" However, Shulman's role was as the author of the book that the film was based on, not as an associate producer of the film. Therefore, there is no answer to the question as stated."
+A: Neil B. Shulman was not the associate producer of \"Doc Hollywood.\" According to the information provided, \"Doc Hollywood\" is a 1991 American romantic comedy film directed by Michael Caton-Jones, and based on Neil B. Shulman's book, \"What? Dead...Again?\" However, Shulman's role was as the author of the book that the film was based on, not as an associate producer of the film. Therefore, there is no answer to the question as stated
+Q: [EOQ]
+S: 0.0
+
+5a89a74e554299669944a562
+Who directed the second film in a British series of action comedy film parodying the James Bond secret agent genre with comedy similar to Rowan Atkinson's Mr. Bean character?
+A: ["Johnny English (film series)"]
+Q: Who directed the second film in a British series of action comedy film parodying the James Bond secret agent genre with comedy similar to Rowan Atkinson's Mr. Bean character?
+A: "The second film in the Johnny English series is \"Johnny English Reborn\" (2011). However, the Wikipedia page does not specify a director for this film. For \"Johnny English Reborn,\" the director was Ol Parker. So the answer is: Ol Parker directed the second film in the British series of action comedy films parodying the James Bond secret agent genre with comedy similar to Rowan Atkinson's Mr. Bean character."
+A: Ol Parker directed the second film in the British series of action comedy films parodying the James Bond secret agent genre with comedy similar to Rowan Atkinson's Mr. Bean character
+Q: [EOQ]
+S: 0.0
+
+5ab70f79554299110f219aa9
+What is the nationality of this company that services MS Moby Dada?
+A: ["MS Moby Dada"]
+Q: What is the nationality of this company that services MS Moby Dada?
+A: "The company that services MS Moby Dada, Moby Lines, is an American company. Moby Lines is an American cruise and ferry company that operates services in the Caribbean and between Europe and Russia. So the answer is: American."
+A: American
+Q: [EOQ]
+S: 0.0
+
+5ae4ad3155429913cc2044cb
+Do both Adventist World and Girls' Life have a headquarter or editor based in Maryland?
+A: ["Adventist World"]
+Q: Do both Adventist World and Girls' Life have a headquarter or editor based in Maryland?
+A: "Adventist World has its editors based in Silver Spring, Maryland. Girls' Life, on the other hand, is a magazine published by the Girl Scouts of the USA and its headquarters are in Irving, Texas. Therefore, only Adventist World has an editor based in Maryland. So the answer is: No, both Adventist World and Girls' Life do not have a headquarters or editor based in Maryland."
+A: No, both Adventist World and Girls' Life do not have a headquarters or editor based in Maryland
+Q: [EOQ]
+S: 0.0
+
+5ac10c5e554299294b219074
+What state is home to the Lake Wobegon Trails and the recording location for the live radio show "A Prairie Home Companion"?
+A: ["Lake Wobegon Trails"]
+Q: What state is home to the Lake Wobegon Trails and the recording location for the live radio show "A Prairie Home Companion"?
+A: "The state that is home to the Lake Wobegon Trails and the recording location for the live radio show \"A Prairie Home Companion\" is Minnesota. The Lake Wobegon Trails are two paved recreational rail trails in central Minnesota, and \"A Prairie Home Companion\" is broadcast from the Fitzgerald Theater in St. Paul, Minnesota."
+A: The state that is home to the Lake Wobegon Trails and the recording location for the live radio show \"A Prairie Home Companion\" is Minnesota. The Lake Wobegon Trails are two paved recreational rail trails in central Minnesota, and \"A Prairie Home Companion\" is broadcast from the Fitzgerald Theater in St. Paul, Minnesota
+Q: [EOQ]
+S: 0.0
+
+5ac43d575542997ea680ca39
+ Ravi Khote:has included his music in which 2003 Indian drama?
+A: ["K. S. Ravi"]
+Q: Ravi Khote:has included his music in which 2003 Indian drama?
+A: "The information provided does not mention any connection between K. S. Ravi and Ravi Khote, nor does it provide details about a 2003 Indian drama film that included Ravi Khote's music. The question seems to be missing context or contains incorrect information, as K. S. Ravi is a Tamil film director and not associated with Ravi Khote, who is not mentioned in the given context.\n\nIf you meant to ask about a specific film and Ravi Khote's music in it, please provide the correct details or the name of the film, and I will be happy to help you with the information."
+A: The information provided does not mention any connection between K. S. Ravi and Ravi Khote, nor does it provide details about a 2003 Indian drama film that included Ravi Khote's music. The question seems to be missing context or contains incorrect information, as K. S. Ravi is a Tamil film director and not associated with Ravi Khote, who is not mentioned in the given context.\n\nIf you meant to ask about a specific film and Ravi Khote's music in it, please provide the correct details or the name of the film, and I will be happy to help you with the information
+Q: [EOQ]
+S: 0.0
+
+5a77d4eb55429949eeb29f74
+Who was born first, Yanka Dyagileva or Alexander Bashlachev?
+A: ["Yanka Dyagileva"]
+Q: Who was born first, Yanka Dyagileva or Alexander Bashlachev?
+A: "To determine who was born first between Yanka Dyagileva and Alexander Bashlachev, we need to find the birth year of Alexander Bashlachev. However, the provided information about Yanka Dyagileva does not include her birth year, nor does it provide Alexander Bashlachev's birth year. \n\nGiven the information available, we can only state that Yanka Dyagileva was born on 4 September 1966. Without additional information about Alexander Bashlachev's birth year, it's not possible to definitively answer who was born first. \n\nIf you have more information about Alexander Bashlachev's birth year, please provide it, and I can help you determine who was born first."
+A: To determine who was born first between Yanka Dyagileva and Alexander Bashlachev, we need to find the birth year of Alexander Bashlachev. However, the provided information about Yanka Dyagileva does not include her birth year, nor does it provide Alexander Bashlachev's birth year. \n\nGiven the information available, we can only state that Yanka Dyagileva was born on 4 September 1966. Without additional information about Alexander Bashlachev's birth year, it's not possible to definitively answer who was born first. \n\nIf you have more information about Alexander Bashlachev's birth year, please provide it, and I can help you determine who was born first
+Q: [EOQ]
+S: 0.0
+
+5a84afdc5542991dd0999d81
+What golf course, located in Fulton County, Georgia, saw Keegan Bradley win a championship?
+A: ["Bowden Golf Course"]
+Q: What golf course, located in Fulton County, Georgia, saw Keegan Bradley win a championship?
+A: "The information provided does not mention a golf course in Fulton County, Georgia, where Keegan Bradley won a championship. Keegan Bradley won the 2011 PGA Championship at the Olympic Club's Harding Park in San Francisco, California, not in Georgia. Additionally, there is no specific mention of a golf course in Fulton County, Georgia, in the given text about Bowden Golf Course. Therefore, based on the provided information, I cannot determine which golf course in Fulton County, Georgia, Keegan Bradley won a championship at."
+A: The information provided does not mention a golf course in Fulton County, Georgia, where Keegan Bradley won a championship. Keegan Bradley won the 2011 PGA Championship at the Olympic Club's Harding Park in San Francisco, California, not in Georgia. Additionally, there is no specific mention of a golf course in Fulton County, Georgia, in the given text about Bowden Golf Course. Therefore, based on the provided information, I cannot determine which golf course in Fulton County, Georgia, Keegan Bradley won a championship at
+Q: [EOQ]
+S: 0.0
+
+5a728f745542991f9a20c4e6
+Which magazine was founded first, Diva or Elle?
+A: ["Elle (magazine)"]
+Q: Which magazine was founded first, Diva or Elle?
+A: "To answer the question accurately, we need to know the founding dates of both magazines, Diva and Elle.\n\n- **Elle**: As mentioned, Elle was founded in 1945 by Pierre Lazareff and his wife H\u00e9l\u00e8ne Gordon in France.\n\n- **Diva**: Diva is a British women's magazine that was relaunched in 2004. However, it had a previous incarnation in the 1970s, but it was not as widely distributed or recognized as the current version.\n\nGiven these details, Elle was founded in 1945, while Diva was relaunched in 2004. Therefore, Elle was founded first."
+A: To answer the question accurately, we need to know the founding dates of both magazines, Diva and Elle.\n\n- **Elle**: As mentioned, Elle was founded in 1945 by Pierre Lazareff and his wife H\u00e9l\u00e8ne Gordon in France.\n\n- **Diva**: Diva is a British women's magazine that was relaunched in 2004. However, it had a previous incarnation in the 1970s, but it was not as widely distributed or recognized as the current version.\n\nGiven these details, Elle was founded in 1945, while Diva was relaunched in 2004. Therefore, Elle was founded first
+Q: [EOQ]
+S: 0.0
+
+5abd0eae5542996e802b46d4
+Are Muzzle and Screaming Trees both alternative rock bands?
+A: ["Muzzle (band)"]
+Q: Are Muzzle and Screaming Trees both alternative rock bands?
+A: "To answer this question, we need information about both Muzzle and Screaming Trees to determine if they are both alternative rock bands.\n\nFrom the information provided about Muzzle:\n- Muzzle is described as an alternative rock band.\n- They were formed in 1994 and have released albums with Reprise Records.\n\nFor Screaming Trees, the information is not provided in the given context. However, based on general knowledge:\n- Screaming Trees is also widely recognized as an alternative rock band.\n- They were active from 1987 to 2009 and were part of the Seattle music scene in the 1990s, which is known for its alternative rock genre.\n\nGiven this information, we can conclude that both Muzzle and Screaming Trees are alternative rock bands. So the answer is: Yes, Muzzle and Screaming Trees are both alternative rock bands."
+A: Yes, Muzzle and Screaming Trees are both alternative rock bands
+Q: [EOQ]
+S: 0.0
+
+5a85f2f55542997b5ce40036
+Which genus of flowering plants has the most species, Caesalpinia or Achimenes?
+A: ["Achimenes"]
+Q: Which genus of flowering plants has the most species, Caesalpinia or Achimenes?
+A: "To answer this question, we need to compare the number of species in the genus Achimenes with the genus Caesalpinia. According to the information provided:\n\n- Achimenes is described as a genus of about 25 species of tropical and subtropical rhizomatous perennial herbs in the flowering plant family Gesneriaceae.\n\n- Caesalpinia, on the other hand, is not mentioned in the given text, and without specific information on the number of species in Caesalpinia, we cannot make a direct comparison.\n\nHowever, based on the information given about Achimenes, we can only state that Achimenes has about 25 species. For a definitive answer, we would need the number of species in Caesalpinia. Without that information, we cannot determine which genus has more species between Achimenes and Caesalpinia."
+A: To answer this question, we need to compare the number of species in the genus Achimenes with the genus Caesalpinia. According to the information provided:\n\n- Achimenes is described as a genus of about 25 species of tropical and subtropical rhizomatous perennial herbs in the flowering plant family Gesneriaceae.\n\n- Caesalpinia, on the other hand, is not mentioned in the given text, and without specific information on the number of species in Caesalpinia, we cannot make a direct comparison.\n\nHowever, based on the information given about Achimenes, we can only state that Achimenes has about 25 species. For a definitive answer, we would need the number of species in Caesalpinia. Without that information, we cannot determine which genus has more species between Achimenes and Caesalpinia
+Q: [EOQ]
+S: 0.0
+
+5a801e845542992097ad2fd9
+Which magazine produces more print editions yearly, Nautilus or TV Guide?
+A: ["Nautilus (science magazine)"]
+Q: Which magazine produces more print editions yearly, Nautilus or TV Guide?
+A: "To answer this question, we need to compare the number of print editions produced yearly by Nautilus and TV Guide.\n\nFrom the information provided about Nautilus:\n- Nautilus publishes a print edition six times a year.\n\nFor TV Guide, the information is not provided directly in the given context. However, it is a well-known fact that TV Guide typically publishes weekly issues, which would equate to 52 issues per year.\n\nTherefore, comparing the two:\n- Nautilus: 6 print editions per year\n- TV Guide: 52 issues per year\n\nThe answer is: TV Guide produces more print editions yearly than Nautilus."
+A: TV Guide produces more print editions yearly than Nautilus
+Q: [EOQ]
+S: 0.0
+
+5abda4dd55429965af743d95
+Ivan Konrad Trajkovič qualified for which major international multi-sport event celebrated in the tradition of the Olympic Games, as governed by the International Olympic Committee?
+A: ["2020 Summer Olympics"]
+Q: Ivan Konrad Trajkovič qualified for which major international multi-sport event celebrated in the tradition of the Olympic Games, as governed by the International Olympic Committee?
+A: "The information provided does not include any details about Ivan Konrad Trajkovi\u010d or his qualification for any specific Olympic event. The question about Ivan Konrad Trajkovi\u010d cannot be answered based on the given context about the 2020 Summer Olympics. To answer this question, we would need additional information about Ivan Konrad Trajkovi\u010d and his participation in the Olympics."
+A: The information provided does not include any details about Ivan Konrad Trajkovi\u010d or his qualification for any specific Olympic event. The question about Ivan Konrad Trajkovi\u010d cannot be answered based on the given context about the 2020 Summer Olympics. To answer this question, we would need additional information about Ivan Konrad Trajkovi\u010d and his participation in the Olympics
+Q: [EOQ]
+S: 0.0
+
+5ac3126f5542995ef918c0e8
+ Is it correct to state that Tetrapanax is an evergreen shrub as opposed to Hippophae which is a genus of sea buckthorns, a deciduous shrub?
+A: ["Hippophae"]
+Q: Is it correct to state that Tetrapanax is an evergreen shrub as opposed to Hippophae which is a genus of sea buckthorns, a deciduous shrub?
+A: "No, it is not correct to state that Tetrapanax is an evergreen shrub as opposed to Hippophae being a genus of sea buckthorns, a deciduous shrub. Tetrapanax is not mentioned in the provided information, but based on general botanical knowledge, Tetrapanax is indeed an evergreen shrub or small tree in the family Araliaceae. It is native to East Asia and is known for its large, palm-like leaves. On the other hand, Hippophae, as described, is a genus of deciduous shrubs. Therefore, the statement is correct in comparing the growth habit of these two genera, but Tetrapanax needs to be confirmed from its specific botanical description."
+A: No, it is not correct to state that Tetrapanax is an evergreen shrub as opposed to Hippophae being a genus of sea buckthorns, a deciduous shrub. Tetrapanax is not mentioned in the provided information, but based on general botanical knowledge, Tetrapanax is indeed an evergreen shrub or small tree in the family Araliaceae. It is native to East Asia and is known for its large, palm-like leaves. On the other hand, Hippophae, as described, is a genus of deciduous shrubs. Therefore, the statement is correct in comparing the growth habit of these two genera, but Tetrapanax needs to be confirmed from its specific botanical description
+Q: [EOQ]
+S: 0.0
+
+5a89fb525542993b751ca9d6
+Which composer created Night Ferry first performed in 2012 at Symphony Center in Chicago?
+A: ["Night Ferry (composition)"]
+Q: Which composer created Night Ferry first performed in 2012 at Symphony Center in Chicago?
+A: "The composer who created \"Night Ferry,\" which was first performed on February 9, 2012, at Symphony Center in Chicago by the Chicago Symphony Orchestra under conductor Riccardo Muti, is Anna Clyne."
+A: The composer who created \"Night Ferry,\" which was first performed on February 9, 2012, at Symphony Center in Chicago by the Chicago Symphony Orchestra under conductor Riccardo Muti, is Anna Clyne
+Q: [EOQ]
+S: 0.0
+
+5a8d838955429941ae14dfe5
+Eleventh Dream Day and The Shins are both rock bands from where?
+A: ["Eleventh Dream Day"]
+Q: Eleventh Dream Day and The Shins are both rock bands from where?
+A: "Eleventh Dream Day is from Chicago, Illinois, United States. However, The Shins are from Albuquerque, New Mexico, United States. Therefore, based on the information provided about Eleventh Dream Day, we can only state that Eleventh Dream Day is from the United States. We do not have information about The Shins in this context."
+A: Eleventh Dream Day is from Chicago, Illinois, United States. However, The Shins are from Albuquerque, New Mexico, United States. Therefore, based on the information provided about Eleventh Dream Day, we can only state that Eleventh Dream Day is from the United States. We do not have information about The Shins in this context
+Q: [EOQ]
+S: 0.0
+
+5abd14c455429924427fceec
+Who will conduct the firing cannons in Victoria as part of a musical piece written to celebrate the defeat of Napoleon in Russia?
+A: ["Napoleons, Victoria"]
+Q: Who will conduct the firing cannons in Victoria as part of a musical piece written to celebrate the defeat of Napoleon in Russia?
+A: "The information provided does not include any details about conducting firing cannons or a musical piece celebrating the defeat of Napoleon in Russia. The Wikipedia page on Napoleons, Victoria, only provides demographic and geographic information about the town. Without additional context or information, it's not possible to determine who would conduct firing cannons as part of a musical piece in Victoria. This question seems to require specific information about a local event or performance that is not present in the given context."
+A: The information provided does not include any details about conducting firing cannons or a musical piece celebrating the defeat of Napoleon in Russia. The Wikipedia page on Napoleons, Victoria, only provides demographic and geographic information about the town. Without additional context or information, it's not possible to determine who would conduct firing cannons as part of a musical piece in Victoria. This question seems to require specific information about a local event or performance that is not present in the given context
+Q: [EOQ]
+S: 0.0
+
+5ab82dbb5542990e739ec857
+The FIBT World Championships 1960 took place in a town located in which part of Italy ?
+A: ["FIBT World Championships 1971"]
+Q: The FIBT World Championships 1960 took place in a town located in which part of Italy ?
+A: "The FIBT World Championships 1960 took place in Cortina d'Ampezzo, Italy. Cortina d'Ampezzo is located in the Alpine region of northeastern Italy, in the province of Belluno, in the region of Veneto. So the answer is: the Alpine region of northeastern Italy."
+A: the Alpine region of northeastern Italy
+Q: [EOQ]
+S: 0.0
+
+5a8f13d55542997ba9cb31c9
+Philip Savage served as Direcor of Player Personnel for the Baltimore Ravens under what general manager who was inducted into both the College and Pro Football Halls of Fame?
+A: ["Phil Savage"]
+Q: Philip Savage served as Direcor of Player Personnel for the Baltimore Ravens under what general manager who was inducted into both the College and Pro Football Halls of Fame?
+A: "Philip Savage served as Director of Player Personnel for the Baltimore Ravens under General Manager Ozzie Newsome, who was inducted into both the College and Pro Football Halls of Fame. So the answer is: Ozzie Newsome."
+A: Ozzie Newsome
+Q: [EOQ]
+S: 0.0
+
+5ac160605542994ab5c67d02
+Who coached the Indians and was the first Native American to win a gold metal his home country?
+A: ["Native metal"]
+Q: Who coached the Indians and was the first Native American to win a gold metal his home country?
+A: "The information provided does not contain any details about a Native American coach who won a gold medal in their home country. To answer this question accurately, we would need specific information about an individual who fits this description. \n\nHowever, I can provide some context. Jim Thorpe, a Native American athlete, was the first Native American to win a gold medal in his home country. He won gold medals in the pentathlon and decathlon at the 1912 Olympics in Stockholm, Sweden. He was also a football player and professional baseball player. \n\nIf you are looking for a coach who fits this description, there is no widely known figure that matches the criteria based on the information available. If you have more specific details or a particular sport in mind, please provide that information, and I can assist further."
+A: The information provided does not contain any details about a Native American coach who won a gold medal in their home country. To answer this question accurately, we would need specific information about an individual who fits this description. \n\nHowever, I can provide some context. Jim Thorpe, a Native American athlete, was the first Native American to win a gold medal in his home country. He won gold medals in the pentathlon and decathlon at the 1912 Olympics in Stockholm, Sweden. He was also a football player and professional baseball player. \n\nIf you are looking for a coach who fits this description, there is no widely known figure that matches the criteria based on the information available. If you have more specific details or a particular sport in mind, please provide that information, and I can assist further
+Q: [EOQ]
+S: 0.0

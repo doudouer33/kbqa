@@ -1,0 +1,360 @@
+
+5a7248665542990c210a40b1
+What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played? 
+A: ["Fred (footballer)", "Renato Chaves", "Freddy Chaves", "Frederico Rosa", "Frederico Da Costa", "Frederico Ven\u00e2ncio", "Frederico", "Esteban Chaves", "Florida Strikers", "South Starworld Strikers F.C.", "G.D. Chaves", "Leandro Chaves", "Jo\u00e3o Carlos Pinto Chaves", "Eagle Strikers", "Frederico Viegas"]
+Q: What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played?
+A: "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atl\u00e9tico Mineiro. Atl\u00e9tico Mineiro is a Campeonato Brasileiro S\u00e9rie A club, and Frederico Chaves Guedes is a Brazilian professional footballer who plays as a striker for this team."
+A: The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atl\u00e9tico Mineiro. Atl\u00e9tico Mineiro is a Campeonato Brasileiro S\u00e9rie A club, and Frederico Chaves Guedes is a Brazilian professional footballer who plays as a striker for this team
+Q: [EOQ]
+S: 0.0
+
+5a79b495554299148911fa3b
+Which serial killer was known to start killing first, Wayne Boden or Ted Bundy?
+A: ["Wayne Boden", "Ted Bundy (film)", "Bundy: An American Icon", "Olivia Newton Bundy", "The Deliberate Stranger", "Carol M. Bundy", "Ted Bundy", "Serial killer", "Serial Killers Ink", "List of serial killers by number of victims", "Edward Cowart", "Michael Wayne McGray", "Terry Blair (serial killer)", "Serial Killers (musical group)", "Gosnell: America's Biggest Serial Killer"]
+Q: Which serial killer was known to start killing first, Wayne Boden or Ted Bundy?
+A: "Wayne Boden was active between 1969 and 1971, while Ted Bundy's killing spree began in the late 1970s. Therefore, Wayne Boden started killing before Ted Bundy. So the answer is: Wayne Boden."
+A: Wayne Boden
+Q: [EOQ]
+S: 0.0
+
+5abdc0ad55429933744ab81b
+Which band was formed first, Goldfinger or The Fray?
+A: ["Goldfinger (band)", "The Best of Goldfinger", "The Fray", "Race the Fray", "Auric Goldfinger", "Goldfinger (album)", "Goldfinger (dragster)", "Goldfinger (novel)", "Goldfinger (surname)", "Through the Years: The Best of the Fray", "Goldfinger (film)", "Goldfinger discography", "Frais", "Open Your Eyes (Goldfinger album)", "Myron Goldfinger"]
+Q: Which band was formed first, Goldfinger or The Fray?
+A: "Goldfinger was formed in 1994, while The Fray was formed in 2002. Therefore, Goldfinger was formed first."
+A: Goldfinger was formed in 1994, while The Fray was formed in 2002. Therefore, Goldfinger was formed first
+Q: [EOQ]
+S: 0.0
+
+5ac00278554299012d1db56b
+What profession do Raj Kapoor and Mike Cahill share?
+A: ["Raj Kapoor", "Raj Kapoor filmography", "Raj Kapoor bibliography", "Mike Cahill (director)", "Aditya Raj Kapoor", "List of awards and nominations received by Raj Kapoor", "Raj Kapoor (Tamil film director)", "Do Ustad (1959 film)", "Do Premee", "Mike Cahill", "Kapoor Haveli", "Karan Kapoor", "Do Jasoos", "Shashi Kapoor", "Sanjay Kapoor"]
+Q: What profession do Raj Kapoor and Mike Cahill share?
+A: "Raj Kapoor and Mike Cahill do not share the same profession based on the information provided. Raj Kapoor was an Indian film actor, producer, and director in Hindi cinema, while Mike Cahill is an American film director and screenwriter. Therefore, the answer is that they do not share a profession."
+A: that they do not share a profession
+Q: [EOQ]
+S: 0.0
+
+5a8bbfb15542995e66a474f6
+Peter Curtis and Scott Draper are both what?
+A: ["Scott Draper", "Peter Draper", "Scott Curtis", "Peter Curtis (tennis)", "Curtis Scott", "Curtis M. Scott", "Peter Curtis (diplomat)", "Curtis Arnoux Peters", "Live at Ronnie Scott's (Curtis Mayfield album)", "Peter Curtis (footballer)", "Peter Scott", "What Now, Catherine Curtis?", "Draper", "Peter Scott (disambiguation)", "Peter Scott (thief)"]
+Q: Peter Curtis and Scott Draper are both what?
+A: "Peter Curtis and Scott Draper are both athletes, though in different sports.\n\n- Peter Curtis is a former British professional tennis player. He reached the fourth round of the French Open and US Open in the 1990s.\n\n- Scott Draper is an Australian former tennis player and golfer. He won the Australian Open Mixed Doubles with Sam Stosur in 2005.\n\nSo, while both have had careers in sports, they specialized in different sports: tennis for both, but Draper also had a brief career in golf."
+A: Peter Curtis and Scott Draper are both athletes, though in different sports.\n\n- Peter Curtis is a former British professional tennis player. He reached the fourth round of the French Open and US Open in the 1990s.\n\n- Scott Draper is an Australian former tennis player and golfer. He won the Australian Open Mixed Doubles with Sam Stosur in 2005.\n\nSo, while both have had careers in sports, they specialized in different sports: tennis for both, but Draper also had a brief career in golf
+Q: [EOQ]
+S: 0.0
+
+5ac173295542994ab5c67d45
+What occupation do Graham Streeter and Geir Hansteen Jörgensen both have in common.
+A: ["Geir Hansteen J\u00f6rgensen", "Graham Streeter", "Viggo Hansteen", "Kirsten Hansteen", "Mons Hansteen", "Kapp Hansteen", "Geir Zahl", "Waldemar Hansteen", "Ossian J\u00f6rgensen", "Occupational stress", "Hans Jacob Hansteen", "Streeter (surname)", "Geir", "Streeter, West Virginia", "Aasta Hansteen"]
+Q: What occupation do Graham Streeter and Geir Hansteen Jörgensen both have in common.
+A: "Graham Streeter is an American film director, screenwriter, and cinematographer, while Geir Hansteen J\u00f6rgensen is a Swedish television, film, and commercials director. Both Graham Streeter and Geir Hansteen J\u00f6rgensen share the occupation of being directors. So the answer is: directors."
+A: directors
+Q: [EOQ]
+S: 0.0
+
+5abcc818554299658360048b
+In which event did Tyson Gay and Rodney Martin both represent the United States at the 2008 Beijing Olympics?
+A: ["Rodney Martin (athlete)", "United States at the 2008 Summer Olympics", "2008 United States Olympic Trials (swimming)", "Beijing Olympic Village", "Tyson Events Center", "Basketball at the 2008 Summer Olympics", "Tyson Gay", "Andorra at the 2008 Summer Olympics", "Beijing 2008 (video game)", "Philippines at the 2008 Summer Olympics", "Belize at the 2008 Summer Olympics", "Suriname at the 2008 Summer Olympics", "United States House of Representatives elections, 2008", "Brendon Rodney", "Bulgaria at the 2008 Summer Olympics"]
+Q: In which event did Tyson Gay and Rodney Martin both represent the United States at the 2008 Beijing Olympics?
+A: "Based on the information provided, both Tyson Gay and Rodney Martin represented the United States at the 2008 Beijing Olympics. Tyson Gay competed in the 100m and 200m sprint events, while Rodney Martin was part of the 4 \u00d7 100 m relay team. Therefore, the event in which both Tyson Gay and Rodney Martin represented the United States at the 2008 Beijing Olympics was the 4 \u00d7 100 m relay."
+A: Based on the information provided, both Tyson Gay and Rodney Martin represented the United States at the 2008 Beijing Olympics. Tyson Gay competed in the 100m and 200m sprint events, while Rodney Martin was part of the 4 \u00d7 100 m relay team. Therefore, the event in which both Tyson Gay and Rodney Martin represented the United States at the 2008 Beijing Olympics was the 4 \u00d7 100 m relay
+Q: [EOQ]
+S: 0.0
+
+5a7aa9425542992d025e66e4
+Who passed away first Robert Graves or Dino Buzzati ?
+A: ["Dino Buzzati", "Pass away", "Robert Graves", "Robert Graves (engraver)", "Robert Graves (disambiguation)", "Robert Edmund Graves", "Passed Away (film)", "Far Away Trains Passing By", "Robert Graves (rugby)", "Grave of Robert F. Kennedy", "Robert Muir Graves", "Samuel Robert Graves", "Adriano Buzzati-Traverso", "Robert James Graves", "Tom\u00e1s Graves"]
+Q: Who passed away first Robert Graves or Dino Buzzati ?
+A: "To determine who passed away first, Robert Graves or Dino Buzzati, we need to look at their respective dates of death:\n\n- Robert Graves died on 7 December 1985.\n- Dino Buzzati died on 28 January 1972.\n\nSince 28 January 1972 comes before 7 December 1985, Dino Buzzati passed away first.\n\nSo the answer is: Dino Buzzati."
+A: Dino Buzzati
+Q: [EOQ]
+S: 0.0
+
+5ae1b1aa5542997283cd223f
+What was the other Los Angeles team that the 1999 Clippers top draft pick played for and won two championships with?
+A: ["Los Angeles Clippers", "1999\u20132000 Los Angeles Clippers season", "Los Angeles Clippers draft history", "List of Los Angeles Angels first-round draft picks", "List of Los Angeles Clippers head coaches", "List of Los Angeles Clippers seasons", "List of Los Angeles Clippers broadcasters", "Los Angeles Clippers all-time roster", "1998\u201399 Los Angeles Clippers season", "1986\u201387 Los Angeles Clippers season", "List of Los Angeles Lakers first and second round draft picks", "List of Los Angeles Kings draft picks", "Los Angeles Clippers Training Center"]
+Q: What was the other Los Angeles team that the 1999 Clippers top draft pick played for and won two championships with?
+A: "The 1999 NBA draft saw the Los Angeles Clippers select Lamar Odom with the first overall pick. Lamar Odom went on to play for the Los Angeles Lakers, where he won two championships in 2009 and 2010. Therefore, the other Los Angeles team that Lamar Odom played for and won championships with is the Los Angeles Lakers."
+A: The 1999 NBA draft saw the Los Angeles Clippers select Lamar Odom with the first overall pick. Lamar Odom went on to play for the Los Angeles Lakers, where he won two championships in 2009 and 2010. Therefore, the other Los Angeles team that Lamar Odom played for and won championships with is the Los Angeles Lakers
+Q: [EOQ]
+S: 0.0
+
+5a88c92d5542993b751ca84e
+What breed of dog are the Basset Bleu de Gascogne and the Beagle?
+A: ["Basset Bleu de Gascogne", "Griffon Bleu de Gascogne", "Petit Bleu de Gascogne", "Grand Bleu de Gascogne", "Basset Fauve de Bretagne", "Beagle-Harrier", "Basset Hound", "Husky beagle", "List of beagle, harrier and basset packs of the United Kingdom", "Grand Basset Griffon Vend\u00e9en", "North Country Beagle", "Dog breeding", "Beagle", "Dog breed", "Breed type (dog)"]
+Q: What breed of dog are the Basset Bleu de Gascogne and the Beagle?
+A: "The Basset Bleu de Gascogne and the Beagle are both breeds of scent hounds, but they belong to different subcategories within the scent hound group.\n\n- **Basset Bleu de Gascogne**: This is a breed of dog of the hound type, specifically a scent hound. It is a long-backed, short-legged breed that originated in France. It is known for its ticked appearance coat and is used for hunting.\n\n- **Beagle**: This is also a breed of dog of the hound type, specifically a scent hound. Beagles are known for their excellent sense of smell and are often used for hunting hare. They are smaller in stature compared to the Basset Bleu de Gascogne and have a distinctive tricolor (black, white, and tan) coat.\n\nBoth breeds are scent hounds, but they differ in size, structure, and coat appearance."
+A: The Basset Bleu de Gascogne and the Beagle are both breeds of scent hounds, but they belong to different subcategories within the scent hound group.\n\n- **Basset Bleu de Gascogne**: This is a breed of dog of the hound type, specifically a scent hound. It is a long-backed, short-legged breed that originated in France. It is known for its ticked appearance coat and is used for hunting.\n\n- **Beagle**: This is also a breed of dog of the hound type, specifically a scent hound. Beagles are known for their excellent sense of smell and are often used for hunting hare. They are smaller in stature compared to the Basset Bleu de Gascogne and have a distinctive tricolor (black, white, and tan) coat.\n\nBoth breeds are scent hounds, but they differ in size, structure, and coat appearance
+Q: [EOQ]
+S: 0.0
+
+5ae14def55429901ffe4ae4a
+Do both Lee Tamahori and Robert Redford work as a director?
+A: ["Lee Tamahori", "Robert Redford filmography", "Robert Redford", "List of awards and nominations received by Robert Redford", "Amy Redford", "Lee Roberts", "Grace Lee (director)", "Ryan Redford", "Redford cabinet", "Christopher-Lee Dos Santos", "Robert Lee Roberts", "Peter Lee (director)", "Redford, Edinburgh", "Paul Redford", "Robert Lee, Lord Lee"]
+Q: Do both Lee Tamahori and Robert Redford work as a director?
+A: "Yes, both Lee Tamahori and Robert Redford have worked as directors.\n\nLee Tamahori is known for directing films such as \"Once Were Warriors\" (1994) and \"Die Another Day\" (2002).\n\nRobert Redford, while primarily known as an actor, has also directed films. Some of his directorial works include \"A River Runs Through It\" (1992), \"The Conspirator\" (2010), and \"All Is Lost\" (2013).\n\nSo, to directly answer the question: Yes, both Lee Tamahori and Robert Redford have worked as directors."
+A: Yes, both Lee Tamahori and Robert Redford have worked as directors.\n\nLee Tamahori is known for directing films such as \"Once Were Warriors\" (1994) and \"Die Another Day\" (2002).\n\nRobert Redford, while primarily known as an actor, has also directed films. Some of his directorial works include \"A River Runs Through It\" (1992), \"The Conspirator\" (2010), and \"All Is Lost\" (2013).\n\nSo, to directly answer the question: Yes, both Lee Tamahori and Robert Redford have worked as directors
+Q: [EOQ]
+S: 0.0
+
+5a7f732d5542992e7d278d02
+Who was born first, Adrian McLaren or Ryan McLaren?
+A: ["Adrian McLaren", "Ryan McLaren", "McLaren 12C", "McLaren MP4-20", "McLaren v McLaren", "McLaren", "McLaren Automotive", "McLaren (disambiguation)", "McLaren 720S", "McLaren M4B", "McLaren M6A", "McLaren Technology Centre", "McLaren M5A", "McLaren M14A", "McLaren M7A"]
+Q: Who was born first, Adrian McLaren or Ryan McLaren?
+A: "Adrian McLaren was born on 21 April 1980, while Ryan McLaren was born on 9 February 1983. Therefore, Adrian McLaren was born first."
+A: Adrian McLaren was born on 21 April 1980, while Ryan McLaren was born on 9 February 1983. Therefore, Adrian McLaren was born first
+Q: [EOQ]
+S: 0.0
+
+5a7e6c725542991319bc94a4
+Which band was formed first, Fitz and The Tantrums or The Contortionist?
+A: ["Fitz and the Tantrums discography", "Fitz and the Tantrums (album)", "Pickin' Up the Pieces (Fitz and The Tantrums album)", "Fitz and The Tantrums", "Tantrum of the Muse", "Tantrum (album)", "Tantrum (Sri Lankan band)", "The Contortionist", "Thomas Tantrum", "The Contortionist's Handbook", "Thomas Tantrum (album)", "HandClap", "Tantrum", "Luis Martinetti, Contortionist", "Michael Fitzpatrick (musician)"]
+Q: Which band was formed first, Fitz and The Tantrums or The Contortionist?
+A: "Fitz and The Tantrums was formed first. According to the information provided, Fitz and The Tantrums formed in 2008, while The Contortionist was formed in 2007. Therefore, the answer is: Fitz and The Tantrums."
+A: Fitz and The Tantrums
+Q: [EOQ]
+S: 0.0
+
+5a7f5e0455429969796c1a12
+Spill.com gave their final review for a movie directed by who?
+A: ["Spill.com", "Movie Review Query Engine", "Movie Review Intelligence", "ITV at the Movies", "The Woman Who Gave", "Movie and Television Review and Classification Board", "Full and Final", "Leonard Maltin's Movie Guide", "Review", "Gaves r\u00e9unis", "Gintama: The Movie: The Final Chapter: Be Forever Yorozuya", "Gave d'Oloron", "Yahoo! Movies", "Movie Lounge", "Maltin on Movies"]
+Q: Spill.com gave their final review for a movie directed by who?
+A: "Spill.com gave their final review for the 2013 Disney film \"Saving Mr. Banks\". The movie was directed by John Lee Hancock."
+A: Spill.com gave their final review for the 2013 Disney film \"Saving Mr. Banks\". The movie was directed by John Lee Hancock
+Q: [EOQ]
+S: 0.0
+
+5a7982435542994bb945701f
+What was the formal name of the building that housed the scene that formed the band Hjertestop?
+A: ["Hjertestop", "Little band scene", "The Seldom Scene", "Behind the Scenes (band)", "At the Scene", "A Formal Sigh", "The Names (band)", "Deleted Scenes (band)", "Concubine Forming", "The Name of the Band Is Cowboy Mouth", "The Forms (band)", "Formed a Band", "Our House (band)", "No Name (Slovak band)", "Formal grammar"]
+Q: What was the formal name of the building that housed the scene that formed the band Hjertestop?
+A: "The formal name of the building that housed the scene around which Hjertestop was formed was Ungdomshuset. Ungdomshuset was a center for youth culture and alternative activities in Copenhagen, Denmark, and it was the hub of the punk scene where Hjertestop and other bands like Incontrollados, D\u00f8d Ungdom, Young Wasteners, and Leathervein were formed."
+A: The formal name of the building that housed the scene around which Hjertestop was formed was Ungdomshuset. Ungdomshuset was a center for youth culture and alternative activities in Copenhagen, Denmark, and it was the hub of the punk scene where Hjertestop and other bands like Incontrollados, D\u00f8d Ungdom, Young Wasteners, and Leathervein were formed
+Q: [EOQ]
+S: 0.0
+
+5ac029655542992a796decb3
+Which game is designed by more persons, Elfenland or San Marco?
+A: ["Elfenland", "San Marco (board game)", "San Marcos High School (San Marcos, California)", "San Marco basin", "San Marcos, Cajamarca", "San Marco", "San Pablo, San Marcos", "San Marcos, Guatemala", "San Marco Pass", "San Marcos", "Lake San Marcos, California", "San Marcos, California", "San Marcos Outlet Malls", "San Marcos Airport (Guatemala)", "Columns of San Marco and San Todaro"]
+Q: Which game is designed by more persons, Elfenland or San Marco?
+A: "Elfenland is designed by Alan R. Moon, while San Marco is a game designed by Alan R. Moon and Aaron Weissblum. Since San Marco has two designers, it was designed by more persons than Elfenland. So the answer is: San Marco."
+A: San Marco
+Q: [EOQ]
+S: 0.0
+
+5a8cdcb0554299441c6b9f33
+Was the film Splash released before the film Tangled? 
+A: ["Tangled: Before Ever After", "Splash (film)", "Tangled Skeins", "A Bigger Splash (film)", "Splash of colour", "Tangled Trails", "Tangled Destinies", "Tangled: The Video Game", "Tangled Lives (1910 film)", "Their Social Splash", "Release (film)", "Tangled (2001 film)", "Before Dawn (film)", "List of fantasy films before 1930", "List of thriller films before 1940"]
+Q: Was the film Splash released before the film Tangled?
+A: "The film \"Splash\" was released in 1984, while \"Tangled\" (the 2010 Disney animated film) was released in 2010. Therefore, \"Splash\" was indeed released before \"Tangled.\" So the answer is: Yes, \"Splash\" was released before \"Tangled.\""
+A: Yes, \"Splash\" was released before \"Tangled.\"
+Q: [EOQ]
+S: 0.0
+
+5a89bf18554299669944a591
+Do writers John O'Hara and Bobbie Ann Mason share the same nationality?
+A: ["Bobbie Ann Mason", "Bobbie Ann Mason (song)", "John O'Hara (disambiguation)", "Judi Ann Mason", "John O'Hara (footballer, born 1981)", "John Myers O'Hara", "John Mason (poet)", "John Mason (playwright)", "Bobby Mason", "John Bernard O'Hara", "John Mason Neale", "Asia O'Hara", "John O'Hara", "Bobby Joe Mason", "Ann Margaret O'Hara"]
+Q: Do writers John O'Hara and Bobbie Ann Mason share the same nationality?
+A: "John O'Hara and Bobbie Ann Mason are both American writers, so they do share the same nationality. John O'Hara is known for his works set in early to mid-20th century America, while Bobbie Ann Mason is a Southern United States novelist and short story writer from Kentucky. So the answer is: yes, they share the same nationality."
+A: yes, they share the same nationality
+Q: [EOQ]
+S: 0.0
+
+5a7f68365542994857a7672e
+Which band was formed at an earlier date, Unwritten Law or Jon Spencer Blues Explosion?
+A: ["Jon Spencer Blues Explosion", "Damage (Blues Explosion album)", "Jon Spencer", "Orange (Jon Spencer Blues Explosion album)", "The Jon Spencer Blues Explosion (album)", "Brassy (band)", "Spencer Dickinson", "Unwritten Law (album)", "Unwritten Law", "Unwritten Law discography", "Freedom Tower - No Wave Dance Party 2015", "Meat + Bone", "Extra Width", "Now I Got Worry", "The Hit List (Unwritten Law album)"]
+Q: Which band was formed at an earlier date, Unwritten Law or Jon Spencer Blues Explosion?
+A: "To determine which band was formed at an earlier date, we need to look at the formation dates for both Unwritten Law and Jon Spencer Blues Explosion.\n\n- **Jon Spencer Blues Explosion**: The band was formed in 1991.\n- **Unwritten Law**: The band was formed in 1990.\n\nSince Unwritten Law was formed in 1990 and Jon Spencer Blues Explosion was formed in 1991, Unwritten Law was formed at an earlier date.\n\nSo the answer is: Unwritten Law."
+A: Unwritten Law
+Q: [EOQ]
+S: 0.0
+
+5a7a2dac5542990198eaf0b6
+Who is younger, Keisuke Kuwata or Moya Brennan?
+A: ["Keisuke Kuwata", "Keisuke Kuwata (album)", "Moya Brennan", "Signature (Moya Brennan album)", "Merry-Go-Round (Moya Brennan song)", "Show Me (Moya Brennan song)", "Heart Strings (Moya Brennan album)", "Kuwata", "Takayuki Kuwata", "Jiro Kuwata", "Br\u00edd\u00edn Brennan", "Naoki Kuwata", "Kaneyoshi Kuwata", "Hiroko Kuwata", "\u00d3scar Salas Moya"]
+Q: Who is younger, Keisuke Kuwata or Moya Brennan?
+A: "To determine who is younger between Keisuke Kuwata and Moya Brennan, we need to look at their birth years:\n\n- Keisuke Kuwata was born on February 26, 1956.\n- Moya Brennan was born on August 4, 1952.\n\nSince Moya Brennan was born in 1952, and Keisuke Kuwata was born in 1956, Moya Brennan is younger than Keisuke Kuwata.\n\nSo the answer is: Moya Brennan."
+A: Moya Brennan
+Q: [EOQ]
+S: 0.0
+
+5ac51c2255429924173fb5b4
+Neil B. Shulman was the associate producer of what 1991 American romantic comedy film directed by Michael Caton-Jones?
+A: ["Doc Hollywood", "Michael Caton-Jones", "Neil B. Shulman", "B. Monkey", "Romantic Comedy (1983 film)", "The Romantic (film)", "Romantic Comedy 101", "Romantic Comedy (2010 film)", "The Romantics (film)", "Romantic comedy (disambiguation)", "Michael Shulman (actor)", "Asher (film)", "List of romantic comedy films", "What a Night! (1928 film)", "Michael Shulman (writer)"]
+Q: Neil B. Shulman was the associate producer of what 1991 American romantic comedy film directed by Michael Caton-Jones?
+A: "Neil B. Shulman was the associate producer of the 1991 American romantic comedy film \"Doc Hollywood,\" which was directed by Michael Caton-Jones. So the answer is: Doc Hollywood."
+A: Doc Hollywood
+Q: [EOQ]
+S: 0.0
+
+5a89a74e554299669944a562
+Who directed the second film in a British series of action comedy film parodying the James Bond secret agent genre with comedy similar to Rowan Atkinson's Mr. Bean character?
+A: ["Johnny English (film series)", "Johnny English", "Johnny English Reborn", "Mr. Bean (character)", "Mr. Bean's Holiday", "Bean (film)", "Aces Go Places (film series)", "British comedy films", "Parody film", "French comedy films", "Rowan Atkinson", "Motifs in the James Bond film series", "Comedy film", "The Last of the Secret Agents?", "Mr. Bean"]
+Q: Who directed the second film in a British series of action comedy film parodying the James Bond secret agent genre with comedy similar to Rowan Atkinson's Mr. Bean character?
+A: "The second film in the British series of action comedy films parodying the James Bond secret agent genre, with comedy similar to Rowan Atkinson's Mr. Bean character, is \"Johnny English Reborn\". It was directed by Oliver Parker. So the answer is: Oliver Parker."
+A: Oliver Parker
+Q: [EOQ]
+S: 0.0
+
+5ab70f79554299110f219aa9
+What is the nationality of this company that services MS Moby Dada?
+A: ["MS Moby Dada", "MS Moby Drea", "MS Moby Otta", "MS Moby Tommy", "MS Moby Zaz\u00e0", "Sky-mobi", "Moby Lines", "Moby Media Group", "MS Arberia", "Dada (Dada album)", "Hyundai Mobis", "MS Normandy", "Dada", "Damani Dada", "Vachara Dada"]
+Q: What is the nationality of this company that services MS Moby Dada?
+A: "The nationality of the company that services MS Moby Dada is not directly stated in the provided information. However, MS Moby Dada is operated by Moby Lines, which is an Italian shipping company. Therefore, the company that services MS Moby Dada is Italian."
+A: The nationality of the company that services MS Moby Dada is not directly stated in the provided information. However, MS Moby Dada is operated by Moby Lines, which is an Italian shipping company. Therefore, the company that services MS Moby Dada is Italian
+Q: [EOQ]
+S: 0.0
+
+5ae4ad3155429913cc2044cb
+Do both Adventist World and Girls' Life have a headquarter or editor based in Maryland?
+A: ["Adventist World", "Adventist Review", "Girls' Life (magazine)", "Adventist HealthCare", "General Conference of Seventh-day Adventists", "MS-DOS Editor", "Adventist Mission", "Board of Editors in the Life Sciences", "Adventist Girls High School", "Adventist Development and Relief Agency", "Spencerville Adventist Academy", "Girl's Life", "George Washington's Headquarters (Cumberland, Maryland)", "Adventist HealthCare Shady Grove Medical Center", "Kauma Adventist High School"]
+Q: Do both Adventist World and Girls' Life have a headquarter or editor based in Maryland?
+A: "Adventist World has its editors based in Silver Spring, Maryland and Seoul, Korea. The Adventist Review, which has a sister magazine called Adventist World, is headquartered in Silver Spring, Maryland. Girls' Life, the American teen magazine, is headquartered in Baltimore, Maryland. \n\nTherefore, both Adventist World and Girls' Life have headquarters or editors based in Maryland."
+A: Adventist World has its editors based in Silver Spring, Maryland and Seoul, Korea. The Adventist Review, which has a sister magazine called Adventist World, is headquartered in Silver Spring, Maryland. Girls' Life, the American teen magazine, is headquartered in Baltimore, Maryland. \n\nTherefore, both Adventist World and Girls' Life have headquarters or editors based in Maryland
+Q: [EOQ]
+S: 0.0
+
+5ac10c5e554299294b219074
+What state is home to the Lake Wobegon Trails and the recording location for the live radio show "A Prairie Home Companion"?
+A: ["Lake Wobegon Trails", "A Prairie Home Companion", "A Prairie Home Album", "Lake Wobegon", "Leaving Home: A Collection of Lake Wobegon Stories", "Lake Wobegon Days", "A Prairie Home Companion (film)", "A Prairie Home Companion with Chris Thile", "Live Wire Radio", "Prairie Home, Nebraska", "Prairie Home Invasion", "Garrison Keillor", "Home Lake", "My Prairie Home (album)", "Prairie Home Cemetery"]
+Q: What state is home to the Lake Wobegon Trails and the recording location for the live radio show "A Prairie Home Companion"?
+A: "The Lake Wobegon Trails are located in central Minnesota, and the live radio show \"A Prairie Home Companion\" is recorded at the Fitzgerald Theater in Saint Paul, Minnesota. So the answer is: Minnesota."
+A: Minnesota
+Q: [EOQ]
+S: 0.0
+
+5ac43d575542997ea680ca39
+ Ravi Khote:has included his music in which 2003 Indian drama?
+A: ["K. S. Ravi", "Jayam Ravi", "Ravi (music director)", "Abburi Ravi", "Sreejith Ravi", "Ravi Shankar (cartoonist)", "Ravi Teja filmography", "Ravi Varman", "Ravi Kale", "Ravi Shankar's Music Festival from India", "Ravi Basrur", "V. V. Ravi", "Anne Ravi", "Rajeev Ravi", "Ravi Singh (Actor)"]
+Q: Ravi Khote:has included his music in which 2003 Indian drama?
+A: "Based on the information provided, there is no direct mention of Ravi Khote or any specific 2003 Indian drama film that includes his music. The details provided are about various individuals named Ravi and their work in the film industry, but none of them specifically mention Ravi Khote or a 2003 drama film. \n\nTo accurately answer this question, we would need additional information about Ravi Khote and the specific drama film in question. If you have more details about Ravi Khote or the film, please provide them, and I can assist further."
+A: Based on the information provided, there is no direct mention of Ravi Khote or any specific 2003 Indian drama film that includes his music. The details provided are about various individuals named Ravi and their work in the film industry, but none of them specifically mention Ravi Khote or a 2003 drama film. \n\nTo accurately answer this question, we would need additional information about Ravi Khote and the specific drama film in question. If you have more details about Ravi Khote or the film, please provide them, and I can assist further
+Q: [EOQ]
+S: 0.0
+
+5a77d4eb55429949eeb29f74
+Who was born first, Yanka Dyagileva or Alexander Bashlachev?
+A: ["Yanka Dyagileva", "Alexander Bashlachev", "Yanka Maur", "Yanka Kupala Park", "Yanka Kupala", "Alina Simone", "Yanka Kupala National Academic Theatre", "Alexander First Nation", "Alexander of Paris", "Alexander", "Charles Alexander (cricketer, born 1847)", "Alexander Vencel (footballer, born 1967)", "William Alexander Mackinnon (politician, born 1784)", "Alexander Nilsson (footballer, born 1990)"]
+Q: Who was born first, Yanka Dyagileva or Alexander Bashlachev?
+A: "Yanka Dyagileva was born on September 4, 1966, while Alexander Bashlachev was born on May 27, 1960. Therefore, Alexander Bashlachev was born first."
+A: Yanka Dyagileva was born on September 4, 1966, while Alexander Bashlachev was born on May 27, 1960. Therefore, Alexander Bashlachev was born first
+Q: [EOQ]
+S: 0.0
+
+5a84afdc5542991dd0999d81
+What golf course, located in Fulton County, Georgia, saw Keegan Bradley win a championship?
+A: ["Bowden Golf Course", "Keegan Bradley", "Fulton County, Georgia", "OGA Golf Course", "University Ridge Golf Course", "Municipal Golf Course", "Bradley, Georgia", "Fulton County Sheriff's Office (Georgia)", "Georgia PGA Championship", "Forest Akers Golf Courses", "Skywest Golf Course", "North Kern Golf Course", "Forres golf course", "Butler's Golf Course", "Geneva Farm Golf Course"]
+Q: What golf course, located in Fulton County, Georgia, saw Keegan Bradley win a championship?
+A: "The information provided does not directly state that Keegan Bradley won a championship at Bowden Golf Course in Fulton County, Georgia. Keegan Bradley is known for his win at the 2011 PGA Championship, but there is no mention of him winning a championship at Bowden Golf Course. The question cannot be definitively answered based on the given information. However, if we are to infer from the information provided, there is no direct connection established between Keegan Bradley and Bowden Golf Course in Fulton County, Georgia."
+A: The information provided does not directly state that Keegan Bradley won a championship at Bowden Golf Course in Fulton County, Georgia. Keegan Bradley is known for his win at the 2011 PGA Championship, but there is no mention of him winning a championship at Bowden Golf Course. The question cannot be definitively answered based on the given information. However, if we are to infer from the information provided, there is no direct connection established between Keegan Bradley and Bowden Golf Course in Fulton County, Georgia
+Q: [EOQ]
+S: 0.0
+
+5a728f745542991f9a20c4e6
+Which magazine was founded first, Diva or Elle?
+A: ["Elle (magazine)", "Diva (magazine)", "Elle (India)", "Elle Style Awards", "Delusional Downtown Divas", "Elle Decor", "Hemerophila diva", "List of Elle (India) cover models", "Found Magazine", "Elle Girl", "The Diva", "Colias diva", "Diva Futura", "List of Elle Girl cover models", "Diva"]
+Q: Which magazine was founded first, Diva or Elle?
+A: "Diva, in the context of the butterfly species Colias diva, was not a magazine but a term used for a butterfly species, which was described in 1889. \n\nElle, the fashion magazine of French origin, was founded much later in 1945 by Pierre Lazareff and his wife H\u00e9l\u00e8ne Gordon.\n\nTherefore, Diva (the butterfly species) was not a magazine and was described earlier than Elle magazine, which was founded in 1945. However, if we are comparing the magazine \"Diva Futura\" to Elle, \"Diva Futura\" was founded in 1983, which is also later than Elle magazine.\n\nSo, to directly answer the question: Elle was founded first."
+A: Diva, in the context of the butterfly species Colias diva, was not a magazine but a term used for a butterfly species, which was described in 1889. \n\nElle, the fashion magazine of French origin, was founded much later in 1945 by Pierre Lazareff and his wife H\u00e9l\u00e8ne Gordon.\n\nTherefore, Diva (the butterfly species) was not a magazine and was described earlier than Elle magazine, which was founded in 1945. However, if we are comparing the magazine \"Diva Futura\" to Elle, \"Diva Futura\" was founded in 1983, which is also later than Elle magazine.\n\nSo, to directly answer the question: Elle was founded first
+Q: [EOQ]
+S: 0.0
+
+5abd0eae5542996e802b46d4
+Are Muzzle and Screaming Trees both alternative rock bands?
+A: ["Muzzle (band)", "Screaming Trees", "Screaming Trees discography", "Scream Silence", "Primal Scream discography", "All I Know (Screaming Trees song)", "Bed of Roses (Screaming Trees song)", "Scream (band)", "Anastasia Screamed", "Screaming Banshee Aircrew", "Rock On (The Screaming Jets album)", "Catherine (alternative rock band)", "Dust (Screaming Trees album)", "The Scream (band)", "The Screaming Jets discography"]
+Q: Are Muzzle and Screaming Trees both alternative rock bands?
+A: "Yes, both Muzzle and Screaming Trees are alternative rock bands.\n\nMuzzle is described as an alternative rock band formed in 1994. They have released two albums with Reprise Records: \"Betty Pickup\" in 1996 and \"Actual Size\" in 1999.\n\nScreaming Trees is described as an American rock band formed in Ellensburg, Washington in 1985. Although widely associated with grunge, their sound incorporated hard rock and psychedelic elements, which also falls under the alternative rock genre.\n\nTherefore, both bands can be classified as alternative rock bands."
+A: Yes, both Muzzle and Screaming Trees are alternative rock bands.\n\nMuzzle is described as an alternative rock band formed in 1994. They have released two albums with Reprise Records: \"Betty Pickup\" in 1996 and \"Actual Size\" in 1999.\n\nScreaming Trees is described as an American rock band formed in Ellensburg, Washington in 1985. Although widely associated with grunge, their sound incorporated hard rock and psychedelic elements, which also falls under the alternative rock genre.\n\nTherefore, both bands can be classified as alternative rock bands
+Q: [EOQ]
+S: 0.0
+
+5a85f2f55542997b5ce40036
+Which genus of flowering plants has the most species, Caesalpinia or Achimenes?
+A: ["Achimenes", "Achimenes grandiflora", "Caesalpinia", "Achimenes erecta", "Achimenes longiflora", "Caesalpinia pulcherrima", "Flowering Plants: Evolution Above the Species Level", "The Different Forms of Flowers on Plants of the Same Species", "Flowering plant", "Passion Flower (disambiguation)", "Hillia (plant)", "Oxyrhynchus (plant)", "Asparagus (genus)", "Sarcophyton (plant)", "Spider flower"]
+Q: Which genus of flowering plants has the most species, Caesalpinia or Achimenes?
+A: "To determine which genus has the most species, we need to compare the number of species in each genus:\n\n- **Caesalpinia**: The genus Caesalpinia is described as containing tropical or subtropical woody plants. Historically, membership within the genus has been highly variable, with different publications including anywhere from 70 to 165 species, depending largely on the inclusion or exclusion of species alternately listed under genera such as \"Hoffmannseggia\". However, a specific number is not provided in the given information.\n\n- **Achimenes**: The genus Achimenes is described as having about 25 species of tropical and subtropical rhizomatous perennial herbs in the flowering plant family Gesneriaceae.\n\nGiven the information provided, the genus Caesalpinia has a range of 70 to 165 species, while Achimenes has about 25 species. Therefore, the genus Caesalpinia has more species than Achimenes.\n\nSo, the answer is: Caesalpinia."
+A: Caesalpinia
+Q: [EOQ]
+S: 0.0
+
+5a801e845542992097ad2fd9
+Which magazine produces more print editions yearly, Nautilus or TV Guide?
+A: ["Nautilus (science magazine)", "TV Guide", "TV Guide (Canada)", "Print (magazine)", "TV Guide Award", "More (Belgian magazine)", "The Nautilus (magazine)", "List of TV Guide editions", "Print Solutions Magazine", "Nautilus Award", "TV Guide (New Zealand)", "The Wellington Guide", "List of TV Guide covers (2010s)", "Snowboarder Magazine", "Gemstar-TV Guide International"]
+Q: Which magazine produces more print editions yearly, Nautilus or TV Guide?
+A: "To determine which magazine produces more print editions yearly, we need to look at the publication frequency of each magazine.\n\n- **Nautilus**: The original Nautilus magazine, which focused on the sciences, culture, and philosophy, published one issue on a selected topic each month. This means it published 12 print editions per year.\n\n- **TV Guide**: The TV Guide magazine, which provides television program listings, news, and other content, published a print edition six times a year.\n\nTherefore, Nautilus produces more print editions yearly (12 issues) compared to TV Guide (6 issues). So the answer is: Nautilus."
+A: Nautilus
+Q: [EOQ]
+S: 0.0
+
+5abda4dd55429965af743d95
+Ivan Konrad Trajkovič qualified for which major international multi-sport event celebrated in the tradition of the Olympic Games, as governed by the International Olympic Committee?
+A: ["2020 Summer Olympics", "Ivan Trajkovi\u010d", "Multi-sport event", "2012 Summer Olympics", "International Olympic Committee and gender equality in sports", "International Olympic Committee", "International World Games Association", "Indonesian Olympic Committee", "Olympic sports", "List of multi-sport events", "Summer Olympic Games", "List of international sports events in Australia", "Sports and Olympic Committee of Macau, China", "Olympic Committee of Catalonia", "List of Olympic Game boycotts"]
+Q: Ivan Konrad Trajkovič qualified for which major international multi-sport event celebrated in the tradition of the Olympic Games, as governed by the International Olympic Committee?
+A: "Ivan Konrad Trajkovi\u010d qualified for the 2012 Summer Olympics, which was formally known as the Games of the XXX Olympiad and commonly known as London 2012. This event was celebrated in the tradition of the Olympic Games as governed by the International Olympic Committee (IOC). So the answer is: the 2012 Summer Olympics (London 2012)."
+A: the 2012 Summer Olympics (London 2012)
+Q: [EOQ]
+S: 0.0
+
+5ac3126f5542995ef918c0e8
+ Is it correct to state that Tetrapanax is an evergreen shrub as opposed to Hippophae which is a genus of sea buckthorns, a deciduous shrub?
+A: ["Hippophae", "Hippophae rhamnoides", "Tetrapanax", "Sea buckthorn oil", "Shrub", "List of plants known as buckthorn", "Shrub-steppe", "The Shrubs", "Prostrate shrub", "Evergreen", "Shrub lespedeza", "Shrub (drink)", "Shrubs Wood", "Shrub, California", "Wyoming Basin shrub steppe"]
+Q: Is it correct to state that Tetrapanax is an evergreen shrub as opposed to Hippophae which is a genus of sea buckthorns, a deciduous shrub?
+A: "Yes, it is correct to state that Tetrapanax is an evergreen shrub as opposed to Hippophae, which is a genus of sea buckthorns and a deciduous shrub.\n\n- **Tetrapanax papyrifer**: This is an evergreen shrub in the family Araliaceae. It is known for its distinctive leaves and is native to Taiwan. It is characterized by its persistent green foliage throughout the year.\n\n- **Hippophae rhamnoides**: This is a species of flowering plant in the family Elaeagnaceae, commonly known as common sea buckthorn. It is a deciduous shrub, meaning it loses its leaves annually during the fall and regrows them in the spring.\n\nTherefore, Tetrapanax is an evergreen shrub, while Hippophae is a deciduous shrub."
+A: Yes, it is correct to state that Tetrapanax is an evergreen shrub as opposed to Hippophae, which is a genus of sea buckthorns and a deciduous shrub.\n\n- **Tetrapanax papyrifer**: This is an evergreen shrub in the family Araliaceae. It is known for its distinctive leaves and is native to Taiwan. It is characterized by its persistent green foliage throughout the year.\n\n- **Hippophae rhamnoides**: This is a species of flowering plant in the family Elaeagnaceae, commonly known as common sea buckthorn. It is a deciduous shrub, meaning it loses its leaves annually during the fall and regrows them in the spring.\n\nTherefore, Tetrapanax is an evergreen shrub, while Hippophae is a deciduous shrub
+Q: [EOQ]
+S: 0.0
+
+5a89fb525542993b751ca9d6
+Which composer created Night Ferry first performed in 2012 at Symphony Center in Chicago?
+A: ["Night Ferry (composition)", "Symphony Center", "Symphony No. 1 (Corigliano)", "Symphony No. 1 (Price)", "American Symphony", "Spangled Unicorn", "Annenberg Center for the Performing Arts", "Soundings (Carter)", "A London Symphony", "Symphony No. 5 (Rochberg)", "Symphony in E (Sullivan)", "Symphony No. 2 (Hovhaness)", "Symphony No. 5 (Rouse)", "Kyokuto Symphony: The Five Stars Night @Budokan", "Chicago Symphony Chorus"]
+Q: Which composer created Night Ferry first performed in 2012 at Symphony Center in Chicago?
+A: "The composer who created \"Night Ferry,\" which was first performed in 2012 at Symphony Center in Chicago, is Anna Clyne. The work is an orchestral composition in one movement that was commissioned by the Chicago Symphony Orchestra, for which Clyne was then composer-in-residence. It was first performed on February 9, 2012, at Symphony Center, Chicago, by the Chicago Symphony Orchestra under conductor Riccardo Muti."
+A: The composer who created \"Night Ferry,\" which was first performed in 2012 at Symphony Center in Chicago, is Anna Clyne. The work is an orchestral composition in one movement that was commissioned by the Chicago Symphony Orchestra, for which Clyne was then composer-in-residence. It was first performed on February 9, 2012, at Symphony Center, Chicago, by the Chicago Symphony Orchestra under conductor Riccardo Muti
+Q: [EOQ]
+S: 0.0
+
+5a8d838955429941ae14dfe5
+Eleventh Dream Day and The Shins are both rock bands from where?
+A: ["Eleventh Dream Day", "Shin (band)", "Dream All Day", "Rock Dream", "Where Dream and Day Collide", "Green Day: Rock Band", "From Where You Are", "Caravan of Dreams (band)", "Boulevard of Broken Dreams (Green Day song)", "The Dreams", "The Day-Dream", "When Dream and Tour Unite", "When Dream and Day Unite", "The Dreaming (US band)", "Rainy Day (band)"]
+Q: Eleventh Dream Day and The Shins are both rock bands from where?
+A: "Eleventh Dream Day is an American alternative rock band from Chicago, Illinois, United States. The Shins, on the other hand, are from Albuquerque, New Mexico, United States. Therefore, while Eleventh Dream Day is from Chicago, Illinois, The Shins are from a different location. \n\nTo directly answer the question: Eleventh Dream Day is from Chicago, Illinois, while The Shins are from Albuquerque, New Mexico."
+A: Eleventh Dream Day is an American alternative rock band from Chicago, Illinois, United States. The Shins, on the other hand, are from Albuquerque, New Mexico, United States. Therefore, while Eleventh Dream Day is from Chicago, Illinois, The Shins are from a different location. \n\nTo directly answer the question: Eleventh Dream Day is from Chicago, Illinois, while The Shins are from Albuquerque, New Mexico
+Q: [EOQ]
+S: 0.0
+
+5abd14c455429924427fceec
+Who will conduct the firing cannons in Victoria as part of a musical piece written to celebrate the defeat of Napoleon in Russia?
+A: ["Napoleons, Victoria", "Music in Twelve Parts", "Interpretations: Celebrating the Music of Earth, Wind &amp; Fire", "Napoleon (musical)", "Cannon", "Cannons Creek, Victoria", "MTV Russia Music Awards", "Celebration of the Lizard", "Fire the Cannons", "Victoria fire department", "Napoleon Bunny-Part", "Fire art", "Twelve-pound cannon", "Douglas cannon", "Music of Russia"]
+Q: Who will conduct the firing cannons in Victoria as part of a musical piece written to celebrate the defeat of Napoleon in Russia?
+A: "Based on the information provided, there is no specific mention of a musical piece or a performance involving firing cannons in Victoria to celebrate the defeat of Napoleon in Russia. The closest related information is the \"Napoleon\" musical, but it does not mention any connection to Victoria or a celebration of Napoleon's defeat in Russia. Therefore, we cannot determine who would conduct the firing of cannons in Victoria as part of such a musical piece. More context or information would be needed to answer this question accurately."
+A: Based on the information provided, there is no specific mention of a musical piece or a performance involving firing cannons in Victoria to celebrate the defeat of Napoleon in Russia. The closest related information is the \"Napoleon\" musical, but it does not mention any connection to Victoria or a celebration of Napoleon's defeat in Russia. Therefore, we cannot determine who would conduct the firing of cannons in Victoria as part of such a musical piece. More context or information would be needed to answer this question accurately
+Q: [EOQ]
+S: 0.0
+
+5ab82dbb5542990e739ec857
+The FIBT World Championships 1960 took place in a town located in which part of Italy ?
+A: ["FIBT World Championships 1971", "FIBT World Championships 1960", "FIBT World Championships 1975", "FIBT World Championships 1950", "FIBT World Championships 1954", "FIBT World Championships 1949", "FIBT World Championships 1951", "FIBT World Championships 1996", "FIBT World Championships 1937", "FIBT World Championships 1934", "FIBT World Championships 1985", "FIBT World Championships 1999", "FIBT World Championships 1930", "FIBT World Championships 1986", "FIBT World Championships 1995"]
+Q: The FIBT World Championships 1960 took place in a town located in which part of Italy ?
+A: "The FIBT World Championships 1960 took place in Cortina d'Ampezzo, Italy. Cortina d'Ampezzo is located in the Alpine region of northeastern Italy, in the province of Belluno, in the autonomous region of Veneto. So the answer is: Cortina d'Ampezzo, which is in the Alpine region of northeastern Italy."
+A: Cortina d'Ampezzo, which is in the Alpine region of northeastern Italy
+Q: [EOQ]
+S: 0.0
+
+5a8f13d55542997ba9cb31c9
+Philip Savage served as Direcor of Player Personnel for the Baltimore Ravens under what general manager who was inducted into both the College and Pro Football Halls of Fame?
+A: ["Phil Savage", "Ozzie Newsome", "Pro Football Hall of Fame Game", "College Football Hall of Fame", "Pro Football Hall of Fame", "Baltimore Ravens Ring of Honor", "Scottish Football Hall of Fame", "List of Pro Football Hall of Fame inductees", "List of College Football Hall of Fame inductees (players, A\u2013K)", "Ken Strong", "Pittsburgh Pro Football Hall of Fame", "Jim Parker (American football)", "ITTF Hall of Fame", "List of Alabama Crimson Tide players in the College Football Hall of Fame"]
+Q: Philip Savage served as Direcor of Player Personnel for the Baltimore Ravens under what general manager who was inducted into both the College and Pro Football Halls of Fame?
+A: "Philip Savage served as Director of Player Personnel for the Baltimore Ravens under Ozzie Newsome, who was inducted into both the College Football Hall of Fame and the Pro Football Hall of Fame.\n\nOzzie Newsome Jr. (born March 16, 1956) is a former American football tight end for the Cleveland Browns and the current general manager of the Baltimore Ravens. He was inducted into the College Football Hall of Fame in 1994 and the Pro Football Hall of Fame in 1999."
+A: Philip Savage served as Director of Player Personnel for the Baltimore Ravens under Ozzie Newsome, who was inducted into both the College Football Hall of Fame and the Pro Football Hall of Fame.\n\nOzzie Newsome Jr. (born March 16, 1956) is a former American football tight end for the Cleveland Browns and the current general manager of the Baltimore Ravens. He was inducted into the College Football Hall of Fame in 1994 and the Pro Football Hall of Fame in 1999
+Q: [EOQ]
+S: 0.0
+
+5ac160605542994ab5c67d02
+Who coached the Indians and was the first Native American to win a gold metal his home country?
+A: ["Native metal", "Indian country", "Native American Indian Heritage Month", "List of Native American leaders of the Indian Wars", "Gold coach", "List of Indian Super League coaches", "Indian Americans", "Native Americans in the United States", "Gold Country", "The Payne Family Native American Center", "List of Native American musicians", "Gold repatriation", "John Ford (American football coach)", "Association on American Indian Affairs", "Home On Native Land"]
+Q: Who coached the Indians and was the first Native American to win a gold metal his home country?
+A: "The information provided does not contain a direct answer to the question \"Who coached the Indians and was the first Native American to win a gold medal in his home country?\" Based on the given Wikipedia titles and content, there is no clear answer to this specific question. \n\nTo provide an accurate answer, we would need information about a Native American coach who also won a gold medal in their home country. However, the provided titles and content do not include such information. \n\nIf you have additional context or specific titles that might contain this information, please provide them, and I will be happy to help you find the answer."
+A: The information provided does not contain a direct answer to the question \"Who coached the Indians and was the first Native American to win a gold medal in his home country?\" Based on the given Wikipedia titles and content, there is no clear answer to this specific question. \n\nTo provide an accurate answer, we would need information about a Native American coach who also won a gold medal in their home country. However, the provided titles and content do not include such information. \n\nIf you have additional context or specific titles that might contain this information, please provide them, and I will be happy to help you find the answer
+Q: [EOQ]
+S: 0.0
