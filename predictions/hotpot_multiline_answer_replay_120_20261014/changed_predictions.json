@@ -1,0 +1,48 @@
+[
+  {
+    "k": 1,
+    "qid": "5a8bbfb15542995e66a474f6",
+    "type": "comparison",
+    "question": "Peter Curtis and Scott Draper are both what?",
+    "gold": [
+      "former tennis player"
+    ],
+    "raw_output": "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\nSo the answer is: tennis player.",
+    "raw_sha256": "fe3363471b4fc462167e83bbcdbcf68634f9e912f8af13071b966eba0849a10a",
+    "before": {
+      "serialized_input": "\"Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\\nSo the answer is: tennis player.\"",
+      "llm_answer": "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\nSo the answer is: tennis player.",
+      "regex_input": "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\nSo the answer is: tennis player.",
+      "primary_match": false,
+      "matched_group": null,
+      "fallback": true,
+      "extractor_output": "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player",
+      "prediction": "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player"
+    },
+    "after": {
+      "serialized_input": "\"Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\\nSo the answer is: tennis player.\"",
+      "llm_answer": "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\nSo the answer is: tennis player.",
+      "regex_input": "Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player.\nSo the answer is: tennis player.",
+      "primary_match": true,
+      "matched_group": "tennis player.",
+      "fallback": false,
+      "extractor_output": "tennis player",
+      "prediction": "tennis player"
+    },
+    "before_scores": {
+      "official_em": 0.0,
+      "official_f1": 0.1621621621621622,
+      "repository_em": 0,
+      "repository_f1": 0.18
+    },
+    "after_scores": {
+      "official_em": 0.0,
+      "official_f1": 0.8,
+      "repository_em": 0,
+      "repository_f1": 0.8
+    },
+    "changed": true,
+    "known_unicode_case": false,
+    "yes_no": false
+  }
+]

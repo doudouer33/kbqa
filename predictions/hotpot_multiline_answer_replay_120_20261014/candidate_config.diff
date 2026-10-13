@@ -1,0 +1,28 @@
+diff --git a/base_configs/oner_qa_qwen_hotpotqa_prompt_token_diagnostic.jsonnet b/base_configs/oner_qa_qwen_hotpotqa_multiline_candidate.jsonnet
+index b0e2ded..9fbdb0f 100644
+--- a/base_configs/oner_qa_qwen_hotpotqa_prompt_token_diagnostic.jsonnet
++++ b/base_configs/oner_qa_qwen_hotpotqa_multiline_candidate.jsonnet
+@@ -1,5 +1,5 @@
+-// Independent CoT prompt-format and token-budget experiment.
+-// Preserve stop=[], retrieval, answer extraction, and evaluation behavior.
++// HotpotQA formal-run candidate: match final answer markers after multiline CoT.
++// Preserve the strengthened prompt, 15 examples, generation and evaluation settings.
+ # Set dataset:
+ local dataset = "hotpotqa";
+ local retrieval_corpus_name = dataset;
+@@ -75,7 +75,7 @@ local rc_qa_type = "cot"; # Choices: direct, cot
+         "extract_answer": {
+             "name": "answer_extractor",
+             "query_source": "last_answer",
+-            "regex": ".* answer is:? (.*)\\.?",
++            "regex": "(?s).* answer is:? ([^\\r\\n]*)\\.?",
+             "match_all_on_failure": true,
+             "remove_last_fullstop": true,
+         }
+@@ -87,4 +87,4 @@ local rc_qa_type = "cot"; # Choices: direct, cot
+         "add_pinned_paras": add_pinned_paras,
+     },
+     "prediction_type": "answer"
+-}
+\ No newline at end of file
++}

@@ -1,0 +1,121 @@
+k,qid,changed,before_prediction,after_prediction,before_official_f1,after_official_f1,before_official_em,after_official_em
+1,5a7248665542990c210a40b1,False,Atlético Mineiro,Atlético Mineiro,0,0,0.0,0.0
+1,5a79b495554299148911fa3b,False,Wayne Boden,Wayne Boden,0.8,0.8,0.0,0.0
+1,5abdc0ad55429933744ab81b,False,Goldfinger,Goldfinger,1.0,1.0,1.0,1.0
+1,5ac00278554299012d1db56b,False,director,director,1.0,1.0,1.0,1.0
+1,5a8bbfb15542995e66a474f6,True,"Scott Dennis Draper is an Australian former tennis player. There is no information provided about Peter Curtis, but based on the given context, if we are to compare Scott Draper's profession, the answer would be: tennis player",tennis player,0.1621621621621622,0.8,0.0,0.0
+1,5ac173295542994ab5c67d45,False,director,director,0.6666666666666666,0.6666666666666666,0.0,0.0
+1,5abcc818554299658360048b,False,4 × 100 metre relay,4 × 100 metre relay,0.8000000000000002,0.8000000000000002,0.0,0.0
+1,5a7aa9425542992d025e66e4,False,Dino Buzzati,Dino Buzzati,0.5,0.5,0.0,0.0
+1,5ae1b1aa5542997283cd223f,False,Los Angeles Lakers,Los Angeles Lakers,1.0,1.0,1.0,1.0
+1,5a88c92d5542993b751ca84e,False,hound,hound,0.2857142857142857,0.2857142857142857,0.0,0.0
+1,5ae14def55429901ffe4ae4a,False,yes,yes,1.0,1.0,1.0,1.0
+1,5a7f732d5542992e7d278d02,False,Adrian McLaren,Adrian McLaren,0.8,0.8,0.0,0.0
+1,5a7e6c725542991319bc94a4,False,The Contortionist,The Contortionist,1.0,1.0,1.0,1.0
+1,5a7f5e0455429969796c1a12,False,John Lee Hancock,John Lee Hancock,1.0,1.0,1.0,1.0
+1,5a7982435542994bb945701f,False,Ungdomshuset,Ungdomshuset,0,0,0.0,0.0
+1,5ac029655542992a796decb3,False,San Marco,San Marco,1.0,1.0,1.0,1.0
+1,5a8cdcb0554299441c6b9f33,False,yes,yes,1.0,1.0,1.0,1.0
+1,5a89bf18554299669944a591,False,yes,yes,1.0,1.0,1.0,1.0
+1,5a7f68365542994857a7672e,False,Unwritten Law,Unwritten Law,1.0,1.0,1.0,1.0
+1,5a7a2dac5542990198eaf0b6,False,Keisuke Kuwata,Keisuke Kuwata,1.0,1.0,1.0,1.0
+1,5ac51c2255429924173fb5b4,False,Doc Hollywood,Doc Hollywood,1.0,1.0,1.0,1.0
+1,5a89a74e554299669944a562,False,Ol Parker,Ol Parker,0.5,0.5,0.0,0.0
+1,5ab70f79554299110f219aa9,False,American,American,0,0,0.0,0.0
+1,5ae4ad3155429913cc2044cb,False,no,no,0,0,0.0,0.0
+1,5ac10c5e554299294b219074,False,Minnesota,Minnesota,1.0,1.0,1.0,1.0
+1,5ac43d575542997ea680ca39,False,no,no,0,0,0.0,0.0
+1,5a77d4eb55429949eeb29f74,False,Alexander Bashlachev,Alexander Bashlachev,0.8,0.8,0.0,0.0
+1,5a84afdc5542991dd0999d81,False,no,no,0,0,0.0,0.0
+1,5a728f745542991f9a20c4e6,False,Elle,Elle,1.0,1.0,1.0,1.0
+1,5abd0eae5542996e802b46d4,False,yes,yes,0,0,0.0,0.0
+1,5a85f2f55542997b5ce40036,False,Achimenes,Achimenes,0,0,0.0,0.0
+1,5a801e845542992097ad2fd9,False,TV Guide,TV Guide,1.0,1.0,1.0,1.0
+1,5abda4dd55429965af743d95,False,the 2020 Summer Olympics,the 2020 Summer Olympics,0.6666666666666666,0.6666666666666666,0.0,0.0
+1,5ac3126f5542995ef918c0e8,False,yes,yes,1.0,1.0,1.0,1.0
+1,5a89fb525542993b751ca9d6,False,Anna Clyne,Anna Clyne,1.0,1.0,1.0,1.0
+1,5a8d838955429941ae14dfe5,False,"Chicago, Illinois, United States","Chicago, Illinois, United States",0.6666666666666666,0.6666666666666666,0.0,0.0
+1,5abd14c455429924427fceec,False,no,no,0,0,0.0,0.0
+1,5ab82dbb5542990e739ec857,False,Veneto,Veneto,0.33333333333333337,0.33333333333333337,0.0,0.0
+1,5a8f13d55542997ba9cb31c9,False,Ozzie Newsome,Ozzie Newsome,0.8,0.8,0.0,0.0
+1,5ac160605542994ab5c67d02,False,no,no,0,0,0.0,0.0
+8,5a7248665542990c210a40b1,False,Atlético Mineiro,Atlético Mineiro,0,0,0.0,0.0
+8,5a79b495554299148911fa3b,False,Wayne Boden,Wayne Boden,0.8,0.8,0.0,0.0
+8,5abdc0ad55429933744ab81b,False,Goldfinger,Goldfinger,1.0,1.0,1.0,1.0
+8,5ac00278554299012d1db56b,False,director,director,1.0,1.0,1.0,1.0
+8,5a8bbfb15542995e66a474f6,False,people with the last name Curtis,people with the last name Curtis,0,0,0.0,0.0
+8,5ac173295542994ab5c67d45,False,film directors,film directors,0.5,0.5,0.0,0.0
+8,5abcc818554299658360048b,False,100m dash,100m dash,0,0,0.0,0.0
+8,5a7aa9425542992d025e66e4,False,Dino Buzzati,Dino Buzzati,0.5,0.5,0.0,0.0
+8,5ae1b1aa5542997283cd223f,False,Los Angeles Lakers,Los Angeles Lakers,1.0,1.0,1.0,1.0
+8,5a88c92d5542993b751ca84e,False,scent hound,scent hound,0.25,0.25,0.0,0.0
+8,5ae14def55429901ffe4ae4a,False,yes,yes,1.0,1.0,1.0,1.0
+8,5a7f732d5542992e7d278d02,False,Adrian McLaren,Adrian McLaren,0.8,0.8,0.0,0.0
+8,5a7e6c725542991319bc94a4,False,The Contortionist,The Contortionist,1.0,1.0,1.0,1.0
+8,5a7f5e0455429969796c1a12,False,John Lee Hancock,John Lee Hancock,1.0,1.0,1.0,1.0
+8,5a7982435542994bb945701f,False,Ungdomshuset,Ungdomshuset,0,0,0.0,0.0
+8,5ac029655542992a796decb3,False,San Marco,San Marco,1.0,1.0,1.0,1.0
+8,5a8cdcb0554299441c6b9f33,False,yes,yes,1.0,1.0,1.0,1.0
+8,5a89bf18554299669944a591,False,yes,yes,1.0,1.0,1.0,1.0
+8,5a7f68365542994857a7672e,False,Jon Spencer Blues Explosion,Jon Spencer Blues Explosion,0,0,0.0,0.0
+8,5a7a2dac5542990198eaf0b6,False,Moya Brennan,Moya Brennan,0,0,0.0,0.0
+8,5ac51c2255429924173fb5b4,False,Doc Hollywood,Doc Hollywood,1.0,1.0,1.0,1.0
+8,5a89a74e554299669944a562,False,Oliver Parker,Oliver Parker,1.0,1.0,1.0,1.0
+8,5ab70f79554299110f219aa9,False,Finnish,Finnish,0,0,0.0,0.0
+8,5ae4ad3155429913cc2044cb,False,yes,yes,1.0,1.0,1.0,1.0
+8,5ac10c5e554299294b219074,False,Minnesota,Minnesota,1.0,1.0,1.0,1.0
+8,5ac43d575542997ea680ca39,False,Jayam,Jayam,0,0,0.0,0.0
+8,5a77d4eb55429949eeb29f74,False,Alexander Bashlachev,Alexander Bashlachev,0.8,0.8,0.0,0.0
+8,5a84afdc5542991dd0999d81,False,Atlanta Athletic Club's East Course,Atlanta Athletic Club's East Course,0.28571428571428575,0.28571428571428575,0.0,0.0
+8,5a728f745542991f9a20c4e6,False,Diva,Diva,0,0,0.0,0.0
+8,5abd0eae5542996e802b46d4,False,yes,yes,0,0,0.0,0.0
+8,5a85f2f55542997b5ce40036,False,Caesalpinia,Caesalpinia,1.0,1.0,1.0,1.0
+8,5a801e845542992097ad2fd9,False,Nautilus,Nautilus,0,0,0.0,0.0
+8,5abda4dd55429965af743d95,False,2012 Summer Olympics,2012 Summer Olympics,1.0,1.0,1.0,1.0
+8,5ac3126f5542995ef918c0e8,False,"yes. Tetrapanax is an evergreen shrub, while Hippophae is a genus of sea buckthorns, which are deciduous shrubs","yes. Tetrapanax is an evergreen shrub, while Hippophae is a genus of sea buckthorns, which are deciduous shrubs",0,0,0.0,0.0
+8,5a89fb525542993b751ca9d6,False,Anna Clyne,Anna Clyne,1.0,1.0,1.0,1.0
+8,5a8d838955429941ae14dfe5,False,"Chicago, Illinois, United States","Chicago, Illinois, United States",0.6666666666666666,0.6666666666666666,0.0,0.0
+8,5abd14c455429924427fceec,False,no,no,0,0,0.0,0.0
+8,5ab82dbb5542990e739ec857,False,northeastern Italy,northeastern Italy,0.28571428571428575,0.28571428571428575,0.0,0.0
+8,5a8f13d55542997ba9cb31c9,False,Ozzie Newsome,Ozzie Newsome,0.8,0.8,0.0,0.0
+8,5ac160605542994ab5c67d02,False,no,no,0,0,0.0,0.0
+15,5a7248665542990c210a40b1,False,Atlético Mineiro,Atlético Mineiro,0,0,0.0,0.0
+15,5a79b495554299148911fa3b,False,Wayne Boden,Wayne Boden,0.8,0.8,0.0,0.0
+15,5abdc0ad55429933744ab81b,False,Goldfinger,Goldfinger,1.0,1.0,1.0,1.0
+15,5ac00278554299012d1db56b,False,director,director,1.0,1.0,1.0,1.0
+15,5a8bbfb15542995e66a474f6,False,individuals with the last name Curtis,individuals with the last name Curtis,0,0,0.0,0.0
+15,5ac173295542994ab5c67d45,False,film director,film director,1.0,1.0,1.0,1.0
+15,5abcc818554299658360048b,False,4 × 100 metre relay,4 × 100 metre relay,0.8000000000000002,0.8000000000000002,0.0,0.0
+15,5a7aa9425542992d025e66e4,False,Dino Buzzati,Dino Buzzati,0.5,0.5,0.0,0.0
+15,5ae1b1aa5542997283cd223f,False,Los Angeles Lakers,Los Angeles Lakers,1.0,1.0,1.0,1.0
+15,5a88c92d5542993b751ca84e,False,scent hound,scent hound,0.25,0.25,0.0,0.0
+15,5ae14def55429901ffe4ae4a,False,yes,yes,1.0,1.0,1.0,1.0
+15,5a7f732d5542992e7d278d02,False,Adrian McLaren,Adrian McLaren,0.8,0.8,0.0,0.0
+15,5a7e6c725542991319bc94a4,False,The Contortionist,The Contortionist,1.0,1.0,1.0,1.0
+15,5a7f5e0455429969796c1a12,False,John Lee Hancock,John Lee Hancock,1.0,1.0,1.0,1.0
+15,5a7982435542994bb945701f,False,Ungdomshuset,Ungdomshuset,0,0,0.0,0.0
+15,5ac029655542992a796decb3,False,San Marco,San Marco,1.0,1.0,1.0,1.0
+15,5a8cdcb0554299441c6b9f33,False,yes,yes,1.0,1.0,1.0,1.0
+15,5a89bf18554299669944a591,False,no,no,0,0,0.0,0.0
+15,5a7f68365542994857a7672e,False,Unwritten Law,Unwritten Law,1.0,1.0,1.0,1.0
+15,5a7a2dac5542990198eaf0b6,False,Moya Brennan,Moya Brennan,0,0,0.0,0.0
+15,5ac51c2255429924173fb5b4,False,Doc Hollywood,Doc Hollywood,1.0,1.0,1.0,1.0
+15,5a89a74e554299669944a562,False,Oliver Parker,Oliver Parker,1.0,1.0,1.0,1.0
+15,5ab70f79554299110f219aa9,False,Italian,Italian,0,0,0.0,0.0
+15,5ae4ad3155429913cc2044cb,False,yes,yes,1.0,1.0,1.0,1.0
+15,5ac10c5e554299294b219074,False,Minnesota,Minnesota,1.0,1.0,1.0,1.0
+15,5ac43d575542997ea680ca39,False,no,no,0,0,0.0,0.0
+15,5a77d4eb55429949eeb29f74,False,Alexander Bashlachev,Alexander Bashlachev,0.8,0.8,0.0,0.0
+15,5a84afdc5542991dd0999d81,False,no,no,0,0,0.0,0.0
+15,5a728f745542991f9a20c4e6,False,Diva,Diva,0,0,0.0,0.0
+15,5abd0eae5542996e802b46d4,False,yes,yes,0,0,0.0,0.0
+15,5a85f2f55542997b5ce40036,False,Caesalpinia,Caesalpinia,1.0,1.0,1.0,1.0
+15,5a801e845542992097ad2fd9,False,TV Guide,TV Guide,1.0,1.0,1.0,1.0
+15,5abda4dd55429965af743d95,False,2012 Summer Olympics,2012 Summer Olympics,1.0,1.0,1.0,1.0
+15,5ac3126f5542995ef918c0e8,False,yes,yes,1.0,1.0,1.0,1.0
+15,5a89fb525542993b751ca9d6,False,Anna Clyne,Anna Clyne,1.0,1.0,1.0,1.0
+15,5a8d838955429941ae14dfe5,False,"Chicago, Illinois","Chicago, Illinois",0,0,0.0,0.0
+15,5abd14c455429924427fceec,False,no,no,0,0,0.0,0.0
+15,5ab82dbb5542990e739ec857,False,Cortina d'Ampezzo,Cortina d'Ampezzo,0,0,0.0,0.0
+15,5a8f13d55542997ba9cb31c9,False,Ozzie Newsome,Ozzie Newsome,0.8,0.8,0.0,0.0
+15,5ac160605542994ab5c67d02,False,John Ford,John Ford,0,0,0.0,0.0

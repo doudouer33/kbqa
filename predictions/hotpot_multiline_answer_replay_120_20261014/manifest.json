@@ -1,0 +1,58 @@
+{
+  "created_at": "2026-10-14T03:59:44.776022+08:00",
+  "git_revision": "ce0057972af7eba9d9263dbc75eba93bc1e0f68d",
+  "source": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_prompt_token_40_20261013",
+  "unicode_fixed_baseline": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_unicode_json_replay_120_20261014",
+  "source_diagnostics_sha256": "2f798daa7a153f990974df1c93e1122515e41758f728754daf0b40c132549bd2",
+  "public_extractor_sha256": "3d026c7c3ade33c479bda7acb4ccc44a8d4ac711c5c864cfcd5d670d2e46658d",
+  "old_regex": ".* answer is:? (.*)\\.?",
+  "new_regex": "(?s).* answer is:? ([^\\r\\n]*)\\.?",
+  "python": "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+  "python_hash_seed": "0",
+  "official_commands": [
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/official_evaluation/hotpotqa/hotpot_evaluate_v1.py",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_multiline_answer_replay_120_20261014/k_1/before/official_predictions.json",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_multiline_answer_replay_120_20261014/k_1/before/official_gold.json"
+    ],
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/official_evaluation/hotpotqa/hotpot_evaluate_v1.py",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_multiline_answer_replay_120_20261014/k_1/after/official_predictions.json",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_multiline_answer_replay_120_20261014/k_1/after/official_gold.json"
+    ],
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/official_evaluation/hotpotqa/hotpot_evaluate_v1.py",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_multiline_answer_replay_120_20261014/k_8/before/official_predictions.json",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_multiline_answer_replay_120_20261014/k_8/before/official_gold.json"
+    ],
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/official_evaluation/hotpotqa/hotpot_evaluate_v1.py",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_multiline_answer_replay_120_20261014/k_8/after/official_predictions.json",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_multiline_answer_replay_120_20261014/k_8/after/official_gold.json"
+    ],
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/official_evaluation/hotpotqa/hotpot_evaluate_v1.py",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_multiline_answer_replay_120_20261014/k_15/before/official_predictions.json",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_multiline_answer_replay_120_20261014/k_15/before/official_gold.json"
+    ],
+    [
+      "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/official_evaluation/hotpotqa/hotpot_evaluate_v1.py",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_multiline_answer_replay_120_20261014/k_15/after/official_predictions.json",
+      "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_multiline_answer_replay_120_20261014/k_15/after/official_gold.json"
+    ]
+  ],
+  "snapshots_sha256": {
+    "base_configs/oner_qa_qwen_hotpotqa_multiline_candidate.jsonnet": "f1e361aa9a00f10bc2581135bfeb56bfdbc17d3df1b8940d15518173a596e658",
+    "base_configs/oner_qa_qwen_hotpotqa_prompt_token_diagnostic.jsonnet": "3ad9b7b4c540c4f3de76bb879c95e4346a8eae57df888da6aa83efbfc45d982d",
+    "analysis/hotpot_multiline_answer_diagnostic/replay.py": "2955fc73114e2818a64dde5793513b979f2ec67deb858f4e41ea051efef01c5d",
+    "tests/test_hotpot_multiline_answer.py": "fc2450f76801fa0d623679e1994e90cc12a68d55be4aa04ea433543e18968c45",
+    "analysis/hotpot_multiline_answer_diagnostic/README.md": "ea5cea3a03c836cffb2c0e32170bab642fd7e26e4805c448a499c60734220a43",
+    "analysis/hotpot_multiline_answer_diagnostic/report_20261014.md": "5af5e0169fbbd2a9c48b0a69e0836538b07d9ab23766d2f862a5f07f8f966ccf"
+  }
+}

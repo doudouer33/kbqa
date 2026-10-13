@@ -1,0 +1,15 @@
+{
+  "records": 120,
+  "baseline_traces_and_scores_match_unicode_fix": 120,
+  "identical_raw_and_serialized_inputs": 120,
+  "changed_predictions": 1,
+  "unchanged_predictions": 119,
+  "unicode_cases_unchanged": 5,
+  "yes_no_unchanged": true,
+  "candidate_k_1_to_15_only_regex_differs": true,
+  "protected_files_unchanged": 666,
+  "public_extractor_unchanged": true,
+  "official_cli_runs": 6,
+  "repository_evaluator_runs": 6,
+  "model_api_calls": 0
+}
