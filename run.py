@@ -1070,6 +1070,7 @@ def main():
         default="",
     )
     predict_subparser.add_argument("--silent", action="store_true", help="silent")
+    predict_subparser.add_argument("--official_only", action="store_true", help="Evaluate only with the official scorer")
     predict_subparser.add_argument("--evaluation_path", type=str, help="evaluation_path", required=False)
     predict_subparser.add_argument("--skip_if_exists", action="store_true", help="skip if final metrics/output exist.")
     predict_subparser.add_argument("--use_backup", action="store_true", help="use backup output directory.")
@@ -1331,6 +1332,8 @@ def main():
 
         elif args.command == "predict" and not args_best_is_passed:
             run_command = f"python predict.py {local_file_path} {evaluation_path} --set_name {args.set_name} --llm_port_num {args.llm_port_num}"
+            if args.official_only:
+                run_command += " --official-only"
 
             if args.silent:
                 run_command += " --silent"
@@ -1341,13 +1344,13 @@ def main():
 
             if not args.skip_if_exists:
                 print(run_command)
-                subprocess.call(run_command, shell=True)
+                subprocess.run(run_command, shell=True, check=True)
             else:
                 if not is_experiment_complete(
                     local_file_path, prediction_file_path, metrics_file_path, args.variable_replacements
                 ):
                     print(run_command)
-                    subprocess.call(run_command, shell=True)
+                    subprocess.run(run_command, shell=True, check=True)
 
         elif args.command == "track" and not args_best_is_passed:
             if is_experiment_complete(
@@ -1433,7 +1436,7 @@ def main():
             if args.official:
                 run_command += " --official"
             print(run_command)
-            subprocess.call(run_command, shell=True)
+            subprocess.run(run_command, shell=True, check=True)
 
         elif args.command == "evaluate_per_question" and not args_best_is_passed:
             dataset = infer_dataset_from_file_path(evaluation_path)
@@ -1454,7 +1457,7 @@ def main():
             if args.question_type_key_value is not None:
                 run_command += f" --question-type-key-value {args.question_type_key_value}"
             print(run_command)
-            subprocess.call(run_command, shell=True)
+            subprocess.run(run_command, shell=True, check=True)
 
         elif args.command == "summarize" and not args_best_is_passed:
             pass
@@ -1674,13 +1677,13 @@ def main():
 
             if not args.skip_if_exists:
                 print(run_command)
-                subprocess.call(run_command, shell=True)
+                subprocess.run(run_command, shell=True, check=True)
             else:
                 if not is_experiment_complete(
                     local_file_path, prediction_file_path, metrics_file_path, args.variable_replacements
                 ):
                     print(run_command)
-                    subprocess.call(run_command, shell=True)
+                    subprocess.run(run_command, shell=True, check=True)
 
         if args.command == "evaluate":
             if os.path.exists(prediction_file_path):
@@ -1696,7 +1699,7 @@ def main():
                     if args.official:
                         run_command += " --official"
                     print(run_command)
-                    subprocess.call(run_command, shell=True)
+                    subprocess.run(run_command, shell=True, check=True)
             else:
                 print(f"Best HP prediction path {prediction_file_path} is not available.")
 
@@ -1720,7 +1723,7 @@ def main():
                     if args.question_type_key_value is not None:
                         run_command += f" --question-type-key-value {args.question_type_key_value}"
                     print(run_command)
-                    subprocess.call(run_command, shell=True)
+                    subprocess.run(run_command, shell=True, check=True)
             else:
                 print(f"Best HP prediction path {prediction_file_path} is not available.")
 

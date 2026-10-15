@@ -1,0 +1,75 @@
+{
+  "status": "formal_running",
+  "started_at": "2026-10-14T06:18:31.936502+08:00",
+  "completed": [
+    {
+      "k": 1,
+      "count": 1000,
+      "f1": 0.5087045823457588,
+      "em": 0.411,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 6512.17,
+      "average_completion_tokens": 46.767,
+      "average_total_tokens": 6558.937,
+      "average_latency_seconds": 1.1374227492697537,
+      "wall_seconds": 1643.9405775684863
+    },
+    {
+      "k": 2,
+      "count": 1000,
+      "f1": 0.5310571708391368,
+      "em": 0.443,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__2___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__2___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 6596.452,
+      "average_completion_tokens": 46.992,
+      "average_total_tokens": 6643.444,
+      "average_latency_seconds": 1.1367888527959584,
+      "wall_seconds": 1654.4054918661714
+    },
+    {
+      "k": 3,
+      "count": 1000,
+      "f1": 0.5379707749251093,
+      "em": 0.444,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__3___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__3___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 6677.361,
+      "average_completion_tokens": 47.349,
+      "average_total_tokens": 6724.71,
+      "average_latency_seconds": 1.1768292353898286,
+      "wall_seconds": 1692.755242658779
+    }
+  ],
+  "smoke_passed": true,
+  "updated_at": "2026-10-14T17:52:24.868706+08:00",
+  "regression_tests": "全部 unittest 通过；包含 Unicode/JSON、多行 CoT、Yes/No、官方评分和断点恢复",
+  "engineering_repairs": [
+    "- 2026-10-14T06:20:02.514973+08:00：修正检查以遵循原 CopyQuestionParticipant.strip()；增加完整预测已落盘后的安全恢复及流式文件哈希。变化文件：analysis/hotpot_formal_runner/hooks.py, analysis/hotpot_formal_runner/run_experiment.py, analysis/hotpot_formal_runner/storage.py。配置、Prompt、数据、评分和模型生成参数保持一致；失败记录保留，重跑 Smoke gate。",
+    "- 2026-10-14T17:51:35.241386+08:00：模型 Token 预算检查连接断开导致 k=4 第 138 题在生成前停止。现服务恢复，同模型 ID/上下文上限；独立恢复 Smoke Test 16 次真实调用通过，Prompt、原始生成、预测及 prompt_tokens 全部与首轮一致。源码、数据和配置哈希不变；保留 3137 条记录，从断点续跑，未重启或修改服务。"
+  ],
+  "current_k": 4,
+  "resolved_errors": [
+    {
+      "error": "CalledProcessError(1, ['/home/dengxin/miniconda3/envs/adaptiverag/bin/python', 'run.py', 'predict', '/media/hnu/hnu2021/dengxin/luoyichen/kbqa/base_configs/oner_qa_qwen_hotpotqa_formal.jsonnet', '--instantiation_scheme', 'oner_qa', '--prompt_set', '1', '--topk_values', '4', '--llm_port_num', '8002', '--set_name', 'hotpot_formal_1000_20261014', '--evaluation_path', '/media/hnu/hnu2021/dengxin/luoyichen/kbqa/processed_data/hotpotqa/dev_1000_subsampled.jsonl', '--silent', '--official_only'])",
+      "resolved_at": "2026-10-14T17:51:35.241371+08:00",
+      "verification": "recovery_smoke_1749_results.json"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "response": {
+    "id": "chat-d0c45736d0954a71858c7e580f2bd09d",
+    "object": "chat.completion",
+    "created": 1791930011,
+    "model": "Qwen2.5-7B-Instruct",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Wayne Clifford Boden was active between 1969 and 1971, while Ted Bundy's first known murder was in 1974. Thus, Wayne Boden started killing first. So the answer is: Wayne Boden.",
+          "tool_calls": []
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 6543,
+      "total_tokens": 6597,
+      "completion_tokens": 54
+    },
+    "prompt_logprobs": null
+  },
+  "latency_seconds": 1.306167595088482,
+  "prompt_sha256": "5491a6532946ff74aa31c0543ec5ae4339455bf1d8631fba15cd0f906bd02829",
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1"
+}

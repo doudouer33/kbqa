@@ -1,0 +1,30 @@
+{
+  "event": "response_missing_retry_authorized",
+  "qid": "5a844fd35542990548d0b274",
+  "k": 4,
+  "recorded_at": "2026-10-14T19:17:46.775900+08:00",
+  "user_instruction": "开始启动，在原来的运行基础上",
+  "original_attempt_completion_state": "unknown",
+  "original_api_usage": null,
+  "original_request": {
+    "qid": "5a844fd35542990548d0b274",
+    "k": 4,
+    "prompt_sha256": "d2ab50415bd44bd46ffb72fb8e9ff1765a3f3992f2ac92ccb927a25f8b23b295",
+    "parameters": {
+      "model": "Qwen2.5-7B-Instruct",
+      "frequency_penalty": 0,
+      "logprobs": false,
+      "max_tokens": 512,
+      "n": 1,
+      "presence_penalty": 0,
+      "stop": [],
+      "temperature": 0,
+      "top_logprobs": null,
+      "top_p": 1
+    }
+  },
+  "original_request_log_archive": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__4___distractor_count__1/authorized_resume_1791976666745841064_request_events_original.jsonl",
+  "original_request_log_sha256": "c22d24cf6b16944149013e7d394d43ab1dbc8e609e56323462e2039c6970c66c",
+  "resolution": "Retain the unresolved attempt in the audit archive; retry this missing question with the same formal configuration; preserve all 3826 completed pairs",
+  "expected_prompt_sha256": "d2ab50415bd44bd46ffb72fb8e9ff1765a3f3992f2ac92ccb927a25f8b23b295"
+}

@@ -1,0 +1,90 @@
+{
+  "passed": true,
+  "actual_calls": 16,
+  "samples": [
+    {
+      "qid": "5a7f40de5542992e7d278cc8",
+      "type": "bridge",
+      "question": "What star if the Burbs was Canadian?",
+      "answer": "Richard \"Rick\" Ducommun"
+    },
+    {
+      "qid": "5a84a7f95542992a431d1a85",
+      "type": "bridge",
+      "question": "Who was the wife of the United States Army lieutenant general who received the Distinguished Service Cross, and was the first of his West Point class to be promoted to brigadier general, major general, and lieutenant general",
+      "answer": "Julia Compton Moore"
+    },
+    {
+      "qid": "5a7248665542990c210a40b1",
+      "type": "bridge",
+      "question": "What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played? ",
+      "answer": "Rooster"
+    },
+    {
+      "qid": "5a79b495554299148911fa3b",
+      "type": "bridge",
+      "question": "Which serial killer was known to start killing first, Wayne Boden or Ted Bundy?",
+      "answer": "Wayne Clifford Boden"
+    },
+    {
+      "qid": "5ae14def55429901ffe4ae4a",
+      "type": "comparison",
+      "question": "Do both Lee Tamahori and Robert Redford work as a director?",
+      "answer": "yes"
+    },
+    {
+      "qid": "5ae497595542995ad6573db7",
+      "type": "comparison",
+      "question": "What are both Stauntonia and Pimelea?",
+      "answer": "plant"
+    },
+    {
+      "qid": "5ab80bbf5542991d32223818",
+      "type": "comparison",
+      "question": "Which airport is operated by the Coos Country Airport District, Southwest Oregon Regional Airport or Lawton–Fort Sill Regional Airport?",
+      "answer": "Southwest Oregon Regional Airport"
+    },
+    {
+      "qid": "5abdc0ad55429933744ab81b",
+      "type": "comparison",
+      "question": "Which band was formed first, Goldfinger or The Fray?",
+      "answer": "Goldfinger"
+    }
+  ],
+  "summaries": [
+    {
+      "k": 1,
+      "count": 8,
+      "f1": 0.475,
+      "em": 0.375,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/prediction__hotpotqa_to_hotpotqa__hotpotqa_smoke.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 8
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 6502.75,
+      "average_completion_tokens": 40.5,
+      "average_total_tokens": 6543.25,
+      "average_latency_seconds": 1.1825910620391369
+    },
+    {
+      "k": 15,
+      "count": 8,
+      "f1": 0.475,
+      "em": 0.375,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/prediction__hotpotqa_to_hotpotqa__hotpotqa_smoke.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 8
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 7522,
+      "average_completion_tokens": 48.5,
+      "average_total_tokens": 7570.5,
+      "average_latency_seconds": 1.2976647049654275
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+
+2026-10-14T06:18:35.264104+08:00 COMMAND ["/home/dengxin/miniconda3/envs/adaptiverag/bin/python", "run.py", "predict", "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/base_configs/oner_qa_qwen_hotpotqa_formal.jsonnet", "--instantiation_scheme", "oner_qa", "--prompt_set", "1", "--topk_values", "1", "--llm_port_num", "8002", "--set_name", "hotpot_formal_1000_20261014_smoke", "--evaluation_path", "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/hotpotqa_smoke.jsonl", "--silent", "--official_only"]
+/home/dengxin/miniconda3/envs/adaptiverag/lib/python3.8/site-packages/huggingface_hub/file_download.py:949: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'Qwen2Tokenizer'. 
+The class this function is called from is 'PreTrainedTokenizerFast'.
+Running inference on examples
+0it [00:00, ?it/s]
+0it [00:00, ?it/s][AFORMAL k=1 completed=1/8 qid=5a7f40de5542992e7d278cc8 seconds=2.66
+1it [00:02,  2.66s/it]
+1it [00:02,  2.66s/it][AFORMAL k=1 completed=2/8 qid=5a84a7f95542992a431d1a85 seconds=2.05
+2it [00:04,  2.34s/it]
+2it [00:04,  2.34s/it][A2it [00:04,  2.48s/it]
+Traceback (most recent call last):
+  File "/home/dengxin/miniconda3/envs/adaptiverag/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/dengxin/miniconda3/envs/adaptiverag/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/commaqa/inference/configurable_inference.py", line 242, in <module>
+    inference_mode(
+  File "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/commaqa/inference/configurable_inference.py", line 171, in inference_mode
+    decomposer.return_qid_prediction(
+  File "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_formal_runner/hooks.py", line 190, in checked_prediction
+    result = original_prediction(self, example, *args, **kwargs)
+  File "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/commaqa/inference/model_search.py", line 182, in return_qid_prediction
+    final_state, other_states = self.find_answer_decomp(example, debug=debug)
+  File "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/commaqa/inference/model_search.py", line 279, in find_answer_decomp
+    for new_state in self.controller.execute(current_state, debug=debug):
+  File "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/commaqa/inference/model_search.py", line 68, in execute
+    model_output = model_func(state, debug=debug)
+  File "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_formal_runner/hooks.py", line 126, in observed_qa
+    return original_qa(self, state, *args, **kwargs)
+  File "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/commaqa/inference/participant_qa.py", line 117, in query
+    answer, facts_used = self.qa_model.ask_question(
+  File "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/commaqa/execution/llm_qa_model.py", line 46, in ask_question
+    output_text_scores = self.generator.generate_text_sequence(question_prompt)
+  File "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/commaqa/models/gpt3generator.py", line 244, in generate_text_sequence
+    prompt = fit_prompt_into_given_limit(
+  File "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_formal_runner/hooks.py", line 94, in checked_fit
+    require(before.endswith("\n\nQ: " + current["question"] + "\nA:"), "Current question changed")
+  File "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_formal_runner/hooks.py", line 28, in require
+    raise ExperimentViolation(message)
+analysis.hotpot_formal_runner.hooks.ExperimentViolation: Current question changed
+2it [00:05,  2.54s/it]Run predict_command: 
+RETRIEVER_HOST=http://localhost RETRIEVER_PORT=8000 LLM_SERVER_HOST=http://localhost LLM_SERVER_PORT=8002 python -m commaqa.inference.configurable_inference --config instantiated_configs/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet --input /media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/hotpotqa_smoke.jsonl --output predictions/hotpot_formal_1000_20261014_smoke/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/prediction__hotpotqa_to_hotpotqa__hotpotqa_smoke.json --silent
+
+Traceback (most recent call last):
+  File "predict.py", line 121, in <module>
+    main()
+  File "predict.py", line 90, in main
+    subprocess.run(predict_command, shell=True, check=True)
+  File "/home/dengxin/miniconda3/envs/adaptiverag/lib/python3.8/subprocess.py", line 516, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command 'RETRIEVER_HOST=http://localhost RETRIEVER_PORT=8000 LLM_SERVER_HOST=http://localhost LLM_SERVER_PORT=8002 python -m commaqa.inference.configurable_inference --config instantiated_configs/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet --input /media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/hotpotqa_smoke.jsonl --output predictions/hotpot_formal_1000_20261014_smoke/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/prediction__hotpotqa_to_hotpotqa__hotpotqa_smoke.json --silent' returned non-zero exit status 1.
+python predict.py instantiated_configs/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet /media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/hotpotqa_smoke.jsonl --set_name hotpot_formal_1000_20261014_smoke --llm_port_num 8002 --official-only --silent
+Traceback (most recent call last):
+  File "run.py", line 1732, in <module>
+    main()
+  File "run.py", line 44, in wrapper
+    result = func(*args, **kwargs)
+  File "run.py", line 1347, in main
+    subprocess.run(run_command, shell=True, check=True)
+  File "/home/dengxin/miniconda3/envs/adaptiverag/lib/python3.8/subprocess.py", line 516, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command 'python predict.py instantiated_configs/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet /media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/hotpotqa_smoke.jsonl --set_name hotpot_formal_1000_20261014_smoke --llm_port_num 8002 --official-only --silent' returned non-zero exit status 1.
+
+2026-10-14T06:20:05.783404+08:00 COMMAND ["/home/dengxin/miniconda3/envs/adaptiverag/bin/python", "run.py", "predict", "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/base_configs/oner_qa_qwen_hotpotqa_formal.jsonnet", "--instantiation_scheme", "oner_qa", "--prompt_set", "1", "--topk_values", "1", "--llm_port_num", "8002", "--set_name", "hotpot_formal_1000_20261014_smoke", "--evaluation_path", "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/hotpotqa_smoke.jsonl", "--silent", "--official_only"]
+/home/dengxin/miniconda3/envs/adaptiverag/lib/python3.8/site-packages/huggingface_hub/file_download.py:949: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'Qwen2Tokenizer'. 
+The class this function is called from is 'PreTrainedTokenizerFast'.
+Running inference on examples
+0it [00:00, ?it/s]
+0it [00:00, ?it/s][AFORMAL k=1 completed=3/8 qid=5a7248665542990c210a40b1 seconds=2.23
+3it [00:02,  1.34it/s]
+3it [00:02,  1.34it/s][AFORMAL k=1 completed=4/8 qid=5a79b495554299148911fa3b seconds=1.76
+4it [00:04,  1.07s/it]
+4it [00:04,  1.07s/it][AFORMAL k=1 completed=5/8 qid=5ae14def55429901ffe4ae4a seconds=1.70
+5it [00:05,  1.27s/it]
+5it [00:05,  1.27s/it][AFORMAL k=1 completed=6/8 qid=5ae497595542995ad6573db7 seconds=1.32
+6it [00:07,  1.30s/it]
+6it [00:07,  1.30s/it][AFORMAL k=1 completed=7/8 qid=5ab80bbf5542991d32223818 seconds=1.45
+7it [00:08,  1.35s/it]
+7it [00:08,  1.35s/it][AFORMAL k=1 completed=8/8 qid=5abdc0ad55429933744ab81b seconds=1.61
+8it [00:10,  1.43s/it]
+8it [00:10,  1.43s/it][A8it [00:10,  1.27s/it]
+8it [00:10,  1.27s/it]
+Writing predictions in predictions/hotpot_formal_1000_20261014_smoke/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/prediction__hotpotqa_to_hotpotqa__hotpotqa_smoke.json
+0it [00:00, ?it/s]8it [00:00, 9871.85it/s]
+{
+    "f1": 0.475,
+    "em": 0.375,
+    "precision": 0.5,
+    "recall": 0.45833,
+    "count": 8
+}
+Saving metrics in predictions/hotpot_formal_1000_20261014_smoke/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/official_evaluation_metrics__hotpotqa_to_hotpotqa__hotpotqa_smoke.json
+{'f1': 0.475, 'em': 0.375, 'precision': 0.5, 'recall': 0.45833, 'count': 8}
+Run predict_command: 
+RETRIEVER_HOST=http://localhost RETRIEVER_PORT=8000 LLM_SERVER_HOST=http://localhost LLM_SERVER_PORT=8002 python -m commaqa.inference.configurable_inference --config instantiated_configs/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet --input /media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/hotpotqa_smoke.jsonl --output predictions/hotpot_formal_1000_20261014_smoke/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/prediction__hotpotqa_to_hotpotqa__hotpotqa_smoke.json --silent
+
+Run evaluate_command: 
+python evaluate.py instantiated_configs/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet /media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/hotpotqa_smoke.jsonl --set_name hotpot_formal_1000_20261014_smoke --llm_port_num 8002 --official
+
+Run evaluate_command: 
+python evaluate.py instantiated_configs/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet /media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/hotpotqa_smoke.jsonl --official --set_name hotpot_formal_1000_20261014_smoke --llm_port_num 8002
+
+python predict.py instantiated_configs/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet /media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/hotpotqa_smoke.jsonl --set_name hotpot_formal_1000_20261014_smoke --llm_port_num 8002 --official-only --silent

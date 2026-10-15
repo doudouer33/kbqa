@@ -1,0 +1,206 @@
+{
+  "passed": true,
+  "checked_at": "2026-10-14T17:50:56.128438+08:00",
+  "actual_calls": 16,
+  "set_name": "hotpot_formal_1000_20261014_recovery_smoke_1749",
+  "model_before": {
+    "id": "Qwen2.5-7B-Instruct",
+    "object": "model",
+    "created": 1791929764,
+    "owned_by": "vllm",
+    "root": "Qwen2.5-7B-Instruct",
+    "parent": null,
+    "max_model_len": 32768,
+    "permission": [
+      {
+        "id": "modelperm-d59b9d645ee347a9a01b199c6aab8c71",
+        "object": "model_permission",
+        "created": 1791929764,
+        "allow_create_engine": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": false,
+        "allow_view": true,
+        "allow_fine_tuning": false,
+        "organization": "*",
+        "group": null,
+        "is_blocking": false
+      }
+    ]
+  },
+  "model_after": {
+    "id": "Qwen2.5-7B-Instruct",
+    "object": "model",
+    "created": 1791971415,
+    "owned_by": "vllm",
+    "root": "Qwen2.5-7B-Instruct",
+    "parent": null,
+    "max_model_len": 32768,
+    "permission": [
+      {
+        "id": "modelperm-47c5dea9af6e4727903309db5b02ac07",
+        "object": "model_permission",
+        "created": 1791971415,
+        "allow_create_engine": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": false,
+        "allow_view": true,
+        "allow_fine_tuning": false,
+        "organization": "*",
+        "group": null,
+        "is_blocking": false
+      }
+    ]
+  },
+  "summaries": [
+    {
+      "k": 1,
+      "count": 8,
+      "f1": 0.475,
+      "em": 0.375,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_recovery_smoke_1749/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/prediction__hotpotqa_to_hotpotqa__hotpotqa_smoke.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_recovery_smoke_1749/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 8
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 6502.75,
+      "average_completion_tokens": 40.5,
+      "average_total_tokens": 6543.25,
+      "average_latency_seconds": 1.1920342261437327
+    },
+    {
+      "k": 15,
+      "count": 8,
+      "f1": 0.475,
+      "em": 0.375,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_recovery_smoke_1749/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/prediction__hotpotqa_to_hotpotqa__hotpotqa_smoke.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_recovery_smoke_1749/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 8
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 7522,
+      "average_completion_tokens": 48.5,
+      "average_total_tokens": 7570.5,
+      "average_latency_seconds": 1.2914087080862373
+    }
+  ],
+  "comparisons": [
+    {
+      "qid": "5a7f40de5542992e7d278cc8",
+      "k": 1,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5a84a7f95542992a431d1a85",
+      "k": 1,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5a7248665542990c210a40b1",
+      "k": 1,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5a79b495554299148911fa3b",
+      "k": 1,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5ae14def55429901ffe4ae4a",
+      "k": 1,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5ae497595542995ad6573db7",
+      "k": 1,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5ab80bbf5542991d32223818",
+      "k": 1,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5abdc0ad55429933744ab81b",
+      "k": 1,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5a7f40de5542992e7d278cc8",
+      "k": 15,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5a84a7f95542992a431d1a85",
+      "k": 15,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5a7248665542990c210a40b1",
+      "k": 15,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5a79b495554299148911fa3b",
+      "k": 15,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5ae14def55429901ffe4ae4a",
+      "k": 15,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5ae497595542995ad6573db7",
+      "k": 15,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5ab80bbf5542991d32223818",
+      "k": 15,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    },
+    {
+      "qid": "5abdc0ad55429933744ab81b",
+      "k": 15,
+      "prediction_unchanged": true,
+      "raw_generation_unchanged": true,
+      "prompt_tokens_unchanged": true
+    }
+  ]
+}

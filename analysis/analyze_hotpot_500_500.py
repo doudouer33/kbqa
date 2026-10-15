@@ -3,6 +3,7 @@
 
 import argparse
 import csv
+import hashlib
 import json
 import math
 import re
@@ -21,7 +22,7 @@ if str(REPO_ROOT) not in sys.path:
 import requests
 from transformers import PreTrainedTokenizerFast
 
-from evaluate_per_question import prepare_prediction_answers, score_per_question
+from official_evaluation.hotpotqa.hotpot_evaluate_v1 import exact_match_score, f1_score
 from reconstruction.reconstruct_oner import para_to_text, remove_wh_words
 
 
@@ -67,6 +68,8 @@ def find_prediction_files(predictions_dir, k_min=1, k_max=15):
             continue
         matches = list(directory.glob("prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json"))
         if len(matches) == 1:
+            if k in result:
+                raise ValueError("Multiple prediction directories for k={}".format(k))
             result[k] = matches[0]
     missing = sorted(set(range(k_min, k_max + 1)) - set(result))
     if missing:
@@ -102,16 +105,69 @@ def score_predictions(samples, prediction_files):
         if set(predictions) != set(samples):
             raise ValueError("Prediction IDs do not match dataset at k={}".format(k))
         for qid, sample in samples.items():
-            answers = prepare_prediction_answers(predictions[qid])
-            score = score_per_question("hotpotqa", answers, gold_answers(sample))
+            prediction = predictions[qid]
+            if isinstance(prediction, list):
+                prediction = " ".join(str(answer) for answer in prediction)
+            if not isinstance(prediction, str):
+                raise ValueError("Invalid prediction for " + qid)
+            gold = gold_answers(sample)
+            if len(gold) != 1:
+                raise ValueError("Expected one official HotpotQA gold answer for " + qid)
             results[qid]["scores"][k] = {
-                "em": score["em"],
-                "f1": score["f1"],
-                "prediction": answers[0],
+                "em": int(exact_match_score(prediction, gold[0])),
+                "f1": f1_score(prediction, gold[0])[0],
+                "prediction": prediction,
             }
     for item in results.values():
-        item["best_k"] = max(item["scores"], key=lambda k: (item["scores"][k]["em"], item["scores"][k]["f1"], -k))
+        item["best_k"] = max(item["scores"], key=lambda k: (item["scores"][k]["f1"], -k))
+        best_f1 = item["scores"][item["best_k"]]["f1"]
+        item["tied_best_ks"] = sorted(k for k in item["scores"] if item["scores"][k]["f1"] == best_f1)
     return results
+
+
+def load_api_tokens(samples, prediction_files):
+    result = {qid: {} for qid in samples}
+    for k, prediction_file in sorted(prediction_files.items()):
+        path = prediction_file.parent / "token_usage.jsonl"
+        seen = set()
+        for line in path.read_text(encoding="utf-8").splitlines():
+            row = json.loads(line)
+            qid = row["qid"]
+            if qid not in samples or qid in seen or row["k"] != k:
+                raise ValueError("Foreign or duplicate token record in " + str(path))
+            for field in ("prompt_tokens", "completion_tokens", "total_tokens"):
+                if not isinstance(row[field], int) or row[field] < 0:
+                    raise ValueError("Invalid API usage")
+            if row["prompt_cropped"] or row["finish_reason"] != "stop":
+                raise ValueError("Invalid generation in " + str(path))
+            seen.add(qid)
+            result[qid][k] = row
+        if seen != set(samples):
+            raise ValueError("Token IDs do not match dataset at k={}".format(k))
+    return result
+
+
+def count_saved_context_tokens(samples, prediction_files, api_tokens, tokenizer):
+    """Reuse count_context_tokens on the actual selected contexts for each k."""
+    counts = {qid: {} for qid in samples}
+    for k, path in sorted(prediction_files.items()):
+        retrievals = {}
+        for qid in samples:
+            row = json.loads((path.parent / "checkpoints" / (qid + ".json")).read_text())
+            if row["qid"] != qid or row["k"] != k:
+                raise ValueError("Foreign context checkpoint")
+            documents = row["contexts"]
+            context = "\n\n".join(para_to_text(d["title"], d["paragraph_text"], 350) for d in documents)
+            digest = hashlib.sha256(context.encode("utf-8")).hexdigest()
+            if digest != api_tokens[qid][k]["context_sha256"]:
+                raise ValueError("Saved context differs from model context")
+            if row["result"][1] != api_tokens[qid][k]["prediction"]:
+                raise ValueError("Checkpoint/token prediction mismatch")
+            retrievals[qid] = documents
+        current = count_context_tokens(retrievals, tokenizer, ks=(k,))
+        for qid in samples:
+            counts[qid][k] = current[qid][k]
+    return counts
 
 
 def retrieve_contexts(samples, endpoint, workers):
@@ -132,10 +188,10 @@ def retrieve_contexts(samples, endpoint, workers):
         return dict(executor.map(retrieve, samples.items()))
 
 
-def count_context_tokens(retrievals, tokenizer):
+def count_context_tokens(retrievals, tokenizer, ks=range(1, 16)):
     counts = {qid: {} for qid in retrievals}
     for qid, documents in retrievals.items():
-        for k in range(1, 16):
+        for k in ks:
             context = "\n\n".join(
                 para_to_text(document["title"], document["paragraph_text"], 350)
                 for document in documents[:k]
@@ -148,12 +204,20 @@ def selected_ids(results, group):
     return [qid for qid, item in results.items() if group == "combined" or item["type"] == group]
 
 
-def build_summaries(results, token_counts):
+def build_summaries(results, token_counts, api_tokens=None):
     fixed_rows = []
     oracle = {}
     for group in GROUPS:
         ids = selected_ids(results, group)
         oracle[group] = distribution_statistics([results[qid]["best_k"] for qid in ids])
+        best_values = [results[qid]["scores"][results[qid]["best_k"]]["f1"] for qid in ids]
+        tied_counts = [len(results[qid]["tied_best_ks"]) for qid in ids]
+        oracle[group].update({
+            "all_zero_f1_ratio": sum(value == 0 for value in best_values) / len(ids),
+            "tied_best_k_ratio": sum(value > 1 for value in tied_counts) / len(ids),
+            "tied_best_k_count_distribution": dict(sorted(Counter(tied_counts).items())),
+            "oracle_average_f1": statistics.mean(best_values),
+        })
         for k in range(1, 16):
             f1_values = [results[qid]["scores"][k]["f1"] for qid in ids]
             tokens = [token_counts[qid][k] for qid in ids]
@@ -163,16 +227,31 @@ def build_summaries(results, token_counts):
                     "k": k,
                     "count": len(ids),
                     "average_f1": statistics.mean(f1_values),
+                    "average_em": statistics.mean(results[qid]["scores"][k]["em"] for qid in ids),
                     "average_context_tokens": statistics.mean(tokens),
                     "median_context_tokens": statistics.median(tokens),
                     "p90_context_tokens": percentile(tokens, 0.90),
                     "p95_context_tokens": percentile(tokens, 0.95),
                 }
             )
+            if api_tokens is not None:
+                for metric in ("prompt_tokens", "completion_tokens", "total_tokens", "latency_seconds"):
+                    values = [api_tokens[qid][k][metric] for qid in ids]
+                    fixed_rows[-1].update({
+                        "average_" + metric: statistics.mean(values),
+                        "median_" + metric: statistics.median(values),
+                        "p90_" + metric: percentile(values, 0.90),
+                        "p95_" + metric: percentile(values, 0.95),
+                        "min_" + metric: min(values),
+                        "max_" + metric: max(values),
+                    })
+        best_fixed = max((row for row in fixed_rows if row["group"] == group), key=lambda row: (row["average_f1"], -row["k"]))
+        oracle[group].update(best_fixed_k=best_fixed["k"], best_fixed_average_f1=best_fixed["average_f1"],
+            oracle_fixed_f1_gap=oracle[group]["oracle_average_f1"] - best_fixed["average_f1"])
     return fixed_rows, oracle
 
 
-def write_outputs(output_dir, results, token_counts, fixed_rows, oracle):
+def write_outputs(output_dir, results, token_counts, fixed_rows, oracle, api_tokens=None):
     output_dir.mkdir(parents=True, exist_ok=True)
     with (output_dir / "fixed_k_results.csv").open("w", encoding="utf-8", newline="") as output_file:
         writer = csv.DictWriter(output_file, fieldnames=list(fixed_rows[0]))
@@ -189,21 +268,22 @@ def write_outputs(output_dir, results, token_counts, fixed_rows, oracle):
                 writer.writerow({"group": group, "k": k, "count": count, "proportion": count / total})
 
     (output_dir / "hotpot_basic_statistics.json").write_text(
-        json.dumps({"oracle": oracle, "fixed_k": fixed_rows}, indent=2, ensure_ascii=False) + "\n",
+        json.dumps({"scoring": "official HotpotQA", "oracle_rule": "max F1; smallest k on ties", "oracle": oracle, "fixed_k": fixed_rows}, indent=2, ensure_ascii=False) + "\n",
         encoding="utf-8",
     )
     with (output_dir / "per_question_curves.jsonl").open("w", encoding="utf-8") as output_file:
         for qid, item in results.items():
             row = {"question_id": qid, **item, "context_tokens": token_counts[qid]}
+            if api_tokens is not None:
+                row["api_token_usage"] = {k: {key: value for key, value in usage.items() if key != "raw_generation"} for k, usage in api_tokens[qid].items()}
             output_file.write(json.dumps(row, ensure_ascii=False) + "\n")
 
 
 def write_figures(output_dir, fixed_rows, oracle):
     try:
         import matplotlib.pyplot as plt
-    except ImportError:
-        print("matplotlib is unavailable; skipping PNG figures.")
-        return
+    except ImportError as error:
+        raise RuntimeError("matplotlib is required for all analysis artifacts") from error
 
     for metric, filename, ylabel in (
         ("average_f1", "fixed_k_f1.png", "Average F1"),
@@ -239,6 +319,9 @@ def write_summary(output_dir, oracle, fixed_rows):
         "",
         "- 样本：bridge 500，comparison 500，共 1000。",
         "- k 范围：1–15；Oracle 并列时选择较小 k。",
+        "- F1/EM：官方 HotpotQA；Oracle 首先最大化官方 F1，EM 不参与选择。",
+        "- context_tokens 使用正式运行保存的实际检索上下文，与 API prompt_tokens 分开统计。",
+        "- 历史 DROP F1 与本轮官方 F1 不能直接比较；历史产物未覆盖。",
         "- combined 最优 fixed-k：k={}，平均 F1={:.6f}。".format(best_fixed["k"], best_fixed["average_f1"]),
         "",
         "| group | majority ratio | entropy (bits) | mean best-k | median | std |",
@@ -252,6 +335,14 @@ def write_summary(output_dir, oracle, fixed_rows):
                 item["median_best_k"], item["std_best_k"]
             )
         )
+    lines.extend(["", "| group | Oracle F1 | best fixed k | fixed F1 | gap | zero F1 ratio | ties ratio |", "|---|---:|---:|---:|---:|---:|---:|"])
+    for group in GROUPS:
+        item = oracle[group]
+        lines.append("| {} | {:.6f} | {} | {:.6f} | {:.6f} | {:.4f} | {:.4f} |".format(group, item["oracle_average_f1"], item["best_fixed_k"], item["best_fixed_average_f1"], item["oracle_fixed_f1_gap"], item["all_zero_f1_ratio"], item["tied_best_k_ratio"]))
+        lines.append("\n{} 并列最优 k 数量分布：`{}`\n".format(group, json.dumps(item["tied_best_k_count_distribution"], ensure_ascii=False)))
+    lines.extend(["", "| group | k | F1 | EM | context tokens | API prompt | completion | total | seconds |", "|---|---:|---:|---:|---:|---:|---:|---:|---:|"])
+    for row in fixed_rows:
+        lines.append("| {} | {} | {:.6f} | {:.6f} | {:.1f} | {:.1f} | {:.1f} | {:.1f} | {:.3f} |".format(row["group"], row["k"], row["average_f1"], row["average_em"], row["average_context_tokens"], row.get("average_prompt_tokens", 0), row.get("average_completion_tokens", 0), row.get("average_total_tokens", 0), row.get("average_latency_seconds", 0)))
     (output_dir / "hotpot_500_500_analysis.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
@@ -259,25 +350,31 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--data", default="processed_data/hotpotqa/dev_1000_subsampled.jsonl")
     parser.add_argument("--predictions-dir", default="predictions/dev_1000")
-    parser.add_argument("--output-dir", default="analysis/hotpot_500_500")
+    parser.add_argument("--output-dir", required=True, help="New directory; historical reports must not be overwritten")
     parser.add_argument("--retriever-endpoint", default="http://127.0.0.1:8000/retrieve/")
     parser.add_argument("--tokenizer", default="Qwen/Qwen2.5-7B-Instruct")
     parser.add_argument("--workers", type=int, default=4)
     args = parser.parse_args()
 
     samples = load_samples(args.data)
+    output_dir = Path(args.output_dir)
+    if output_dir.exists():
+        raise FileExistsError("Use a new analysis output directory: " + str(output_dir))
     if Counter(sample["type"] for sample in samples.values()) != Counter({"bridge": 500, "comparison": 500}):
         raise ValueError("Expected exactly 500 bridge and 500 comparison samples")
     prediction_files = find_prediction_files(args.predictions_dir)
     results = score_predictions(samples, prediction_files)
-    retrievals = retrieve_contexts(samples, args.retriever_endpoint, args.workers)
+    api_tokens = load_api_tokens(samples, prediction_files)
+    for qid, item in results.items():
+        for k, score in item["scores"].items():
+            if score["prediction"] != api_tokens[qid][k]["prediction"]:
+                raise ValueError("Token/prediction mismatch")
     tokenizer = PreTrainedTokenizerFast.from_pretrained(
         args.tokenizer, trust_remote_code=True, local_files_only=True
     )
-    token_counts = count_context_tokens(retrievals, tokenizer)
-    fixed_rows, oracle = build_summaries(results, token_counts)
-    output_dir = Path(args.output_dir)
-    write_outputs(output_dir, results, token_counts, fixed_rows, oracle)
+    token_counts = count_saved_context_tokens(samples, prediction_files, api_tokens, tokenizer)
+    fixed_rows, oracle = build_summaries(results, token_counts, api_tokens)
+    write_outputs(output_dir, results, token_counts, fixed_rows, oracle, api_tokens)
     write_figures(output_dir, fixed_rows, oracle)
     write_summary(output_dir, oracle, fixed_rows)
     print(json.dumps(oracle, indent=2, ensure_ascii=False))

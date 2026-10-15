@@ -1,0 +1,72 @@
+
+5a7f40de5542992e7d278cc8
+What star if the Burbs was Canadian?
+A: ["The 'Burbs"]
+Q: What star if the Burbs was Canadian?
+A: "The 'Burbs stars include Tom Hanks, Bruce Dern, Carrie Fisher, Rick Ducommun, Corey Feldman, Wendy Schaal, and Henry Gibson. Among these, Carrie Fisher is Canadian. So the answer is: Carrie Fisher."
+A: Carrie Fisher
+Q: [EOQ]
+S: 0.0
+
+5a84a7f95542992a431d1a85
+Who was the wife of the United States Army lieutenant general who received the Distinguished Service Cross, and was the first of his West Point class to be promoted to brigadier general, major general, and lieutenant general
+A: ["Lieutenant general (United States)"]
+Q: Who was the wife of the United States Army lieutenant general who received the Distinguished Service Cross, and was the first of his West Point class to be promoted to brigadier general, major general, and lieutenant general
+A: "The question does not provide enough specific information to determine a single answer based on the given context. Therefore, I cannot provide a definitive answer in the required format. So the answer is: no."
+A: no
+Q: [EOQ]
+S: 0.0
+
+5a7248665542990c210a40b1
+What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played? 
+A: ["Fred (footballer)"]
+Q: What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played?
+A: "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atl\u00e9tico Mineiro. So the answer is: Atl\u00e9tico Mineiro."
+A: Atlético Mineiro
+Q: [EOQ]
+S: 0.0
+
+5a79b495554299148911fa3b
+Which serial killer was known to start killing first, Wayne Boden or Ted Bundy?
+A: ["Wayne Boden"]
+Q: Which serial killer was known to start killing first, Wayne Boden or Ted Bundy?
+A: "Wayne Clifford Boden was active between 1969 and 1971, while Ted Bundy's first known murder was in 1974. Thus, Wayne Boden started killing first. So the answer is: Wayne Boden."
+A: Wayne Boden
+Q: [EOQ]
+S: 0.0
+
+5ae14def55429901ffe4ae4a
+Do both Lee Tamahori and Robert Redford work as a director?
+A: ["Lee Tamahori"]
+Q: Do both Lee Tamahori and Robert Redford work as a director?
+A: "Lee Tamahori is a filmmaker who directs movies. Robert Redford is known for his work as an actor, director, and producer. Both have worked as directors at some point in their careers. So the answer is: yes."
+A: yes
+Q: [EOQ]
+S: 0.0
+
+5ae497595542995ad6573db7
+What are both Stauntonia and Pimelea?
+A: ["Stauntonia"]
+Q: What are both Stauntonia and Pimelea?
+A: "Stauntonia and Pimelea are both genera of flowering plants. So the answer is: genera of flowering plants."
+A: genera of flowering plants
+Q: [EOQ]
+S: 0.0
+
+5ab80bbf5542991d32223818
+Which airport is operated by the Coos Country Airport District, Southwest Oregon Regional Airport or Lawton–Fort Sill Regional Airport?
+A: ["Southwest Oregon Regional Airport"]
+Q: Which airport is operated by the Coos Country Airport District, Southwest Oregon Regional Airport or Lawton–Fort Sill Regional Airport?
+A: "Southwest Oregon Regional Airport is operated by the Coos County Airport District. So the answer is: Southwest Oregon Regional Airport."
+A: Southwest Oregon Regional Airport
+Q: [EOQ]
+S: 0.0
+
+5abdc0ad55429933744ab81b
+Which band was formed first, Goldfinger or The Fray?
+A: ["Goldfinger (band)"]
+Q: Which band was formed first, Goldfinger or The Fray?
+A: "The band formed first was Goldfinger, as they formed in 1994, while The Fray was formed in 2001. So the answer is: Goldfinger."
+A: Goldfinger
+Q: [EOQ]
+S: 0.0

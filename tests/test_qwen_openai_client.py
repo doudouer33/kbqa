@@ -1,18 +1,22 @@
 import os
 import unittest
+import importlib
 from unittest.mock import patch
 
-from commaqa.models.gpt3generator import get_openai_client
+os.environ.setdefault("OPENAI_API_KEY", "EMPTY")
+from commaqa.models import gpt3generator
 
 
 class QwenOpenAIClientTest(unittest.TestCase):
     def test_local_llm_address_becomes_openai_compatible_base_url(self):
         with patch.dict(
             os.environ,
-            {"LLM_SERVER_HOST": "http://localhost", "LLM_SERVER_PORT": "8010"},
+            {"OPENAI_BASE_URL": "http://localhost:8010/v1", "OPENAI_API_KEY": "EMPTY"},
             clear=True,
         ):
-            client = get_openai_client()
+            # The verified generator constructs OpenAI() from OPENAI_*;
+            # formal transport adaptation is experiment-local.
+            client = importlib.reload(gpt3generator).client
 
         self.assertEqual(str(client.base_url), "http://localhost:8010/v1/")
         self.assertEqual(client.api_key, "EMPTY")

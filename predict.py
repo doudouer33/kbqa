@@ -32,6 +32,7 @@ def main():
         default="",
     )
     parser.add_argument("--silent", action="store_true", help="silent")
+    parser.add_argument("--official-only", action="store_true", help="Evaluate only with the official scorer")
     parser.add_argument('--set_name', type=str, help="set_name", required=True)
     # TODO
     # llm_port_num
@@ -86,7 +87,7 @@ def main():
     print(f"Run predict_command: \n{predict_command}\n")
 
     if not args.dry_run:
-        subprocess.call(predict_command, shell=True)
+        subprocess.run(predict_command, shell=True, check=True)
 
     # To be able to reproduce the same result:
     git_hash_filepath = os.path.join(prediction_directory, "git_hash__" + prediction_filename + ".txt")
@@ -98,11 +99,13 @@ def main():
     if not args.skip_evaluation:
         
         evaluate_command = " ".join(["python evaluate.py", str(config_filepath), str(args.evaluation_path), '--set_name', args.set_name, '--llm_port_num', args.llm_port_num]).strip()
+        if args.official_only:
+            evaluate_command += " --official"
 
         print(f"Run evaluate_command: \n{evaluate_command}\n")
 
-        if not args.dry_run:
-            subprocess.call(evaluate_command, shell=True)
+        if not args.dry_run and not args.official_only:
+            subprocess.run(evaluate_command, shell=True, check=True)
         
         evaluate_command = " ".join(
             ["python evaluate.py", str(config_filepath), str(args.evaluation_path), "--official", '--set_name', args.set_name, '--llm_port_num', args.llm_port_num]
@@ -111,7 +114,7 @@ def main():
         print(f"Run evaluate_command: \n{evaluate_command}\n")
 
         if not args.dry_run:
-            subprocess.call(evaluate_command, shell=True)
+            subprocess.run(evaluate_command, shell=True, check=True)
 
 
 if __name__ == "__main__":

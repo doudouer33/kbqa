@@ -1,0 +1,79 @@
+{
+  "end_state": "[EOQ]",
+  "models": {
+    "answer_main_question": {
+      "add_context": true,
+      "end_state": "[EOQ]",
+      "engine": "Qwen2.5-7B-Instruct",
+      "gen_model": "gpt3",
+      "max_tokens": 512,
+      "model_tokens_limit": 16384,
+      "name": "llmqa",
+      "next_model": "extract_answer",
+      "prompt_file": "prompts/hotpotqa/gold_with_1_distractors_context_cot_qa_prompt_token.txt",
+      "prompt_reader_args": {
+        "estimated_generation_length": 512,
+        "filter_by_key_values": {
+          "qid": [
+            "5abb14bd5542992ccd8e7f07",
+            "5ac2ada5554299657fa2900d",
+            "5a758ea55542992db9473680",
+            "5ae0185b55429942ec259c1b",
+            "5a8ed9f355429917b4a5bddd",
+            "5abfb3435542990832d3a1c1",
+            "5ab92dba554299131ca422a2",
+            "5a835abe5542996488c2e426",
+            "5a89c14f5542993b751ca98a",
+            "5a90620755429933b8a20508",
+            "5a7bbc50554299042af8f7d0",
+            "5a8f44ab5542992414482a25",
+            "5add363c5542990dbb2f7dc8",
+            "5a7fc53555429969796c1b55",
+            "5a790e7855429970f5fffe3d"
+          ]
+        },
+        "model_length_limit": 16384,
+        "order_by_key": "qid",
+        "shuffle": false,
+        "tokenizer_model_name": "Qwen/Qwen2.5-7B-Instruct"
+      },
+      "retry_after_n_seconds": 50,
+      "stop": [],
+      "tokenizer_model_name": "Qwen/Qwen2.5-7B-Instruct"
+    },
+    "extract_answer": {
+      "match_all_on_failure": true,
+      "name": "answer_extractor",
+      "query_source": "last_answer",
+      "regex": "(?s).* answer is:? ([^\\r\\n]*)\\.?",
+      "remove_last_fullstop": true
+    },
+    "generate_main_question": {
+      "end_state": "[EOQ]",
+      "eoq_after_n_calls": 1,
+      "name": "copy_question",
+      "next_model": "answer_main_question"
+    },
+    "generate_titles": {
+      "document_type": "title_paragraph_text",
+      "end_state": "[EOQ]",
+      "global_max_num_paras": 15,
+      "name": "retrieve_and_reset_paragraphs",
+      "next_model": "generate_main_question",
+      "query_source": "original_question",
+      "retrieval_count": 9,
+      "retrieval_type": "bm25",
+      "retriever_host": "http://localhost",
+      "retriever_port": "8000",
+      "source_corpus_name": "hotpotqa"
+    }
+  },
+  "prediction_type": "answer",
+  "reader": {
+    "add_gold_paras": false,
+    "add_paras": false,
+    "add_pinned_paras": false,
+    "name": "multi_para_rc"
+  },
+  "start_state": "generate_titles"
+}

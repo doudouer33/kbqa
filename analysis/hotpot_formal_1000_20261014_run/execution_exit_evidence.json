@@ -1,0 +1,19 @@
+{
+  "observed_at_unix": 1791976403.8910365,
+  "execution_exit_timestamp": "2026-10-14T10:15:25.407Z",
+  "execution_session": "14122",
+  "recorded_exit_code": -1,
+  "recorded_status": "failed",
+  "recorded_duration_seconds": 1381,
+  "app_server_error_same_time": [
+    "2026-10-14T10:15:25.434532Z ERROR codex_core::session: failed to record rollout items: thread 01a1374d-c4c5-75d1-9f66-44ce203de69d not found"
+  ],
+  "cgroup_memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\n",
+  "inference": "Most consistent with loss of the Codex execution session; exact signal/initiator not recorded",
+  "launch_design_defect": "Long inference was coupled to a temporary Codex unified_exec session",
+  "durable_launcher": "analysis/hotpot_formal_runner/launch_tmux.py",
+  "launcher_sha256": "9e345ff383c08bc255ac07756a0af38fb96f93ddb2dd45251a246f67483d36d9",
+  "tmux_probe_log": "lifecycle_probe_1791976366838650911.log",
+  "formal_restart_blocker": "k=4 qid=5a844fd35542990548d0b274 has request event but no durable API response",
+  "valid_pairs_preserved": 3826
+}

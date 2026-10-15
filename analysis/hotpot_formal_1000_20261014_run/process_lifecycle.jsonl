@@ -1,0 +1,2 @@
+{"event": "runner_started", "pid": 843182, "supervisor_pid": 843178, "log": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_formal_1000_20261014_run/runner_tmux_1791976667258020699.log", "manager": "tmux", "recorded_at": "2026-10-14T19:17:47.259883+08:00"}
+{"event": "runner_exited", "pid": 843182, "exit_code": 0, "recorded_at": "2026-10-15T01:20:11.757647+08:00"}

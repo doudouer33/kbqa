@@ -1,0 +1,57 @@
+{
+  "qid": "5abdc0ad55429933744ab81b",
+  "k": 1,
+  "result": [
+    "5abdc0ad55429933744ab81b",
+    "Goldfinger",
+    "\n5abdc0ad55429933744ab81b\nWhich band was formed first, Goldfinger or The Fray?\nA: [\"Goldfinger (band)\"]\nQ: Which band was formed first, Goldfinger or The Fray?\nA: \"The band formed first was Goldfinger, as they formed in 1994, while The Fray was formed in 2001. So the answer is: Goldfinger.\"\nA: Goldfinger\nQ: [EOQ]\nS: 0.0"
+  ],
+  "tokens": {
+    "qid": "5abdc0ad55429933744ab81b",
+    "k": 1,
+    "prompt_tokens": 6527,
+    "total_tokens": 6567,
+    "completion_tokens": 40,
+    "latency_seconds": 1.1566265746951103,
+    "finish_reason": "stop",
+    "prompt_cropped": false,
+    "format_valid": true,
+    "prompt_sha256": "8f5eaee390795f2ae30def652a0d8a470fde1f1e954a2d286d1a4cb3c6a1ff04",
+    "context_sha256": "c612117963eff93978e376cdb1c2595241e5967263aea83ce8f6db5d58955a2f",
+    "fewshot_count": 15,
+    "raw_generation": "The band formed first was Goldfinger, as they formed in 1994, while The Fray was formed in 2001. So the answer is: Goldfinger.",
+    "prediction": "Goldfinger",
+    "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "recovered_api_response": true
+  },
+  "contexts": [
+    {
+      "title": "Goldfinger (band)",
+      "paragraph_text": "Goldfinger is an American rock band from Los Angeles, California that formed in 1994. The band is widely considered to have been a contributor to the movement of third-wave ska, a mid-1990s revitalization in the popularity of ska. However, the releases of \"Open Your Eyes\" and \"Disconnection Notice\", have been more commonly placed as punk rock genre. Apart from the band's music, Goldfinger is also noted for their political activism, particularly in the area of animal rights."
+    }
+  ],
+  "retrieval": {
+    "request": {
+      "retrieval_method": "retrieve_from_elasticsearch",
+      "query_text": "band was formed first, Goldfinger or The Fray?",
+      "max_hits_count": 1,
+      "corpus_name": "hotpotqa",
+      "document_type": "title_paragraph_text"
+    },
+    "documents": [
+      {
+        "paragraph_text": "Goldfinger is an American rock band from Los Angeles, California that formed in 1994. The band is widely considered to have been a contributor to the movement of third-wave ska, a mid-1990s revitalization in the popularity of ska. However, the releases of \"Open Your Eyes\" and \"Disconnection Notice\", have been more commonly placed as punk rock genre. Apart from the band's music, Goldfinger is also noted for their political activism, particularly in the area of animal rights.",
+        "id": "5cULqmTCwtv6D7PqPHMLU9ycP3paGqe1",
+        "paragraph_index": 0,
+        "title": "Goldfinger (band)",
+        "is_abstract": true,
+        "url": "https://en.wikipedia.org/wiki?curid=209669",
+        "score": 40.49684,
+        "corpus_name": "hotpotqa"
+      }
+    ]
+  },
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+  "input_sha256": "fb7fd76c12c2508ee1d109cfe1da438f2aa366b0ca1c1e45c655de2c38f4dbbb",
+  "elapsed_seconds": 0.3203029576689005
+}

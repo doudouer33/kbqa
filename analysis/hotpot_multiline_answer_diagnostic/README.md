@@ -1,6 +1,6 @@
 # Qwen HotpotQA 多行 CoT 答案提取验证
 
-候选配置：[oner_qa_qwen_hotpotqa_multiline_candidate.jsonnet](/media/hnu/hnu2021/dengxin/luoyichen/kbqa/base_configs/oner_qa_qwen_hotpotqa_multiline_candidate.jsonnet)。只更换提取正则，引用现有强化 Prompt；历史配置和公共提取器均保持不变。
+候选配置：[oner_qa_qwen_hotpotqa_formal.jsonnet](/media/hnu/hnu2021/dengxin/luoyichen/kbqa/base_configs/oner_qa_qwen_hotpotqa_formal.jsonnet)。只更换提取正则，引用现有强化 Prompt；历史配置和公共提取器均保持不变。
 
 从仓库根目录运行新增测试：
 

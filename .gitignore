@@ -17,3 +17,7 @@ elasticsearch-7.10.2-linux-x86_64.tar.gz.sha512
 /kbqa_classifier_mutihop/outputs
 /new_onehop/outputs
 /predictions
+
+# Experiment-local process lock files
+/analysis/*_run/.runner.lock
+/analysis/*_run/**/.inference.lock

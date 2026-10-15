@@ -1,0 +1,57 @@
+{
+  "qid": "5a7f40de5542992e7d278cc8",
+  "k": 1,
+  "result": [
+    "5a7f40de5542992e7d278cc8",
+    "Carrie Fisher",
+    "\n5a7f40de5542992e7d278cc8\nWhat star if the Burbs was Canadian?\nA: [\"The 'Burbs\"]\nQ: What star if the Burbs was Canadian?\nA: \"The 'Burbs stars include Tom Hanks, Bruce Dern, Carrie Fisher, Rick Ducommun, Corey Feldman, Wendy Schaal, and Henry Gibson. Among these, Carrie Fisher is Canadian. So the answer is: Carrie Fisher.\"\nA: Carrie Fisher\nQ: [EOQ]\nS: 0.0"
+  ],
+  "tokens": {
+    "qid": "5a7f40de5542992e7d278cc8",
+    "k": 1,
+    "prompt_tokens": 6495,
+    "total_tokens": 6546,
+    "completion_tokens": 51,
+    "latency_seconds": 1.438048930838704,
+    "finish_reason": "stop",
+    "prompt_cropped": false,
+    "format_valid": true,
+    "prompt_sha256": "1a143f35290a303f6ebc1162be1198bf19a04c30761dfca6f8eeec349defcf47",
+    "context_sha256": "071a1db2ae5c59f8f99ceacc574fc2b27e4e9a2315447ab9d8cd2ca0582324f0",
+    "fewshot_count": 15,
+    "raw_generation": "The 'Burbs stars include Tom Hanks, Bruce Dern, Carrie Fisher, Rick Ducommun, Corey Feldman, Wendy Schaal, and Henry Gibson. Among these, Carrie Fisher is Canadian. So the answer is: Carrie Fisher.",
+    "prediction": "Carrie Fisher",
+    "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "recovered_api_response": false
+  },
+  "contexts": [
+    {
+      "title": "The 'Burbs",
+      "paragraph_text": "The 'Burbs is a 1989 American comedy thriller film directed by Joe Dante starring Tom Hanks, Bruce Dern, Carrie Fisher, Rick Ducommun, Corey Feldman, Wendy Schaal and Henry Gibson. The film was written by Dana Olsen, who also has a cameo in the movie. The film pokes fun at suburban environments and their eccentric dwellers."
+    }
+  ],
+  "retrieval": {
+    "request": {
+      "retrieval_method": "retrieve_from_elasticsearch",
+      "query_text": "star if the Burbs was Canadian?",
+      "max_hits_count": 1,
+      "corpus_name": "hotpotqa",
+      "document_type": "title_paragraph_text"
+    },
+    "documents": [
+      {
+        "paragraph_text": "The 'Burbs is a 1989 American comedy thriller film directed by Joe Dante starring Tom Hanks, Bruce Dern, Carrie Fisher, Rick Ducommun, Corey Feldman, Wendy Schaal and Henry Gibson. The film was written by Dana Olsen, who also has a cameo in the movie. The film pokes fun at suburban environments and their eccentric dwellers.",
+        "id": "4k2VAUaEa2ouZ3KdHVdCkkvxoCQdXyC6",
+        "paragraph_index": 0,
+        "title": "The 'Burbs",
+        "is_abstract": true,
+        "url": "https://en.wikipedia.org/wiki?curid=600216",
+        "score": 35.39318,
+        "corpus_name": "hotpotqa"
+      }
+    ]
+  },
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+  "input_sha256": "fb7fd76c12c2508ee1d109cfe1da438f2aa366b0ca1c1e45c655de2c38f4dbbb",
+  "elapsed_seconds": 2.661164866760373
+}

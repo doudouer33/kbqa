@@ -1,0 +1,30 @@
+{
+  "response": {
+    "id": "chat-643a16c2e0834aa5a8f6183e3f55a036",
+    "object": "chat.completion",
+    "created": 1791930016,
+    "model": "Qwen2.5-7B-Instruct",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Southwest Oregon Regional Airport is operated by the Coos County Airport District. So the answer is: Southwest Oregon Regional Airport.",
+          "tool_calls": []
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 6494,
+      "total_tokens": 6520,
+      "completion_tokens": 26
+    },
+    "prompt_logprobs": null
+  },
+  "latency_seconds": 0.9844722934067249,
+  "prompt_sha256": "37c1b111bfbac84664069bee5ce16cfb6567eff9b57fc11015b2369c7d39385e",
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1"
+}

@@ -32,7 +32,7 @@ from run import instatiate_config
 
 
 HISTORICAL_CONFIG = ROOT / "base_configs/oner_qa_qwen_hotpotqa_prompt_token_diagnostic.jsonnet"
-CANDIDATE_CONFIG = ROOT / "base_configs/oner_qa_qwen_hotpotqa_multiline_candidate.jsonnet"
+CANDIDATE_CONFIG = ROOT / "base_configs/oner_qa_qwen_hotpotqa_formal.jsonnet"
 OLD_REGEX = r".* answer is:? (.*)\.?"
 NEW_REGEX = r"(?s).* answer is:? ([^\r\n]*)\.?"
 

@@ -1,0 +1,57 @@
+{
+  "qid": "5ab80bbf5542991d32223818",
+  "k": 1,
+  "result": [
+    "5ab80bbf5542991d32223818",
+    "Southwest Oregon Regional Airport",
+    "\n5ab80bbf5542991d32223818\nWhich airport is operated by the Coos Country Airport District, Southwest Oregon Regional Airport or Lawton–Fort Sill Regional Airport?\nA: [\"Southwest Oregon Regional Airport\"]\nQ: Which airport is operated by the Coos Country Airport District, Southwest Oregon Regional Airport or Lawton–Fort Sill Regional Airport?\nA: \"Southwest Oregon Regional Airport is operated by the Coos County Airport District. So the answer is: Southwest Oregon Regional Airport.\"\nA: Southwest Oregon Regional Airport\nQ: [EOQ]\nS: 0.0"
+  ],
+  "tokens": {
+    "qid": "5ab80bbf5542991d32223818",
+    "k": 1,
+    "prompt_tokens": 6494,
+    "total_tokens": 6520,
+    "completion_tokens": 26,
+    "latency_seconds": 0.9844722934067249,
+    "finish_reason": "stop",
+    "prompt_cropped": false,
+    "format_valid": true,
+    "prompt_sha256": "37c1b111bfbac84664069bee5ce16cfb6567eff9b57fc11015b2369c7d39385e",
+    "context_sha256": "37a82f72859d17d34bd1a81e14b0a5f0bbad3de37bfb0bc07e1bce559a42f819",
+    "fewshot_count": 15,
+    "raw_generation": "Southwest Oregon Regional Airport is operated by the Coos County Airport District. So the answer is: Southwest Oregon Regional Airport.",
+    "prediction": "Southwest Oregon Regional Airport",
+    "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "recovered_api_response": true
+  },
+  "contexts": [
+    {
+      "title": "Southwest Oregon Regional Airport",
+      "paragraph_text": "Southwest Oregon Regional Airport (IATA: OTH, ICAO: KOTH, FAA LID: OTH) , formerly North Bend Municipal Airport, is a public airport in North Bend, Coos County, Oregon. It is operated by the Coos County Airport District."
+    }
+  ],
+  "retrieval": {
+    "request": {
+      "retrieval_method": "retrieve_from_elasticsearch",
+      "query_text": "airport operated by the Coos Country Airport District, Southwest Oregon Regional Airport or Lawton–Fort Sill Regional Airport?",
+      "max_hits_count": 1,
+      "corpus_name": "hotpotqa",
+      "document_type": "title_paragraph_text"
+    },
+    "documents": [
+      {
+        "paragraph_text": "Southwest Oregon Regional Airport (IATA: OTH, ICAO: KOTH, FAA LID: OTH) , formerly North Bend Municipal Airport, is a public airport in North Bend, Coos County, Oregon. It is operated by the Coos County Airport District.",
+        "id": "QyPkBYQRFhZb9kvxqB3v7LhTr1sWe4xk",
+        "paragraph_index": 0,
+        "title": "Southwest Oregon Regional Airport",
+        "is_abstract": true,
+        "url": "https://en.wikipedia.org/wiki?curid=2134698",
+        "score": 121.556854,
+        "corpus_name": "hotpotqa"
+      }
+    ]
+  },
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+  "input_sha256": "fb7fd76c12c2508ee1d109cfe1da438f2aa366b0ca1c1e45c655de2c38f4dbbb",
+  "elapsed_seconds": 0.3327163476496935
+}

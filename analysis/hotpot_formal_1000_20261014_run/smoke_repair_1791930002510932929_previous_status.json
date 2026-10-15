@@ -1,0 +1,9 @@
+{
+  "status": "stopped_on_error",
+  "started_at": "2026-10-14T06:18:31.936502+08:00",
+  "completed": [],
+  "smoke_passed": false,
+  "updated_at": "2026-10-14T06:18:43.421568+08:00",
+  "regression_tests": "全部 unittest 通过；包含 Unicode/JSON、多行 CoT、Yes/No、官方评分和断点恢复",
+  "error": "CalledProcessError(1, ['/home/dengxin/miniconda3/envs/adaptiverag/bin/python', 'run.py', 'predict', '/media/hnu/hnu2021/dengxin/luoyichen/kbqa/base_configs/oner_qa_qwen_hotpotqa_formal.jsonnet', '--instantiation_scheme', 'oner_qa', '--prompt_set', '1', '--topk_values', '1', '--llm_port_num', '8002', '--set_name', 'hotpot_formal_1000_20261014_smoke', '--evaluation_path', '/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/hotpotqa_smoke.jsonl', '--silent', '--official_only'])"
+}

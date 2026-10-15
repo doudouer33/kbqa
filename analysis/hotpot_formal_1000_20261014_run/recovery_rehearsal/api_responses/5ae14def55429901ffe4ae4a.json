@@ -1,0 +1,30 @@
+{
+  "response": {
+    "id": "chat-83e8fe623c2c4a74a6b4aff68a7e5879",
+    "object": "chat.completion",
+    "created": 1791930013,
+    "model": "Qwen2.5-7B-Instruct",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Lee Tamahori is a filmmaker who directs movies. Robert Redford is known for his work as an actor, director, and producer. Both have worked as directors at some point in their careers. So the answer is: yes.",
+          "tool_calls": []
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 6473,
+      "total_tokens": 6521,
+      "completion_tokens": 48
+    },
+    "prompt_logprobs": null
+  },
+  "latency_seconds": 1.209969524294138,
+  "prompt_sha256": "5449ad02366162f8567614b9396eb853fee492c8be3df634512d3a5e4f67a2ab",
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1"
+}

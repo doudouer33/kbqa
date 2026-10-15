@@ -1,0 +1,30 @@
+{
+  "response": {
+    "id": "chat-242a4abd2b1c4780bf47bcd25223dcfa",
+    "object": "chat.completion",
+    "created": 1791930014,
+    "model": "Qwen2.5-7B-Instruct",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Stauntonia and Pimelea are both genera of flowering plants. So the answer is: genera of flowering plants.",
+          "tool_calls": []
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 6465,
+      "total_tokens": 6492,
+      "completion_tokens": 27
+    },
+    "prompt_logprobs": null
+  },
+  "latency_seconds": 0.9021325297653675,
+  "prompt_sha256": "f58136e2853befdae45bbde3ab824e99568bffe15087f0d183d81f8c7ccc17a0",
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1"
+}

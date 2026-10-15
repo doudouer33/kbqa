@@ -1,0 +1,30 @@
+{
+  "response": {
+    "id": "chat-cfe3a39787fb4f6281242bdb908f70f9",
+    "object": "chat.completion",
+    "created": 1791930017,
+    "model": "Qwen2.5-7B-Instruct",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The band formed first was Goldfinger, as they formed in 1994, while The Fray was formed in 2001. So the answer is: Goldfinger.",
+          "tool_calls": []
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 6527,
+      "total_tokens": 6567,
+      "completion_tokens": 40
+    },
+    "prompt_logprobs": null
+  },
+  "latency_seconds": 1.1566265746951103,
+  "prompt_sha256": "8f5eaee390795f2ae30def652a0d8a470fde1f1e954a2d286d1a4cb3c6a1ff04",
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1"
+}

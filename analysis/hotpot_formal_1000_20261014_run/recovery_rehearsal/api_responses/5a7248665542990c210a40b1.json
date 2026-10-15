@@ -1,0 +1,30 @@
+{
+  "response": {
+    "id": "chat-fae072a764a0495e93645b0f32d37413",
+    "object": "chat.completion",
+    "created": 1791930009,
+    "model": "Qwen2.5-7B-Instruct",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atlético Mineiro. So the answer is: Atlético Mineiro.",
+          "tool_calls": []
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 6484,
+      "total_tokens": 6522,
+      "completion_tokens": 38
+    },
+    "prompt_logprobs": null
+  },
+  "latency_seconds": 1.218640275299549,
+  "prompt_sha256": "9e5e43bd9bc289698d704a6acda0a0624ed9c6e198dd0a2742ad944505a93876",
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1"
+}

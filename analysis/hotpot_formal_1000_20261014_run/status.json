@@ -1,0 +1,304 @@
+{
+  "status": "complete",
+  "started_at": "2026-10-14T06:18:31.936502+08:00",
+  "completed": [
+    {
+      "k": 1,
+      "count": 1000,
+      "f1": 0.5087045823457588,
+      "em": 0.411,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 6512.17,
+      "average_completion_tokens": 46.767,
+      "average_total_tokens": 6558.937,
+      "average_latency_seconds": 1.1374227492697537,
+      "wall_seconds": 1643.9405775684863
+    },
+    {
+      "k": 2,
+      "count": 1000,
+      "f1": 0.5310571708391368,
+      "em": 0.443,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__2___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__2___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 6596.452,
+      "average_completion_tokens": 46.992,
+      "average_total_tokens": 6643.444,
+      "average_latency_seconds": 1.1367888527959584,
+      "wall_seconds": 1654.4054918661714
+    },
+    {
+      "k": 3,
+      "count": 1000,
+      "f1": 0.5379707749251093,
+      "em": 0.444,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__3___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__3___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 6677.361,
+      "average_completion_tokens": 47.349,
+      "average_total_tokens": 6724.71,
+      "average_latency_seconds": 1.1768292353898286,
+      "wall_seconds": 1692.755242658779
+    },
+    {
+      "k": 4,
+      "count": 1000,
+      "f1": 0.5493231114774458,
+      "em": 0.45,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__4___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__4___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 6755.613,
+      "average_completion_tokens": 46.95,
+      "average_total_tokens": 6802.563,
+      "average_latency_seconds": 1.227947981638834,
+      "wall_seconds": 348.8834891356528
+    },
+    {
+      "k": 5,
+      "count": 1000,
+      "f1": 0.5527614909342463,
+      "em": 0.45,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__5___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__5___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 6832.114,
+      "average_completion_tokens": 47.641,
+      "average_total_tokens": 6879.755,
+      "average_latency_seconds": 1.2146085658222436,
+      "wall_seconds": 1807.8887973632663
+    },
+    {
+      "k": 6,
+      "count": 1000,
+      "f1": 0.5609421016376125,
+      "em": 0.46,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__6___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__6___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 6906.791,
+      "average_completion_tokens": 46.699,
+      "average_total_tokens": 6953.49,
+      "average_latency_seconds": 1.2605944994110614,
+      "wall_seconds": 2058.6638498455286
+    },
+    {
+      "k": 7,
+      "count": 1000,
+      "f1": 0.5546403497946841,
+      "em": 0.459,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__7___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__7___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 6980.159,
+      "average_completion_tokens": 47.106,
+      "average_total_tokens": 7027.265,
+      "average_latency_seconds": 1.2576284376364202,
+      "wall_seconds": 2135.095394430682
+    },
+    {
+      "k": 8,
+      "count": 1000,
+      "f1": 0.5614911933955278,
+      "em": 0.461,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__8___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__8___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 7055.63,
+      "average_completion_tokens": 47.152,
+      "average_total_tokens": 7102.782,
+      "average_latency_seconds": 1.2592523383703083,
+      "wall_seconds": 2166.2858827635646
+    },
+    {
+      "k": 9,
+      "count": 1000,
+      "f1": 0.5749874693418037,
+      "em": 0.477,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__9___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__9___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 7132.028,
+      "average_completion_tokens": 47.078,
+      "average_total_tokens": 7179.106,
+      "average_latency_seconds": 1.2764195789601653,
+      "wall_seconds": 2105.206493096426
+    },
+    {
+      "k": 10,
+      "count": 1000,
+      "f1": 0.5743530981574325,
+      "em": 0.478,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__10___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__10___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 7206.742,
+      "average_completion_tokens": 47.682,
+      "average_total_tokens": 7254.424,
+      "average_latency_seconds": 1.2746588939391077,
+      "wall_seconds": 1903.5660481005907
+    },
+    {
+      "k": 11,
+      "count": 1000,
+      "f1": 0.5706830681874026,
+      "em": 0.471,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__11___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__11___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 7283.628,
+      "average_completion_tokens": 47.031,
+      "average_total_tokens": 7330.659,
+      "average_latency_seconds": 1.2781074876803904,
+      "wall_seconds": 1979.9468402341008
+    },
+    {
+      "k": 12,
+      "count": 1000,
+      "f1": 0.5739879743923088,
+      "em": 0.475,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__12___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__12___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 7359.721,
+      "average_completion_tokens": 46.779,
+      "average_total_tokens": 7406.5,
+      "average_latency_seconds": 1.2798375794831662,
+      "wall_seconds": 1895.4805358406156
+    },
+    {
+      "k": 13,
+      "count": 1000,
+      "f1": 0.5847504945518878,
+      "em": 0.48,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__13___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__13___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 7437.017,
+      "average_completion_tokens": 46.864,
+      "average_total_tokens": 7483.881,
+      "average_latency_seconds": 1.2283115110788494,
+      "wall_seconds": 1758.074911415577
+    },
+    {
+      "k": 14,
+      "count": 1000,
+      "f1": 0.5731588979132323,
+      "em": 0.473,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__14___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__14___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 7510.493,
+      "average_completion_tokens": 47.169,
+      "average_total_tokens": 7557.662,
+      "average_latency_seconds": 1.2153891418557614,
+      "wall_seconds": 1734.7581428121775
+    },
+    {
+      "k": 15,
+      "count": 1000,
+      "f1": 0.5780117687266294,
+      "em": 0.479,
+      "prediction_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json",
+      "token_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/token_usage.jsonl",
+      "finish_reasons": {
+        "stop": 1000
+      },
+      "cropped": 0,
+      "format_invalid": 0,
+      "average_prompt_tokens": 7585.541,
+      "average_completion_tokens": 47.415,
+      "average_total_tokens": 7632.956,
+      "average_latency_seconds": 1.229785935489461,
+      "wall_seconds": 1757.7151723410934
+    }
+  ],
+  "smoke_passed": true,
+  "updated_at": "2026-10-15T01:20:11.622908+08:00",
+  "regression_tests": "全部 unittest 通过；包含 Unicode/JSON、多行 CoT、Yes/No、官方评分和断点恢复",
+  "engineering_repairs": [
+    "- 2026-10-14T06:20:02.514973+08:00：修正检查以遵循原 CopyQuestionParticipant.strip()；增加完整预测已落盘后的安全恢复及流式文件哈希。变化文件：analysis/hotpot_formal_runner/hooks.py, analysis/hotpot_formal_runner/run_experiment.py, analysis/hotpot_formal_runner/storage.py。配置、Prompt、数据、评分和模型生成参数保持一致；失败记录保留，重跑 Smoke gate。",
+    "- 2026-10-14T17:51:35.241386+08:00：模型 Token 预算检查连接断开导致 k=4 第 138 题在生成前停止。现服务恢复，同模型 ID/上下文上限；独立恢复 Smoke Test 16 次真实调用通过，Prompt、原始生成、预测及 prompt_tokens 全部与首轮一致。源码、数据和配置哈希不变；保留 3137 条记录，从断点续跑，未重启或修改服务。",
+    "- 2026-10-14T19:13:58.510710+08:00：查到第二次中断的 Codex 执行记录：18:15:25 命令会话 14122 结束，status=failed、exit_code=-1，无程序异常输出；同秒 app-server 报当前 chat 会话不存在。所属 cgroup 的 oom_kill=0。证据最符合临时 Codex 执行会话失效导致终止，具体信号/发起方未记录。原启动方式未与临时会话隔离；新增独立 tmux 启动器和退出/信号日志，12 秒脱离工具调用的存活探针通过，冻结推理源码哈希保持一致。第 827 题缺失 API 响应，启动器保持阻止重发。证据：execution_exit_evidence.json。",
+    "- 2026-10-14T19:17:46.779650+08:00：用户要求在原实验基础上继续。k=4 第 827 题未持久保存响应，经用户本次续跑指令，对这一个缺失结果发起真实重试；失联请求完成状态仍标记 unknown、usage 为 null，仅保留在 interrupted_request_attempts.jsonl 和原始请求日志归档中，不计作有效结果、不伪造 Token。已完成 3826 条结果及快照哈希保存，冻结源码/配置/数据哈希不变。恢复采用独立 tmux 管理与退出日志。"
+  ],
+  "current_k": 15,
+  "resolved_errors": [
+    {
+      "error": "CalledProcessError(1, ['/home/dengxin/miniconda3/envs/adaptiverag/bin/python', 'run.py', 'predict', '/media/hnu/hnu2021/dengxin/luoyichen/kbqa/base_configs/oner_qa_qwen_hotpotqa_formal.jsonnet', '--instantiation_scheme', 'oner_qa', '--prompt_set', '1', '--topk_values', '4', '--llm_port_num', '8002', '--set_name', 'hotpot_formal_1000_20261014', '--evaluation_path', '/media/hnu/hnu2021/dengxin/luoyichen/kbqa/processed_data/hotpotqa/dev_1000_subsampled.jsonl', '--silent', '--official_only'])",
+      "resolved_at": "2026-10-14T17:51:35.241371+08:00",
+      "verification": "recovery_smoke_1749_results.json"
+    },
+    {
+      "error": "运行进程已退出且未写入正常退出原因；最后 Token 落盘时间 2026-10-14 18:15:24（北京时间）。k=4 第 827 题 qid=5a844fd35542990548d0b274 有发送请求记录，但没有持久 API 响应或 checkpoint；无法确认该请求的完成状态，恢复保护要求停止，未重复调用、未伪造 Token。已保存 3826 个唯一有效结果；k=1～3 已验收，k=4 有 826 条。",
+      "resolved_at": "2026-10-14T19:17:46.779626+08:00",
+      "resolution": "User explicitly requested continuation; retry only the missing-response question; preserved interrupted attempt audit",
+      "authorization_file": "authorized_resume_1791976666745841064_authorization.json"
+    }
+  ],
+  "execution_manager": "tmux",
+  "authorized_retry_qid": "5a844fd35542990548d0b274",
+  "preserved_results_manifest": "authorized_resume_1791976666745841064_preserved_results.json",
+  "analysis_dir": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_formal_1000_20261014",
+  "finished_at": "2026-10-15T01:20:11.622887+08:00"
+}

@@ -1,0 +1,204 @@
+Answer the question using the provided context.
+Reason step by step before giving your final answer.
+
+Strict output requirements:
+1. Your entire response must be a single line. Do not output any newline characters.
+2. You may explain your reasoning before the final answer, but keep all reasoning on the same line.
+3. End your response with exactly this format: So the answer is: <answer>.
+4. The <answer> must contain only the short answer, without explanations or additional descriptions.
+5. For yes/no questions, the <answer> must be exactly "yes" or "no".
+6. Do not output anything after the final answer.
+
+Wikipedia Title: Guantanamo: My Journey
+Guantanamo: My Journey is the autobiography of David Hicks, an Australian who was held in the U.S. Guantanamo Bay detention camp for years before eventually pleading guilty to the charge of "material support to terrorism" in a military commission trial. The first 174 pages of the book details his early life, and subsequent standard military training in Kosovo, Pakistan and Afghanistan. The book heavily details Hicks' time spent in Guantanamo Bay prison, where he spent 5 and a half years following his capture in 2001. The book is the first published account by Hicks of his time spent at Guantanamo Bay and the events leading up to his arrest. In August 2011 assets from the book were frozen as the Commonwealth DPP attempted to pursue Hicks through the courts to stop him profiting from the autobiography.
+
+Wikipedia Title: David Hicks
+David Matthew Hicks (born 7 August 1975) is an Australian who was detained by the United States in Guantanamo Bay detention camp from 2001 until 2007. He had attended the Al Farouq training camp para-military training in Afghanistan during 2001.
+
+Wikipedia Title: Guantanamo Bay detention camp
+The Guantanamo Bay detention camp is a United States military prison located within Guantanamo Bay Naval Base, also referred to as Guantánamo or GTMO ( ), which fronts on Guantánamo Bay in Cuba. Since the inmates have been detained indefinitely without trial and several inmates were severely tortured, this camp is considered as a major breach of human rights by Amnesty International.
+
+Q: In which country did this Australian who was detained in Guantanamo Bay detention camp and published "Guantanamo: My Journey" receive para-military training?
+A: The Australian who was detained in Guantanamo Bay detention camp and published "Guantanamo: My Journey" is David Hicks. David Hicks received his para-military training in Afghanistan. So the answer is: Afghanistan.
+
+
+Wikipedia Title: Rihanna
+Robyn Rihanna Fenty ( ; February 20, 1988) is a Barbadian singer, songwriter, and actress. Born in Saint Michael, Barbados and raised in Bridgetown, during 2003 she recorded demo tapes under the direction of record producer Evan Rogers and signed a recording contract with Def Jam Recordings after auditioning for its then-president, hip hop producer and rapper Jay Z. In 2005, Rihanna rose to fame with the release of her debut studio album "Music of the Sun" and its follow-up "A Girl like Me" (2006), which charted on the top 10 of the US "Billboard" 200 and respectively produced the singles "Pon de Replay" and "SOS".
+
+Wikipedia Title: American Music Awards of 2012
+The 40th Annual American Music Awards was held on November 18, 2012 at the Nokia Theatre in Los Angeles. The awards recognized the most popular artists and albums from the year 2012. It was broadcast live on ABC. The nominees were announced on October 9, 2012 by Christina Aguilera. This year included a brand new category, "Electronic Dance Music". Justin Bieber won all three of his nominations, and of each of their four nominations, Nicki Minaj won two, and Rihanna one. Katy Perry won one of her 2 nominations, whereas Adele and Taylor Swift each won the award for which they were nominated.
+
+Wikipedia Title: List of awards and nominations received by TLC
+Created by Dick Clark in 1973, the American Music Awards is an annual music awards ceremony and one of several major annual American music awards shows. TLC has won two award from seven nominations.
+
+Q: How many awards did the "A Girl Like Me" singer win at the American Music Awards of 2012?
+A: The singer of "A Girl Like Me" singer is Rihanna. In the American Music Awards of 2012, Rihana won one award. So the answer is: one.
+
+
+Wikipedia Title: Jeremy Horn
+Jeremy Graham Horn (born August 25, 1975) is an American mixed martial artist currently competing in the Middleweight division. Although Horn is perhaps best known for fighting in smaller American promotions, he has also competed in some of the premiere mixed martial arts organizations around the world including the UFC, WEC, PRIDE, Bellator, Pancrase, the IFL, King of the Cage, and the International Fighting Championships (IFC). Horn is the former King of the Cage Light Heavyweight Champion. Horn has also competed in the Heavyweight and Light Heavyweight divisions.
+
+Wikipedia Title: Renato Sobral
+Renato da Cunha Sobral (] ; born September 7, 1975), also known as "Babalu", is a retired Brazilian wrestler and mixed martial artist, and former Strikeforce Light Heavyweight Champion. Sobral previously fought in the Ultimate Fighting Championship, where he posted a 6–4 record and has also competed for Bellator, RINGS, Jungle Fight, Cage Rage, Affliction, and ONE FC. He is the Head Instructor of Babalu's Iron Gym Cerritos and has a Luta Livre black belt. He is also a Brazilian jiu-jitsu black belt under Carlos Gracie Jr. In his prime he was considered one of the top fighters in the world and defeated the likes of former Welterweight UFC Champion Robbie Lawler, former Light Heavyweight UFC Champion Shogun Rua, former Heavyweight UFC Champion Maurice Smith, along with former title contenders Chael Sonnen, Elvis Sinosic, and Jeremy Horn.
+
+Wikipedia Title: Zaza Tkeshelashvili
+Zaza "Grom" Tkeshelashvili (born March 19, 1965) is a Georgian retired Freestyle wrestling Olympic competitor (100 kg) for Georgia in 1996 Olympic Games Atlanta and mixed martial artist. He formerly competed in the Heavyweight (MMA) division, most of which he fought with Fighting Network RINGS where he was known as Zaza Grom. He lost his last fight at Rings Lithuania – Bushido Rings 2 against Volk Han on August 5, 2001. He holds notable wins over Volk Han and Travis Fulton, and has fought Bobby Hoffman and Renato Sobral. His brother Koba Tkeshelashvili is also mixed martial artist and has competed in RINGS.
+
+Q: who is older Jeremy Horn or Renato Sobral ?
+A: Jeremy Horn was born on August 25, 1975. Renato Sobral was born on September 7, 1975. Thus, Jeremy Horn is older. So the answer is: Jeremy Horn.
+
+
+Wikipedia Title: Tufts University School of Medicine
+The Tufts University School of Medicine is one of the eight schools that constitute Tufts University. The "Times Higher Education (THE)" and the "Academic Ranking of World Universities (ARWU)" consistently rank Tufts among the world's best medical research institutions for clinical medicine. Located on the university's health sciences campus in downtown Boston, Massachusetts, the medical school has clinical affiliations with thousands of doctors and researchers in the United States and around the world, as well as at its affiliated hospitals in both Massachusetts (including Tufts Medical Center, St. Elizabeth's Medical Center, Lahey Hospital and Medical Center and Baystate Medical Center), and Maine (Maine Medical Center). According to Thomson Reuters' "Science Watch", Tufts University School of Medicine's research impact rates sixth among U.S medical schools for its overall medical research and within the top 5 for specialized research areas such as chronic obstructive pulmonary disorder, urology, cholera, public health & health care science, and pediatrics. In addition, Tufts University School of Medicine is ranked 44th in research and 38th in primary care according to "U.S. News & World Report".
+
+Wikipedia Title: Lake Wales, Florida
+Lake Wales is a city in Polk County, Florida, United States. The population was 14,225 at the 2010 census. s of 2014 , the population estimated by the U.S. Census Bureau is 15,140. It is part of the Lakeland–Winter Haven Metropolitan Statistical Area. Lake Wales is located in central Florida, west of Lake Kissimmee and east of Tampa.
+
+Wikipedia Title: Lake Wales Medical Center
+Lake Wales Medical Center is a hospital in Lake Wales, Florida. It is owned by health care provider Community Health Systems. Lake Wales Medical Center's main building is a general use hospital that includes an emergency department, an intensive care unit and various outpatient services. Nearby, at 1120 Carlton Avenue, Suite 1300, is the hospital Neurodiagnostic and Sleep Center.
+
+Q: What was the 2014 population of the city where Lake Wales Medical Center is located?
+A: Lake Wales Medical Center is located in the city of Polk County, Florida. The population of Polk County in 2014 was 15,140. So the answer is: 15,140.
+
+
+Wikipedia Title: Mother (John Lennon song)
+"Mother" is a song by English musician John Lennon, first released on his 1970 album "John Lennon/Plastic Ono Band". An edited version of the song was issued as a single in the United States on Apple Records, on 28 December 1970. The single runs about 1:41 shorter than the album due to a lack of the tolling bells intro and a quicker fadeout. The B-side features "Why" by Yoko Ono. The song peaked in the US at number 19 on the "Cashbox" Top 100 and number 43 on the "Billboard" Hot 100.
+
+Wikipedia Title: Walls and Bridges
+Walls and Bridges is the fifth studio album by English musician John Lennon. It was issued by Apple Records on 26 September 1974 in the United States and on 4 October in the United Kingdom. Written, recorded and released during his 18-month separation from Yoko Ono, the album captured Lennon in the midst of his "Lost Weekend". "Walls and Bridges" was an American "Billboard" number-one album and featured two hit singles, "Whatever Gets You thru the Night" and "#9 Dream". The first of these was Lennon's first number-one hit in the United States as a solo artist, and his only chart-topping single in either the US or Britain during his lifetime.
+
+Wikipedia Title: Nobody Loves You (When You're Down and Out)
+"Nobody Loves You (When You're Down and Out)" is a song written by John Lennon released on his 1974 album "Walls and Bridges". The song is included on the 1986 compilation "Menlove Ave.", the 1990 boxset "Lennon", the 1998 boxset "John Lennon Anthology", the 2005 two-disc compilation "", and the 2010 boxset "Gimme Some Truth".
+
+Q: Nobody Loves You was written by John Lennon and released on what album that was issued by Apple Records, and was written, recorded, and released during his 18 month separation from Yoko Ono?
+A: The album issued by Apple Records, and written, recorded, and released during John Lennon's 18 month separation from Yoko Ono is Walls and Bridges. Nobody Loves You was written by John Lennon on Walls and Bridges album. So the answer is: Walls and Bridges.
+
+
+Wikipedia Title: Pierce Gagnon
+Pierce Gagnon (born July 25, 2005) is an American child actor, known for his roles in "One Tree Hill", "Looper", "Wish I Was Here" and "Extant".
+
+Wikipedia Title: Looper (film)
+Looper is a 2012 American neo-noir science fiction thriller film written and directed by Rian Johnson, and produced by Ram Bergman and James D. Stern. It stars Bruce Willis, Joseph Gordon-Levitt, and Emily Blunt. It revolves around criminal syndicates using contracted killers called "loopers" to kill victims sent through time travel.
+
+Wikipedia Title: 2048: Nowhere to Run
+2048: Nowhere to Run (known in Chinese and Taiwanese territories as 2048: No Escape or 2048: Nowhere to Escape; alteratively known as Blade Runner 2048) is a 2017 American neo-noir science fiction short film acting as a prequel to the feature film "Blade Runner 2049" and the sequel to short film ""; it was released on August 30, 2017, less than one month before the release of the feature film, and features Dave Bautista as "Blade Runner 2049" character Sapper Morton, alongside Orion Ben. The film was written by Hampton Fancher and Michael Green, who also wrote the feature film, and directed by Luke Scott, whose father Ridley Scott directed the original "Blade Runner" and is executive producer on the sequel "Blade Runner 2049".
+
+Q: Which American neo-noir science fiction has Pierce Gagnon starred?
+A: Pierce Gagnon has starred in One Tree Hill, Looper, Wish I Was Here and Extant. Of these, Looper is an American neo-noir science fiction. So the answer is: Looper.
+
+
+Wikipedia Title: Community of practice
+A community of practice (CoP) is a group of people who share a craft or a profession. The concept was first proposed by cognitive anthropologist Jean Lave and educational theorist Etienne Wenger in their 1991 book "Situated Learning" . Wenger then significantly expanded on the concept in his 1998 book "Communities of Practice" .
+
+Wikipedia Title: Christopher Nolan
+Christopher Edward Nolan ( ; born 30 July 1970) is an English-American film director, producer, and screenwriter. He is one of the highest-grossing directors in history, and among the most successful and acclaimed filmmakers of the 21st century.
+
+Wikipedia Title: Jeremy Theobald
+Jeremy Theobald is a British actor best known for his portrayal of "The Young Man", the main character in Christopher Nolan's 1998 major picture debut "Following", and for which Theobald was also a producer, Filming was scheduled around their day jobs. Jonathan Romney, writing in the "New Statesman", noted that "Nolan and his cast are terrific finds: I wouldn't normally say this to struggling artists, but they might want to give up their day jobs."
+
+Q: Jeremy Theobald and Christopher Nolan share what profession?
+A: Jeremy Theobald is an actor and producer. Christopher Nolan is a director, producer, and screenwriter. Therefore, they both share the profession of being a producer. So the answer is: producer.
+
+
+Wikipedia Title: USNS Alan Shepard (T-AKE-3)
+USNS "Alan Shepard" (T-AKE-3) is a "Lewis and Clark"-class dry cargo ship in the United States Navy. It is named for astronaut Rear Admiral Alan Shepard (1923–1998).
+
+Wikipedia Title: Vertical Limit
+Vertical Limit is a 2000 American survival thriller film directed by Martin Campbell and written by Robert King. The film stars Chris O'Donnell, Bill Paxton, Robin Tunney and Scott Glenn. The film was released on December 8, 2000 in the United States by Columbia Pictures, receiving mixed reviews from critics and grossing $215 million worldwide.
+
+Wikipedia Title: Scott Glenn
+Theodore Scott Glenn (born January 26, 1941), better known as Scott Glenn, is an American actor. His roles have included Wes Hightower in "Urban Cowboy" (1980), astronaut Alan Shepard in "The Right Stuff" (1983), Emmett in "Silverado" (1985), Commander Bart Mancuso in "The Hunt for Red October" (1990), Jack Crawford in "The Silence of the Lambs" (1991), Roger in "Training Day" (2001), Ezra Kramer in "The Bourne Ultimatum" (2007), Kevin Garvey, Sr. in "The Leftovers" (2014–2017) and as Stick in both "Daredevil" (2015–) and "The Defenders" (2017).
+
+Q: Vertical Limit stars which actor who also played astronaut Alan Shepard in "The Right Stuff"?
+A: The actor who played astronaut Alan Shepard in "The Right Stuff" is Scott Glenn. The movie Vertical Limit also starred Scott Glenn. So the answer is: Scott Glenn.
+
+
+Wikipedia Title: No, Not Now
+"No, Not Now" is a song by Canadian indie rock band Hot Hot Heat and is taken from their first album, "Make Up the Breakdown". The song was released in the UK as the second single from the album on July 28, 2003. It reached number 38 in the UK Singles Chart.
+
+Wikipedia Title: Hot Hot Heat
+Hot Hot Heat was a Canadian indie rock band from Victoria, British Columbia, formed in 1999. The band was signed by Seattle label Sub Pop in 2001 and released its first EP, "Knock Knock Knock", and first full-length album, "Make Up the Breakdown", the following year. The band has released three albums since, the most recent being "Future Breeds" in 2010. Its style makes use of electronic and traditional instruments and has variously been categorized as dance-punk, post-punk revival, new wave, and art-punk.
+
+Wikipedia Title: The Operation M.D.
+The Operation M.D. (formerly The Operation) is a Canadian garage rock band created by Dr. Dynamite (Cone of Sum 41) and Dr. Rocco (Todd Morse of HO) as a side project to their other bands. The band's debut album "We Have an Emergency" was released in February 2007 by Aquarius Records. Their second album "Birds + Bee Stings" was self-released by the band's own label "Mouth To Mouth Music" in June 2010.
+
+Q: Which of the following had a debut album entitled "We Have an Emergency": Hot Hot Heat or The Operation M.D.?
+A: The debut album of the band "Hot Hot Heat" was "Make Up the Breakdown". The debut album of the band "The Operation M.D." was "We Have an Emergency". So the answer is: The Operation M.D..
+
+
+Wikipedia Title: Lee–Enfield
+The Lee–Enfield is a bolt-action, magazine-fed, repeating rifle that was the main firearm used by the military forces of the British Empire and Commonwealth during the first half of the 20th century. It was the British Army's standard rifle from its official adoption in 1895 until 1957. . It is often referred to as the "SMLE," which is short for the common "Short Magazine Lee-Enfield" variant.
+
+Wikipedia Title: James Paris Lee
+James Paris Lee (9 August 1831 – 24 February 1904) was a British, Canadian and later American inventor and arms designer, best known for inventing the Lee–Metford and Lee–Enfield series of rifles.
+
+Wikipedia Title: M1885 Remington–Lee
+The M1885 Remington–Lee (also known as the M1885 Lee, and "Navy M1885") is a bolt-action, box magazine repeating rifle designed principally by James Paris Lee.
+
+Q: James Paris Lee is best known for investing the Lee-Metford rifle and another rifle often referred to by what acronymn?
+A: James Paris Lee is best known for investing the Lee-Metford rifle and Lee–Enfield series of rifles. Lee–Enfield is often referred to by the acronym of SMLE. So the answer is: SMLE.
+
+
+Wikipedia Title: Leopold Jessner
+Leopold Jessner (3 March 1878–13 December 1945) was a noted producer and director of German Expressionist theater and cinema. His first film, "Hintertreppe" (1921), is considered a major turning point which paved the way for the later German Expressionist experiments of German filmmakers F.W. Murnau, Fritz Lang, and G.W. Pabst.
+
+Wikipedia Title: Nosferatu
+Nosferatu, eine Symphonie des Grauens (translated as Nosferatu: A Symphony of Horror; or simply Nosferatu) is a 1922 German Expressionist horror film, directed by F. W. Murnau, starring Max Schreck as the vampire Count Orlok. The film, shot in 1921 and released in 1922, was an unauthorized adaptation of Bram Stoker's "Dracula" (1897). Various names and other details were changed from the novel: for instance, "vampire" became "Nosferatu" and "Count Dracula" became "Count Orlok".
+
+Wikipedia Title: The Phantom Hour
+The Phantom Hour is a 2016 short film written and directed by Brian Patrick Butler. It officially premiered September 8, 2016 at the Horrible imaginings Film Festival in San Diego, California. The film was inspired by German Expressionist films such as Nosferatu and The Cabinet of Dr. Caligari.
+
+Q: What film directed by Brian Patrick Butler was inspired by a film directed by F.W. Murnau?
+A: Brian Patrick Butler directed the film The Phantom Hour. The Phantom Hour was inspired by the films such as Nosferatu and The Cabinet of Dr. Caligari. Of these Nosferatu was directed by F.W. Murnau. So the answer is: The Phantom Hour.
+
+
+Wikipedia Title: Pete Tyler
+Pete Tyler is a fictional character in the British science fiction television series "Doctor Who", played by Shaun Dingwall. He is the father of the Doctor's companion Rose Tyler (Billie Piper) and first appears in the episode "Father's Day". Writer Paul Cornell incorporated characteristics of his own father whilst writing Pete. This episode reveals that Pete died during Rose's childhood; though she attempts to change her past both she and Pete eventually realise that for the good of humanity he has to die. Rose later takes inspiration from her father in a time of need.
+
+Wikipedia Title: Edburga of Minster-in-Thanet
+Saint Edburga of Minster-in-Thanet (also known as Eadburh and Bugga) was a royal princess, the only daughter of King Centwine and Queen Engyth of Wessex in the 8th century of the Kent royal family and a saint.
+
+Wikipedia Title: Centwine of Wessex
+Centwine (died after 685) was King of Wessex from c. 676 to 685 or 686, although he was perhaps not the only king of the West Saxons at the time.
+
+Q: What year did Edburga of Minster-in-Thanet's father die?
+A: The father of Edburga of Minster-in-Thanet is King Centwine. Centwine died after 685. So the answer is: after 685.
+
+
+Wikipedia Title: Ryu Hye-young
+Ryu Hye-young (born March 28, 1991) is a South Korean actress and model. She is best known for her role as Sung Bo-ra in the hit drama series "Reply 1988" (2015-2016).
+
+Wikipedia Title: Reply 1988
+Reply 1988 () is a South Korean television series starring Lee Hye-ri, Park Bo-gum, Go Kyung-pyo, Ryu Jun-yeol and Lee Dong-hwi. Set in the year 1988, it revolves around five friends and their families living in the same neighborhood of Ssangmun-dong, Dobong District, Northern Seoul. It aired every Friday and Saturday from November 6, 2015, to January 16, 2016, on tvN at 7:50 (KST) for 20 episodes.
+
+Wikipedia Title: Lawyers (TV series)
+Lawyers ( is a 2005 South Korean television series starring Jung Hye-young, Kim Sang-kyung, Kim Sung-soo and Han Go-eun. It aired on MBC from July 4 to August 23, 2005 on Monday and Tuesday at 21:55 for 16 episodes.
+
+Q: How many episodes were in the South Korean television series in which Ryu Hye-young played Bo-ra?
+A: The South Korean television series in which Ryu Hye-young played Bo-ra is Reply 1988. The number of episodes Reply 1988 has is 20. So the answer is: 20.
+
+
+Wikipedia Title: Jerry Ferrara
+Jerry Ferrara (born November 25, 1979) is an American actor, known for his work as Turtle on the HBO comedy series "Entourage" , and currently starring on the STARZ drama series "Power" as Joe Proctor.
+
+Wikipedia Title: Turtle (Entourage)
+Salvatore "Turtle" Assante is a fictional character on the comedy-drama television series "Entourage". He is played by Jerry Ferrara.
+
+Wikipedia Title: Matt Robinson (actor)
+Matthew Thomas "Matt" Robinson Jr. (January 1, 1937 – August 5, 2002) was an American actor, writer and television producer. Robinson was the first actor to portray the character of Gordon Robinson on the long–running PBS children's TV program "Sesame Street". When "Sesame Street" began in 1969, not only did Robinson play Gordon, but he also provided the voice of the puppet Roosevelt Franklin and also was one of the show's producers. He left the show in 1971. In later years, when producers needed a last name for the Gordon character, then played by Hal Miller and then Roscoe Orman, they used Matt's last name.
+
+Q: The actor that stars as Joe Proctor on the series "Power" also played a character on "Entourage" that has what last name?
+A: The actor that stars as Joe Proctor on the series "Power" is Jerry Ferrara. Jerry Ferrara also played a character on Entourage named Turtle Assante. Thus, Turtle Assante's last name is Assante. So the answer is: Assante.
+
+
+Wikipedia Title: Twister (1996 film)
+Twister is a 1996 American disaster film starring Bill Paxton and Helen Hunt as storm chasers researching tornadoes. It was directed by Jan de Bont from a screenplay by Michael Crichton and Anne-Marie Martin. Its executive producers were Steven Spielberg, Walter Parkes, Laurie MacDonald and Gerald R. Molen. "Twister" was the second-highest-grossing film of 1996 domestically, with an estimated 54,688,100 tickets sold in the US.
+
+Wikipedia Title: Raoul Walsh
+Raoul A. Walsh (March 11, 1887December 31, 1980) was an American film director, actor, founding member of the Academy of Motion Picture Arts and Sciences (AMPAS) and the brother of the silent screen actor George Walsh. He was known for portraying John Wilkes Booth in the silent classic "The Birth of a Nation" (1915) and for directing such films as "The Big Trail" (1930), starring John Wayne, "High Sierra" (1941), starring Ida Lupino and Humphrey Bogart; and "White Heat" (1949), starring James Cagney and Edmond O'Brien. He directed his last film in 1964.
+
+Wikipedia Title: Jan de Bont
+Jan de Bont (born 22 October 1943) is a Dutch cinematographer, director and film producer. He is widely known for directing the 1994 action film "Speed" starring Keanu Reeves and Sandra Bullock and the disaster film "Twister". As a director of photography, he has shot numerous blockbusters and genre films, including "Cujo, Flesh and Blood, Die Hard, The Hunt for Red October" and "Basic Instinct."
+
+Q: Who was born first? Jan de Bont or Raoul Walsh?
+A: Jan de Bont was born on 22 October 1943. Raoul Walsh was born on March 11, 1887. Thus, Raoul Walsh was born the first. So the answer is: Raoul Walsh.

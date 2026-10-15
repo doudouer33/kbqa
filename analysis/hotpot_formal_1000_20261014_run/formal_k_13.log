@@ -1,0 +1,2032 @@
+
+2026-10-14T23:51:09.724612+08:00 COMMAND ["/home/dengxin/miniconda3/envs/adaptiverag/bin/python", "run.py", "predict", "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/base_configs/oner_qa_qwen_hotpotqa_formal.jsonnet", "--instantiation_scheme", "oner_qa", "--prompt_set", "1", "--topk_values", "13", "--llm_port_num", "8002", "--set_name", "hotpot_formal_1000_20261014", "--evaluation_path", "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/processed_data/hotpotqa/dev_1000_subsampled.jsonl", "--silent", "--official_only"]
+/home/dengxin/miniconda3/envs/adaptiverag/lib/python3.8/site-packages/huggingface_hub/file_download.py:949: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'Qwen2Tokenizer'. 
+The class this function is called from is 'PreTrainedTokenizerFast'.
+Running inference on examples
+0it [00:00, ?it/s]
+0it [00:00, ?it/s][AFORMAL k=13 completed=1/1000 qid=5a7248665542990c210a40b1 seconds=2.22
+1it [00:02,  2.22s/it]
+1it [00:02,  2.22s/it][AFORMAL k=13 completed=2/1000 qid=5a79b495554299148911fa3b seconds=1.77
+2it [00:03,  1.96s/it]
+2it [00:03,  1.96s/it][AFORMAL k=13 completed=3/1000 qid=5abdc0ad55429933744ab81b seconds=1.60
+3it [00:05,  1.80s/it]
+3it [00:05,  1.80s/it][AFORMAL k=13 completed=4/1000 qid=5ac00278554299012d1db56b seconds=1.73
+4it [00:07,  1.77s/it]
+4it [00:07,  1.77s/it][AFORMAL k=13 completed=5/1000 qid=5a8bbfb15542995e66a474f6 seconds=1.50
+5it [00:08,  1.67s/it]
+5it [00:08,  1.67s/it][AFORMAL k=13 completed=6/1000 qid=5ac173295542994ab5c67d45 seconds=1.86
+6it [00:10,  1.74s/it]
+6it [00:10,  1.74s/it][AFORMAL k=13 completed=7/1000 qid=5abcc818554299658360048b seconds=1.90
+7it [00:12,  1.79s/it]
+7it [00:12,  1.79s/it][AFORMAL k=13 completed=8/1000 qid=5a7aa9425542992d025e66e4 seconds=2.11
+8it [00:14,  1.90s/it]
+8it [00:14,  1.90s/it][AFORMAL k=13 completed=9/1000 qid=5ae1b1aa5542997283cd223f seconds=1.81
+9it [00:16,  1.87s/it]
+9it [00:16,  1.87s/it][AFORMAL k=13 completed=10/1000 qid=5a88c92d5542993b751ca84e seconds=1.49
+10it [00:18,  1.75s/it]
+10it [00:18,  1.75s/it][AFORMAL k=13 completed=11/1000 qid=5ae14def55429901ffe4ae4a seconds=1.73
+11it [00:19,  1.77s/it]
+11it [00:19,  1.77s/it][AFORMAL k=13 completed=12/1000 qid=5a7f732d5542992e7d278d02 seconds=1.68
+12it [00:21,  1.74s/it]
+12it [00:21,  1.74s/it][AFORMAL k=13 completed=13/1000 qid=5a7e6c725542991319bc94a4 seconds=1.77
+13it [00:23,  1.75s/it]
+13it [00:23,  1.75s/it][AFORMAL k=13 completed=14/1000 qid=5a7f5e0455429969796c1a12 seconds=1.76
+14it [00:25,  1.76s/it]
+14it [00:25,  1.76s/it][AFORMAL k=13 completed=15/1000 qid=5a7982435542994bb945701f seconds=1.67
+15it [00:26,  1.75s/it]
+15it [00:26,  1.75s/it][AFORMAL k=13 completed=16/1000 qid=5ac029655542992a796decb3 seconds=1.74
+16it [00:28,  1.75s/it]
+16it [00:28,  1.75s/it][AFORMAL k=13 completed=17/1000 qid=5a8cdcb0554299441c6b9f33 seconds=1.69
+17it [00:30,  1.73s/it]
+17it [00:30,  1.73s/it][AFORMAL k=13 completed=18/1000 qid=5a89bf18554299669944a591 seconds=1.58
+18it [00:31,  1.69s/it]
+18it [00:31,  1.69s/it][AFORMAL k=13 completed=19/1000 qid=5a7f68365542994857a7672e seconds=1.77
+19it [00:33,  1.72s/it]
+19it [00:33,  1.72s/it][AFORMAL k=13 completed=20/1000 qid=5a7a2dac5542990198eaf0b6 seconds=1.70
+20it [00:35,  1.72s/it]
+20it [00:35,  1.72s/it][AFORMAL k=13 completed=21/1000 qid=5ac51c2255429924173fb5b4 seconds=1.67
+21it [00:37,  1.72s/it]
+21it [00:37,  1.72s/it][AFORMAL k=13 completed=22/1000 qid=5a89a74e554299669944a562 seconds=2.02
+22it [00:39,  1.81s/it]
+22it [00:39,  1.81s/it][AFORMAL k=13 completed=23/1000 qid=5ab70f79554299110f219aa9 seconds=1.64
+23it [00:40,  1.76s/it]
+23it [00:40,  1.76s/it][AFORMAL k=13 completed=24/1000 qid=5ae4ad3155429913cc2044cb seconds=2.03
+24it [00:42,  1.84s/it]
+24it [00:42,  1.84s/it][AFORMAL k=13 completed=25/1000 qid=5ac10c5e554299294b219074 seconds=1.84
+25it [00:44,  1.86s/it]
+25it [00:44,  1.86s/it][AFORMAL k=13 completed=26/1000 qid=5ac43d575542997ea680ca39 seconds=1.49
+26it [00:46,  1.75s/it]
+26it [00:46,  1.75s/it][AFORMAL k=13 completed=27/1000 qid=5a77d4eb55429949eeb29f74 seconds=2.04
+27it [00:48,  1.84s/it]
+27it [00:48,  1.84s/it][AFORMAL k=13 completed=28/1000 qid=5a84afdc5542991dd0999d81 seconds=1.77
+28it [00:49,  1.82s/it]
+28it [00:49,  1.82s/it][AFORMAL k=13 completed=29/1000 qid=5a728f745542991f9a20c4e6 seconds=1.58
+29it [00:51,  1.75s/it]
+29it [00:51,  1.75s/it][AFORMAL k=13 completed=30/1000 qid=5abd0eae5542996e802b46d4 seconds=1.43
+30it [00:52,  1.65s/it]
+30it [00:52,  1.65s/it][AFORMAL k=13 completed=31/1000 qid=5a85f2f55542997b5ce40036 seconds=1.82
+31it [00:54,  1.70s/it]
+31it [00:54,  1.70s/it][AFORMAL k=13 completed=32/1000 qid=5a801e845542992097ad2fd9 seconds=1.73
+32it [00:56,  1.71s/it]
+32it [00:56,  1.71s/it][AFORMAL k=13 completed=33/1000 qid=5abda4dd55429965af743d95 seconds=2.35
+33it [00:58,  1.91s/it]
+33it [00:58,  1.91s/it][AFORMAL k=13 completed=34/1000 qid=5ac3126f5542995ef918c0e8 seconds=1.62
+34it [01:00,  1.82s/it]
+34it [01:00,  1.82s/it][AFORMAL k=13 completed=35/1000 qid=5a89fb525542993b751ca9d6 seconds=1.67
+35it [01:02,  1.79s/it]
+35it [01:02,  1.79s/it][AFORMAL k=13 completed=36/1000 qid=5a8d838955429941ae14dfe5 seconds=1.59
+36it [01:03,  1.73s/it]
+36it [01:03,  1.73s/it][AFORMAL k=13 completed=37/1000 qid=5abd14c455429924427fceec seconds=1.90
+37it [01:05,  1.78s/it]
+37it [01:05,  1.78s/it][AFORMAL k=13 completed=38/1000 qid=5ab82dbb5542990e739ec857 seconds=1.82
+38it [01:07,  1.79s/it]
+38it [01:07,  1.79s/it][AFORMAL k=13 completed=39/1000 qid=5a7a7dc15542994f819ef1f2 seconds=1.66
+39it [01:09,  1.76s/it]
+39it [01:09,  1.76s/it][AFORMAL k=13 completed=40/1000 qid=5a8f13d55542997ba9cb31c9 seconds=1.94
+40it [01:11,  1.81s/it]
+40it [01:11,  1.81s/it][AFORMAL k=13 completed=41/1000 qid=5abe36aa5542993f32c2a08f seconds=1.71
+41it [01:12,  1.78s/it]
+41it [01:12,  1.78s/it][AFORMAL k=13 completed=42/1000 qid=5abd4f2e5542993062266c4b seconds=1.68
+42it [01:14,  1.75s/it]
+42it [01:14,  1.75s/it][AFORMAL k=13 completed=43/1000 qid=5ac160605542994ab5c67d02 seconds=1.96
+43it [01:16,  1.82s/it]
+43it [01:16,  1.82s/it][AFORMAL k=13 completed=44/1000 qid=5abba3255542996cc5e4a031 seconds=1.66
+44it [01:18,  1.77s/it]
+44it [01:18,  1.77s/it][AFORMAL k=13 completed=45/1000 qid=5ab596d95542992aa134a371 seconds=1.86
+45it [01:20,  1.80s/it]
+45it [01:20,  1.80s/it][AFORMAL k=13 completed=46/1000 qid=5a87bd4e5542994846c1cde0 seconds=1.54
+46it [01:21,  1.72s/it]
+46it [01:21,  1.72s/it][AFORMAL k=13 completed=47/1000 qid=5ae3f33e5542991a06ce9a3d seconds=1.98
+47it [01:23,  1.80s/it]
+47it [01:23,  1.80s/it][AFORMAL k=13 completed=48/1000 qid=5a8ae61955429970aeb70326 seconds=1.53
+48it [01:25,  1.72s/it]
+48it [01:25,  1.72s/it][AFORMAL k=13 completed=49/1000 qid=5a8600665542994775f606ee seconds=1.98
+49it [01:27,  1.80s/it]
+49it [01:27,  1.80s/it][AFORMAL k=13 completed=50/1000 qid=5a7fe7f85542994857a7683e seconds=1.52
+50it [01:28,  1.72s/it]
+50it [01:28,  1.72s/it][AFORMAL k=13 completed=51/1000 qid=5ab2c0de5542992953946870 seconds=2.19
+51it [01:30,  1.89s/it]
+51it [01:30,  1.89s/it][AFORMAL k=13 completed=52/1000 qid=5adc6f6255429947ff173961 seconds=1.72
+52it [01:32,  1.84s/it]
+52it [01:32,  1.84s/it][AFORMAL k=13 completed=53/1000 qid=5a733c925542991f9a20c6b7 seconds=1.43
+53it [01:34,  1.71s/it]
+53it [01:34,  1.71s/it][AFORMAL k=13 completed=54/1000 qid=5a89ab1355429946c8d6e996 seconds=1.56
+54it [01:35,  1.67s/it]
+54it [01:35,  1.67s/it][AFORMAL k=13 completed=55/1000 qid=5a86ec9f55429960ec39b6d7 seconds=1.25
+55it [01:36,  1.54s/it]
+55it [01:36,  1.54s/it][AFORMAL k=13 completed=56/1000 qid=5a726ba35542997f827839c0 seconds=1.72
+56it [01:38,  1.60s/it]
+56it [01:38,  1.60s/it][AFORMAL k=13 completed=57/1000 qid=5ae7882b554299540e5a55dd seconds=1.48
+57it [01:40,  1.56s/it]
+57it [01:40,  1.56s/it][AFORMAL k=13 completed=58/1000 qid=5ac3d10b5542993915413952 seconds=1.33
+58it [01:41,  1.49s/it]
+58it [01:41,  1.49s/it][AFORMAL k=13 completed=59/1000 qid=5a7f9cb55542995d8a8ddec1 seconds=1.67
+59it [01:43,  1.55s/it]
+59it [01:43,  1.55s/it][AFORMAL k=13 completed=60/1000 qid=5a8651185542994775f60752 seconds=1.46
+60it [01:44,  1.53s/it]
+60it [01:44,  1.53s/it][AFORMAL k=13 completed=61/1000 qid=5abb291355429939ce03dd9e seconds=1.51
+61it [01:46,  1.52s/it]
+61it [01:46,  1.52s/it][AFORMAL k=13 completed=62/1000 qid=5a87c0945542996e4f30890b seconds=1.71
+62it [01:47,  1.58s/it]
+62it [01:47,  1.58s/it][AFORMAL k=13 completed=63/1000 qid=5a8baf4b5542996e8ac889c5 seconds=1.74
+63it [01:49,  1.63s/it]
+63it [01:49,  1.63s/it][AFORMAL k=13 completed=64/1000 qid=5a7a69365542996c55b2dd9b seconds=1.67
+64it [01:51,  1.66s/it]
+64it [01:51,  1.66s/it][AFORMAL k=13 completed=65/1000 qid=5ab80bbf5542991d32223818 seconds=1.81
+65it [01:53,  1.71s/it]
+65it [01:53,  1.71s/it][AFORMAL k=13 completed=66/1000 qid=5ac19bf55542994ab5c67d97 seconds=2.22
+66it [01:55,  1.86s/it]
+66it [01:55,  1.86s/it][AFORMAL k=13 completed=67/1000 qid=5a8c78a8554299585d9e36bc seconds=1.77
+67it [01:57,  1.84s/it]
+67it [01:57,  1.84s/it][AFORMAL k=13 completed=68/1000 qid=5a85eed75542996432c5713b seconds=1.57
+68it [01:58,  1.76s/it]
+68it [01:58,  1.76s/it][AFORMAL k=13 completed=69/1000 qid=5a7929c8554299029c4b5f11 seconds=1.59
+69it [02:00,  1.71s/it]
+69it [02:00,  1.71s/it][AFORMAL k=13 completed=70/1000 qid=5ab327bc554299233954ff33 seconds=1.72
+70it [02:01,  1.72s/it]
+70it [02:01,  1.72s/it][AFORMAL k=13 completed=71/1000 qid=5add7a335542992200553b37 seconds=1.62
+71it [02:03,  1.70s/it]
+71it [02:03,  1.70s/it][AFORMAL k=13 completed=72/1000 qid=5a7d2afd5542995f4f402221 seconds=1.69
+72it [02:05,  1.69s/it]
+72it [02:05,  1.69s/it][AFORMAL k=13 completed=73/1000 qid=5a857cf35542994c784ddb1d seconds=1.80
+73it [02:07,  1.73s/it]
+73it [02:07,  1.73s/it][AFORMAL k=13 completed=74/1000 qid=5ac2dfac554299657fa290b3 seconds=1.91
+74it [02:09,  1.78s/it]
+74it [02:09,  1.78s/it][AFORMAL k=13 completed=75/1000 qid=5adc93a4554299438c868e01 seconds=1.70
+75it [02:10,  1.76s/it]
+75it [02:10,  1.76s/it][AFORMAL k=13 completed=76/1000 qid=5ae37b4d5542991a06ce99ce seconds=1.75
+76it [02:12,  1.76s/it]
+76it [02:12,  1.76s/it][AFORMAL k=13 completed=77/1000 qid=5ac2b8085542990b17b1546b seconds=1.94
+77it [02:14,  1.81s/it]
+77it [02:14,  1.81s/it][AFORMAL k=13 completed=78/1000 qid=5a77afcd5542997042120adf seconds=1.79
+78it [02:16,  1.81s/it]
+78it [02:16,  1.81s/it][AFORMAL k=13 completed=79/1000 qid=5ab521575542996a3a96a02e seconds=1.73
+79it [02:17,  1.79s/it]
+79it [02:17,  1.79s/it][AFORMAL k=13 completed=80/1000 qid=5a85f4425542994775f606c4 seconds=1.44
+80it [02:19,  1.69s/it]
+80it [02:19,  1.69s/it][AFORMAL k=13 completed=81/1000 qid=5ab2d15e554299545a2cfaa6 seconds=1.65
+81it [02:21,  1.68s/it]
+81it [02:21,  1.68s/it][AFORMAL k=13 completed=82/1000 qid=5ab48c325542996a3a969f93 seconds=1.72
+82it [02:22,  1.69s/it]
+82it [02:22,  1.69s/it][AFORMAL k=13 completed=83/1000 qid=5adf4da15542995534e8c780 seconds=1.99
+83it [02:24,  1.78s/it]
+83it [02:24,  1.78s/it][AFORMAL k=13 completed=84/1000 qid=5a8574945542997b5ce3fffb seconds=2.27
+84it [02:27,  1.94s/it]
+84it [02:27,  1.94s/it][AFORMAL k=13 completed=85/1000 qid=5a7e02e05542995ed0d1667c seconds=1.84
+85it [02:28,  1.91s/it]
+85it [02:28,  1.91s/it][AFORMAL k=13 completed=86/1000 qid=5ae1091055429920d523429b seconds=1.86
+86it [02:30,  1.90s/it]
+86it [02:30,  1.90s/it][AFORMAL k=13 completed=87/1000 qid=5a77121a5542994aec3b71db seconds=1.80
+87it [02:32,  1.87s/it]
+87it [02:32,  1.87s/it][AFORMAL k=13 completed=88/1000 qid=5a7b8d4955429927d897bfeb seconds=1.78
+88it [02:34,  1.84s/it]
+88it [02:34,  1.84s/it][AFORMAL k=13 completed=89/1000 qid=5a7fb1e55542995d8a8ddef7 seconds=1.84
+89it [02:36,  1.84s/it]
+89it [02:36,  1.84s/it][AFORMAL k=13 completed=90/1000 qid=5ab2b666554299194fa934ca seconds=1.79
+90it [02:38,  1.83s/it]
+90it [02:38,  1.83s/it][AFORMAL k=13 completed=91/1000 qid=5ab4da5b55429942dd415f96 seconds=1.77
+91it [02:39,  1.81s/it]
+91it [02:39,  1.81s/it][AFORMAL k=13 completed=92/1000 qid=5a81dbfc55429903bc27b9f2 seconds=1.59
+92it [02:41,  1.75s/it]
+92it [02:41,  1.75s/it][AFORMAL k=13 completed=93/1000 qid=5ab439bd55429942dd415eee seconds=2.34
+93it [02:43,  1.93s/it]
+93it [02:43,  1.93s/it][AFORMAL k=13 completed=94/1000 qid=5ab56e32554299637185c594 seconds=1.83
+94it [02:45,  1.90s/it]
+94it [02:45,  1.90s/it][AFORMAL k=13 completed=95/1000 qid=5ab48ec25542991779162cdc seconds=1.62
+95it [02:47,  1.82s/it]
+95it [02:47,  1.82s/it][AFORMAL k=13 completed=96/1000 qid=5a9030ef5542995651fb50e4 seconds=1.87
+96it [02:49,  1.83s/it]
+96it [02:49,  1.83s/it][AFORMAL k=13 completed=97/1000 qid=5a89e3995542992e4fca844d seconds=2.30
+97it [02:51,  1.97s/it]
+97it [02:51,  1.97s/it][AFORMAL k=13 completed=98/1000 qid=5a85fc995542996432c5715f seconds=1.45
+98it [02:52,  1.82s/it]
+98it [02:52,  1.82s/it][AFORMAL k=13 completed=99/1000 qid=5ac3e1075542995c82c4ac78 seconds=1.88
+99it [02:54,  1.84s/it]
+99it [02:54,  1.84s/it][AFORMAL k=13 completed=100/1000 qid=5abb8afe5542993f40c73b1e seconds=1.63
+100it [02:56,  1.78s/it]
+100it [02:56,  1.78s/it][AFORMAL k=13 completed=101/1000 qid=5ab934465542996be202043e seconds=1.44
+101it [02:57,  1.68s/it]
+101it [02:57,  1.68s/it][AFORMAL k=13 completed=102/1000 qid=5ae18b555542997b2ef7d1f7 seconds=2.27
+102it [03:00,  1.86s/it]
+102it [03:00,  1.86s/it][AFORMAL k=13 completed=103/1000 qid=5ab7b0575542992aa3b8c83d seconds=1.66
+103it [03:01,  1.80s/it]
+103it [03:01,  1.80s/it][AFORMAL k=13 completed=104/1000 qid=5ae3281a5542991a06ce9939 seconds=1.38
+104it [03:03,  1.67s/it]
+104it [03:03,  1.67s/it][AFORMAL k=13 completed=105/1000 qid=5a8638945542994775f6072d seconds=1.59
+105it [03:04,  1.65s/it]
+105it [03:04,  1.65s/it][AFORMAL k=13 completed=106/1000 qid=5a8e4e7855429917b4a5bd92 seconds=1.45
+106it [03:06,  1.59s/it]
+106it [03:06,  1.59s/it][AFORMAL k=13 completed=107/1000 qid=5ab746c8554299110f219aef seconds=1.71
+107it [03:07,  1.63s/it]
+107it [03:07,  1.63s/it][AFORMAL k=13 completed=108/1000 qid=5ac18b585542994ab5c67d76 seconds=1.62
+108it [03:09,  1.64s/it]
+108it [03:09,  1.64s/it][AFORMAL k=13 completed=109/1000 qid=5adf39d45542992d7e9f92e5 seconds=1.49
+109it [03:11,  1.60s/it]
+109it [03:11,  1.60s/it][AFORMAL k=13 completed=110/1000 qid=5adf39295542992d7e9f92df seconds=1.49
+110it [03:12,  1.57s/it]
+110it [03:12,  1.57s/it][AFORMAL k=13 completed=111/1000 qid=5ab681ea55429953192ad2e0 seconds=1.49
+111it [03:14,  1.54s/it]
+111it [03:14,  1.54s/it][AFORMAL k=13 completed=112/1000 qid=5a712beb5542994082a3e61c seconds=1.53
+112it [03:15,  1.54s/it]
+112it [03:15,  1.54s/it][AFORMAL k=13 completed=113/1000 qid=5a88981c554299206df2b307 seconds=1.86
+113it [03:17,  1.64s/it]
+113it [03:17,  1.64s/it][AFORMAL k=13 completed=114/1000 qid=5a86f2fb554299211dda2b64 seconds=2.01
+114it [03:19,  1.75s/it]
+114it [03:19,  1.75s/it][AFORMAL k=13 completed=115/1000 qid=5a847e0a5542990548d0b2c3 seconds=2.06
+115it [03:21,  1.85s/it]
+115it [03:21,  1.85s/it][AFORMAL k=13 completed=116/1000 qid=5ae1bf46554299234fd042e6 seconds=1.18
+116it [03:22,  1.65s/it]
+116it [03:22,  1.65s/it][AFORMAL k=13 completed=117/1000 qid=5ae4e29855429908b63264a9 seconds=1.74
+117it [03:24,  1.68s/it]
+117it [03:24,  1.68s/it][AFORMAL k=13 completed=118/1000 qid=5a75eb125542994ccc918659 seconds=2.31
+118it [03:26,  1.87s/it]
+118it [03:26,  1.87s/it][AFORMAL k=13 completed=119/1000 qid=5a74702555429929fddd8428 seconds=1.79
+119it [03:28,  1.85s/it]
+119it [03:28,  1.85s/it][AFORMAL k=13 completed=120/1000 qid=5a83172455429954d2e2ec14 seconds=1.55
+120it [03:30,  1.76s/it]
+120it [03:30,  1.76s/it][AFORMAL k=13 completed=121/1000 qid=5ac3e0ab554299204fd21eae seconds=1.79
+121it [03:31,  1.77s/it]
+121it [03:31,  1.77s/it][AFORMAL k=13 completed=122/1000 qid=5a83aaeb5542996488c2e483 seconds=1.85
+122it [03:33,  1.79s/it]
+122it [03:33,  1.79s/it][AFORMAL k=13 completed=123/1000 qid=5ae72b96554299572ea5474e seconds=1.76
+123it [03:35,  1.79s/it]
+123it [03:35,  1.79s/it][AFORMAL k=13 completed=124/1000 qid=5a865e785542991e7718161b seconds=1.89
+124it [03:37,  1.82s/it]
+124it [03:37,  1.82s/it][AFORMAL k=13 completed=125/1000 qid=5a776bc855429966f1a36d3a seconds=1.58
+125it [03:39,  1.75s/it]
+125it [03:39,  1.75s/it][AFORMAL k=13 completed=126/1000 qid=5ac156d05542994ab5c67ce9 seconds=1.84
+126it [03:40,  1.78s/it]
+126it [03:40,  1.78s/it][AFORMAL k=13 completed=127/1000 qid=5ac3a928554299391541389f seconds=1.57
+127it [03:42,  1.72s/it]
+127it [03:42,  1.72s/it][AFORMAL k=13 completed=128/1000 qid=5ac1ff2255429964131be2b3 seconds=1.88
+128it [03:44,  1.77s/it]
+128it [03:44,  1.77s/it][AFORMAL k=13 completed=129/1000 qid=5a8b82a05542995d1e6f13d0 seconds=1.45
+129it [03:45,  1.67s/it]
+129it [03:45,  1.67s/it][AFORMAL k=13 completed=130/1000 qid=5ae792f55542994a481bbdae seconds=1.92
+130it [03:47,  1.74s/it]
+130it [03:47,  1.74s/it][AFORMAL k=13 completed=131/1000 qid=5ab4eecb55429942dd415faa seconds=2.30
+131it [03:49,  1.91s/it]
+131it [03:49,  1.91s/it][AFORMAL k=13 completed=132/1000 qid=5a8e5f1f5542995a26add4d6 seconds=1.32
+132it [03:51,  1.74s/it]
+132it [03:51,  1.74s/it][AFORMAL k=13 completed=133/1000 qid=5a82d71555429966c78a6a94 seconds=1.89
+133it [03:53,  1.78s/it]
+133it [03:53,  1.78s/it][AFORMAL k=13 completed=134/1000 qid=5adbe75455429944faac23af seconds=1.47
+134it [03:54,  1.69s/it]
+134it [03:54,  1.69s/it][AFORMAL k=13 completed=135/1000 qid=5a828a7b55429954d2e2eb69 seconds=1.75
+135it [03:56,  1.72s/it]
+135it [03:56,  1.72s/it][AFORMAL k=13 completed=136/1000 qid=5ade5e335542992fa25da766 seconds=1.56
+136it [03:58,  1.67s/it]
+136it [03:58,  1.67s/it][AFORMAL k=13 completed=137/1000 qid=5ae617285542996de7b71b4c seconds=1.74
+137it [03:59,  1.71s/it]
+137it [03:59,  1.71s/it][AFORMAL k=13 completed=138/1000 qid=5a89da93554299669944a5cc seconds=1.78
+138it [04:01,  1.73s/it]
+138it [04:01,  1.73s/it][AFORMAL k=13 completed=139/1000 qid=5a7fd7305542992e7d278dc2 seconds=1.60
+139it [04:03,  1.69s/it]
+139it [04:03,  1.69s/it][AFORMAL k=13 completed=140/1000 qid=5ae6371155429929b0807af1 seconds=2.42
+140it [04:05,  1.91s/it]
+140it [04:05,  1.91s/it][AFORMAL k=13 completed=141/1000 qid=5a8ad8305542992d82986f9d seconds=1.24
+141it [04:06,  1.72s/it]
+141it [04:06,  1.72s/it][AFORMAL k=13 completed=142/1000 qid=5adebc9b554299728e26c79d seconds=1.80
+142it [04:08,  1.74s/it]
+142it [04:08,  1.74s/it][AFORMAL k=13 completed=143/1000 qid=5a8d5ec2554299585d9e37c4 seconds=1.70
+143it [04:10,  1.75s/it]
+143it [04:10,  1.75s/it][AFORMAL k=13 completed=144/1000 qid=5a7cf29255429909bec768b8 seconds=1.90
+144it [04:12,  1.79s/it]
+144it [04:12,  1.79s/it][AFORMAL k=13 completed=145/1000 qid=5ab7fa7b5542992aa3b8c897 seconds=1.56
+145it [04:13,  1.72s/it]
+145it [04:13,  1.72s/it][AFORMAL k=13 completed=146/1000 qid=5ae0e8c35542997b2ef7d064 seconds=2.13
+146it [04:16,  1.85s/it]
+146it [04:16,  1.85s/it][AFORMAL k=13 completed=147/1000 qid=5a74524455429979e28828f6 seconds=1.77
+147it [04:17,  1.82s/it]
+147it [04:17,  1.82s/it][AFORMAL k=13 completed=148/1000 qid=5a7cef6955429909bec768ad seconds=1.67
+148it [04:19,  1.79s/it]
+148it [04:19,  1.79s/it][AFORMAL k=13 completed=149/1000 qid=5a7b24fe55429931da12c9f7 seconds=1.97
+149it [04:21,  1.85s/it]
+149it [04:21,  1.85s/it][AFORMAL k=13 completed=150/1000 qid=5ae765185542995703ce8c0f seconds=1.64
+150it [04:23,  1.79s/it]
+150it [04:23,  1.79s/it][AFORMAL k=13 completed=151/1000 qid=5a8198565542995ce29dcc13 seconds=1.51
+151it [04:24,  1.70s/it]
+151it [04:24,  1.70s/it][AFORMAL k=13 completed=152/1000 qid=5a7da6c25542995ed0d16652 seconds=1.80
+152it [04:26,  1.73s/it]
+152it [04:26,  1.73s/it][AFORMAL k=13 completed=153/1000 qid=5ab428915542991751b4d6b2 seconds=1.74
+153it [04:28,  1.74s/it]
+153it [04:28,  1.74s/it][AFORMAL k=13 completed=154/1000 qid=5ab85a1155429934fafe6d7c seconds=1.28
+154it [04:29,  1.61s/it]
+154it [04:29,  1.61s/it][AFORMAL k=13 completed=155/1000 qid=5a7ca95b55429935c91b5287 seconds=1.90
+155it [04:31,  1.70s/it]
+155it [04:31,  1.70s/it][AFORMAL k=13 completed=156/1000 qid=5a77671255429966f1a36d21 seconds=1.87
+156it [04:33,  1.75s/it]
+156it [04:33,  1.75s/it][AFORMAL k=13 completed=157/1000 qid=5ae4a3265542995ad6573de5 seconds=1.45
+157it [04:34,  1.66s/it]
+157it [04:34,  1.66s/it][AFORMAL k=13 completed=158/1000 qid=5ab1e984554299340b525428 seconds=1.73
+158it [04:36,  1.68s/it]
+158it [04:36,  1.68s/it][AFORMAL k=13 completed=159/1000 qid=5ae0f97a5542997b2ef7d0c1 seconds=1.79
+159it [04:38,  1.71s/it]
+159it [04:38,  1.71s/it][AFORMAL k=13 completed=160/1000 qid=5a82a91155429940e5e1a911 seconds=1.62
+160it [04:39,  1.69s/it]
+160it [04:39,  1.69s/it][AFORMAL k=13 completed=161/1000 qid=5a86ebac55429960ec39b6d6 seconds=1.64
+161it [04:41,  1.68s/it]
+161it [04:41,  1.68s/it][AFORMAL k=13 completed=162/1000 qid=5ab9dd4c554299232ef4a22f seconds=1.69
+162it [04:43,  1.68s/it]
+162it [04:43,  1.68s/it][AFORMAL k=13 completed=163/1000 qid=5adce2ee5542992c1e3a2461 seconds=1.54
+163it [04:44,  1.64s/it]
+163it [04:44,  1.64s/it][AFORMAL k=13 completed=164/1000 qid=5ac164da55429964131be1bf seconds=1.52
+164it [04:46,  1.61s/it]
+164it [04:46,  1.61s/it][AFORMAL k=13 completed=165/1000 qid=5ac282875542996773102546 seconds=1.99
+165it [04:48,  1.72s/it]
+165it [04:48,  1.72s/it][AFORMAL k=13 completed=166/1000 qid=5a7bcc0f554299042af8f7e2 seconds=2.95
+166it [04:51,  2.09s/it]
+166it [04:51,  2.09s/it][AFORMAL k=13 completed=167/1000 qid=5abbd3ac55429931dba1458b seconds=1.58
+167it [04:52,  1.94s/it]
+167it [04:52,  1.94s/it][AFORMAL k=13 completed=168/1000 qid=5ab850b255429916710eb036 seconds=1.47
+168it [04:54,  1.80s/it]
+168it [04:54,  1.80s/it][AFORMAL k=13 completed=169/1000 qid=5a7f40de5542992e7d278cc8 seconds=1.38
+169it [04:55,  1.67s/it]
+169it [04:55,  1.67s/it][AFORMAL k=13 completed=170/1000 qid=5ab8829d55429934fafe6e08 seconds=1.74
+170it [04:57,  1.69s/it]
+170it [04:57,  1.69s/it][AFORMAL k=13 completed=171/1000 qid=5a89875655429938390d4047 seconds=1.43
+171it [04:58,  1.61s/it]
+171it [04:58,  1.61s/it][AFORMAL k=13 completed=172/1000 qid=5a90ab995542990a98493683 seconds=1.39
+172it [05:00,  1.55s/it]
+172it [05:00,  1.55s/it][AFORMAL k=13 completed=173/1000 qid=5ae6443355429908198fa563 seconds=1.67
+173it [05:01,  1.58s/it]
+173it [05:01,  1.58s/it][AFORMAL k=13 completed=174/1000 qid=5a87954f5542996e4f308856 seconds=1.34
+174it [05:03,  1.53s/it]
+174it [05:03,  1.53s/it][AFORMAL k=13 completed=175/1000 qid=5adfa12c554299025d62a301 seconds=1.83
+175it [05:05,  1.62s/it]
+175it [05:05,  1.62s/it][AFORMAL k=13 completed=176/1000 qid=5ac31b0a554299741d48a1f0 seconds=1.52
+176it [05:06,  1.59s/it]
+176it [05:06,  1.59s/it][AFORMAL k=13 completed=177/1000 qid=5a8482e55542997175ce1edc seconds=1.57
+177it [05:08,  1.59s/it]
+177it [05:08,  1.59s/it][AFORMAL k=13 completed=178/1000 qid=5ac524e55542994611c8b3d0 seconds=1.80
+178it [05:10,  1.65s/it]
+178it [05:10,  1.65s/it][AFORMAL k=13 completed=179/1000 qid=5a7cd66a554299452d57ba90 seconds=1.43
+179it [05:11,  1.59s/it]
+179it [05:11,  1.59s/it][AFORMAL k=13 completed=180/1000 qid=5a8fb3af5542997ba9cb32ee seconds=1.30
+180it [05:12,  1.50s/it]
+180it [05:12,  1.50s/it][AFORMAL k=13 completed=181/1000 qid=5ae0f2bf5542997b2ef7d09e seconds=2.53
+181it [05:15,  1.82s/it]
+181it [05:15,  1.82s/it][AFORMAL k=13 completed=182/1000 qid=5ae376a35542990afbd1e163 seconds=1.96
+182it [05:17,  1.86s/it]
+182it [05:17,  1.86s/it][AFORMAL k=13 completed=183/1000 qid=5ae3776e5542992e3233c40c seconds=1.32
+183it [05:18,  1.70s/it]
+183it [05:18,  1.70s/it][AFORMAL k=13 completed=184/1000 qid=5ae70369554299572ea54683 seconds=1.80
+184it [05:20,  1.73s/it]
+184it [05:20,  1.73s/it][AFORMAL k=13 completed=185/1000 qid=5a7360235542991f29ee2dc7 seconds=1.66
+185it [05:22,  1.71s/it]
+185it [05:22,  1.71s/it][AFORMAL k=13 completed=186/1000 qid=5abbaed855429931dba144aa seconds=1.38
+186it [05:23,  1.61s/it]
+186it [05:23,  1.61s/it][AFORMAL k=13 completed=187/1000 qid=5aba943c554299232ef4a33e seconds=1.57
+187it [05:25,  1.60s/it]
+187it [05:25,  1.60s/it][AFORMAL k=13 completed=188/1000 qid=5ab9bc6155429970cfb8eb90 seconds=1.64
+188it [05:26,  1.61s/it]
+188it [05:26,  1.61s/it][AFORMAL k=13 completed=189/1000 qid=5ae1dac95542997283cd229b seconds=1.99
+189it [05:28,  1.73s/it]
+189it [05:28,  1.73s/it][AFORMAL k=13 completed=190/1000 qid=5a750ccc5542993748c897a8 seconds=1.76
+190it [05:30,  1.74s/it]
+190it [05:30,  1.74s/it][AFORMAL k=13 completed=191/1000 qid=5ab67bd355429954757d32f2 seconds=1.88
+191it [05:32,  1.78s/it]
+191it [05:32,  1.78s/it][AFORMAL k=13 completed=192/1000 qid=5abfdc185542994516f45513 seconds=1.67
+192it [05:34,  1.75s/it]
+192it [05:34,  1.75s/it][AFORMAL k=13 completed=193/1000 qid=5a733caa5542992359bc32a3 seconds=1.60
+193it [05:35,  1.70s/it]
+193it [05:35,  1.70s/it][AFORMAL k=13 completed=194/1000 qid=5ab4304a55429942dd415ec5 seconds=1.75
+194it [05:37,  1.72s/it]
+194it [05:37,  1.72s/it][AFORMAL k=13 completed=195/1000 qid=5ac50dd05542994611c8b343 seconds=1.68
+195it [05:39,  1.72s/it]
+195it [05:39,  1.72s/it][AFORMAL k=13 completed=196/1000 qid=5ae6793e5542991bbc9760e2 seconds=2.10
+196it [05:41,  1.84s/it]
+196it [05:41,  1.84s/it][AFORMAL k=13 completed=197/1000 qid=5ac0cf0f554299294b219018 seconds=2.00
+197it [05:43,  1.89s/it]
+197it [05:43,  1.89s/it][AFORMAL k=13 completed=198/1000 qid=5a7f79155542995d8a8dde86 seconds=2.45
+198it [05:45,  2.06s/it]
+198it [05:45,  2.06s/it][AFORMAL k=13 completed=199/1000 qid=5a78ed6855429970f5fffdd9 seconds=2.21
+199it [05:47,  2.11s/it]
+199it [05:47,  2.11s/it][AFORMAL k=13 completed=200/1000 qid=5a7f962655429969796c1ac8 seconds=1.66
+200it [05:49,  1.98s/it]
+200it [05:49,  1.98s/it][AFORMAL k=13 completed=201/1000 qid=5a773c5c55429966f1a36cbb seconds=1.42
+201it [05:51,  1.81s/it]
+201it [05:51,  1.81s/it][AFORMAL k=13 completed=202/1000 qid=5a7286865542991f9a20c4cb seconds=1.95
+202it [05:52,  1.85s/it]
+202it [05:52,  1.85s/it][AFORMAL k=13 completed=203/1000 qid=5ab5062f55429942dd415fd1 seconds=1.67
+203it [05:54,  1.80s/it]
+203it [05:54,  1.80s/it][AFORMAL k=13 completed=204/1000 qid=5ae153915542990adbacf752 seconds=1.32
+204it [05:55,  1.66s/it]
+204it [05:55,  1.66s/it][AFORMAL k=13 completed=205/1000 qid=5ab9dbc2554299232ef4a224 seconds=1.74
+205it [05:57,  1.68s/it]
+205it [05:57,  1.68s/it][AFORMAL k=13 completed=206/1000 qid=5a7e05f75542995f4f402394 seconds=1.57
+206it [05:59,  1.65s/it]
+206it [05:59,  1.65s/it][AFORMAL k=13 completed=207/1000 qid=5a74af7e55429916b01641d2 seconds=1.75
+207it [06:01,  1.68s/it]
+207it [06:01,  1.68s/it][AFORMAL k=13 completed=208/1000 qid=5ab859a955429934fafe6d7b seconds=1.81
+208it [06:02,  1.72s/it]
+208it [06:02,  1.72s/it][AFORMAL k=13 completed=209/1000 qid=5ae4ebeb55429908b63264bb seconds=1.53
+209it [06:04,  1.67s/it]
+209it [06:04,  1.67s/it][AFORMAL k=13 completed=210/1000 qid=5a7fe0b55542994857a76818 seconds=1.57
+210it [06:05,  1.65s/it]
+210it [06:05,  1.65s/it][AFORMAL k=13 completed=211/1000 qid=5a77309d55429972597f1487 seconds=2.07
+211it [06:08,  1.78s/it]
+211it [06:08,  1.78s/it][AFORMAL k=13 completed=212/1000 qid=5ac3044f5542990b17b154dc seconds=1.35
+212it [06:09,  1.65s/it]
+212it [06:09,  1.65s/it][AFORMAL k=13 completed=213/1000 qid=5ac027005542996f0d89cb3d seconds=1.89
+213it [06:11,  1.72s/it]
+213it [06:11,  1.72s/it][AFORMAL k=13 completed=214/1000 qid=5a8fa4d95542995b4424207b seconds=2.47
+214it [06:13,  1.95s/it]
+214it [06:13,  1.95s/it][AFORMAL k=13 completed=215/1000 qid=5abc17c25542993a06baf85b seconds=1.54
+215it [06:15,  1.83s/it]
+215it [06:15,  1.83s/it][AFORMAL k=13 completed=216/1000 qid=5a7739f25542994aec3b7234 seconds=2.00
+216it [06:17,  1.88s/it]
+216it [06:17,  1.88s/it][AFORMAL k=13 completed=217/1000 qid=5a7e7ed05542991319bc94c2 seconds=1.66
+217it [06:19,  1.82s/it]
+217it [06:19,  1.82s/it][AFORMAL k=13 completed=218/1000 qid=5ae0d5335542990adbacf674 seconds=1.77
+218it [06:20,  1.80s/it]
+218it [06:20,  1.80s/it][AFORMAL k=13 completed=219/1000 qid=5a75ebfc5542992d0ec06018 seconds=2.39
+219it [06:23,  1.98s/it]
+219it [06:23,  1.98s/it][AFORMAL k=13 completed=220/1000 qid=5ae20c465542997283cd236a seconds=1.50
+220it [06:24,  1.84s/it]
+220it [06:24,  1.84s/it][AFORMAL k=13 completed=221/1000 qid=5ae5736e5542990ba0bbb2b3 seconds=1.79
+221it [06:26,  1.83s/it]
+221it [06:26,  1.83s/it][AFORMAL k=13 completed=222/1000 qid=5a8752955542994775f607d1 seconds=2.08
+222it [06:28,  1.90s/it]
+222it [06:28,  1.90s/it][AFORMAL k=13 completed=223/1000 qid=5ae7739c5542997b22f6a775 seconds=1.75
+223it [06:30,  1.86s/it]
+223it [06:30,  1.86s/it][AFORMAL k=13 completed=224/1000 qid=5ae601e45542992663a4f23b seconds=1.80
+224it [06:32,  1.84s/it]
+224it [06:32,  1.84s/it][AFORMAL k=13 completed=225/1000 qid=5ae4758b5542995dadf24342 seconds=1.79
+225it [06:33,  1.83s/it]
+225it [06:33,  1.83s/it][AFORMAL k=13 completed=226/1000 qid=5a7cdd6b55429909bec76858 seconds=1.83
+226it [06:35,  1.84s/it]
+226it [06:35,  1.84s/it][AFORMAL k=13 completed=227/1000 qid=5a8d9de2554299068b959d62 seconds=1.54
+227it [06:37,  1.75s/it]
+227it [06:37,  1.75s/it][AFORMAL k=13 completed=228/1000 qid=5ae8164d5542994a481bbeb6 seconds=1.97
+228it [06:39,  1.82s/it]
+228it [06:39,  1.82s/it][AFORMAL k=13 completed=229/1000 qid=5a84fea85542994c784ddabf seconds=1.41
+229it [06:40,  1.70s/it]
+229it [06:40,  1.70s/it][AFORMAL k=13 completed=230/1000 qid=5adf2fa35542993344016c11 seconds=2.33
+230it [06:43,  1.89s/it]
+230it [06:43,  1.89s/it][AFORMAL k=13 completed=231/1000 qid=5a90ba1b55429933b8a205c6 seconds=2.20
+231it [06:45,  1.99s/it]
+231it [06:45,  1.99s/it][AFORMAL k=13 completed=232/1000 qid=5a7ca4485542990527d554f1 seconds=1.51
+232it [06:46,  1.85s/it]
+232it [06:46,  1.85s/it][AFORMAL k=13 completed=233/1000 qid=5a8d7e1055429941ae14dfd8 seconds=1.62
+233it [06:48,  1.80s/it]
+233it [06:48,  1.80s/it][AFORMAL k=13 completed=234/1000 qid=5a84be845542991dd0999dcf seconds=1.79
+234it [06:50,  1.79s/it]
+234it [06:50,  1.79s/it][AFORMAL k=13 completed=235/1000 qid=5ab3b0bf5542992ade7c6e39 seconds=2.23
+235it [06:52,  1.93s/it]
+235it [06:52,  1.93s/it][AFORMAL k=13 completed=236/1000 qid=5a8e08ab5542995085b37393 seconds=1.60
+236it [06:54,  1.83s/it]
+236it [06:54,  1.83s/it][AFORMAL k=13 completed=237/1000 qid=5a85a3005542991dd0999e72 seconds=1.90
+237it [06:56,  1.85s/it]
+237it [06:56,  1.85s/it][AFORMAL k=13 completed=238/1000 qid=5addc79d5542995b365fab7b seconds=2.32
+238it [06:58,  1.99s/it]
+238it [06:58,  1.99s/it][AFORMAL k=13 completed=239/1000 qid=5a8f541e5542992414482a53 seconds=2.09
+239it [07:00,  2.02s/it]
+239it [07:00,  2.02s/it][AFORMAL k=13 completed=240/1000 qid=5a83ef745542996488c2e4f8 seconds=2.19
+240it [07:02,  2.07s/it]
+240it [07:02,  2.07s/it][AFORMAL k=13 completed=241/1000 qid=5a9068075542990a9849361a seconds=1.65
+241it [07:04,  1.95s/it]
+241it [07:04,  1.95s/it][AFORMAL k=13 completed=242/1000 qid=5a71443f5542994082a3e727 seconds=2.04
+242it [07:06,  1.98s/it]
+242it [07:06,  1.98s/it][AFORMAL k=13 completed=243/1000 qid=5abdc18555429965af743e2b seconds=1.69
+243it [07:08,  1.89s/it]
+243it [07:08,  1.89s/it][AFORMAL k=13 completed=244/1000 qid=5ab6dbc15542995eadef00cd seconds=1.39
+244it [07:09,  1.74s/it]
+244it [07:09,  1.74s/it][AFORMAL k=13 completed=245/1000 qid=5ab225565542993be8fa98bf seconds=1.53
+245it [07:10,  1.68s/it]
+245it [07:10,  1.68s/it][AFORMAL k=13 completed=246/1000 qid=5a79ced45542994bb94570cb seconds=1.40
+246it [07:12,  1.60s/it]
+246it [07:12,  1.60s/it][AFORMAL k=13 completed=247/1000 qid=5ab811395542990e739ec80f seconds=2.00
+247it [07:14,  1.72s/it]
+247it [07:14,  1.72s/it][AFORMAL k=13 completed=248/1000 qid=5ae1f4cb554299234fd0436d seconds=1.84
+248it [07:16,  1.76s/it]
+248it [07:16,  1.76s/it][AFORMAL k=13 completed=249/1000 qid=5ae6fee3554299572ea54670 seconds=1.78
+249it [07:17,  1.77s/it]
+249it [07:17,  1.77s/it][AFORMAL k=13 completed=250/1000 qid=5ab8f53355429916710eb0d1 seconds=1.74
+250it [07:19,  1.76s/it]
+250it [07:19,  1.76s/it][AFORMAL k=13 completed=251/1000 qid=5a834ed95542990548d0b1ca seconds=1.95
+251it [07:21,  1.82s/it]
+251it [07:21,  1.82s/it][AFORMAL k=13 completed=252/1000 qid=5a8834f05542994846c1ce26 seconds=1.39
+252it [07:23,  1.69s/it]
+252it [07:23,  1.69s/it][AFORMAL k=13 completed=253/1000 qid=5ae0a5825542993d6555ebdf seconds=1.76
+253it [07:24,  1.71s/it]
+253it [07:24,  1.71s/it][AFORMAL k=13 completed=254/1000 qid=5a8173fa554299260e20a28e seconds=1.73
+254it [07:26,  1.72s/it]
+254it [07:26,  1.72s/it][AFORMAL k=13 completed=255/1000 qid=5a88c4175542997e5c09a6ae seconds=1.52
+255it [07:28,  1.69s/it]
+255it [07:28,  1.69s/it][AFORMAL k=13 completed=256/1000 qid=5abff0645542994516f45539 seconds=1.51
+256it [07:29,  1.64s/it]
+256it [07:29,  1.64s/it][AFORMAL k=13 completed=257/1000 qid=5adc0c2b55429947ff1738db seconds=1.77
+257it [07:31,  1.68s/it]
+257it [07:31,  1.68s/it][AFORMAL k=13 completed=258/1000 qid=5ac2cdaa554299657fa29070 seconds=1.63
+258it [07:33,  1.66s/it]
+258it [07:33,  1.66s/it][AFORMAL k=13 completed=259/1000 qid=5a7a05485542990783324def seconds=1.71
+259it [07:34,  1.68s/it]
+259it [07:34,  1.68s/it][AFORMAL k=13 completed=260/1000 qid=5ade84d7554299728e26c72b seconds=1.76
+260it [07:36,  1.70s/it]
+260it [07:36,  1.70s/it][AFORMAL k=13 completed=261/1000 qid=5ab8869155429916710eb081 seconds=1.77
+261it [07:38,  1.72s/it]
+261it [07:38,  1.72s/it][AFORMAL k=13 completed=262/1000 qid=5adc6eb65542994650320cf3 seconds=1.50
+262it [07:39,  1.68s/it]
+262it [07:39,  1.68s/it][AFORMAL k=13 completed=263/1000 qid=5a721bbc55429971e9dc9279 seconds=1.61
+263it [07:41,  1.66s/it]
+263it [07:41,  1.66s/it][AFORMAL k=13 completed=264/1000 qid=5ae3dfb05542992e3233c490 seconds=1.45
+264it [07:42,  1.59s/it]
+264it [07:42,  1.59s/it][AFORMAL k=13 completed=265/1000 qid=5a8e0370554299068b959e2d seconds=1.72
+265it [07:44,  1.63s/it]
+265it [07:44,  1.63s/it][AFORMAL k=13 completed=266/1000 qid=5ab8ee035542991b5579f04b seconds=1.59
+266it [07:46,  1.62s/it]
+266it [07:46,  1.62s/it][AFORMAL k=13 completed=267/1000 qid=5ab2082f554299722f9b4c9f seconds=2.00
+267it [07:48,  1.74s/it]
+267it [07:48,  1.74s/it][AFORMAL k=13 completed=268/1000 qid=5a7268235542992359bc3081 seconds=2.05
+268it [07:50,  1.83s/it]
+268it [07:50,  1.83s/it][AFORMAL k=13 completed=269/1000 qid=5ac2cb09554299657fa29066 seconds=1.89
+269it [07:52,  1.85s/it]
+269it [07:52,  1.85s/it][AFORMAL k=13 completed=270/1000 qid=5a876cd55542993e715abf36 seconds=1.80
+270it [07:54,  1.84s/it]
+270it [07:54,  1.84s/it][AFORMAL k=13 completed=271/1000 qid=5abc0ba05542996583600409 seconds=2.05
+271it [07:56,  1.91s/it]
+271it [07:56,  1.91s/it][AFORMAL k=13 completed=272/1000 qid=5ade1eda55429975fa854e71 seconds=1.58
+272it [07:57,  1.81s/it]
+272it [07:57,  1.81s/it][AFORMAL k=13 completed=273/1000 qid=5a8dd13055429917b4a5bcba seconds=1.97
+273it [07:59,  1.86s/it]
+273it [07:59,  1.86s/it][AFORMAL k=13 completed=274/1000 qid=5ab82d095542990e739ec853 seconds=1.93
+274it [08:01,  1.89s/it]
+274it [08:01,  1.89s/it][AFORMAL k=13 completed=275/1000 qid=5ab627d555429953192ad27e seconds=2.49
+275it [08:04,  2.07s/it]
+275it [08:04,  2.07s/it][AFORMAL k=13 completed=276/1000 qid=5ab9ddef5542994dbf019875 seconds=2.17
+276it [08:06,  2.10s/it]
+276it [08:06,  2.10s/it][AFORMAL k=13 completed=277/1000 qid=5a8b7dab5542997f31a41d4c seconds=1.88
+277it [08:08,  2.03s/it]
+277it [08:08,  2.03s/it][AFORMAL k=13 completed=278/1000 qid=5a8e4d9855429917b4a5bd8d seconds=1.85
+278it [08:10,  1.99s/it]
+278it [08:10,  1.99s/it][AFORMAL k=13 completed=279/1000 qid=5abc0a5d5542993f40c73c64 seconds=1.56
+279it [08:11,  1.86s/it]
+279it [08:11,  1.86s/it][AFORMAL k=13 completed=280/1000 qid=5a7a845755429941d65f2684 seconds=1.87
+280it [08:13,  1.87s/it]
+280it [08:13,  1.87s/it][AFORMAL k=13 completed=281/1000 qid=5ae1af14554299234fd042c4 seconds=1.69
+281it [08:15,  1.82s/it]
+281it [08:15,  1.82s/it][AFORMAL k=13 completed=282/1000 qid=5a851b0d5542997175ce1f7f seconds=1.64
+282it [08:16,  1.76s/it]
+282it [08:16,  1.76s/it][AFORMAL k=13 completed=283/1000 qid=5a75495a5542996c70cfaed8 seconds=1.88
+283it [08:18,  1.80s/it]
+283it [08:18,  1.80s/it][AFORMAL k=13 completed=284/1000 qid=5a807b44554299485f59860a seconds=1.59
+284it [08:20,  1.74s/it]
+284it [08:20,  1.74s/it][AFORMAL k=13 completed=285/1000 qid=5ab7484c5542992aa3b8c80d seconds=1.56
+285it [08:21,  1.68s/it]
+285it [08:21,  1.68s/it][AFORMAL k=13 completed=286/1000 qid=5ac1b1345542994ab5c67dd0 seconds=1.83
+286it [08:23,  1.73s/it]
+286it [08:23,  1.73s/it][AFORMAL k=13 completed=287/1000 qid=5a7c66d555429935c91b518f seconds=1.74
+287it [08:25,  1.73s/it]
+287it [08:25,  1.73s/it][AFORMAL k=13 completed=288/1000 qid=5ae0cf8355429945ae959464 seconds=1.47
+288it [08:26,  1.65s/it]
+288it [08:26,  1.65s/it][AFORMAL k=13 completed=289/1000 qid=5a72abb95542992359bc3162 seconds=1.62
+289it [08:28,  1.65s/it]
+289it [08:28,  1.65s/it][AFORMAL k=13 completed=290/1000 qid=5a746a4455429974ef308bf6 seconds=1.73
+290it [08:30,  1.67s/it]
+290it [08:30,  1.67s/it][AFORMAL k=13 completed=291/1000 qid=5a73987c55429978a71e9039 seconds=1.42
+291it [08:31,  1.60s/it]
+291it [08:31,  1.60s/it][AFORMAL k=13 completed=292/1000 qid=5a7b4fee554299042af8f748 seconds=2.12
+292it [08:33,  1.76s/it]
+292it [08:33,  1.76s/it][AFORMAL k=13 completed=293/1000 qid=5a8b595855429949d91db563 seconds=1.83
+293it [08:35,  1.78s/it]
+293it [08:35,  1.78s/it][AFORMAL k=13 completed=294/1000 qid=5a7a0a2d5542990783324e06 seconds=1.55
+294it [08:37,  1.71s/it]
+294it [08:37,  1.71s/it][AFORMAL k=13 completed=295/1000 qid=5adccdd55542992c1e3a2408 seconds=1.65
+295it [08:38,  1.69s/it]
+295it [08:38,  1.69s/it][AFORMAL k=13 completed=296/1000 qid=5ae2e06d55429928c4239521 seconds=1.32
+296it [08:40,  1.58s/it]
+296it [08:40,  1.58s/it][AFORMAL k=13 completed=297/1000 qid=5a747a9a55429929fddd8444 seconds=1.98
+297it [08:42,  1.70s/it]
+297it [08:42,  1.70s/it][AFORMAL k=13 completed=298/1000 qid=5a9092cc55429916514e74fd seconds=1.35
+298it [08:43,  1.60s/it]
+298it [08:43,  1.60s/it][AFORMAL k=13 completed=299/1000 qid=5a836d8a554299123d8c2113 seconds=2.13
+299it [08:45,  1.76s/it]
+299it [08:45,  1.76s/it][AFORMAL k=13 completed=300/1000 qid=5a83b01c5542996488c2e489 seconds=1.81
+300it [08:47,  1.78s/it]
+300it [08:47,  1.78s/it][AFORMAL k=13 completed=301/1000 qid=5a73551e5542991f29ee2d84 seconds=1.80
+301it [08:49,  1.79s/it]
+301it [08:49,  1.79s/it][AFORMAL k=13 completed=302/1000 qid=5abbdaac5542992ccd8e7fc0 seconds=1.40
+302it [08:50,  1.67s/it]
+302it [08:50,  1.67s/it][AFORMAL k=13 completed=303/1000 qid=5abc36cc55429959677d6a50 seconds=1.75
+303it [08:52,  1.70s/it]
+303it [08:52,  1.70s/it][AFORMAL k=13 completed=304/1000 qid=5adde73f5542992200553b94 seconds=1.99
+304it [08:54,  1.79s/it]
+304it [08:54,  1.79s/it][AFORMAL k=13 completed=305/1000 qid=5a8d93bf554299068b959d46 seconds=1.67
+305it [08:56,  1.75s/it]
+305it [08:56,  1.75s/it][AFORMAL k=13 completed=306/1000 qid=5ac14d0c5542991316484ae2 seconds=1.95
+306it [08:58,  1.81s/it]
+306it [08:58,  1.81s/it][AFORMAL k=13 completed=307/1000 qid=5ac2660d55429951e9e685a1 seconds=1.48
+307it [08:59,  1.71s/it]
+307it [08:59,  1.71s/it][AFORMAL k=13 completed=308/1000 qid=5a739323554299623ed4abff seconds=2.17
+308it [09:01,  1.85s/it]
+308it [09:01,  1.85s/it][AFORMAL k=13 completed=309/1000 qid=5ab5ee055542997d4ad1f259 seconds=1.83
+309it [09:03,  1.84s/it]
+309it [09:03,  1.84s/it][AFORMAL k=13 completed=310/1000 qid=5a7dca645542990b8f503aab seconds=1.76
+310it [09:05,  1.82s/it]
+310it [09:05,  1.82s/it][AFORMAL k=13 completed=311/1000 qid=5add5f395542990dbb2f7e50 seconds=1.36
+311it [09:06,  1.68s/it]
+311it [09:06,  1.68s/it][AFORMAL k=13 completed=312/1000 qid=5ab94fa25542996be2020474 seconds=2.36
+312it [09:09,  1.89s/it]
+312it [09:09,  1.89s/it][AFORMAL k=13 completed=313/1000 qid=5ae201465542997f29b3c1f7 seconds=1.94
+313it [09:11,  1.90s/it]
+313it [09:11,  1.90s/it][AFORMAL k=13 completed=314/1000 qid=5ac23f98554299636651994b seconds=1.48
+314it [09:12,  1.78s/it]
+314it [09:12,  1.78s/it][AFORMAL k=13 completed=315/1000 qid=5abae4995542996606241666 seconds=2.25
+315it [09:14,  1.92s/it]
+315it [09:14,  1.92s/it][AFORMAL k=13 completed=316/1000 qid=5a7da6cb5542990b8f5039ff seconds=1.83
+316it [09:16,  1.90s/it]
+316it [09:16,  1.90s/it][AFORMAL k=13 completed=317/1000 qid=5a8555ea5542992a431d1b07 seconds=2.09
+317it [09:18,  1.96s/it]
+317it [09:18,  1.96s/it][AFORMAL k=13 completed=318/1000 qid=5aba7e2c55429955dce3ee5a seconds=2.17
+318it [09:20,  2.02s/it]
+318it [09:20,  2.02s/it][AFORMAL k=13 completed=319/1000 qid=5ab3f8c25542992ade7c6f02 seconds=2.11
+319it [09:22,  2.05s/it]
+319it [09:22,  2.05s/it][AFORMAL k=13 completed=320/1000 qid=5a8bde565542995d1e6f1454 seconds=1.69
+320it [09:24,  1.94s/it]
+320it [09:24,  1.94s/it][AFORMAL k=13 completed=321/1000 qid=5a882d9a5542997e5c09a599 seconds=2.21
+321it [09:26,  2.02s/it]
+321it [09:26,  2.02s/it][AFORMAL k=13 completed=322/1000 qid=5ae780a55542997b22f6a79f seconds=1.83
+322it [09:28,  2.00s/it]
+322it [09:28,  2.00s/it][AFORMAL k=13 completed=323/1000 qid=5ade3b925542992fa25da70a seconds=1.69
+323it [09:30,  1.91s/it]
+323it [09:30,  1.91s/it][AFORMAL k=13 completed=324/1000 qid=5a8c90db554299653c1aa0bf seconds=1.96
+324it [09:32,  1.93s/it]
+324it [09:32,  1.93s/it][AFORMAL k=13 completed=325/1000 qid=5a74a26a55429979e28829d6 seconds=1.93
+325it [09:34,  1.93s/it]
+325it [09:34,  1.93s/it][AFORMAL k=13 completed=326/1000 qid=5ac176555542994d76dcce47 seconds=1.74
+326it [09:36,  1.88s/it]
+326it [09:36,  1.88s/it][AFORMAL k=13 completed=327/1000 qid=5ae0ac1c5542993d6555ec07 seconds=2.14
+327it [09:38,  1.96s/it]
+327it [09:38,  1.96s/it][AFORMAL k=13 completed=328/1000 qid=5add3ccc5542997545bbbce5 seconds=2.04
+328it [09:40,  1.99s/it]
+328it [09:40,  1.99s/it][AFORMAL k=13 completed=329/1000 qid=5adf04c95542993a75d263d5 seconds=1.57
+329it [09:41,  1.87s/it]
+329it [09:41,  1.87s/it][AFORMAL k=13 completed=330/1000 qid=5ae1f8235542997f29b3c1cf seconds=1.82
+330it [09:43,  1.85s/it]
+330it [09:43,  1.86s/it][AFORMAL k=13 completed=331/1000 qid=5a85c3a15542992a431d1b97 seconds=1.62
+331it [09:45,  1.78s/it]
+331it [09:45,  1.78s/it][AFORMAL k=13 completed=332/1000 qid=5a8b231055429949d91db4c9 seconds=1.68
+332it [09:47,  1.77s/it]
+332it [09:47,  1.77s/it][AFORMAL k=13 completed=333/1000 qid=5a88a1e55542997e5c09a64d seconds=1.73
+333it [09:48,  1.75s/it]
+333it [09:48,  1.75s/it][AFORMAL k=13 completed=334/1000 qid=5a80b4d1554299260e20a134 seconds=1.67
+334it [09:50,  1.73s/it]
+334it [09:50,  1.73s/it][AFORMAL k=13 completed=335/1000 qid=5ac19b2c55429963665198b6 seconds=1.81
+335it [09:52,  1.75s/it]
+335it [09:52,  1.75s/it][AFORMAL k=13 completed=336/1000 qid=5ac3d21e554299204fd21e8b seconds=1.79
+336it [09:54,  1.77s/it]
+336it [09:54,  1.77s/it][AFORMAL k=13 completed=337/1000 qid=5ab66fd355429954757d32b7 seconds=2.00
+337it [09:56,  1.84s/it]
+337it [09:56,  1.84s/it][AFORMAL k=13 completed=338/1000 qid=5ade51b45542997c77adedf4 seconds=1.65
+338it [09:57,  1.78s/it]
+338it [09:57,  1.78s/it][AFORMAL k=13 completed=339/1000 qid=5ac2546a554299636651997b seconds=1.88
+339it [09:59,  1.81s/it]
+339it [09:59,  1.81s/it][AFORMAL k=13 completed=340/1000 qid=5ac257fe55429951e9e68562 seconds=2.48
+340it [10:02,  2.02s/it]
+340it [10:02,  2.02s/it][AFORMAL k=13 completed=341/1000 qid=5a8c42445542996e8ac88a3f seconds=1.84
+341it [10:04,  1.97s/it]
+341it [10:04,  1.97s/it][AFORMAL k=13 completed=342/1000 qid=5a804032554299485f5985a0 seconds=2.03
+342it [10:06,  1.99s/it]
+342it [10:06,  1.99s/it][AFORMAL k=13 completed=343/1000 qid=5a8d08ee55429941ae14df70 seconds=1.45
+343it [10:07,  1.83s/it]
+343it [10:07,  1.83s/it][AFORMAL k=13 completed=344/1000 qid=5ab6bf6d55429953192ad372 seconds=1.49
+344it [10:09,  1.73s/it]
+344it [10:09,  1.73s/it][AFORMAL k=13 completed=345/1000 qid=5adf4b335542993a75d264a5 seconds=1.71
+345it [10:10,  1.73s/it]
+345it [10:10,  1.73s/it][AFORMAL k=13 completed=346/1000 qid=5a75f0bf5542994ccc91866b seconds=1.88
+346it [10:12,  1.78s/it]
+346it [10:12,  1.78s/it][AFORMAL k=13 completed=347/1000 qid=5ae834e95542997ec272776a seconds=1.57
+347it [10:14,  1.72s/it]
+347it [10:14,  1.72s/it][AFORMAL k=13 completed=348/1000 qid=5abd830455429924427fd033 seconds=1.93
+348it [10:16,  1.78s/it]
+348it [10:16,  1.78s/it][AFORMAL k=13 completed=349/1000 qid=5a83870f554299123d8c2149 seconds=1.68
+349it [10:17,  1.75s/it]
+349it [10:17,  1.75s/it][AFORMAL k=13 completed=350/1000 qid=5a73520c5542994cef4bc53f seconds=1.87
+350it [10:19,  1.79s/it]
+350it [10:19,  1.79s/it][AFORMAL k=13 completed=351/1000 qid=5a777ca855429949eeb29e6a seconds=1.55
+351it [10:21,  1.72s/it]
+351it [10:21,  1.72s/it][AFORMAL k=13 completed=352/1000 qid=5a83d0ed5542996488c2e4e7 seconds=1.72
+352it [10:23,  1.72s/it]
+352it [10:23,  1.72s/it][AFORMAL k=13 completed=353/1000 qid=5a81737155429903bc27b96f seconds=1.73
+353it [10:24,  1.72s/it]
+353it [10:24,  1.72s/it][AFORMAL k=13 completed=354/1000 qid=5a7d5c175542991319bc93b1 seconds=1.82
+354it [10:26,  1.75s/it]
+354it [10:26,  1.75s/it][AFORMAL k=13 completed=355/1000 qid=5a8f876e5542997ba9cb32a1 seconds=1.46
+355it [10:28,  1.67s/it]
+355it [10:28,  1.67s/it][AFORMAL k=13 completed=356/1000 qid=5ab25004554299722f9b4cd7 seconds=1.92
+356it [10:29,  1.75s/it]
+356it [10:29,  1.75s/it][AFORMAL k=13 completed=357/1000 qid=5a8bc1b85542997f31a41db8 seconds=2.03
+357it [10:32,  1.83s/it]
+357it [10:32,  1.83s/it][AFORMAL k=13 completed=358/1000 qid=5a8abb115542992d82986f66 seconds=2.15
+358it [10:34,  1.93s/it]
+358it [10:34,  1.93s/it][AFORMAL k=13 completed=359/1000 qid=5a76387d554299109176e6ba seconds=1.75
+359it [10:35,  1.89s/it]
+359it [10:35,  1.89s/it][AFORMAL k=13 completed=360/1000 qid=5a73b55855429978a71e9086 seconds=1.70
+360it [10:37,  1.83s/it]
+360it [10:37,  1.83s/it][AFORMAL k=13 completed=361/1000 qid=5a88a8f4554299206df2b320 seconds=2.12
+361it [10:39,  1.92s/it]
+361it [10:39,  1.92s/it][AFORMAL k=13 completed=362/1000 qid=5a873ec75542996432c57244 seconds=1.76
+362it [10:41,  1.87s/it]
+362it [10:41,  1.87s/it][AFORMAL k=13 completed=363/1000 qid=5ab72a035542993667793f5c seconds=2.20
+363it [10:43,  1.97s/it]
+363it [10:43,  1.97s/it][AFORMAL k=13 completed=364/1000 qid=5a7f404a55429930675136dd seconds=1.47
+364it [10:45,  1.82s/it]
+364it [10:45,  1.82s/it][AFORMAL k=13 completed=365/1000 qid=5a84c6df5542997b5ce3ff61 seconds=1.65
+365it [10:46,  1.77s/it]
+365it [10:46,  1.77s/it][AFORMAL k=13 completed=366/1000 qid=5a7108fa5542994082a3e4ef seconds=1.98
+366it [10:48,  1.84s/it]
+366it [10:48,  1.84s/it][AFORMAL k=13 completed=367/1000 qid=5add1eed5542992ae4cec485 seconds=1.95
+367it [10:50,  1.88s/it]
+367it [10:50,  1.88s/it][AFORMAL k=13 completed=368/1000 qid=5ac3b4e0554299741d48a2ec seconds=1.35
+368it [10:52,  1.72s/it]
+368it [10:52,  1.72s/it][AFORMAL k=13 completed=369/1000 qid=5a7c75045542990527d554b2 seconds=1.75
+369it [10:53,  1.73s/it]
+369it [10:53,  1.73s/it][AFORMAL k=13 completed=370/1000 qid=5a88d745554299206df2b378 seconds=1.56
+370it [10:55,  1.68s/it]
+370it [10:55,  1.68s/it][AFORMAL k=13 completed=371/1000 qid=5a9070dd5542995b442420b5 seconds=1.67
+371it [10:57,  1.68s/it]
+371it [10:57,  1.68s/it][AFORMAL k=13 completed=372/1000 qid=5a843f305542996488c2e51d seconds=1.59
+372it [10:58,  1.65s/it]
+372it [10:58,  1.65s/it][AFORMAL k=13 completed=373/1000 qid=5adc6ded55429947ff17395d seconds=1.58
+373it [11:00,  1.63s/it]
+373it [11:00,  1.63s/it][AFORMAL k=13 completed=374/1000 qid=5a7f010955429934daa2fc8b seconds=2.07
+374it [11:02,  1.76s/it]
+374it [11:02,  1.76s/it][AFORMAL k=13 completed=375/1000 qid=5a7309a15542992359bc320c seconds=1.80
+375it [11:04,  1.78s/it]
+375it [11:04,  1.78s/it][AFORMAL k=13 completed=376/1000 qid=5ac4392e5542997ea680ca32 seconds=1.73
+376it [11:05,  1.76s/it]
+376it [11:05,  1.76s/it][AFORMAL k=13 completed=377/1000 qid=5ae4a1875542995ad6573dd2 seconds=1.61
+377it [11:07,  1.72s/it]
+377it [11:07,  1.72s/it][AFORMAL k=13 completed=378/1000 qid=5a8841a35542994846c1ce69 seconds=1.67
+378it [11:09,  1.70s/it]
+378it [11:09,  1.70s/it][AFORMAL k=13 completed=379/1000 qid=5a84c4135542994c784dda31 seconds=1.55
+379it [11:10,  1.66s/it]
+379it [11:10,  1.66s/it][AFORMAL k=13 completed=380/1000 qid=5ae77c245542997b22f6a795 seconds=3.09
+380it [11:13,  2.10s/it]
+380it [11:13,  2.10s/it][AFORMAL k=13 completed=381/1000 qid=5ab73de755429928e1fe383b seconds=2.15
+381it [11:16,  2.11s/it]
+381it [11:16,  2.11s/it][AFORMAL k=13 completed=382/1000 qid=5a8cf064554299585d9e3775 seconds=1.44
+382it [11:17,  1.91s/it]
+382it [11:17,  1.91s/it][AFORMAL k=13 completed=383/1000 qid=5a8f608d5542992414482a94 seconds=1.51
+383it [11:19,  1.79s/it]
+383it [11:19,  1.79s/it][AFORMAL k=13 completed=384/1000 qid=5ae2c4d75542991a06ce98d0 seconds=1.74
+384it [11:20,  1.78s/it]
+384it [11:20,  1.78s/it][AFORMAL k=13 completed=385/1000 qid=5a90cb205542995651fb51fe seconds=1.46
+385it [11:22,  1.68s/it]
+385it [11:22,  1.68s/it][AFORMAL k=13 completed=386/1000 qid=5ae48d1755429913cc204499 seconds=1.33
+386it [11:23,  1.58s/it]
+386it [11:23,  1.58s/it][AFORMAL k=13 completed=387/1000 qid=5ae2bb545542992decbdcd88 seconds=1.89
+387it [11:25,  1.67s/it]
+387it [11:25,  1.67s/it][AFORMAL k=13 completed=388/1000 qid=5ab587ad5542992aa134a34b seconds=1.81
+388it [11:27,  1.72s/it]
+388it [11:27,  1.72s/it][AFORMAL k=13 completed=389/1000 qid=5adff2aa554299603e4183d0 seconds=1.85
+389it [11:29,  1.76s/it]
+389it [11:29,  1.76s/it][AFORMAL k=13 completed=390/1000 qid=5abfb3425542990832d3a1c0 seconds=1.62
+390it [11:30,  1.72s/it]
+390it [11:30,  1.72s/it][AFORMAL k=13 completed=391/1000 qid=5abc25b6554299700f9d77f9 seconds=2.00
+391it [11:32,  1.81s/it]
+391it [11:32,  1.81s/it][AFORMAL k=13 completed=392/1000 qid=5a85ee635542994775f606b4 seconds=1.87
+392it [11:34,  1.83s/it]
+392it [11:34,  1.83s/it][AFORMAL k=13 completed=393/1000 qid=5a7af74e55429931da12c9b5 seconds=1.75
+393it [11:36,  1.81s/it]
+393it [11:36,  1.81s/it][AFORMAL k=13 completed=394/1000 qid=5ab48f245542990594ba9c66 seconds=2.10
+394it [11:38,  1.89s/it]
+394it [11:38,  1.89s/it][AFORMAL k=13 completed=395/1000 qid=5ae127ba55429920d52342d3 seconds=2.01
+395it [11:40,  1.93s/it]
+395it [11:40,  1.93s/it][AFORMAL k=13 completed=396/1000 qid=5a7a567255429941d65f25bd seconds=2.36
+396it [11:42,  2.06s/it]
+396it [11:42,  2.06s/it][AFORMAL k=13 completed=397/1000 qid=5ab82bbb5542990e739ec84c seconds=1.65
+397it [11:44,  1.94s/it]
+397it [11:44,  1.94s/it][AFORMAL k=13 completed=398/1000 qid=5a8cea40554299441c6b9f76 seconds=2.10
+398it [11:46,  1.99s/it]
+398it [11:46,  1.99s/it][AFORMAL k=13 completed=399/1000 qid=5abc7bc45542993a06baf8ef seconds=1.70
+399it [11:48,  1.91s/it]
+399it [11:48,  1.91s/it][AFORMAL k=13 completed=400/1000 qid=5abbe40555429931dba145cd seconds=1.57
+400it [11:49,  1.81s/it]
+400it [11:49,  1.81s/it][AFORMAL k=13 completed=401/1000 qid=5a8f47785542997ba9cb3217 seconds=1.87
+401it [11:51,  1.84s/it]
+401it [11:51,  1.84s/it][AFORMAL k=13 completed=402/1000 qid=5ab6f9335542991d322236fc seconds=1.94
+402it [11:53,  1.87s/it]
+402it [11:53,  1.87s/it][AFORMAL k=13 completed=403/1000 qid=5ab5a4555542997d4ad1f19c seconds=1.90
+403it [11:55,  1.88s/it]
+403it [11:55,  1.88s/it][AFORMAL k=13 completed=404/1000 qid=5a8a06455542992e4fca84db seconds=1.61
+404it [11:57,  1.80s/it]
+404it [11:57,  1.80s/it][AFORMAL k=13 completed=405/1000 qid=5ab42b905542992339550040 seconds=1.89
+405it [11:59,  1.83s/it]
+405it [11:59,  1.83s/it][AFORMAL k=13 completed=406/1000 qid=5a779be75542995d83181215 seconds=1.82
+406it [12:01,  1.83s/it]
+406it [12:01,  1.83s/it][AFORMAL k=13 completed=407/1000 qid=5a7b1c745542992d025e6777 seconds=2.01
+407it [12:03,  1.88s/it]
+407it [12:03,  1.88s/it][AFORMAL k=13 completed=408/1000 qid=5a7300b85542994cef4bc41a seconds=1.52
+408it [12:04,  1.78s/it]
+408it [12:04,  1.78s/it][AFORMAL k=13 completed=409/1000 qid=5ab56ed0554299637185c597 seconds=1.52
+409it [12:06,  1.71s/it]
+409it [12:06,  1.71s/it][AFORMAL k=13 completed=410/1000 qid=5abfd3d65542994516f4550b seconds=1.72
+410it [12:07,  1.72s/it]
+410it [12:07,  1.72s/it][AFORMAL k=13 completed=411/1000 qid=5a8b14125542992d82986fd5 seconds=1.80
+411it [12:09,  1.74s/it]
+411it [12:09,  1.74s/it][AFORMAL k=13 completed=412/1000 qid=5ae26af3554299492dc91c1c seconds=1.85
+412it [12:11,  1.77s/it]
+412it [12:11,  1.77s/it][AFORMAL k=13 completed=413/1000 qid=5a89cde555429946c8d6e9c4 seconds=1.84
+413it [12:13,  1.79s/it]
+413it [12:13,  1.79s/it][AFORMAL k=13 completed=414/1000 qid=5a8b97485542995d1e6f140f seconds=1.43
+414it [12:14,  1.69s/it]
+414it [12:14,  1.69s/it][AFORMAL k=13 completed=415/1000 qid=5abe76c255429965af743f15 seconds=1.45
+415it [12:16,  1.62s/it]
+415it [12:16,  1.62s/it][AFORMAL k=13 completed=416/1000 qid=5ae226755542996483e64906 seconds=1.73
+416it [12:17,  1.65s/it]
+416it [12:17,  1.65s/it][AFORMAL k=13 completed=417/1000 qid=5a7125165542994082a3e5d0 seconds=1.81
+417it [12:19,  1.70s/it]
+417it [12:19,  1.70s/it][AFORMAL k=13 completed=418/1000 qid=5a81f85d55429926c1cdadca seconds=1.95
+418it [12:21,  1.78s/it]
+418it [12:21,  1.78s/it][AFORMAL k=13 completed=419/1000 qid=5a72bd0b5542992359bc318f seconds=2.07
+419it [12:23,  1.87s/it]
+419it [12:23,  1.87s/it][AFORMAL k=13 completed=420/1000 qid=5ae383e15542992f92d822fb seconds=1.77
+420it [12:25,  1.84s/it]
+420it [12:25,  1.84s/it][AFORMAL k=13 completed=421/1000 qid=5ab930655542991b5579f12a seconds=1.88
+421it [12:27,  1.85s/it]
+421it [12:27,  1.85s/it][AFORMAL k=13 completed=422/1000 qid=5a8f5a185542992414482a71 seconds=1.85
+422it [12:29,  1.85s/it]
+422it [12:29,  1.85s/it][AFORMAL k=13 completed=423/1000 qid=5adc872b5542994d58a2f62f seconds=1.61
+423it [12:30,  1.78s/it]
+423it [12:30,  1.78s/it][AFORMAL k=13 completed=424/1000 qid=5ab56b3a554299637185c585 seconds=1.77
+424it [12:32,  1.78s/it]
+424it [12:32,  1.78s/it][AFORMAL k=13 completed=425/1000 qid=5a8af92c55429950cd6afc33 seconds=1.88
+425it [12:34,  1.81s/it]
+425it [12:34,  1.81s/it][AFORMAL k=13 completed=426/1000 qid=5ac0714f554299294b218fe1 seconds=2.19
+426it [12:36,  1.92s/it]
+426it [12:36,  1.92s/it][AFORMAL k=13 completed=427/1000 qid=5abd38285542993062266c19 seconds=2.12
+427it [12:38,  1.98s/it]
+427it [12:38,  1.98s/it][AFORMAL k=13 completed=428/1000 qid=5abd4c6d5542993062266c47 seconds=1.49
+428it [12:40,  1.84s/it]
+428it [12:40,  1.84s/it][AFORMAL k=13 completed=429/1000 qid=5add47bf5542992200553a7f seconds=1.46
+429it [12:41,  1.73s/it]
+429it [12:41,  1.73s/it][AFORMAL k=13 completed=430/1000 qid=5a7302b75542991f9a20c5fd seconds=1.43
+430it [12:43,  1.64s/it]
+430it [12:43,  1.64s/it][AFORMAL k=13 completed=431/1000 qid=5a8aed1755429950cd6afbf1 seconds=1.85
+431it [12:45,  1.72s/it]
+431it [12:45,  1.72s/it][AFORMAL k=13 completed=432/1000 qid=5ab3dbd8554299233954ffd6 seconds=1.66
+432it [12:46,  1.70s/it]
+432it [12:46,  1.70s/it][AFORMAL k=13 completed=433/1000 qid=5a7a43245542994f819ef19d seconds=1.49
+433it [12:48,  1.64s/it]
+433it [12:48,  1.64s/it][AFORMAL k=13 completed=434/1000 qid=5a840e8a5542992ef85e239e seconds=2.12
+434it [12:50,  1.79s/it]
+434it [12:50,  1.79s/it][AFORMAL k=13 completed=435/1000 qid=5a8066d15542992097ad2fe8 seconds=1.37
+435it [12:51,  1.67s/it]
+435it [12:51,  1.67s/it][AFORMAL k=13 completed=436/1000 qid=5a83d0845542996488c2e4e6 seconds=1.73
+436it [12:53,  1.69s/it]
+436it [12:53,  1.69s/it][AFORMAL k=13 completed=437/1000 qid=5a7dbc175542995ed0d1666b seconds=1.47
+437it [12:55,  1.63s/it]
+437it [12:55,  1.63s/it][AFORMAL k=13 completed=438/1000 qid=5a8fae205542997ba9cb32ec seconds=1.47
+438it [12:56,  1.58s/it]
+438it [12:56,  1.58s/it][AFORMAL k=13 completed=439/1000 qid=5a7b68525542997c3ec97151 seconds=1.62
+439it [12:58,  1.59s/it]
+439it [12:58,  1.59s/it][AFORMAL k=13 completed=440/1000 qid=5abf8e135542990832d3a14f seconds=1.61
+440it [12:59,  1.60s/it]
+440it [12:59,  1.60s/it][AFORMAL k=13 completed=441/1000 qid=5a7b69b155429927d897bfbc seconds=1.66
+441it [13:01,  1.62s/it]
+441it [13:01,  1.62s/it][AFORMAL k=13 completed=442/1000 qid=5a84a7f95542992a431d1a85 seconds=2.12
+442it [13:03,  1.79s/it]
+442it [13:03,  1.79s/it][AFORMAL k=13 completed=443/1000 qid=5a801f215542992bc0c4a6b2 seconds=1.89
+443it [13:05,  1.82s/it]
+443it [13:05,  1.82s/it][AFORMAL k=13 completed=444/1000 qid=5a83ab355542990548d0b218 seconds=2.19
+444it [13:07,  1.93s/it]
+444it [13:07,  1.93s/it][AFORMAL k=13 completed=445/1000 qid=5ae497595542995ad6573db7 seconds=1.31
+445it [13:09,  1.75s/it]
+445it [13:09,  1.75s/it][AFORMAL k=13 completed=446/1000 qid=5abb6ece5542992ccd8e7f40 seconds=1.75
+446it [13:10,  1.75s/it]
+446it [13:10,  1.75s/it][AFORMAL k=13 completed=447/1000 qid=5a8080365542992097ad2fed seconds=1.69
+447it [13:12,  1.73s/it]
+447it [13:12,  1.73s/it][AFORMAL k=13 completed=448/1000 qid=5a8e341c5542995085b373d6 seconds=1.76
+448it [13:14,  1.74s/it]
+448it [13:14,  1.74s/it][AFORMAL k=13 completed=449/1000 qid=5a822a5e55429926c1cdae43 seconds=2.04
+449it [13:16,  1.83s/it]
+449it [13:16,  1.83s/it][AFORMAL k=13 completed=450/1000 qid=5abc550e554299700f9d7870 seconds=1.72
+450it [13:18,  1.80s/it]
+450it [13:18,  1.80s/it][AFORMAL k=13 completed=451/1000 qid=5a835e215542992ef85e2296 seconds=1.52
+451it [13:19,  1.72s/it]
+451it [13:19,  1.72s/it][AFORMAL k=13 completed=452/1000 qid=5adcbb815542994ed6169bde seconds=1.55
+452it [13:21,  1.67s/it]
+452it [13:21,  1.67s/it][AFORMAL k=13 completed=453/1000 qid=5a7da0de5542990b8f5039d7 seconds=1.87
+453it [13:23,  1.73s/it]
+453it [13:23,  1.73s/it][AFORMAL k=13 completed=454/1000 qid=5a82930655429966c78a6a5e seconds=1.69
+454it [13:24,  1.72s/it]
+454it [13:24,  1.72s/it][AFORMAL k=13 completed=455/1000 qid=5ab29486554299545a2cf9a4 seconds=1.65
+455it [13:26,  1.70s/it]
+455it [13:26,  1.70s/it][AFORMAL k=13 completed=456/1000 qid=5ab7948b5542995dae37e969 seconds=1.60
+456it [13:27,  1.67s/it]
+456it [13:27,  1.67s/it][AFORMAL k=13 completed=457/1000 qid=5aba3bb855429955dce3ede7 seconds=1.54
+457it [13:29,  1.63s/it]
+457it [13:29,  1.63s/it][AFORMAL k=13 completed=458/1000 qid=5a83c9e45542992ef85e2361 seconds=1.37
+458it [13:30,  1.55s/it]
+458it [13:30,  1.55s/it][AFORMAL k=13 completed=459/1000 qid=5ab91799554299753720f6ea seconds=1.61
+459it [13:32,  1.58s/it]
+459it [13:32,  1.58s/it][AFORMAL k=13 completed=460/1000 qid=5ab84d5a55429916710eb028 seconds=2.43
+460it [13:34,  1.84s/it]
+460it [13:34,  1.84s/it][AFORMAL k=13 completed=461/1000 qid=5a7b5af7554299042af8f752 seconds=1.90
+461it [13:36,  1.87s/it]
+461it [13:36,  1.87s/it][AFORMAL k=13 completed=462/1000 qid=5ab5fddb554299110f2199af seconds=2.44
+462it [13:39,  2.04s/it]
+462it [13:39,  2.04s/it][AFORMAL k=13 completed=463/1000 qid=5adf099a5542992d7e9f927f seconds=1.48
+463it [13:40,  1.89s/it]
+463it [13:40,  1.89s/it][AFORMAL k=13 completed=464/1000 qid=5a7323ef5542994cef4bc477 seconds=1.99
+464it [13:42,  1.92s/it]
+464it [13:42,  1.92s/it][AFORMAL k=13 completed=465/1000 qid=5abb14d85542996cc5e49f92 seconds=1.42
+465it [13:44,  1.77s/it]
+465it [13:44,  1.77s/it][AFORMAL k=13 completed=466/1000 qid=5ae2c416554299492dc91c67 seconds=1.52
+466it [13:45,  1.69s/it]
+466it [13:45,  1.69s/it][AFORMAL k=13 completed=467/1000 qid=5ac3d9135542995c82c4ac4c seconds=1.46
+467it [13:47,  1.63s/it]
+467it [13:47,  1.63s/it][AFORMAL k=13 completed=468/1000 qid=5a72224755429971e9dc92be seconds=1.84
+468it [13:49,  1.69s/it]
+468it [13:49,  1.69s/it][AFORMAL k=13 completed=469/1000 qid=5a76f45a5542994aec3b719b seconds=1.70
+469it [13:50,  1.70s/it]
+469it [13:50,  1.70s/it][AFORMAL k=13 completed=470/1000 qid=5ab78e2e55429928e1fe387d seconds=1.57
+470it [13:52,  1.67s/it]
+470it [13:52,  1.67s/it][AFORMAL k=13 completed=471/1000 qid=5ab5a7f45542997d4ad1f1a5 seconds=1.74
+471it [13:54,  1.70s/it]
+471it [13:54,  1.70s/it][AFORMAL k=13 completed=472/1000 qid=5a76cb9b55429966f1a36bf2 seconds=1.72
+472it [13:55,  1.71s/it]
+472it [13:55,  1.71s/it][AFORMAL k=13 completed=473/1000 qid=5ac4efa85542991943173a04 seconds=1.79
+473it [13:57,  1.73s/it]
+473it [13:57,  1.73s/it][AFORMAL k=13 completed=474/1000 qid=5ae54b6355429908b63265cc seconds=1.35
+474it [13:59,  1.62s/it]
+474it [13:59,  1.62s/it][AFORMAL k=13 completed=475/1000 qid=5ab7cc145542995dae37e9a1 seconds=1.57
+475it [14:00,  1.61s/it]
+475it [14:00,  1.61s/it][AFORMAL k=13 completed=476/1000 qid=5abdc8e755429965af743e3f seconds=2.17
+476it [14:02,  1.78s/it]
+476it [14:02,  1.78s/it][AFORMAL k=13 completed=477/1000 qid=5ac4ec9955429924173fb4da seconds=1.53
+477it [14:04,  1.70s/it]
+477it [14:04,  1.70s/it][AFORMAL k=13 completed=478/1000 qid=5ac132a755429964131be17c seconds=1.53
+478it [14:05,  1.65s/it]
+478it [14:05,  1.65s/it][AFORMAL k=13 completed=479/1000 qid=5ab7209a554299110f219aba seconds=1.19
+479it [14:07,  1.53s/it]
+479it [14:07,  1.53s/it][AFORMAL k=13 completed=480/1000 qid=5a7c04c85542996dd594b881 seconds=1.69
+480it [14:08,  1.58s/it]
+480it [14:08,  1.58s/it][AFORMAL k=13 completed=481/1000 qid=5abcfc365542993a06baf9d6 seconds=2.05
+481it [14:10,  1.73s/it]
+481it [14:10,  1.73s/it][AFORMAL k=13 completed=482/1000 qid=5a839cb9554299123d8c2169 seconds=1.82
+482it [14:12,  1.76s/it]
+482it [14:12,  1.76s/it][AFORMAL k=13 completed=483/1000 qid=5a899f4955429946c8d6e971 seconds=1.35
+483it [14:14,  1.64s/it]
+483it [14:14,  1.64s/it][AFORMAL k=13 completed=484/1000 qid=5a7e86245542991319bc94ce seconds=2.95
+484it [14:17,  2.03s/it]
+484it [14:17,  2.03s/it][AFORMAL k=13 completed=485/1000 qid=5a78d35e55429974737f78c3 seconds=1.82
+485it [14:18,  1.97s/it]
+485it [14:18,  1.97s/it][AFORMAL k=13 completed=486/1000 qid=5adfc97255429906c02daa41 seconds=2.04
+486it [14:20,  1.99s/it]
+486it [14:20,  1.99s/it][AFORMAL k=13 completed=487/1000 qid=5ae1054055429920d5234284 seconds=1.88
+487it [14:22,  1.96s/it]
+487it [14:22,  1.96s/it][AFORMAL k=13 completed=488/1000 qid=5ae63e3255429929b0807aff seconds=2.07
+488it [14:24,  2.01s/it]
+488it [14:24,  2.01s/it][AFORMAL k=13 completed=489/1000 qid=5ab938db5542996be2020454 seconds=1.53
+489it [14:26,  1.87s/it]
+489it [14:26,  1.87s/it][AFORMAL k=13 completed=490/1000 qid=5a7458ff55429979e2882918 seconds=1.45
+490it [14:27,  1.75s/it]
+490it [14:27,  1.75s/it][AFORMAL k=13 completed=491/1000 qid=5abd0ac45542992ac4f381b5 seconds=1.54
+491it [14:29,  1.69s/it]
+491it [14:29,  1.69s/it][AFORMAL k=13 completed=492/1000 qid=5ae520315542993aec5ec152 seconds=1.59
+492it [14:31,  1.66s/it]
+492it [14:31,  1.66s/it][AFORMAL k=13 completed=493/1000 qid=5a8cb4b2554299585d9e372a seconds=1.75
+493it [14:32,  1.70s/it]
+493it [14:32,  1.70s/it][AFORMAL k=13 completed=494/1000 qid=5ab9b1fd5542996be202058e seconds=1.64
+494it [14:34,  1.68s/it]
+494it [14:34,  1.68s/it][AFORMAL k=13 completed=495/1000 qid=5ab4428c5542990594ba9bda seconds=2.31
+495it [14:36,  1.87s/it]
+495it [14:36,  1.87s/it][AFORMAL k=13 completed=496/1000 qid=5abeebe25542993fe9a41d9c seconds=1.52
+496it [14:38,  1.77s/it]
+496it [14:38,  1.77s/it][AFORMAL k=13 completed=497/1000 qid=5a7bae775542995eb53be995 seconds=1.38
+497it [14:39,  1.65s/it]
+497it [14:39,  1.65s/it][AFORMAL k=13 completed=498/1000 qid=5a7dd9445542997cc2c474ac seconds=1.67
+498it [14:41,  1.66s/it]
+498it [14:41,  1.66s/it][AFORMAL k=13 completed=499/1000 qid=5ab3306a55429969a97a80fd seconds=1.49
+499it [14:42,  1.61s/it]
+499it [14:42,  1.61s/it][AFORMAL k=13 completed=500/1000 qid=5ac4db1d554299076e296e1a seconds=1.51
+500it [14:44,  1.58s/it]
+500it [14:44,  1.58s/it][AFORMAL k=13 completed=501/1000 qid=5abe407155429976d4830ab4 seconds=1.41
+501it [14:45,  1.54s/it]
+501it [14:45,  1.54s/it][AFORMAL k=13 completed=502/1000 qid=5ab28120554299449642c8cc seconds=1.49
+502it [14:47,  1.53s/it]
+502it [14:47,  1.53s/it][AFORMAL k=13 completed=503/1000 qid=5ab7d33d5542992aa3b8c859 seconds=1.49
+503it [14:48,  1.52s/it]
+503it [14:48,  1.52s/it][AFORMAL k=13 completed=504/1000 qid=5a7384755542992d56e7e354 seconds=1.73
+504it [14:50,  1.58s/it]
+504it [14:50,  1.58s/it][AFORMAL k=13 completed=505/1000 qid=5a8099935542996402f6a58b seconds=1.98
+505it [14:52,  1.70s/it]
+505it [14:52,  1.70s/it][AFORMAL k=13 completed=506/1000 qid=5a70f11a5542994082a3e40b seconds=2.30
+506it [14:54,  1.88s/it]
+506it [14:54,  1.88s/it][AFORMAL k=13 completed=507/1000 qid=5a726b0f5542997f827839be seconds=1.82
+507it [14:56,  1.86s/it]
+507it [14:56,  1.86s/it][AFORMAL k=13 completed=508/1000 qid=5a864d9e5542994775f6073d seconds=1.36
+508it [14:58,  1.71s/it]
+508it [14:58,  1.71s/it][AFORMAL k=13 completed=509/1000 qid=5ab506a05542990594ba9cd6 seconds=1.61
+509it [14:59,  1.68s/it]
+509it [14:59,  1.68s/it][AFORMAL k=13 completed=510/1000 qid=5a74879255429974ef308c1d seconds=1.83
+510it [15:01,  1.73s/it]
+510it [15:01,  1.73s/it][AFORMAL k=13 completed=511/1000 qid=5a7fd7a25542992e7d278dc3 seconds=1.29
+511it [15:02,  1.60s/it]
+511it [15:02,  1.60s/it][AFORMAL k=13 completed=512/1000 qid=5a79bed05542994bb9457053 seconds=1.76
+512it [15:04,  1.65s/it]
+512it [15:04,  1.65s/it][AFORMAL k=13 completed=513/1000 qid=5adeacf955429975fa854f66 seconds=1.38
+513it [15:05,  1.57s/it]
+513it [15:05,  1.57s/it][AFORMAL k=13 completed=514/1000 qid=5a81b92a5542995ce29dcc52 seconds=1.51
+514it [15:07,  1.56s/it]
+514it [15:07,  1.56s/it][AFORMAL k=13 completed=515/1000 qid=5ab51dae5542991779162d82 seconds=1.83
+515it [15:09,  1.64s/it]
+515it [15:09,  1.64s/it][AFORMAL k=13 completed=516/1000 qid=5ae5ff635542996de7b71ace seconds=1.69
+516it [15:10,  1.66s/it]
+516it [15:10,  1.66s/it][AFORMAL k=13 completed=517/1000 qid=5a7d2c8d5542995ed0d16624 seconds=1.69
+517it [15:12,  1.67s/it]
+517it [15:12,  1.67s/it][AFORMAL k=13 completed=518/1000 qid=5ab9aed855429970cfb8eb6d seconds=1.65
+518it [15:14,  1.66s/it]
+518it [15:14,  1.66s/it][AFORMAL k=13 completed=519/1000 qid=5a7cf59b55429909bec768c7 seconds=1.78
+519it [15:16,  1.70s/it]
+519it [15:16,  1.70s/it][AFORMAL k=13 completed=520/1000 qid=5a8f64e0554299458435d60b seconds=1.62
+520it [15:17,  1.68s/it]
+520it [15:17,  1.68s/it][AFORMAL k=13 completed=521/1000 qid=5ac1b6845542994d76dccecb seconds=1.72
+521it [15:19,  1.69s/it]
+521it [15:19,  1.69s/it][AFORMAL k=13 completed=522/1000 qid=5a80993d5542996402f6a589 seconds=1.58
+522it [15:21,  1.66s/it]
+522it [15:21,  1.66s/it][AFORMAL k=13 completed=523/1000 qid=5a8f6fbf5542992414482acd seconds=1.63
+523it [15:22,  1.65s/it]
+523it [15:22,  1.65s/it][AFORMAL k=13 completed=524/1000 qid=5ab846e155429919ba4e229c seconds=1.60
+524it [15:24,  1.64s/it]
+524it [15:24,  1.64s/it][AFORMAL k=13 completed=525/1000 qid=5a7329a15542991f9a20c65f seconds=1.83
+525it [15:26,  1.71s/it]
+525it [15:26,  1.71s/it][AFORMAL k=13 completed=526/1000 qid=5ae3263455429928c4239634 seconds=2.09
+526it [15:28,  1.82s/it]
+526it [15:28,  1.82s/it][AFORMAL k=13 completed=527/1000 qid=5ae43d7f5542996836b02c59 seconds=1.80
+527it [15:30,  1.82s/it]
+527it [15:30,  1.82s/it][AFORMAL k=13 completed=528/1000 qid=5a7345185542992359bc32cb seconds=2.03
+528it [15:32,  1.89s/it]
+528it [15:32,  1.89s/it][AFORMAL k=13 completed=529/1000 qid=5ac11ee45542997d64295a7d seconds=1.67
+529it [15:33,  1.85s/it]
+529it [15:33,  1.85s/it][AFORMAL k=13 completed=530/1000 qid=5a78fe8155429970f5fffe11 seconds=1.68
+530it [15:35,  1.80s/it]
+530it [15:35,  1.80s/it][AFORMAL k=13 completed=531/1000 qid=5a81a63c5542990a1d231e45 seconds=1.90
+531it [15:37,  1.83s/it]
+531it [15:37,  1.83s/it][AFORMAL k=13 completed=532/1000 qid=5a8f84505542992414482aef seconds=1.53
+532it [15:38,  1.74s/it]
+532it [15:38,  1.74s/it][AFORMAL k=13 completed=533/1000 qid=5a8f7e785542992414482ae6 seconds=1.90
+533it [15:40,  1.79s/it]
+533it [15:40,  1.79s/it][AFORMAL k=13 completed=534/1000 qid=5ac3a2f35542993915413856 seconds=2.06
+534it [15:42,  1.87s/it]
+534it [15:42,  1.87s/it][AFORMAL k=13 completed=535/1000 qid=5a753ff455429916b01642bc seconds=1.70
+535it [15:44,  1.82s/it]
+535it [15:44,  1.82s/it][AFORMAL k=13 completed=536/1000 qid=5ae694a15542991bbc976141 seconds=1.75
+536it [15:46,  1.80s/it]
+536it [15:46,  1.80s/it][AFORMAL k=13 completed=537/1000 qid=5ac31129554299741d48a1a2 seconds=1.68
+537it [15:48,  1.77s/it]
+537it [15:48,  1.77s/it][AFORMAL k=13 completed=538/1000 qid=5adc995d5542994ed6169ba8 seconds=1.61
+538it [15:49,  1.72s/it]
+538it [15:49,  1.72s/it][AFORMAL k=13 completed=539/1000 qid=5ae2138c5542997283cd23b7 seconds=1.48
+539it [15:51,  1.65s/it]
+539it [15:51,  1.65s/it][AFORMAL k=13 completed=540/1000 qid=5ae1d4e75542997f29b3c143 seconds=1.43
+540it [15:52,  1.58s/it]
+540it [15:52,  1.58s/it][AFORMAL k=13 completed=541/1000 qid=5a7a633a55429941d65f2609 seconds=1.75
+541it [15:54,  1.64s/it]
+541it [15:54,  1.64s/it][AFORMAL k=13 completed=542/1000 qid=5ac170af5542994d76dcce20 seconds=2.10
+542it [15:56,  1.79s/it]
+542it [15:56,  1.79s/it][AFORMAL k=13 completed=543/1000 qid=5ab6f17d5542995eadef00ee seconds=1.55
+543it [15:58,  1.74s/it]
+543it [15:58,  1.74s/it][AFORMAL k=13 completed=544/1000 qid=5a8cc602554299653c1aa11a seconds=1.72
+544it [15:59,  1.73s/it]
+544it [15:59,  1.73s/it][AFORMAL k=13 completed=545/1000 qid=5ac47763554299204fd21f5b seconds=1.73
+545it [16:01,  1.73s/it]
+545it [16:01,  1.73s/it][AFORMAL k=13 completed=546/1000 qid=5a76a2b55542993569682c6c seconds=1.49
+546it [16:03,  1.68s/it]
+546it [16:03,  1.68s/it][AFORMAL k=13 completed=547/1000 qid=5a9072dd5542990a98493656 seconds=1.68
+547it [16:04,  1.68s/it]
+547it [16:04,  1.68s/it][AFORMAL k=13 completed=548/1000 qid=5ab9535a5542996be202047e seconds=1.55
+548it [16:06,  1.64s/it]
+548it [16:06,  1.64s/it][AFORMAL k=13 completed=549/1000 qid=5a7ec61a55429934daa2fc5f seconds=1.65
+549it [16:08,  1.64s/it]
+549it [16:08,  1.64s/it][AFORMAL k=13 completed=550/1000 qid=5a79f04d5542996c55b2dca7 seconds=1.65
+550it [16:09,  1.65s/it]
+550it [16:09,  1.65s/it][AFORMAL k=13 completed=551/1000 qid=5ab3c48755429969a97a81b8 seconds=1.30
+551it [16:10,  1.54s/it]
+551it [16:10,  1.54s/it][AFORMAL k=13 completed=552/1000 qid=5a909a0355429916514e7505 seconds=1.67
+552it [16:12,  1.60s/it]
+552it [16:12,  1.60s/it][AFORMAL k=13 completed=553/1000 qid=5ac15c1c5542994ab5c67cf7 seconds=1.66
+553it [16:14,  1.62s/it]
+553it [16:14,  1.62s/it][AFORMAL k=13 completed=554/1000 qid=5a80be9655429938b61421b5 seconds=2.02
+554it [16:16,  1.74s/it]
+554it [16:16,  1.74s/it][AFORMAL k=13 completed=555/1000 qid=5a8d4cf35542994ba4e3dc5f seconds=1.65
+555it [16:18,  1.71s/it]
+555it [16:18,  1.71s/it][AFORMAL k=13 completed=556/1000 qid=5adc861c5542994d58a2f62c seconds=1.70
+556it [16:19,  1.72s/it]
+556it [16:19,  1.72s/it][AFORMAL k=13 completed=557/1000 qid=5a89a99f55429946c8d6e98f seconds=2.02
+557it [16:21,  1.81s/it]
+557it [16:21,  1.81s/it][AFORMAL k=13 completed=558/1000 qid=5a89a92a55429946c8d6e98c seconds=1.54
+558it [16:23,  1.73s/it]
+558it [16:23,  1.73s/it][AFORMAL k=13 completed=559/1000 qid=5a8b7d7d5542997f31a41d4b seconds=1.53
+559it [16:24,  1.67s/it]
+559it [16:24,  1.67s/it][AFORMAL k=13 completed=560/1000 qid=5a8e8af55542990e94052b3f seconds=1.45
+560it [16:26,  1.60s/it]
+560it [16:26,  1.60s/it][AFORMAL k=13 completed=561/1000 qid=5ae12bcc5542997b2ef7d11a seconds=1.65
+561it [16:27,  1.62s/it]
+561it [16:27,  1.62s/it][AFORMAL k=13 completed=562/1000 qid=5adcb30b5542994d58a2f69f seconds=1.36
+562it [16:29,  1.54s/it]
+562it [16:29,  1.54s/it][AFORMAL k=13 completed=563/1000 qid=5ab1eac95542993be8fa987f seconds=2.04
+563it [16:31,  1.69s/it]
+563it [16:31,  1.69s/it][AFORMAL k=13 completed=564/1000 qid=5a8091515542996402f6a563 seconds=1.77
+564it [16:33,  1.72s/it]
+564it [16:33,  1.72s/it][AFORMAL k=13 completed=565/1000 qid=5ae1d32a554299492dc91b9c seconds=1.44
+565it [16:34,  1.64s/it]
+565it [16:34,  1.64s/it][AFORMAL k=13 completed=566/1000 qid=5a79c1095542996c55b2dc62 seconds=1.60
+566it [16:36,  1.63s/it]
+566it [16:36,  1.63s/it][AFORMAL k=13 completed=567/1000 qid=5abfaa445542990832d3a18c seconds=2.11
+567it [16:38,  1.77s/it]
+567it [16:38,  1.77s/it][AFORMAL k=13 completed=568/1000 qid=5ae2090a5542997f29b3c214 seconds=1.57
+568it [16:39,  1.71s/it]
+568it [16:39,  1.71s/it][AFORMAL k=13 completed=569/1000 qid=5a719bf25542994082a3e891 seconds=1.54
+569it [16:41,  1.66s/it]
+569it [16:41,  1.66s/it][AFORMAL k=13 completed=570/1000 qid=5a7e37095542995ed0d166d5 seconds=1.74
+570it [16:43,  1.69s/it]
+570it [16:43,  1.69s/it][AFORMAL k=13 completed=571/1000 qid=5a7f96a95542995d8a8ddead seconds=1.89
+571it [16:45,  1.75s/it]
+571it [16:45,  1.75s/it][AFORMAL k=13 completed=572/1000 qid=5ae52bc75542992663a4f12d seconds=1.43
+572it [16:46,  1.68s/it]
+572it [16:46,  1.68s/it][AFORMAL k=13 completed=573/1000 qid=5a8e482c5542995a26add4c3 seconds=2.01
+573it [16:48,  1.78s/it]
+573it [16:48,  1.78s/it][AFORMAL k=13 completed=574/1000 qid=5abeb0da5542997ec76fd34b seconds=1.71
+574it [16:50,  1.76s/it]
+574it [16:50,  1.76s/it][AFORMAL k=13 completed=575/1000 qid=5a7f10e2554299306751360b seconds=1.57
+575it [16:51,  1.70s/it]
+575it [16:51,  1.70s/it][AFORMAL k=13 completed=576/1000 qid=5ade630e55429975fa854eb7 seconds=1.32
+576it [16:53,  1.59s/it]
+576it [16:53,  1.59s/it][AFORMAL k=13 completed=577/1000 qid=5a8a032f5542993b751ca9e5 seconds=1.89
+577it [16:55,  1.69s/it]
+577it [16:55,  1.69s/it][AFORMAL k=13 completed=578/1000 qid=5ab50e0a5542990594ba9cf0 seconds=1.57
+578it [16:56,  1.66s/it]
+578it [16:56,  1.66s/it][AFORMAL k=13 completed=579/1000 qid=5a8b515e55429971feec46bb seconds=1.47
+579it [16:58,  1.60s/it]
+579it [16:58,  1.60s/it][AFORMAL k=13 completed=580/1000 qid=5a773d8955429966f1a36cc4 seconds=2.42
+580it [17:00,  1.85s/it]
+580it [17:00,  1.85s/it][AFORMAL k=13 completed=581/1000 qid=5abd573c55429924427fcfb7 seconds=1.76
+581it [17:02,  1.82s/it]
+581it [17:02,  1.82s/it][AFORMAL k=13 completed=582/1000 qid=5a905cea55429933b8a204f4 seconds=1.63
+582it [17:03,  1.77s/it]
+582it [17:03,  1.77s/it][AFORMAL k=13 completed=583/1000 qid=5a8fb65d5542997ba9cb32fa seconds=1.87
+583it [17:05,  1.80s/it]
+583it [17:05,  1.80s/it][AFORMAL k=13 completed=584/1000 qid=5ab95a63554299743d22eb06 seconds=1.59
+584it [17:07,  1.74s/it]
+584it [17:07,  1.74s/it][AFORMAL k=13 completed=585/1000 qid=5a74ab6055429916b01641b9 seconds=1.62
+585it [17:09,  1.70s/it]
+585it [17:09,  1.70s/it][AFORMAL k=13 completed=586/1000 qid=5a803d695542996402f6a494 seconds=1.68
+586it [17:10,  1.70s/it]
+586it [17:10,  1.70s/it][AFORMAL k=13 completed=587/1000 qid=5a7c74a65542990527d554b0 seconds=1.95
+587it [17:12,  1.77s/it]
+587it [17:12,  1.77s/it][AFORMAL k=13 completed=588/1000 qid=5ac23f5655429951e9e684d9 seconds=1.41
+588it [17:14,  1.67s/it]
+588it [17:14,  1.67s/it][AFORMAL k=13 completed=589/1000 qid=5ac16c2b5542994d76dcce19 seconds=1.50
+589it [17:15,  1.62s/it]
+589it [17:15,  1.62s/it][AFORMAL k=13 completed=590/1000 qid=5ab27287554299722f9b4d2c seconds=1.51
+590it [17:17,  1.59s/it]
+590it [17:17,  1.59s/it][AFORMAL k=13 completed=591/1000 qid=5ab8337a55429919ba4e225f seconds=1.98
+591it [17:19,  1.71s/it]
+591it [17:19,  1.71s/it][AFORMAL k=13 completed=592/1000 qid=5a8ba9d255429971feec4759 seconds=1.65
+592it [17:20,  1.71s/it]
+592it [17:20,  1.71s/it][AFORMAL k=13 completed=593/1000 qid=5ab6bae95542995eadef0086 seconds=1.81
+593it [17:22,  1.74s/it]
+593it [17:22,  1.74s/it][AFORMAL k=13 completed=594/1000 qid=5abc3d505542993a06baf8a7 seconds=1.42
+594it [17:24,  1.65s/it]
+594it [17:24,  1.65s/it][AFORMAL k=13 completed=595/1000 qid=5ac23f5255429951e9e684d8 seconds=1.51
+595it [17:25,  1.61s/it]
+595it [17:25,  1.61s/it][AFORMAL k=13 completed=596/1000 qid=5a7528e955429929fddd850e seconds=1.65
+596it [17:27,  1.62s/it]
+596it [17:27,  1.62s/it][AFORMAL k=13 completed=597/1000 qid=5adc393f5542996e685252e7 seconds=1.62
+597it [17:28,  1.62s/it]
+597it [17:28,  1.62s/it][AFORMAL k=13 completed=598/1000 qid=5a837d9a554299123d8c213e seconds=1.76
+598it [17:30,  1.66s/it]
+598it [17:30,  1.66s/it][AFORMAL k=13 completed=599/1000 qid=5ae1599155429901ffe4ae7b seconds=1.36
+599it [17:31,  1.57s/it]
+599it [17:31,  1.57s/it][AFORMAL k=13 completed=600/1000 qid=5ae685fd5542996d980e7bda seconds=1.77
+600it [17:33,  1.65s/it]
+600it [17:33,  1.65s/it][AFORMAL k=13 completed=601/1000 qid=5ae32e125542991a06ce9946 seconds=1.86
+601it [17:35,  1.71s/it]
+601it [17:35,  1.71s/it][AFORMAL k=13 completed=602/1000 qid=5a8d77525542994ba4e3dc90 seconds=1.76
+602it [17:37,  1.73s/it]
+602it [17:37,  1.73s/it][AFORMAL k=13 completed=603/1000 qid=5a90bd7b55429916514e7547 seconds=1.57
+603it [17:39,  1.68s/it]
+603it [17:39,  1.68s/it][AFORMAL k=13 completed=604/1000 qid=5ab3eb1955429969a97a81f6 seconds=1.64
+604it [17:40,  1.67s/it]
+604it [17:40,  1.67s/it][AFORMAL k=13 completed=605/1000 qid=5adbe0df554299438c868cc0 seconds=1.67
+605it [17:42,  1.67s/it]
+605it [17:42,  1.67s/it][AFORMAL k=13 completed=606/1000 qid=5ae12a4b55429920d52342df seconds=1.71
+606it [17:44,  1.69s/it]
+606it [17:44,  1.69s/it][AFORMAL k=13 completed=607/1000 qid=5a7c17c95542990527d5544d seconds=1.49
+607it [17:45,  1.64s/it]
+607it [17:45,  1.64s/it][AFORMAL k=13 completed=608/1000 qid=5a84b6e15542991dd0999daa seconds=1.37
+608it [17:46,  1.56s/it]
+608it [17:46,  1.56s/it][AFORMAL k=13 completed=609/1000 qid=5a81418455429903bc27b95f seconds=1.45
+609it [17:48,  1.53s/it]
+609it [17:48,  1.53s/it][AFORMAL k=13 completed=610/1000 qid=5ab804065542990e739ec7e0 seconds=1.63
+610it [17:50,  1.56s/it]
+610it [17:50,  1.56s/it][AFORMAL k=13 completed=611/1000 qid=5ab6c65e554299710c8d1f58 seconds=1.82
+611it [17:51,  1.64s/it]
+611it [17:51,  1.64s/it][AFORMAL k=13 completed=612/1000 qid=5adccf645542990d50227d32 seconds=2.21
+612it [17:54,  1.81s/it]
+612it [17:54,  1.81s/it][AFORMAL k=13 completed=613/1000 qid=5ae33a3b5542992f92d8224a seconds=1.82
+613it [17:55,  1.81s/it]
+613it [17:55,  1.81s/it][AFORMAL k=13 completed=614/1000 qid=5ac09da45542996f0d89cc1d seconds=1.45
+614it [17:57,  1.71s/it]
+614it [17:57,  1.71s/it][AFORMAL k=13 completed=615/1000 qid=5a8230af554299676cceb227 seconds=2.56
+615it [17:59,  1.96s/it]
+615it [17:59,  1.96s/it][AFORMAL k=13 completed=616/1000 qid=5ae2ff2055429928c4239598 seconds=2.06
+616it [18:02,  1.99s/it]
+616it [18:01,  1.99s/it][AFORMAL k=13 completed=617/1000 qid=5a77c4fe55429967ab10527b seconds=1.96
+617it [18:03,  1.99s/it]
+617it [18:03,  1.99s/it][AFORMAL k=13 completed=618/1000 qid=5a8b8b3155429949d91db5d7 seconds=1.40
+618it [18:05,  1.81s/it]
+618it [18:05,  1.81s/it][AFORMAL k=13 completed=619/1000 qid=5a84c4b05542991dd0999deb seconds=1.66
+619it [18:07,  1.77s/it]
+619it [18:07,  1.77s/it][AFORMAL k=13 completed=620/1000 qid=5ab474b35542990594ba9c25 seconds=1.47
+620it [18:08,  1.68s/it]
+620it [18:08,  1.68s/it][AFORMAL k=13 completed=621/1000 qid=5a9051615542995651fb5136 seconds=1.77
+621it [18:10,  1.71s/it]
+621it [18:10,  1.71s/it][AFORMAL k=13 completed=622/1000 qid=5a841b215542990548d0b25b seconds=1.35
+622it [18:11,  1.60s/it]
+622it [18:11,  1.60s/it][AFORMAL k=13 completed=623/1000 qid=5ae1892f5542997b2ef7d1f3 seconds=1.58
+623it [18:13,  1.59s/it]
+623it [18:13,  1.59s/it][AFORMAL k=13 completed=624/1000 qid=5abc1ca15542993a06baf88d seconds=1.91
+624it [18:15,  1.69s/it]
+624it [18:15,  1.69s/it][AFORMAL k=13 completed=625/1000 qid=5a75441c55429916b01642cf seconds=1.76
+625it [18:16,  1.71s/it]
+625it [18:16,  1.71s/it][AFORMAL k=13 completed=626/1000 qid=5a8fa2955542992414482b11 seconds=1.85
+626it [18:18,  1.75s/it]
+626it [18:18,  1.75s/it][AFORMAL k=13 completed=627/1000 qid=5ae3c1515542992f92d8236a seconds=1.64
+627it [18:20,  1.72s/it]
+627it [18:20,  1.72s/it][AFORMAL k=13 completed=628/1000 qid=5a8aecff55429950cd6afbef seconds=2.36
+628it [18:22,  1.92s/it]
+628it [18:22,  1.92s/it][AFORMAL k=13 completed=629/1000 qid=5a74fd6d5542993748c8977d seconds=1.72
+629it [18:24,  1.86s/it]
+629it [18:24,  1.86s/it][AFORMAL k=13 completed=630/1000 qid=5add3aaa5542992ae4cec500 seconds=1.91
+630it [18:26,  1.87s/it]
+630it [18:26,  1.87s/it][AFORMAL k=13 completed=631/1000 qid=5ab7b3cc55429928e1fe3893 seconds=1.59
+631it [18:27,  1.79s/it]
+631it [18:27,  1.79s/it][AFORMAL k=13 completed=632/1000 qid=5a877fa45542993e715abf84 seconds=1.57
+632it [18:29,  1.73s/it]
+632it [18:29,  1.73s/it][AFORMAL k=13 completed=633/1000 qid=5abac89d55429901930fa8b5 seconds=1.91
+633it [18:31,  1.78s/it]
+633it [18:31,  1.78s/it][AFORMAL k=13 completed=634/1000 qid=5ab60aec554299110f2199c3 seconds=1.36
+634it [18:32,  1.66s/it]
+634it [18:32,  1.66s/it][AFORMAL k=13 completed=635/1000 qid=5a7da8065542995f4f4022a7 seconds=1.78
+635it [18:34,  1.69s/it]
+635it [18:34,  1.69s/it][AFORMAL k=13 completed=636/1000 qid=5a9052765542995651fb513d seconds=1.81
+636it [18:36,  1.73s/it]
+636it [18:36,  1.73s/it][AFORMAL k=13 completed=637/1000 qid=5adfed45554299603e4183c5 seconds=1.56
+637it [18:37,  1.68s/it]
+637it [18:37,  1.68s/it][AFORMAL k=13 completed=638/1000 qid=5a77452155429972597f14e1 seconds=1.98
+638it [18:39,  1.77s/it]
+638it [18:39,  1.77s/it][AFORMAL k=13 completed=639/1000 qid=5ae532e955429908b632656f seconds=1.51
+639it [18:41,  1.72s/it]
+639it [18:41,  1.72s/it][AFORMAL k=13 completed=640/1000 qid=5ae4db9c55429908b6326492 seconds=2.21
+640it [18:43,  1.87s/it]
+640it [18:43,  1.87s/it][AFORMAL k=13 completed=641/1000 qid=5ae3bb0d5542992f92d82357 seconds=1.77
+641it [18:45,  1.85s/it]
+641it [18:45,  1.85s/it][AFORMAL k=13 completed=642/1000 qid=5a7b18d25542992d025e6768 seconds=1.97
+642it [18:47,  1.89s/it]
+642it [18:47,  1.89s/it][AFORMAL k=13 completed=643/1000 qid=5abe765a55429976d4830b1f seconds=1.81
+643it [18:49,  1.87s/it]
+643it [18:49,  1.87s/it][AFORMAL k=13 completed=644/1000 qid=5ab56f3e5542992aa134a317 seconds=1.96
+644it [18:51,  1.89s/it]
+644it [18:51,  1.89s/it][AFORMAL k=13 completed=645/1000 qid=5a879ba55542993e715abfc3 seconds=1.92
+645it [18:53,  1.90s/it]
+645it [18:53,  1.90s/it][AFORMAL k=13 completed=646/1000 qid=5a72a3c45542994cef4bc3ac seconds=1.43
+646it [18:54,  1.76s/it]
+646it [18:54,  1.76s/it][AFORMAL k=13 completed=647/1000 qid=5ac289ff5542996366519a02 seconds=1.67
+647it [18:56,  1.73s/it]
+647it [18:56,  1.73s/it][AFORMAL k=13 completed=648/1000 qid=5a7283365542991f9a20c4b2 seconds=1.40
+648it [18:57,  1.63s/it]
+648it [18:57,  1.63s/it][AFORMAL k=13 completed=649/1000 qid=5ab5f372554299488d4d9a60 seconds=1.88
+649it [18:59,  1.71s/it]
+649it [18:59,  1.71s/it][AFORMAL k=13 completed=650/1000 qid=5ae363ff5542992f92d822bc seconds=1.58
+650it [19:01,  1.67s/it]
+650it [19:01,  1.67s/it][AFORMAL k=13 completed=651/1000 qid=5ac2ad5355429921a00ab02c seconds=1.41
+651it [19:02,  1.59s/it]
+651it [19:02,  1.59s/it][AFORMAL k=13 completed=652/1000 qid=5a70f9335542994082a3e46a seconds=1.48
+652it [19:04,  1.56s/it]
+652it [19:04,  1.56s/it][AFORMAL k=13 completed=653/1000 qid=5ae48e7e55429913cc20449d seconds=1.47
+653it [19:05,  1.54s/it]
+653it [19:05,  1.54s/it][AFORMAL k=13 completed=654/1000 qid=5a80297f5542992e7d278e08 seconds=1.84
+654it [19:07,  1.63s/it]
+654it [19:07,  1.63s/it][AFORMAL k=13 completed=655/1000 qid=5adc75525542994650320d0e seconds=1.87
+655it [19:09,  1.70s/it]
+655it [19:09,  1.70s/it][AFORMAL k=13 completed=656/1000 qid=5a909a1a55429916514e7506 seconds=1.75
+656it [19:11,  1.72s/it]
+656it [19:11,  1.72s/it][AFORMAL k=13 completed=657/1000 qid=5a84b5975542991dd0999da3 seconds=1.51
+657it [19:12,  1.66s/it]
+657it [19:12,  1.66s/it][AFORMAL k=13 completed=658/1000 qid=5ab72d925542993667793f6e seconds=1.87
+658it [19:14,  1.72s/it]
+658it [19:14,  1.72s/it][AFORMAL k=13 completed=659/1000 qid=5ac1d40c5542994d76dccef5 seconds=2.42
+659it [19:16,  1.93s/it]
+659it [19:16,  1.93s/it][AFORMAL k=13 completed=660/1000 qid=5ae3ffba5542995dadf242b2 seconds=1.67
+660it [19:18,  1.85s/it]
+660it [19:18,  1.85s/it][AFORMAL k=13 completed=661/1000 qid=5a7e0c045542995f4f4023c5 seconds=1.79
+661it [19:20,  1.83s/it]
+661it [19:20,  1.83s/it][AFORMAL k=13 completed=662/1000 qid=5ac2610455429951e9e68592 seconds=2.00
+662it [19:22,  1.89s/it]
+662it [19:22,  1.89s/it][AFORMAL k=13 completed=663/1000 qid=5a7df6e65542995f4f402353 seconds=2.04
+663it [19:24,  1.93s/it]
+663it [19:24,  1.93s/it][AFORMAL k=13 completed=664/1000 qid=5a8b99a45542997f31a41d7f seconds=2.16
+664it [19:26,  2.00s/it]
+664it [19:26,  2.00s/it][AFORMAL k=13 completed=665/1000 qid=5abe19895542991f661060c2 seconds=1.52
+665it [19:28,  1.86s/it]
+665it [19:28,  1.86s/it][AFORMAL k=13 completed=666/1000 qid=5a875fee5542996e4f3087ab seconds=1.86
+666it [19:29,  1.86s/it]
+666it [19:29,  1.86s/it][AFORMAL k=13 completed=667/1000 qid=5a81f49c5542995ce29dcc9a seconds=3.22
+667it [19:33,  2.27s/it]
+667it [19:33,  2.27s/it][AFORMAL k=13 completed=668/1000 qid=5adc69ef554299438c868daf seconds=1.54
+668it [19:34,  2.05s/it]
+668it [19:34,  2.05s/it][AFORMAL k=13 completed=669/1000 qid=5aba52e655429939ce03dc94 seconds=1.84
+669it [19:36,  1.99s/it]
+669it [19:36,  1.99s/it][AFORMAL k=13 completed=670/1000 qid=5a79d2fe5542994f819ef0c3 seconds=1.84
+670it [19:38,  1.95s/it]
+670it [19:38,  1.95s/it][AFORMAL k=13 completed=671/1000 qid=5ae2994d554299492dc91c31 seconds=2.18
+671it [19:40,  2.02s/it]
+671it [19:40,  2.02s/it][AFORMAL k=13 completed=672/1000 qid=5ade063d5542997dc7907129 seconds=1.87
+672it [19:42,  1.97s/it]
+672it [19:42,  1.97s/it][AFORMAL k=13 completed=673/1000 qid=5ae7eb3c5542994a481bbe20 seconds=1.83
+673it [19:44,  1.93s/it]
+673it [19:44,  1.93s/it][AFORMAL k=13 completed=674/1000 qid=5abfc8675542993fe9a41e52 seconds=1.75
+674it [19:46,  1.88s/it]
+674it [19:46,  1.88s/it][AFORMAL k=13 completed=675/1000 qid=5a8b64695542997f31a41d04 seconds=1.85
+675it [19:47,  1.87s/it]
+675it [19:47,  1.87s/it][AFORMAL k=13 completed=676/1000 qid=5abfa2255542993fe9a41e18 seconds=1.73
+676it [19:49,  1.83s/it]
+676it [19:49,  1.83s/it][AFORMAL k=13 completed=677/1000 qid=5a76db3555429972597f13e7 seconds=1.91
+677it [19:51,  1.85s/it]
+677it [19:51,  1.85s/it][AFORMAL k=13 completed=678/1000 qid=5a8a13f45542992d82986e9e seconds=1.75
+678it [19:53,  1.83s/it]
+678it [19:53,  1.83s/it][AFORMAL k=13 completed=679/1000 qid=5a84c4bb5542991dd0999dec seconds=1.91
+679it [19:55,  1.86s/it]
+679it [19:55,  1.86s/it][AFORMAL k=13 completed=680/1000 qid=5a79093955429974737f794b seconds=2.18
+680it [19:57,  1.95s/it]
+680it [19:57,  1.95s/it][AFORMAL k=13 completed=681/1000 qid=5a7e1a5455429965cec5ea5f seconds=1.61
+681it [19:59,  1.85s/it]
+681it [19:59,  1.85s/it][AFORMAL k=13 completed=682/1000 qid=5a77322055429972597f1494 seconds=1.58
+682it [20:00,  1.77s/it]
+682it [20:00,  1.77s/it][AFORMAL k=13 completed=683/1000 qid=5a7ddfc55542995f4f4022e9 seconds=1.39
+683it [20:02,  1.66s/it]
+683it [20:02,  1.66s/it][AFORMAL k=13 completed=684/1000 qid=5ab8f4ee5542991b5579f091 seconds=1.70
+684it [20:03,  1.67s/it]
+684it [20:03,  1.67s/it][AFORMAL k=13 completed=685/1000 qid=5ae4dd0955429960a22e0201 seconds=1.83
+685it [20:05,  1.72s/it]
+685it [20:05,  1.72s/it][AFORMAL k=13 completed=686/1000 qid=5a8530cc5542992a431d1aeb seconds=1.61
+686it [20:07,  1.69s/it]
+686it [20:07,  1.69s/it][AFORMAL k=13 completed=687/1000 qid=5ae1e11c554299234fd04335 seconds=1.52
+687it [20:08,  1.64s/it]
+687it [20:08,  1.64s/it][AFORMAL k=13 completed=688/1000 qid=5a7b66135542997c3ec97145 seconds=1.54
+688it [20:10,  1.61s/it]
+688it [20:10,  1.61s/it][AFORMAL k=13 completed=689/1000 qid=5a7622d75542994ccc9186f1 seconds=1.87
+689it [20:12,  1.69s/it]
+689it [20:12,  1.69s/it][AFORMAL k=13 completed=690/1000 qid=5a8314bd55429966c78a6b2a seconds=1.66
+690it [20:13,  1.68s/it]
+690it [20:13,  1.68s/it][AFORMAL k=13 completed=691/1000 qid=5abd93115542996e802b47e0 seconds=1.59
+691it [20:15,  1.68s/it]
+691it [20:15,  1.68s/it][AFORMAL k=13 completed=692/1000 qid=5ab3abe9554299753aec597e seconds=1.76
+692it [20:17,  1.70s/it]
+692it [20:17,  1.70s/it][AFORMAL k=13 completed=693/1000 qid=5a769b115542993569682c51 seconds=1.69
+693it [20:18,  1.70s/it]
+693it [20:18,  1.70s/it][AFORMAL k=13 completed=694/1000 qid=5ae22eae554299495565da30 seconds=2.46
+694it [20:21,  1.93s/it]
+694it [20:21,  1.93s/it][AFORMAL k=13 completed=695/1000 qid=5ae0156455429942ec259c15 seconds=1.67
+695it [20:23,  1.85s/it]
+695it [20:23,  1.85s/it][AFORMAL k=13 completed=696/1000 qid=5ae4903855429913cc2044a0 seconds=1.84
+696it [20:24,  1.85s/it]
+696it [20:24,  1.85s/it][AFORMAL k=13 completed=697/1000 qid=5ae4581e55429970de88d92f seconds=1.52
+697it [20:26,  1.78s/it]
+697it [20:26,  1.78s/it][AFORMAL k=13 completed=698/1000 qid=5ac07a17554299294b219000 seconds=2.61
+698it [20:29,  2.03s/it]
+698it [20:29,  2.03s/it][AFORMAL k=13 completed=699/1000 qid=5a8bbddf5542997f31a41db2 seconds=1.66
+699it [20:30,  1.92s/it]
+699it [20:30,  1.92s/it][AFORMAL k=13 completed=700/1000 qid=5a858dc85542997b5ce40002 seconds=1.33
+700it [20:32,  1.74s/it]
+700it [20:32,  1.74s/it][AFORMAL k=13 completed=701/1000 qid=5ae0504055429942ec259c6a seconds=1.47
+701it [20:33,  1.66s/it]
+701it [20:33,  1.66s/it][AFORMAL k=13 completed=702/1000 qid=5add15d15542994ed6169c70 seconds=1.64
+702it [20:35,  1.67s/it]
+702it [20:35,  1.67s/it][AFORMAL k=13 completed=703/1000 qid=5aba71b155429955dce3ee2a seconds=1.62
+703it [20:36,  1.65s/it]
+703it [20:36,  1.65s/it][AFORMAL k=13 completed=704/1000 qid=5abbdb335542992ccd8e7fc1 seconds=1.64
+704it [20:38,  1.65s/it]
+704it [20:38,  1.65s/it][AFORMAL k=13 completed=705/1000 qid=5ae68fb45542991bbc97612a seconds=1.73
+705it [20:40,  1.67s/it]
+705it [20:40,  1.67s/it][AFORMAL k=13 completed=706/1000 qid=5ae151985542990adbacf74d seconds=1.91
+706it [20:42,  1.74s/it]
+706it [20:42,  1.74s/it][AFORMAL k=13 completed=707/1000 qid=5ac3b5d3554299741d48a2f3 seconds=1.77
+707it [20:43,  1.75s/it]
+707it [20:43,  1.75s/it][AFORMAL k=13 completed=708/1000 qid=5a863b27554299211dda2ab6 seconds=1.60
+708it [20:45,  1.71s/it]
+708it [20:45,  1.71s/it][AFORMAL k=13 completed=709/1000 qid=5ab9fe1255429939ce03dc40 seconds=2.08
+709it [20:47,  1.83s/it]
+709it [20:47,  1.83s/it][AFORMAL k=13 completed=710/1000 qid=5a78f59755429970f5fffdf8 seconds=1.92
+710it [20:49,  1.86s/it]
+710it [20:49,  1.86s/it][AFORMAL k=13 completed=711/1000 qid=5ab2929a554299449642c900 seconds=1.83
+711it [20:51,  1.85s/it]
+711it [20:51,  1.85s/it][AFORMAL k=13 completed=712/1000 qid=5a88bb4a554299206df2b353 seconds=1.52
+712it [20:52,  1.75s/it]
+712it [20:52,  1.75s/it][AFORMAL k=13 completed=713/1000 qid=5ae184185542990adbacf7ac seconds=1.59
+713it [20:54,  1.71s/it]
+713it [20:54,  1.71s/it][AFORMAL k=13 completed=714/1000 qid=5a8a57fe55429930ff3c0da0 seconds=1.67
+714it [20:56,  1.70s/it]
+714it [20:56,  1.70s/it][AFORMAL k=13 completed=715/1000 qid=5a8fa89c55429918e830d29f seconds=1.81
+715it [20:58,  1.73s/it]
+715it [20:58,  1.73s/it][AFORMAL k=13 completed=716/1000 qid=5ae760415542997b22f6a708 seconds=2.87
+716it [21:00,  2.07s/it]
+716it [21:00,  2.07s/it][AFORMAL k=13 completed=717/1000 qid=5a80b9ae5542992bc0c4a7eb seconds=2.21
+717it [21:03,  2.12s/it]
+717it [21:03,  2.12s/it][AFORMAL k=13 completed=718/1000 qid=5adcfba05542990d50227d83 seconds=1.86
+718it [21:05,  2.06s/it]
+718it [21:05,  2.06s/it][AFORMAL k=13 completed=719/1000 qid=5ac322c95542995ef918c117 seconds=1.76
+719it [21:06,  1.97s/it]
+719it [21:06,  1.97s/it][AFORMAL k=13 completed=720/1000 qid=5ac29f58554299657fa28fe4 seconds=1.77
+720it [21:08,  1.91s/it]
+720it [21:08,  1.91s/it][AFORMAL k=13 completed=721/1000 qid=5a8510a25542994c784ddaf0 seconds=1.75
+721it [21:10,  1.86s/it]
+721it [21:10,  1.86s/it][AFORMAL k=13 completed=722/1000 qid=5ae1c2d8554299234fd042ee seconds=1.72
+722it [21:12,  1.82s/it]
+722it [21:12,  1.82s/it][AFORMAL k=13 completed=723/1000 qid=5ade27e05542997c77aded7d seconds=1.95
+723it [21:14,  1.86s/it]
+723it [21:14,  1.86s/it][AFORMAL k=13 completed=724/1000 qid=5ac4deff554299076e296e26 seconds=1.68
+724it [21:15,  1.81s/it]
+724it [21:15,  1.81s/it][AFORMAL k=13 completed=725/1000 qid=5adc7dbf5542994d58a2f618 seconds=1.47
+725it [21:17,  1.71s/it]
+725it [21:17,  1.71s/it][AFORMAL k=13 completed=726/1000 qid=5a7a9a2255429941d65f26eb seconds=2.09
+726it [21:19,  1.82s/it]
+726it [21:19,  1.82s/it][AFORMAL k=13 completed=727/1000 qid=5a8126265542995ce29dcbc9 seconds=1.86
+727it [21:21,  1.83s/it]
+727it [21:21,  1.83s/it][AFORMAL k=13 completed=728/1000 qid=5ae4a75a55429913cc2044bc seconds=1.79
+728it [21:22,  1.82s/it]
+728it [21:22,  1.82s/it][AFORMAL k=13 completed=729/1000 qid=5a88a5645542997e5c09a679 seconds=1.98
+729it [21:24,  1.87s/it]
+729it [21:24,  1.87s/it][AFORMAL k=13 completed=730/1000 qid=5a7380e055429908901be2d6 seconds=1.76
+730it [21:26,  1.84s/it]
+730it [21:26,  1.84s/it][AFORMAL k=13 completed=731/1000 qid=5a7c35025542996dd594b8d7 seconds=1.74
+731it [21:28,  1.81s/it]
+731it [21:28,  1.81s/it][AFORMAL k=13 completed=732/1000 qid=5a8c5794554299240d9c2131 seconds=1.69
+732it [21:30,  1.78s/it]
+732it [21:30,  1.78s/it][AFORMAL k=13 completed=733/1000 qid=5adbe447554299438c868ccd seconds=1.46
+733it [21:31,  1.68s/it]
+733it [21:31,  1.68s/it][AFORMAL k=13 completed=734/1000 qid=5adca5a45542994d58a2f692 seconds=1.54
+734it [21:33,  1.65s/it]
+734it [21:33,  1.65s/it][AFORMAL k=13 completed=735/1000 qid=5a8f495c5542997ba9cb3220 seconds=1.70
+735it [21:34,  1.66s/it]
+735it [21:34,  1.66s/it][AFORMAL k=13 completed=736/1000 qid=5ab6993f554299110f219a2b seconds=1.86
+736it [21:36,  1.72s/it]
+736it [21:36,  1.72s/it][AFORMAL k=13 completed=737/1000 qid=5a8d8eb5554299068b959d3a seconds=1.72
+737it [21:38,  1.72s/it]
+737it [21:38,  1.72s/it][AFORMAL k=13 completed=738/1000 qid=5a8a5bd355429970aeb702b9 seconds=1.62
+738it [21:40,  1.69s/it]
+738it [21:40,  1.69s/it][AFORMAL k=13 completed=739/1000 qid=5ae33a6e5542992f92d8224d seconds=1.48
+739it [21:41,  1.63s/it]
+739it [21:41,  1.63s/it][AFORMAL k=13 completed=740/1000 qid=5ae1408a5542997b2ef7d17c seconds=1.38
+740it [21:42,  1.56s/it]
+740it [21:42,  1.56s/it][AFORMAL k=13 completed=741/1000 qid=5ac37dd6554299218029dbdb seconds=1.67
+741it [21:44,  1.61s/it]
+741it [21:44,  1.61s/it][AFORMAL k=13 completed=742/1000 qid=5abce7d755429959677d6b3a seconds=1.58
+742it [21:46,  1.60s/it]
+742it [21:46,  1.60s/it][AFORMAL k=13 completed=743/1000 qid=5a88f7bf5542997e5c09a6dd seconds=1.62
+743it [21:47,  1.61s/it]
+743it [21:47,  1.61s/it][AFORMAL k=13 completed=744/1000 qid=5a769b0d5542993569682c50 seconds=1.74
+744it [21:49,  1.65s/it]
+744it [21:49,  1.65s/it][AFORMAL k=13 completed=745/1000 qid=5a7bd286554299683c1c62bd seconds=1.84
+745it [21:51,  1.70s/it]
+745it [21:51,  1.70s/it][AFORMAL k=13 completed=746/1000 qid=5ae3e0535542992e3233c496 seconds=1.66
+746it [21:53,  1.69s/it]
+746it [21:53,  1.69s/it][AFORMAL k=13 completed=747/1000 qid=5ae034bd55429925eb1afc2a seconds=1.50
+747it [21:54,  1.64s/it]
+747it [21:54,  1.64s/it][AFORMAL k=13 completed=748/1000 qid=5a74cfed5542993748c896ea seconds=1.64
+748it [21:56,  1.66s/it]
+748it [21:56,  1.66s/it][AFORMAL k=13 completed=749/1000 qid=5adfa8d0554299025d62a32c seconds=1.98
+749it [21:58,  1.75s/it]
+749it [21:58,  1.75s/it][AFORMAL k=13 completed=750/1000 qid=5abd68d655429933744ab7c0 seconds=1.73
+750it [22:00,  1.75s/it]
+750it [22:00,  1.75s/it][AFORMAL k=13 completed=751/1000 qid=5abeafbb5542997ec76fd347 seconds=1.89
+751it [22:01,  1.80s/it]
+751it [22:01,  1.80s/it][AFORMAL k=13 completed=752/1000 qid=5ae6196d5542995703ce8afd seconds=1.77
+752it [22:03,  1.79s/it]
+752it [22:03,  1.79s/it][AFORMAL k=13 completed=753/1000 qid=5abb93275542993f40c73b3c seconds=1.59
+753it [22:05,  1.73s/it]
+753it [22:05,  1.73s/it][AFORMAL k=13 completed=754/1000 qid=5ab4bea15542990594ba9cae seconds=1.77
+754it [22:07,  1.74s/it]
+754it [22:07,  1.74s/it][AFORMAL k=13 completed=755/1000 qid=5a87a47c5542994846c1cdbd seconds=1.60
+755it [22:08,  1.70s/it]
+755it [22:08,  1.70s/it][AFORMAL k=13 completed=756/1000 qid=5a75e60e55429976ec32bc88 seconds=2.54
+756it [22:11,  1.95s/it]
+756it [22:11,  1.95s/it][AFORMAL k=13 completed=757/1000 qid=5a74f7f15542993748c89765 seconds=1.62
+757it [22:12,  1.85s/it]
+757it [22:12,  1.85s/it][AFORMAL k=13 completed=758/1000 qid=5ac0e6fa5542996f0d89cc35 seconds=1.74
+758it [22:14,  1.82s/it]
+758it [22:14,  1.82s/it][AFORMAL k=13 completed=759/1000 qid=5ab4482b55429942dd415f09 seconds=1.84
+759it [22:16,  1.83s/it]
+759it [22:16,  1.83s/it][AFORMAL k=13 completed=760/1000 qid=5ae47fe255429913cc204482 seconds=1.68
+760it [22:18,  1.78s/it]
+760it [22:18,  1.78s/it][AFORMAL k=13 completed=761/1000 qid=5a734acf5542991f9a20c6ec seconds=1.63
+761it [22:19,  1.74s/it]
+761it [22:19,  1.74s/it][AFORMAL k=13 completed=762/1000 qid=5ab4e3065542990594ba9cb4 seconds=1.42
+762it [22:21,  1.64s/it]
+762it [22:21,  1.64s/it][AFORMAL k=13 completed=763/1000 qid=5adbf81a554299438c868cfd seconds=1.60
+763it [22:22,  1.63s/it]
+763it [22:22,  1.63s/it][AFORMAL k=13 completed=764/1000 qid=5adc91865542994ed6169b93 seconds=1.70
+764it [22:24,  1.65s/it]
+764it [22:24,  1.65s/it][AFORMAL k=13 completed=765/1000 qid=5a8d7edc55429941ae14dfdc seconds=1.59
+765it [22:26,  1.64s/it]
+765it [22:26,  1.64s/it][AFORMAL k=13 completed=766/1000 qid=5a7a651b5542990783324f40 seconds=1.54
+766it [22:27,  1.61s/it]
+766it [22:27,  1.61s/it][AFORMAL k=13 completed=767/1000 qid=5a85d4ad5542997175ce2050 seconds=1.59
+767it [22:29,  1.60s/it]
+767it [22:29,  1.60s/it][AFORMAL k=13 completed=768/1000 qid=5aba89365542994dbf019932 seconds=1.61
+768it [22:30,  1.61s/it]
+768it [22:30,  1.61s/it][AFORMAL k=13 completed=769/1000 qid=5ae09b7055429906c02daae4 seconds=1.64
+769it [22:32,  1.62s/it]
+769it [22:32,  1.62s/it][AFORMAL k=13 completed=770/1000 qid=5a886211554299206df2b24a seconds=1.89
+770it [22:34,  1.70s/it]
+770it [22:34,  1.70s/it][AFORMAL k=13 completed=771/1000 qid=5ab344fc55429969a97a811e seconds=1.77
+771it [22:36,  1.72s/it]
+771it [22:36,  1.72s/it][AFORMAL k=13 completed=772/1000 qid=5ae5c27b554299546bf82f4c seconds=1.97
+772it [22:38,  1.80s/it]
+772it [22:38,  1.80s/it][AFORMAL k=13 completed=773/1000 qid=5a8e27d45542995a26add46a seconds=1.59
+773it [22:39,  1.74s/it]
+773it [22:39,  1.74s/it][AFORMAL k=13 completed=774/1000 qid=5ae0536755429924de1b70a6 seconds=1.30
+774it [22:41,  1.62s/it]
+774it [22:41,  1.62s/it][AFORMAL k=13 completed=775/1000 qid=5ac510255542994611c8b353 seconds=1.76
+775it [22:42,  1.66s/it]
+775it [22:42,  1.66s/it][AFORMAL k=13 completed=776/1000 qid=5adf69055542995534e8c7a4 seconds=1.71
+776it [22:44,  1.68s/it]
+776it [22:44,  1.68s/it][AFORMAL k=13 completed=777/1000 qid=5ae3d4345542992f92d82387 seconds=1.88
+777it [22:46,  1.74s/it]
+777it [22:46,  1.74s/it][AFORMAL k=13 completed=778/1000 qid=5a88696b554299206df2b25b seconds=1.53
+778it [22:47,  1.68s/it]
+778it [22:47,  1.68s/it][AFORMAL k=13 completed=779/1000 qid=5ac273455542992f1f2b38d4 seconds=1.37
+779it [22:49,  1.60s/it]
+779it [22:49,  1.60s/it][AFORMAL k=13 completed=780/1000 qid=5adbd3405542994650320bf8 seconds=1.57
+780it [22:50,  1.59s/it]
+780it [22:50,  1.59s/it][AFORMAL k=13 completed=781/1000 qid=5adbda2755429944faac2385 seconds=1.75
+781it [22:52,  1.65s/it]
+781it [22:52,  1.65s/it][AFORMAL k=13 completed=782/1000 qid=5ae0d85d5542990adbacf67e seconds=1.72
+782it [22:54,  1.67s/it]
+782it [22:54,  1.67s/it][AFORMAL k=13 completed=783/1000 qid=5a83ed9b55429933447460b8 seconds=1.41
+783it [22:55,  1.60s/it]
+783it [22:55,  1.60s/it][AFORMAL k=13 completed=784/1000 qid=5adc8d4f554299473435373d seconds=1.32
+784it [22:57,  1.52s/it]
+784it [22:57,  1.52s/it][AFORMAL k=13 completed=785/1000 qid=5ac2dc4b55429921a00ab083 seconds=1.68
+785it [22:58,  1.57s/it]
+785it [22:58,  1.57s/it][AFORMAL k=13 completed=786/1000 qid=5ae2e8e05542991a06ce98fb seconds=1.67
+786it [23:00,  1.60s/it]
+786it [23:00,  1.60s/it][AFORMAL k=13 completed=787/1000 qid=5ae01b8855429925eb1afc14 seconds=1.72
+787it [23:02,  1.63s/it]
+787it [23:02,  1.63s/it][AFORMAL k=13 completed=788/1000 qid=5a87572d5542994846c1cd6b seconds=1.52
+788it [23:03,  1.60s/it]
+788it [23:03,  1.60s/it][AFORMAL k=13 completed=789/1000 qid=5a79cd665542994bb94570bf seconds=1.70
+789it [23:05,  1.63s/it]
+789it [23:05,  1.63s/it][AFORMAL k=13 completed=790/1000 qid=5a8511185542992a431d1aca seconds=1.37
+790it [23:06,  1.56s/it]
+790it [23:06,  1.56s/it][AFORMAL k=13 completed=791/1000 qid=5a83f07455429933447460be seconds=1.72
+791it [23:08,  1.61s/it]
+791it [23:08,  1.61s/it][AFORMAL k=13 completed=792/1000 qid=5ab41f6b5542991751b4d671 seconds=2.00
+792it [23:10,  1.73s/it]
+792it [23:10,  1.73s/it][AFORMAL k=13 completed=793/1000 qid=5a8b1a925542997f31a41c6e seconds=1.66
+793it [23:12,  1.71s/it]
+793it [23:12,  1.71s/it][AFORMAL k=13 completed=794/1000 qid=5adcfc135542990d50227d87 seconds=1.56
+794it [23:13,  1.67s/it]
+794it [23:13,  1.67s/it][AFORMAL k=13 completed=795/1000 qid=5abff00c5542994516f45537 seconds=1.38
+795it [23:15,  1.58s/it]
+795it [23:15,  1.58s/it][AFORMAL k=13 completed=796/1000 qid=5ab29cef554299449642c936 seconds=1.65
+796it [23:16,  1.61s/it]
+796it [23:16,  1.61s/it][AFORMAL k=13 completed=797/1000 qid=5a87144155429960ec39b72b seconds=1.89
+797it [23:18,  1.70s/it]
+797it [23:18,  1.70s/it][AFORMAL k=13 completed=798/1000 qid=5ab2b5a0554299295394683c seconds=2.21
+798it [23:20,  1.85s/it]
+798it [23:20,  1.85s/it][AFORMAL k=13 completed=799/1000 qid=5a7a0e1e5542990783324e1a seconds=1.54
+799it [23:22,  1.76s/it]
+799it [23:22,  1.76s/it][AFORMAL k=13 completed=800/1000 qid=5a89e2785542992e4fca843d seconds=1.70
+800it [23:24,  1.74s/it]
+800it [23:24,  1.74s/it][AFORMAL k=13 completed=801/1000 qid=5ae684fe5542991bbc97610e seconds=1.98
+801it [23:26,  1.82s/it]
+801it [23:26,  1.82s/it][AFORMAL k=13 completed=802/1000 qid=5ab7af9d5542993667793fe9 seconds=1.45
+802it [23:27,  1.71s/it]
+802it [23:27,  1.71s/it][AFORMAL k=13 completed=803/1000 qid=5a820f2c55429926c1cdae17 seconds=1.84
+803it [23:29,  1.75s/it]
+803it [23:29,  1.75s/it][AFORMAL k=13 completed=804/1000 qid=5ac21ac05542991316484bee seconds=1.93
+804it [23:31,  1.80s/it]
+804it [23:31,  1.80s/it][AFORMAL k=13 completed=805/1000 qid=5a8197905542995ce29dcc10 seconds=1.66
+805it [23:33,  1.76s/it]
+805it [23:33,  1.76s/it][AFORMAL k=13 completed=806/1000 qid=5ae504a855429908b63264df seconds=1.60
+806it [23:34,  1.71s/it]
+806it [23:34,  1.71s/it][AFORMAL k=13 completed=807/1000 qid=5a72b8de5542994cef4bc3df seconds=1.65
+807it [23:36,  1.69s/it]
+807it [23:36,  1.69s/it][AFORMAL k=13 completed=808/1000 qid=5ac00584554299012d1db575 seconds=1.77
+808it [23:38,  1.72s/it]
+808it [23:38,  1.72s/it][AFORMAL k=13 completed=809/1000 qid=5a7a1b165542996c55b2dd10 seconds=1.83
+809it [23:39,  1.75s/it]
+809it [23:39,  1.75s/it][AFORMAL k=13 completed=810/1000 qid=5a74bc1555429929fddd84dd seconds=1.81
+810it [23:41,  1.77s/it]
+810it [23:41,  1.77s/it][AFORMAL k=13 completed=811/1000 qid=5a8a1aea5542992e4fca8508 seconds=1.93
+811it [23:43,  1.82s/it]
+811it [23:43,  1.82s/it][AFORMAL k=13 completed=812/1000 qid=5a8a1b7a5542992d82986ec0 seconds=1.75
+812it [23:45,  1.80s/it]
+812it [23:45,  1.80s/it][AFORMAL k=13 completed=813/1000 qid=5a851ba95542997175ce1f81 seconds=1.89
+813it [23:47,  1.83s/it]
+813it [23:47,  1.83s/it][AFORMAL k=13 completed=814/1000 qid=5ac2ffbd554299677310267b seconds=1.53
+814it [23:48,  1.76s/it]
+814it [23:48,  1.76s/it][AFORMAL k=13 completed=815/1000 qid=5ab925c755429919ba4e23d6 seconds=1.44
+815it [23:50,  1.66s/it]
+815it [23:50,  1.66s/it][AFORMAL k=13 completed=816/1000 qid=5abfcd7a5542993fe9a41e7a seconds=1.81
+816it [23:52,  1.71s/it]
+816it [23:52,  1.71s/it][AFORMAL k=13 completed=817/1000 qid=5ab6bb575542995eadef0088 seconds=2.07
+817it [23:54,  1.82s/it]
+817it [23:54,  1.82s/it][AFORMAL k=13 completed=818/1000 qid=5ade74285542992fa25da78c seconds=1.69
+818it [23:56,  1.78s/it]
+818it [23:56,  1.78s/it][AFORMAL k=13 completed=819/1000 qid=5add11935542994734353827 seconds=1.59
+819it [23:57,  1.73s/it]
+819it [23:57,  1.73s/it][AFORMAL k=13 completed=820/1000 qid=5abf44025542993fe9a41def seconds=2.21
+820it [23:59,  1.87s/it]
+820it [23:59,  1.87s/it][AFORMAL k=13 completed=821/1000 qid=5ab5d4eb5542992aa134a3aa seconds=2.67
+821it [24:02,  2.11s/it]
+821it [24:02,  2.11s/it][AFORMAL k=13 completed=822/1000 qid=5adddce05542992200553b70 seconds=1.69
+822it [24:04,  1.99s/it]
+822it [24:04,  1.99s/it][AFORMAL k=13 completed=823/1000 qid=5a7ec95b55429934daa2fc67 seconds=1.97
+823it [24:06,  2.00s/it]
+823it [24:06,  2.00s/it][AFORMAL k=13 completed=824/1000 qid=5a8660ba55429960ec39b684 seconds=1.64
+824it [24:07,  1.89s/it]
+824it [24:07,  1.89s/it][AFORMAL k=13 completed=825/1000 qid=5ae1fced5542997283cd230e seconds=1.68
+825it [24:09,  1.83s/it]
+825it [24:09,  1.83s/it][AFORMAL k=13 completed=826/1000 qid=5a77a8b45542995d83181253 seconds=1.55
+826it [24:11,  1.75s/it]
+826it [24:11,  1.75s/it][AFORMAL k=13 completed=827/1000 qid=5a844fd35542990548d0b274 seconds=1.71
+827it [24:12,  1.74s/it]
+827it [24:12,  1.74s/it][AFORMAL k=13 completed=828/1000 qid=5adf24155542992d7e9f92af seconds=1.96
+828it [24:14,  1.81s/it]
+828it [24:14,  1.81s/it][AFORMAL k=13 completed=829/1000 qid=5ac2cb125542996773102626 seconds=1.51
+829it [24:16,  1.72s/it]
+829it [24:16,  1.72s/it][AFORMAL k=13 completed=830/1000 qid=5a7bbcd65542997c3ec97268 seconds=1.68
+830it [24:17,  1.71s/it]
+830it [24:17,  1.71s/it][AFORMAL k=13 completed=831/1000 qid=5a79c9cc554299148911fa53 seconds=1.88
+831it [24:19,  1.76s/it]
+831it [24:19,  1.76s/it][AFORMAL k=13 completed=832/1000 qid=5a7a5ccf55429941d65f25d7 seconds=1.69
+832it [24:21,  1.74s/it]
+832it [24:21,  1.74s/it][AFORMAL k=13 completed=833/1000 qid=5a7a27ce5542996c55b2dd28 seconds=1.94
+833it [24:23,  1.80s/it]
+833it [24:23,  1.80s/it][AFORMAL k=13 completed=834/1000 qid=5ab472a35542991779162c98 seconds=1.91
+834it [24:25,  1.84s/it]
+834it [24:25,  1.84s/it][AFORMAL k=13 completed=835/1000 qid=5a8d9573554299068b959d51 seconds=1.70
+835it [24:27,  1.80s/it]
+835it [24:27,  1.80s/it][AFORMAL k=13 completed=836/1000 qid=5a7e5ec25542991319bc947a seconds=1.69
+836it [24:28,  1.77s/it]
+836it [24:28,  1.77s/it][AFORMAL k=13 completed=837/1000 qid=5ab96c93554299743d22eb63 seconds=2.00
+837it [24:30,  1.84s/it]
+837it [24:30,  1.84s/it][AFORMAL k=13 completed=838/1000 qid=5a73235c5542994cef4bc475 seconds=1.73
+838it [24:32,  1.80s/it]
+838it [24:32,  1.80s/it][AFORMAL k=13 completed=839/1000 qid=5ac0fd56554299012d1db679 seconds=1.58
+839it [24:34,  1.74s/it]
+839it [24:34,  1.74s/it][AFORMAL k=13 completed=840/1000 qid=5a836a765542996488c2e446 seconds=1.37
+840it [24:35,  1.63s/it]
+840it [24:35,  1.63s/it][AFORMAL k=13 completed=841/1000 qid=5ab64cfa55429953192ad2b7 seconds=1.77
+841it [24:37,  1.67s/it]
+841it [24:37,  1.67s/it][AFORMAL k=13 completed=842/1000 qid=5abff0785542997d64295957 seconds=1.75
+842it [24:39,  1.70s/it]
+842it [24:39,  1.70s/it][AFORMAL k=13 completed=843/1000 qid=5a812cd555429926c1cdacfc seconds=1.75
+843it [24:40,  1.71s/it]
+843it [24:40,  1.71s/it][AFORMAL k=13 completed=844/1000 qid=5adccaca5542994d58a2f6d5 seconds=1.22
+844it [24:42,  1.57s/it]
+844it [24:42,  1.57s/it][AFORMAL k=13 completed=845/1000 qid=5ae63b2255429908198fa526 seconds=1.78
+845it [24:43,  1.63s/it]
+845it [24:43,  1.63s/it][AFORMAL k=13 completed=846/1000 qid=5ae3fd2c5542995dadf2428f seconds=1.78
+846it [24:45,  1.68s/it]
+846it [24:45,  1.68s/it][AFORMAL k=13 completed=847/1000 qid=5abbb116554299642a094b1d seconds=1.31
+847it [24:46,  1.57s/it]
+847it [24:46,  1.57s/it][AFORMAL k=13 completed=848/1000 qid=5a7cf4e355429907fabef062 seconds=1.42
+848it [24:48,  1.53s/it]
+848it [24:48,  1.53s/it][AFORMAL k=13 completed=849/1000 qid=5a7dec305542995ed0d16679 seconds=2.54
+849it [24:50,  1.83s/it]
+849it [24:50,  1.83s/it][AFORMAL k=13 completed=850/1000 qid=5ab2e3c45542991669774126 seconds=1.40
+850it [24:52,  1.70s/it]
+850it [24:52,  1.70s/it][AFORMAL k=13 completed=851/1000 qid=5ae1cf785542997f29b3c12a seconds=1.83
+851it [24:54,  1.74s/it]
+851it [24:54,  1.74s/it][AFORMAL k=13 completed=852/1000 qid=5ab2e3a15542992953946893 seconds=1.79
+852it [24:55,  1.76s/it]
+852it [24:55,  1.76s/it][AFORMAL k=13 completed=853/1000 qid=5ab2d28b55429916697740ee seconds=1.85
+853it [24:57,  1.79s/it]
+853it [24:57,  1.79s/it][AFORMAL k=13 completed=854/1000 qid=5abfa0285542990832d3a171 seconds=1.57
+854it [24:59,  1.72s/it]
+854it [24:59,  1.72s/it][AFORMAL k=13 completed=855/1000 qid=5ab3d5f355429969a97a81c5 seconds=1.48
+855it [25:00,  1.65s/it]
+855it [25:00,  1.65s/it][AFORMAL k=13 completed=856/1000 qid=5ab61668554299488d4d9aa6 seconds=1.56
+856it [25:02,  1.62s/it]
+856it [25:02,  1.62s/it][AFORMAL k=13 completed=857/1000 qid=5ae0432a55429924de1b7081 seconds=1.33
+857it [25:03,  1.55s/it]
+857it [25:03,  1.55s/it][AFORMAL k=13 completed=858/1000 qid=5a7148d25542994082a3e766 seconds=1.67
+858it [25:05,  1.58s/it]
+858it [25:05,  1.58s/it][AFORMAL k=13 completed=859/1000 qid=5a7a455c5542994f819ef1a7 seconds=1.75
+859it [25:07,  1.64s/it]
+859it [25:07,  1.64s/it][AFORMAL k=13 completed=860/1000 qid=5a7ab51055429927d897bef6 seconds=1.49
+860it [25:08,  1.59s/it]
+860it [25:08,  1.59s/it][AFORMAL k=13 completed=861/1000 qid=5ab266b5554299340b5254b4 seconds=1.61
+861it [25:10,  1.60s/it]
+861it [25:10,  1.60s/it][AFORMAL k=13 completed=862/1000 qid=5ab9aab555429970cfb8eb65 seconds=1.74
+862it [25:11,  1.64s/it]
+862it [25:11,  1.64s/it][AFORMAL k=13 completed=863/1000 qid=5a8078d85542995d8a8ddf78 seconds=1.54
+863it [25:13,  1.61s/it]
+863it [25:13,  1.61s/it][AFORMAL k=13 completed=864/1000 qid=5ab56f4b554299637185c599 seconds=1.86
+864it [25:15,  1.70s/it]
+864it [25:15,  1.70s/it][AFORMAL k=13 completed=865/1000 qid=5ab295eb554299194fa93412 seconds=1.62
+865it [25:17,  1.68s/it]
+865it [25:17,  1.68s/it][AFORMAL k=13 completed=866/1000 qid=5a7758895542994aec3b729c seconds=1.61
+866it [25:18,  1.66s/it]
+866it [25:18,  1.66s/it][AFORMAL k=13 completed=867/1000 qid=5a8eb4d65542990e94052b82 seconds=1.96
+867it [25:20,  1.75s/it]
+867it [25:20,  1.75s/it][AFORMAL k=13 completed=868/1000 qid=5aba9e545542994dbf019986 seconds=1.46
+868it [25:22,  1.66s/it]
+868it [25:22,  1.66s/it][AFORMAL k=13 completed=869/1000 qid=5a7f18a35542994959419aa6 seconds=1.79
+869it [25:23,  1.70s/it]
+869it [25:23,  1.70s/it][AFORMAL k=13 completed=870/1000 qid=5abc095c5542993f40c73c5d seconds=1.50
+870it [25:25,  1.64s/it]
+870it [25:25,  1.64s/it][AFORMAL k=13 completed=871/1000 qid=5adbf0a255429947ff17385a seconds=1.80
+871it [25:27,  1.69s/it]
+871it [25:27,  1.69s/it][AFORMAL k=13 completed=872/1000 qid=5ab692b5554299710c8d1ed6 seconds=1.51
+872it [25:28,  1.64s/it]
+872it [25:28,  1.64s/it][AFORMAL k=13 completed=873/1000 qid=5ae0b0ab55429945ae959423 seconds=2.05
+873it [25:30,  1.76s/it]
+873it [25:30,  1.76s/it][AFORMAL k=13 completed=874/1000 qid=5ab6f0c25542995eadef00ea seconds=1.77
+874it [25:32,  1.77s/it]
+874it [25:32,  1.77s/it][AFORMAL k=13 completed=875/1000 qid=5a7750a155429966f1a36cef seconds=1.90
+875it [25:34,  1.81s/it]
+875it [25:34,  1.81s/it][AFORMAL k=13 completed=876/1000 qid=5a7e040f5542990b8f503b13 seconds=1.95
+876it [25:36,  1.85s/it]
+876it [25:36,  1.85s/it][AFORMAL k=13 completed=877/1000 qid=5a90997b5542995651fb51af seconds=1.83
+877it [25:38,  1.85s/it]
+877it [25:38,  1.85s/it][AFORMAL k=13 completed=878/1000 qid=5a71148b5542994082a3e567 seconds=1.76
+878it [25:39,  1.82s/it]
+878it [25:39,  1.82s/it][AFORMAL k=13 completed=879/1000 qid=5a8caf1d554299585d9e3720 seconds=1.80
+879it [25:41,  1.82s/it]
+879it [25:41,  1.82s/it][AFORMAL k=13 completed=880/1000 qid=5a8481945542997175ce1ed3 seconds=1.74
+880it [25:43,  1.82s/it]
+880it [25:43,  1.82s/it][AFORMAL k=13 completed=881/1000 qid=5ade8ad95542992fa25da7b8 seconds=1.76
+881it [25:45,  1.80s/it]
+881it [25:45,  1.80s/it][AFORMAL k=13 completed=882/1000 qid=5a7222b155429971e9dc92c4 seconds=1.79
+882it [25:47,  1.80s/it]
+882it [25:47,  1.80s/it][AFORMAL k=13 completed=883/1000 qid=5ab9be4f554299753720f843 seconds=1.81
+883it [25:48,  1.80s/it]
+883it [25:48,  1.80s/it][AFORMAL k=13 completed=884/1000 qid=5a8796f75542996e4f308865 seconds=1.62
+884it [25:50,  1.75s/it]
+884it [25:50,  1.75s/it][AFORMAL k=13 completed=885/1000 qid=5a79118755429974737f7962 seconds=1.58
+885it [25:52,  1.70s/it]
+885it [25:52,  1.70s/it][AFORMAL k=13 completed=886/1000 qid=5a7642f7554299109176e6e8 seconds=1.90
+886it [25:54,  1.76s/it]
+886it [25:54,  1.76s/it][AFORMAL k=13 completed=887/1000 qid=5aba14195542994dbf0198a9 seconds=1.57
+887it [25:55,  1.70s/it]
+887it [25:55,  1.70s/it][AFORMAL k=13 completed=888/1000 qid=5a8e463a5542995a26add4b7 seconds=1.34
+888it [25:56,  1.59s/it]
+888it [25:56,  1.59s/it][AFORMAL k=13 completed=889/1000 qid=5a735c3a55429901807daff7 seconds=1.74
+889it [25:58,  1.64s/it]
+889it [25:58,  1.64s/it][AFORMAL k=13 completed=890/1000 qid=5a734bb65542994cef4bc50f seconds=1.79
+890it [26:00,  1.68s/it]
+890it [26:00,  1.68s/it][AFORMAL k=13 completed=891/1000 qid=5ac3ad7f5542995ef918c1de seconds=1.66
+891it [26:02,  1.68s/it]
+891it [26:02,  1.68s/it][AFORMAL k=13 completed=892/1000 qid=5add24375542992c1e3a2542 seconds=1.60
+892it [26:03,  1.66s/it]
+892it [26:03,  1.66s/it][AFORMAL k=13 completed=893/1000 qid=5ae0b7cf554299603e418446 seconds=1.43
+893it [26:05,  1.59s/it]
+893it [26:05,  1.59s/it][AFORMAL k=13 completed=894/1000 qid=5ab2c418554299545a2cfa67 seconds=2.00
+894it [26:07,  1.71s/it]
+894it [26:07,  1.71s/it][AFORMAL k=13 completed=895/1000 qid=5a7d70d45542990b8f50398a seconds=1.79
+895it [26:09,  1.74s/it]
+895it [26:09,  1.74s/it][AFORMAL k=13 completed=896/1000 qid=5a74e6e855429974ef308c8e seconds=1.31
+896it [26:10,  1.61s/it]
+896it [26:10,  1.61s/it][AFORMAL k=13 completed=897/1000 qid=5a87bc3f5542996432c57275 seconds=1.89
+897it [26:12,  1.70s/it]
+897it [26:12,  1.70s/it][AFORMAL k=13 completed=898/1000 qid=5adcb6875542994ed6169bcb seconds=1.91
+898it [26:14,  1.76s/it]
+898it [26:14,  1.76s/it][AFORMAL k=13 completed=899/1000 qid=5a77a3905542992a6e59df40 seconds=1.74
+899it [26:15,  1.76s/it]
+899it [26:15,  1.76s/it][AFORMAL k=13 completed=900/1000 qid=5ab6e8e6554299710c8d1faf seconds=1.85
+900it [26:17,  1.78s/it]
+900it [26:17,  1.78s/it][AFORMAL k=13 completed=901/1000 qid=5a7d3470554299452d57bb56 seconds=1.61
+901it [26:19,  1.73s/it]
+901it [26:19,  1.73s/it][AFORMAL k=13 completed=902/1000 qid=5a8675b1554299211dda2b44 seconds=1.84
+902it [26:21,  1.77s/it]
+902it [26:21,  1.77s/it][AFORMAL k=13 completed=903/1000 qid=5a8aee2c55429970aeb70338 seconds=1.58
+903it [26:22,  1.71s/it]
+903it [26:22,  1.71s/it][AFORMAL k=13 completed=904/1000 qid=5a827ce155429940e5e1a8d7 seconds=1.70
+904it [26:24,  1.71s/it]
+904it [26:24,  1.71s/it][AFORMAL k=13 completed=905/1000 qid=5a7e035d5542997cc2c474f6 seconds=1.56
+905it [26:26,  1.66s/it]
+905it [26:26,  1.66s/it][AFORMAL k=13 completed=906/1000 qid=5a80d1ce554299260e20a178 seconds=1.58
+906it [26:27,  1.64s/it]
+906it [26:27,  1.64s/it][AFORMAL k=13 completed=907/1000 qid=5ab42e55554299753aec5a53 seconds=1.73
+907it [26:29,  1.67s/it]
+907it [26:29,  1.67s/it][AFORMAL k=13 completed=908/1000 qid=5adc2ae5554299438c868d64 seconds=1.27
+908it [26:30,  1.58s/it]
+908it [26:30,  1.58s/it][AFORMAL k=13 completed=909/1000 qid=5a7f85505542995d8a8dde95 seconds=1.79
+909it [26:32,  1.64s/it]
+909it [26:32,  1.64s/it][AFORMAL k=13 completed=910/1000 qid=5adce22c5542990d50227d51 seconds=1.60
+910it [26:34,  1.63s/it]
+910it [26:34,  1.63s/it][AFORMAL k=13 completed=911/1000 qid=5ae54eea5542993aec5ec19d seconds=1.72
+911it [26:35,  1.66s/it]
+911it [26:35,  1.66s/it][AFORMAL k=13 completed=912/1000 qid=5a77d12755429967ab1052b8 seconds=1.64
+912it [26:37,  1.65s/it]
+912it [26:37,  1.65s/it][AFORMAL k=13 completed=913/1000 qid=5ae2136d5542997283cd23b6 seconds=1.35
+913it [26:38,  1.56s/it]
+913it [26:38,  1.56s/it][AFORMAL k=13 completed=914/1000 qid=5ab51dbd5542996a3a96a023 seconds=1.45
+914it [26:40,  1.53s/it]
+914it [26:40,  1.53s/it][AFORMAL k=13 completed=915/1000 qid=5aba9813554299232ef4a357 seconds=1.67
+915it [26:41,  1.57s/it]
+915it [26:41,  1.57s/it][AFORMAL k=13 completed=916/1000 qid=5a7f6fd75542992e7d278cfa seconds=2.34
+916it [26:44,  1.80s/it]
+916it [26:44,  1.80s/it][AFORMAL k=13 completed=917/1000 qid=5a84a4e35542992a431d1a81 seconds=2.24
+917it [26:46,  1.93s/it]
+917it [26:46,  1.93s/it][AFORMAL k=13 completed=918/1000 qid=5a7180205542994082a3e856 seconds=1.83
+918it [26:48,  1.90s/it]
+918it [26:48,  1.90s/it][AFORMAL k=13 completed=919/1000 qid=5a77415b55429966f1a36cd2 seconds=1.54
+919it [26:49,  1.79s/it]
+919it [26:49,  1.79s/it][AFORMAL k=13 completed=920/1000 qid=5a7e3c6e5542994959419937 seconds=1.93
+920it [26:51,  1.84s/it]
+920it [26:51,  1.84s/it][AFORMAL k=13 completed=921/1000 qid=5ab8680755429934fafe6da8 seconds=1.82
+921it [26:53,  1.83s/it]
+921it [26:53,  1.83s/it][AFORMAL k=13 completed=922/1000 qid=5a7d22dc5542995ed0d16600 seconds=1.54
+922it [26:55,  1.75s/it]
+922it [26:55,  1.75s/it][AFORMAL k=13 completed=923/1000 qid=5ae07b0155429945ae95935d seconds=1.47
+923it [26:56,  1.66s/it]
+923it [26:56,  1.66s/it][AFORMAL k=13 completed=924/1000 qid=5a8393665542990548d0b1ea seconds=1.47
+924it [26:58,  1.61s/it]
+924it [26:58,  1.61s/it][AFORMAL k=13 completed=925/1000 qid=5a7d598d5542995f4f402262 seconds=1.71
+925it [26:59,  1.65s/it]
+925it [26:59,  1.65s/it][AFORMAL k=13 completed=926/1000 qid=5ab2a01d5542992953946778 seconds=1.44
+926it [27:01,  1.59s/it]
+926it [27:01,  1.59s/it][AFORMAL k=13 completed=927/1000 qid=5abd455c55429924427fcf5a seconds=1.87
+927it [27:03,  1.67s/it]
+927it [27:03,  1.67s/it][AFORMAL k=13 completed=928/1000 qid=5a849c1b5542997175ce1ef9 seconds=1.37
+928it [27:04,  1.58s/it]
+928it [27:04,  1.58s/it][AFORMAL k=13 completed=929/1000 qid=5ae0819155429924de1b70ea seconds=1.64
+929it [27:06,  1.60s/it]
+929it [27:06,  1.60s/it][AFORMAL k=13 completed=930/1000 qid=5a8b42be55429949d91db515 seconds=1.61
+930it [27:07,  1.60s/it]
+930it [27:07,  1.60s/it][AFORMAL k=13 completed=931/1000 qid=5ae157ed5542990adbacf75d seconds=2.00
+931it [27:09,  1.72s/it]
+931it [27:09,  1.72s/it][AFORMAL k=13 completed=932/1000 qid=5ac44b47554299194317396c seconds=1.98
+932it [27:11,  1.80s/it]
+932it [27:11,  1.80s/it][AFORMAL k=13 completed=933/1000 qid=5ab91b6c55429934fafe6e5f seconds=1.59
+933it [27:13,  1.74s/it]
+933it [27:13,  1.74s/it][AFORMAL k=13 completed=934/1000 qid=5ae7f6be554299540e5a56db seconds=1.59
+934it [27:15,  1.70s/it]
+934it [27:15,  1.70s/it][AFORMAL k=13 completed=935/1000 qid=5a7bb7f2554299042af8f7b6 seconds=1.57
+935it [27:16,  1.66s/it]
+935it [27:16,  1.66s/it][AFORMAL k=13 completed=936/1000 qid=5ab6d9b25542995eadef00c8 seconds=1.75
+936it [27:18,  1.69s/it]
+936it [27:18,  1.69s/it][AFORMAL k=13 completed=937/1000 qid=5ae4d9985542990ba0bbb175 seconds=1.74
+937it [27:20,  1.71s/it]
+937it [27:20,  1.71s/it][AFORMAL k=13 completed=938/1000 qid=5a7a1d305542990783324e66 seconds=1.52
+938it [27:21,  1.65s/it]
+938it [27:21,  1.65s/it][AFORMAL k=13 completed=939/1000 qid=5ae7edee554299540e5a56ad seconds=1.98
+939it [27:23,  1.75s/it]
+939it [27:23,  1.75s/it][AFORMAL k=13 completed=940/1000 qid=5a83161555429940e5e1a958 seconds=1.73
+940it [27:25,  1.74s/it]
+940it [27:25,  1.74s/it][AFORMAL k=13 completed=941/1000 qid=5a735e9155429901807db00d seconds=1.47
+941it [27:26,  1.66s/it]
+941it [27:26,  1.66s/it][AFORMAL k=13 completed=942/1000 qid=5a847edd554299123d8c2272 seconds=2.02
+942it [27:28,  1.77s/it]
+942it [27:28,  1.77s/it][AFORMAL k=13 completed=943/1000 qid=5ab5ecd75542992aa134a3e6 seconds=1.63
+943it [27:30,  1.73s/it]
+943it [27:30,  1.73s/it][AFORMAL k=13 completed=944/1000 qid=5adce3265542992c1e3a2466 seconds=2.18
+944it [27:32,  1.89s/it]
+944it [27:32,  1.89s/it][AFORMAL k=13 completed=945/1000 qid=5a77321355429972597f1493 seconds=1.71
+945it [27:34,  1.84s/it]
+945it [27:34,  1.84s/it][AFORMAL k=13 completed=946/1000 qid=5a8485fa5542992a431d1a41 seconds=1.67
+946it [27:36,  1.79s/it]
+946it [27:36,  1.79s/it][AFORMAL k=13 completed=947/1000 qid=5ac34ed0554299741d48a248 seconds=1.86
+947it [27:38,  1.81s/it]
+947it [27:38,  1.81s/it][AFORMAL k=13 completed=948/1000 qid=5a9073405542995b442420bb seconds=1.36
+948it [27:39,  1.68s/it]
+948it [27:39,  1.68s/it][AFORMAL k=13 completed=949/1000 qid=5a804f01554299485f5985bf seconds=1.72
+949it [27:41,  1.69s/it]
+949it [27:41,  1.69s/it][AFORMAL k=13 completed=950/1000 qid=5a85cd295542997175ce202b seconds=1.92
+950it [27:43,  1.76s/it]
+950it [27:43,  1.76s/it][AFORMAL k=13 completed=951/1000 qid=5a8563c05542997b5ce3fff4 seconds=1.51
+951it [27:44,  1.71s/it]
+951it [27:44,  1.71s/it][AFORMAL k=13 completed=952/1000 qid=5a7574e25542996c70cfaf01 seconds=1.70
+952it [27:46,  1.71s/it]
+952it [27:46,  1.71s/it][AFORMAL k=13 completed=953/1000 qid=5a7be2595542997c3ec972ac seconds=1.70
+953it [27:48,  1.71s/it]
+953it [27:48,  1.71s/it][AFORMAL k=13 completed=954/1000 qid=5a7507455542993748c8979d seconds=2.37
+954it [27:50,  1.91s/it]
+954it [27:50,  1.91s/it][AFORMAL k=13 completed=955/1000 qid=5a862974554299211dda2a95 seconds=1.88
+955it [27:52,  1.90s/it]
+955it [27:52,  1.90s/it][AFORMAL k=13 completed=956/1000 qid=5a7331705542991f9a20c67a seconds=1.45
+956it [27:53,  1.77s/it]
+956it [27:53,  1.77s/it][AFORMAL k=13 completed=957/1000 qid=5ab572ff5542992aa134a31b seconds=1.73
+957it [27:55,  1.76s/it]
+957it [27:55,  1.76s/it][AFORMAL k=13 completed=958/1000 qid=5a7b9fac554299294a54aa2f seconds=1.46
+958it [27:56,  1.67s/it]
+958it [27:56,  1.67s/it][AFORMAL k=13 completed=959/1000 qid=5ae2661d554299495565da60 seconds=1.67
+959it [27:58,  1.67s/it]
+959it [27:58,  1.67s/it][AFORMAL k=13 completed=960/1000 qid=5abf11d45542997719eab660 seconds=1.73
+960it [28:00,  1.69s/it]
+960it [28:00,  1.69s/it][AFORMAL k=13 completed=961/1000 qid=5abbd5a75542993f40c73bd3 seconds=1.53
+961it [28:01,  1.64s/it]
+961it [28:01,  1.64s/it][AFORMAL k=13 completed=962/1000 qid=5a7c0aa15542997c3ec972cd seconds=1.63
+962it [28:03,  1.65s/it]
+962it [28:03,  1.65s/it][AFORMAL k=13 completed=963/1000 qid=5adf49935542993a75d26491 seconds=1.50
+963it [28:05,  1.61s/it]
+963it [28:05,  1.61s/it][AFORMAL k=13 completed=964/1000 qid=5a7bb16f554299294a54aa9f seconds=1.59
+964it [28:06,  1.62s/it]
+964it [28:06,  1.62s/it][AFORMAL k=13 completed=965/1000 qid=5a760faa5542994ccc9186a8 seconds=1.55
+965it [28:08,  1.60s/it]
+965it [28:08,  1.60s/it][AFORMAL k=13 completed=966/1000 qid=5a8220db5542995ce29dccc1 seconds=1.69
+966it [28:09,  1.63s/it]
+966it [28:09,  1.63s/it][AFORMAL k=13 completed=967/1000 qid=5a81108855429926c1cdace2 seconds=1.78
+967it [28:11,  1.67s/it]
+967it [28:11,  1.67s/it][AFORMAL k=13 completed=968/1000 qid=5a8a21a455429930ff3c0caf seconds=1.62
+968it [28:13,  1.67s/it]
+968it [28:13,  1.67s/it][AFORMAL k=13 completed=969/1000 qid=5a7780e855429949eeb29e9f seconds=1.77
+969it [28:15,  1.70s/it]
+969it [28:15,  1.70s/it][AFORMAL k=13 completed=970/1000 qid=5a8ad59355429950cd6afba4 seconds=1.62
+970it [28:16,  1.68s/it]
+970it [28:16,  1.68s/it][AFORMAL k=13 completed=971/1000 qid=5a8787915542996e4f30882e seconds=1.80
+971it [28:18,  1.71s/it]
+971it [28:18,  1.71s/it][AFORMAL k=13 completed=972/1000 qid=5adcad175542994ed6169bc3 seconds=1.70
+972it [28:20,  1.71s/it]
+972it [28:20,  1.71s/it][AFORMAL k=13 completed=973/1000 qid=5a75eda35542994ccc918661 seconds=1.88
+973it [28:22,  1.76s/it]
+973it [28:22,  1.76s/it][AFORMAL k=13 completed=974/1000 qid=5ae5390355429960a22e0271 seconds=1.48
+974it [28:23,  1.68s/it]
+974it [28:23,  1.68s/it][AFORMAL k=13 completed=975/1000 qid=5a903b7f55429933b8a204af seconds=1.60
+975it [28:25,  1.66s/it]
+975it [28:25,  1.66s/it][AFORMAL k=13 completed=976/1000 qid=5ae3ac665542994393b9e73f seconds=1.77
+976it [28:27,  1.69s/it]
+976it [28:27,  1.69s/it][AFORMAL k=13 completed=977/1000 qid=5a8318dd55429940e5e1a95e seconds=1.91
+977it [28:28,  1.76s/it]
+977it [28:28,  1.76s/it][AFORMAL k=13 completed=978/1000 qid=5a7d1e685542995ed0d165f7 seconds=2.07
+978it [28:31,  1.85s/it]
+978it [28:31,  1.85s/it][AFORMAL k=13 completed=979/1000 qid=5a73bcf055429978a71e909c seconds=1.30
+979it [28:32,  1.69s/it]
+979it [28:32,  1.69s/it][AFORMAL k=13 completed=980/1000 qid=5ab1d2585542997061209581 seconds=1.94
+980it [28:34,  1.76s/it]
+980it [28:34,  1.76s/it][AFORMAL k=13 completed=981/1000 qid=5a79e3555542994bb945712f seconds=2.02
+981it [28:36,  1.84s/it]
+981it [28:36,  1.84s/it][AFORMAL k=13 completed=982/1000 qid=5a8a203c55429970aeb7026d seconds=1.86
+982it [28:38,  1.85s/it]
+982it [28:38,  1.85s/it][AFORMAL k=13 completed=983/1000 qid=5adbd19855429944faac236a seconds=2.34
+983it [28:40,  1.99s/it]
+983it [28:40,  1.99s/it][AFORMAL k=13 completed=984/1000 qid=5abd6f0855429933744ab7d5 seconds=1.96
+984it [28:42,  1.99s/it]
+984it [28:42,  1.99s/it][AFORMAL k=13 completed=985/1000 qid=5a7adaa35542992d025e670c seconds=1.46
+985it [28:43,  1.84s/it]
+985it [28:43,  1.84s/it][AFORMAL k=13 completed=986/1000 qid=5a8843a455429938390d3f0c seconds=1.67
+986it [28:45,  1.79s/it]
+986it [28:45,  1.79s/it][AFORMAL k=13 completed=987/1000 qid=5a81e8a0554299676cceb157 seconds=2.39
+987it [28:48,  1.97s/it]
+987it [28:48,  1.97s/it][AFORMAL k=13 completed=988/1000 qid=5ab6c5be55429954757d336c seconds=1.52
+988it [28:49,  1.84s/it]
+988it [28:49,  1.84s/it][AFORMAL k=13 completed=989/1000 qid=5a7a2be25542996a35c17118 seconds=1.90
+989it [28:51,  1.86s/it]
+989it [28:51,  1.86s/it][AFORMAL k=13 completed=990/1000 qid=5a7f354b5542992e7d278c8c seconds=1.97
+990it [28:53,  1.89s/it]
+990it [28:53,  1.89s/it][AFORMAL k=13 completed=991/1000 qid=5ae2eb7f55429928c423955b seconds=1.71
+991it [28:55,  1.84s/it]
+991it [28:55,  1.84s/it][AFORMAL k=13 completed=992/1000 qid=5abe822155429976d4830b48 seconds=1.56
+992it [28:56,  1.75s/it]
+992it [28:56,  1.75s/it][AFORMAL k=13 completed=993/1000 qid=5a7e0ed25542991319bc9424 seconds=2.46
+993it [28:59,  1.97s/it]
+993it [28:59,  1.97s/it][AFORMAL k=13 completed=994/1000 qid=5a81537355429926c1cdad20 seconds=1.92
+994it [29:01,  1.95s/it]
+994it [29:01,  1.95s/it][AFORMAL k=13 completed=995/1000 qid=5ab9379a554299753720f79d seconds=1.91
+995it [29:02,  1.94s/it]
+995it [29:02,  1.94s/it][AFORMAL k=13 completed=996/1000 qid=5ac07327554299012d1db5f2 seconds=1.41
+996it [29:04,  1.78s/it]
+996it [29:04,  1.78s/it][AFORMAL k=13 completed=997/1000 qid=5add292b5542990d50227e0a seconds=1.43
+997it [29:05,  1.68s/it]
+997it [29:05,  1.68s/it][AFORMAL k=13 completed=998/1000 qid=5a86ea445542994775f60780 seconds=2.09
+998it [29:07,  1.80s/it]
+998it [29:07,  1.80s/it][AFORMAL k=13 completed=999/1000 qid=5ab6d04c554299710c8d1f70 seconds=1.44
+999it [29:09,  1.69s/it]
+999it [29:09,  1.69s/it][AFORMAL k=13 completed=1000/1000 qid=5ab5ec2a5542992aa134a3e3 seconds=2.02
+1000it [29:11,  1.79s/it]
+1000it [29:11,  1.79s/it][A1000it [29:11,  1.75s/it]
+1000it [29:11,  1.75s/it]
+Writing predictions in predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__13___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json
+0it [00:00, ?it/s]1000it [00:00, 13192.50it/s]
+{
+    "f1": 0.58475,
+    "em": 0.48,
+    "precision": 0.60858,
+    "recall": 0.5852,
+    "count": 1000
+}
+Saving metrics in predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__13___distractor_count__1/official_evaluation_metrics__hotpotqa_to_hotpotqa__dev_1000_subsampled.json
+{'f1': 0.58475, 'em': 0.48, 'precision': 0.60858, 'recall': 0.5852, 'count': 1000}
+Run predict_command: 
+RETRIEVER_HOST=http://localhost RETRIEVER_PORT=8000 LLM_SERVER_HOST=http://localhost LLM_SERVER_PORT=8002 python -m commaqa.inference.configurable_inference --config instantiated_configs/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__13___distractor_count__1.jsonnet --input /media/hnu/hnu2021/dengxin/luoyichen/kbqa/processed_data/hotpotqa/dev_1000_subsampled.jsonl --output predictions/hotpot_formal_1000_20261014/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__13___distractor_count__1/prediction__hotpotqa_to_hotpotqa__dev_1000_subsampled.json --silent
+
+Run evaluate_command: 
+python evaluate.py instantiated_configs/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__13___distractor_count__1.jsonnet /media/hnu/hnu2021/dengxin/luoyichen/kbqa/processed_data/hotpotqa/dev_1000_subsampled.jsonl --set_name hotpot_formal_1000_20261014 --llm_port_num 8002 --official
+
+Run evaluate_command: 
+python evaluate.py instantiated_configs/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__13___distractor_count__1.jsonnet /media/hnu/hnu2021/dengxin/luoyichen/kbqa/processed_data/hotpotqa/dev_1000_subsampled.jsonl --official --set_name hotpot_formal_1000_20261014 --llm_port_num 8002
+
+python predict.py instantiated_configs/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__13___distractor_count__1.jsonnet /media/hnu/hnu2021/dengxin/luoyichen/kbqa/processed_data/hotpotqa/dev_1000_subsampled.jsonl --set_name hotpot_formal_1000_20261014 --llm_port_num 8002 --official-only --silent

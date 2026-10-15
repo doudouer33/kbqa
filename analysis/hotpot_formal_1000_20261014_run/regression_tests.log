@@ -1,0 +1,74 @@
+
+2026-10-14T06:18:31.939866+08:00 COMMAND ["/home/dengxin/miniconda3/envs/adaptiverag/bin/python", "-m", "unittest", "discover", "-s", "tests", "-v"]
+test_distribution_statistics (test_analyze_hotpot_500_500.AnalyzeHotpotTest) ... ok
+test_official_f1_ties_choose_smallest_k_without_em_priority (test_analyze_hotpot_500_500.AnalyzeHotpotTest) ... ok
+test_official_yes_no_does_not_award_partial_overlap (test_analyze_hotpot_500_500.AnalyzeHotpotTest) ... ok
+test_percentile_uses_linear_interpolation (test_analyze_hotpot_500_500.AnalyzeHotpotTest) ... ok
+test_token_join_rejects_duplicates_and_missing_questions (test_analyze_hotpot_500_500.AnalyzeHotpotTest) ... ok
+test_direct_qa_retains_existing_final_json_decode (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_invalid_quoted_json_keeps_legacy_outer_quote_handling (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_json_escaped_newline_is_restored_before_regex (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_json_lists_keep_intermediate_representation_and_final_list_semantics (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_json_strings_decode_once_before_matching (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_last_question_keeps_legacy_outer_quote_handling (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_list_captured_inside_cot_keeps_json_structure (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_literal_escaped_list_is_not_repaired_or_decoded_again (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_no_match_and_fullstop_settings_are_unchanged (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_original_regex_and_fallback_remain_line_sensitive (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_other_json_values_are_not_coerced (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_participant_serialization_roundtrip (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_plain_strings_and_last_question_preserve_literal_escapes (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_serialized_cot_through_actual_participant_extractor_and_final_prediction (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_candidate_only_changes_regex_for_all_15_k_values (test_hotpot_multiline_answer.HotpotMultilineAnswerTest) ... ok
+test_greedy_last_marker_is_kept (test_hotpot_multiline_answer.HotpotMultilineAnswerTest) ... ok
+test_missing_marker_preserves_original_fallback (test_hotpot_multiline_answer.HotpotMultilineAnswerTest) ... ok
+test_multiline_reasoning_finds_final_answer (test_hotpot_multiline_answer.HotpotMultilineAnswerTest) ... ok
+test_next_line_explanation_is_not_captured (test_hotpot_multiline_answer.HotpotMultilineAnswerTest) ... ok
+test_single_line_unicode_yes_no_and_literal_escapes_are_unchanged (test_hotpot_multiline_answer.HotpotMultilineAnswerTest) ... ok
+test_local_llm_address_becomes_openai_compatible_base_url (test_qwen_openai_client.QwenOpenAIClientTest) ... ok
+test_conversion_preserves_required_rag_fields (test_subsample_hotpot_by_type.SubsampleHotpotByTypeTest) ... ok
+test_manifest_records_reproducibility_inputs_and_ids (test_subsample_hotpot_by_type.SubsampleHotpotByTypeTest) ... ok
+test_stratified_sample_rejects_insufficient_type (test_subsample_hotpot_by_type.SubsampleHotpotByTypeTest) ... ok
+test_stratified_sample_selects_each_type_deterministically (test_subsample_hotpot_by_type.SubsampleHotpotByTypeTest) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 1.525s
+
+OK
+
+2026-10-14T06:20:02.540244+08:00 COMMAND ["/home/dengxin/miniconda3/envs/adaptiverag/bin/python", "-m", "unittest", "discover", "-s", "tests", "-v"]
+test_distribution_statistics (test_analyze_hotpot_500_500.AnalyzeHotpotTest) ... ok
+test_official_f1_ties_choose_smallest_k_without_em_priority (test_analyze_hotpot_500_500.AnalyzeHotpotTest) ... ok
+test_official_yes_no_does_not_award_partial_overlap (test_analyze_hotpot_500_500.AnalyzeHotpotTest) ... ok
+test_percentile_uses_linear_interpolation (test_analyze_hotpot_500_500.AnalyzeHotpotTest) ... ok
+test_token_join_rejects_duplicates_and_missing_questions (test_analyze_hotpot_500_500.AnalyzeHotpotTest) ... ok
+test_direct_qa_retains_existing_final_json_decode (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_invalid_quoted_json_keeps_legacy_outer_quote_handling (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_json_escaped_newline_is_restored_before_regex (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_json_lists_keep_intermediate_representation_and_final_list_semantics (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_json_strings_decode_once_before_matching (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_last_question_keeps_legacy_outer_quote_handling (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_list_captured_inside_cot_keeps_json_structure (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_literal_escaped_list_is_not_repaired_or_decoded_again (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_no_match_and_fullstop_settings_are_unchanged (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_original_regex_and_fallback_remain_line_sensitive (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_other_json_values_are_not_coerced (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_participant_serialization_roundtrip (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_plain_strings_and_last_question_preserve_literal_escapes (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_serialized_cot_through_actual_participant_extractor_and_final_prediction (test_answer_extractor_json.AnswerExtractorJSONTest) ... ok
+test_candidate_only_changes_regex_for_all_15_k_values (test_hotpot_multiline_answer.HotpotMultilineAnswerTest) ... ok
+test_greedy_last_marker_is_kept (test_hotpot_multiline_answer.HotpotMultilineAnswerTest) ... ok
+test_missing_marker_preserves_original_fallback (test_hotpot_multiline_answer.HotpotMultilineAnswerTest) ... ok
+test_multiline_reasoning_finds_final_answer (test_hotpot_multiline_answer.HotpotMultilineAnswerTest) ... ok
+test_next_line_explanation_is_not_captured (test_hotpot_multiline_answer.HotpotMultilineAnswerTest) ... ok
+test_single_line_unicode_yes_no_and_literal_escapes_are_unchanged (test_hotpot_multiline_answer.HotpotMultilineAnswerTest) ... ok
+test_local_llm_address_becomes_openai_compatible_base_url (test_qwen_openai_client.QwenOpenAIClientTest) ... ok
+test_conversion_preserves_required_rag_fields (test_subsample_hotpot_by_type.SubsampleHotpotByTypeTest) ... ok
+test_manifest_records_reproducibility_inputs_and_ids (test_subsample_hotpot_by_type.SubsampleHotpotByTypeTest) ... ok
+test_stratified_sample_rejects_insufficient_type (test_subsample_hotpot_by_type.SubsampleHotpotByTypeTest) ... ok
+test_stratified_sample_selects_each_type_deterministically (test_subsample_hotpot_by_type.SubsampleHotpotByTypeTest) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 1.549s
+
+OK

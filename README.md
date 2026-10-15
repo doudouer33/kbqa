@@ -200,3 +200,10 @@ If you found the provided code with our paper useful, we kindly request that you
   url={https://arxiv.org/abs/2403.14403}
 }
 ```
+
+# HotpotQA 500+500 正式实验
+
+正式配置为 `base_configs/oner_qa_qwen_hotpotqa_formal.jsonnet`。
+真实 Smoke Test、逐题 Token 记录、断点恢复和 1000×15 顺序运行见
+[正式实验运行说明](analysis/hotpot_formal_runner/README.md)。分析继续使用
+`analysis/analyze_hotpot_500_500.py`，采用官方 HotpotQA F1/EM，Oracle 最大化 F1、并列取最小 k。

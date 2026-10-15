@@ -1,0 +1,57 @@
+{
+  "qid": "5a7248665542990c210a40b1",
+  "k": 1,
+  "result": [
+    "5a7248665542990c210a40b1",
+    "Atlético Mineiro",
+    "\n5a7248665542990c210a40b1\nWhat is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played? \nA: [\"Fred (footballer)\"]\nQ: What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played?\nA: \"The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atl\\u00e9tico Mineiro. So the answer is: Atl\\u00e9tico Mineiro.\"\nA: Atlético Mineiro\nQ: [EOQ]\nS: 0.0"
+  ],
+  "tokens": {
+    "qid": "5a7248665542990c210a40b1",
+    "k": 1,
+    "prompt_tokens": 6484,
+    "total_tokens": 6522,
+    "completion_tokens": 38,
+    "latency_seconds": 1.218640275299549,
+    "finish_reason": "stop",
+    "prompt_cropped": false,
+    "format_valid": true,
+    "prompt_sha256": "9e5e43bd9bc289698d704a6acda0a0624ed9c6e198dd0a2742ad944505a93876",
+    "context_sha256": "03b987a4aebd24cfbb95f64206c6aff3da42fbfda8a1590755db245bd6e20098",
+    "fewshot_count": 15,
+    "raw_generation": "The colloquial name of the professional football team in which striker Frederico Chaves Guedes played is Atlético Mineiro. So the answer is: Atlético Mineiro.",
+    "prediction": "Atlético Mineiro",
+    "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "recovered_api_response": false
+  },
+  "contexts": [
+    {
+      "title": "Fred (footballer)",
+      "paragraph_text": "Frederico Chaves Guedes (born 3 October 1983), known as Fred (] ), is a Brazilian professional footballer who plays as a striker for Campeonato Brasileiro Série A club Atlético Mineiro."
+    }
+  ],
+  "retrieval": {
+    "request": {
+      "retrieval_method": "retrieve_from_elasticsearch",
+      "query_text": "the colloquial name of the professional football team in striker Frederico Chaves Guedos played? ",
+      "max_hits_count": 1,
+      "corpus_name": "hotpotqa",
+      "document_type": "title_paragraph_text"
+    },
+    "documents": [
+      {
+        "paragraph_text": "Frederico Chaves Guedes (born 3 October 1983), known as Fred (] ), is a Brazilian professional footballer who plays as a striker for Campeonato Brasileiro Série A club Atlético Mineiro.",
+        "id": "4RFU86muKP5AqJfBbbpSMFUykFTa79ui",
+        "paragraph_index": 0,
+        "title": "Fred (footballer)",
+        "is_abstract": true,
+        "url": "https://en.wikipedia.org/wiki?curid=3025466",
+        "score": 45.99332,
+        "corpus_name": "hotpotqa"
+      }
+    ]
+  },
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+  "input_sha256": "fb7fd76c12c2508ee1d109cfe1da438f2aa366b0ca1c1e45c655de2c38f4dbbb",
+  "elapsed_seconds": 2.2335409112274647
+}

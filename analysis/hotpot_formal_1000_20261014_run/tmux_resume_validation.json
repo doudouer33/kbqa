@@ -1,0 +1,27 @@
+{
+  "verified_at": "2026-10-14T19:19:12.422513+08:00",
+  "original_3826_pairs_unchanged": true,
+  "retry_qid": "5a844fd35542990548d0b274",
+  "retried_prompt_hash_matches_original_attempt": true,
+  "retry_valid_records": 1,
+  "retry_api_usage": {
+    "prompt_tokens": 6781,
+    "completion_tokens": 36,
+    "total_tokens": 6817,
+    "finish_reason": "stop"
+  },
+  "total_valid_pairs_at_capture": 3858,
+  "unique_valid_pairs_at_capture": 3858,
+  "k_counts_at_capture": {
+    "1": 1000,
+    "2": 1000,
+    "3": 1000,
+    "4": 858
+  },
+  "cropped_or_non_stop_records": 0,
+  "execution_manager": "tmux",
+  "runner_pid": 843182,
+  "supervisor_pid": 843178,
+  "tmux_server_pid": 843176,
+  "frozen_sources_unchanged": true
+}

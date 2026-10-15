@@ -1,0 +1,57 @@
+{
+  "qid": "5ae14def55429901ffe4ae4a",
+  "k": 1,
+  "result": [
+    "5ae14def55429901ffe4ae4a",
+    "yes",
+    "\n5ae14def55429901ffe4ae4a\nDo both Lee Tamahori and Robert Redford work as a director?\nA: [\"Lee Tamahori\"]\nQ: Do both Lee Tamahori and Robert Redford work as a director?\nA: \"Lee Tamahori is a filmmaker who directs movies. Robert Redford is known for his work as an actor, director, and producer. Both have worked as directors at some point in their careers. So the answer is: yes.\"\nA: yes\nQ: [EOQ]\nS: 0.0"
+  ],
+  "tokens": {
+    "qid": "5ae14def55429901ffe4ae4a",
+    "k": 1,
+    "prompt_tokens": 6473,
+    "total_tokens": 6521,
+    "completion_tokens": 48,
+    "latency_seconds": 1.209969524294138,
+    "finish_reason": "stop",
+    "prompt_cropped": false,
+    "format_valid": true,
+    "prompt_sha256": "5449ad02366162f8567614b9396eb853fee492c8be3df634512d3a5e4f67a2ab",
+    "context_sha256": "904de66186575c5b36406bd3fb8f3e2b76794086db93b37a9e3ccf63c37dbf71",
+    "fewshot_count": 15,
+    "raw_generation": "Lee Tamahori is a filmmaker who directs movies. Robert Redford is known for his work as an actor, director, and producer. Both have worked as directors at some point in their careers. So the answer is: yes.",
+    "prediction": "yes",
+    "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "recovered_api_response": true
+  },
+  "contexts": [
+    {
+      "title": "Lee Tamahori",
+      "paragraph_text": "Lee Tamahori (born 17 June 1950) is a New Zealand filmmaker best known for directing 1994 film \"Once Were Warriors\" and 2002 James Bond film \"Die Another Day\"."
+    }
+  ],
+  "retrieval": {
+    "request": {
+      "retrieval_method": "retrieve_from_elasticsearch",
+      "query_text": "Do both Lee Tamahori and Robert Redford work as a director?",
+      "max_hits_count": 1,
+      "corpus_name": "hotpotqa",
+      "document_type": "title_paragraph_text"
+    },
+    "documents": [
+      {
+        "paragraph_text": "Lee Tamahori (born 17 June 1950) is a New Zealand filmmaker best known for directing 1994 film \"Once Were Warriors\" and 2002 James Bond film \"Die Another Day\".",
+        "id": "2n3uo5S32ZvBxdjjiMz4tSeT4R9MuanX",
+        "paragraph_index": 0,
+        "title": "Lee Tamahori",
+        "is_abstract": true,
+        "url": "https://en.wikipedia.org/wiki?curid=959072",
+        "score": 44.569546,
+        "corpus_name": "hotpotqa"
+      }
+    ]
+  },
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+  "input_sha256": "fb7fd76c12c2508ee1d109cfe1da438f2aa366b0ca1c1e45c655de2c38f4dbbb",
+  "elapsed_seconds": 0.38939814642071724
+}

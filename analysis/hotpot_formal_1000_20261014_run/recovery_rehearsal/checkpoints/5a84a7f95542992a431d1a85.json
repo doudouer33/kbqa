@@ -1,0 +1,57 @@
+{
+  "qid": "5a84a7f95542992a431d1a85",
+  "k": 1,
+  "result": [
+    "5a84a7f95542992a431d1a85",
+    "no",
+    "\n5a84a7f95542992a431d1a85\nWho was the wife of the United States Army lieutenant general who received the Distinguished Service Cross, and was the first of his West Point class to be promoted to brigadier general, major general, and lieutenant general\nA: [\"Lieutenant general (United States)\"]\nQ: Who was the wife of the United States Army lieutenant general who received the Distinguished Service Cross, and was the first of his West Point class to be promoted to brigadier general, major general, and lieutenant general\nA: \"The question does not provide enough specific information to determine a single answer based on the given context. Therefore, I cannot provide a definitive answer in the required format. So the answer is: no.\"\nA: no\nQ: [EOQ]\nS: 0.0"
+  ],
+  "tokens": {
+    "qid": "5a84a7f95542992a431d1a85",
+    "k": 1,
+    "prompt_tokens": 6541,
+    "total_tokens": 6581,
+    "completion_tokens": 40,
+    "latency_seconds": 1.2446707729250193,
+    "finish_reason": "stop",
+    "prompt_cropped": false,
+    "format_valid": true,
+    "prompt_sha256": "757b20d2b7875469e6ff2d5a1e38e8bec2fca6b67fce80eee31a1819cff16f47",
+    "context_sha256": "32440186e1c90769c9cc764fd0895c834ab69ad47478f2dbc8d7b322d91cd96e",
+    "fewshot_count": 15,
+    "raw_generation": "The question does not provide enough specific information to determine a single answer based on the given context. Therefore, I cannot provide a definitive answer in the required format. So the answer is: no.",
+    "prediction": "no",
+    "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "recovered_api_response": false
+  },
+  "contexts": [
+    {
+      "title": "Lieutenant general (United States)",
+      "paragraph_text": "In the United States Army, United States Marine Corps, and the United States Air Force, lieutenant general (abbreviated LTG in the Army, Lt Gen in the Air Force, and LtGen in the Marine Corps) is a three-star general officer rank, with the pay grade of O-9. Lieutenant general ranks above major general and below general. Lieutenant general is equivalent to the rank of vice admiral in the other uniformed services."
+    }
+  ],
+  "retrieval": {
+    "request": {
+      "retrieval_method": "retrieve_from_elasticsearch",
+      "query_text": "was the wife of the United States Army lieutenant general received the Distinguished Service Cross, and was the first of his West Point class to be promoted to brigadier general, major general, and lieutenant general",
+      "max_hits_count": 1,
+      "corpus_name": "hotpotqa",
+      "document_type": "title_paragraph_text"
+    },
+    "documents": [
+      {
+        "paragraph_text": "In the United States Army, United States Marine Corps, and the United States Air Force, lieutenant general (abbreviated LTG in the Army, Lt Gen in the Air Force, and LtGen in the Marine Corps) is a three-star general officer rank, with the pay grade of O-9. Lieutenant general ranks above major general and below general. Lieutenant general is equivalent to the rank of vice admiral in the other uniformed services.",
+        "id": "5FsUZXkhna1sD6BNba7zftxNTFWSE2SQ",
+        "paragraph_index": 0,
+        "title": "Lieutenant general (United States)",
+        "is_abstract": true,
+        "url": "https://en.wikipedia.org/wiki?curid=3820104",
+        "score": 104.6226,
+        "corpus_name": "hotpotqa"
+      }
+    ]
+  },
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+  "input_sha256": "fb7fd76c12c2508ee1d109cfe1da438f2aa366b0ca1c1e45c655de2c38f4dbbb",
+  "elapsed_seconds": 2.047732710838318
+}

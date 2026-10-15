@@ -1,0 +1,57 @@
+{
+  "qid": "5ae497595542995ad6573db7",
+  "k": 1,
+  "result": [
+    "5ae497595542995ad6573db7",
+    "genera of flowering plants",
+    "\n5ae497595542995ad6573db7\nWhat are both Stauntonia and Pimelea?\nA: [\"Stauntonia\"]\nQ: What are both Stauntonia and Pimelea?\nA: \"Stauntonia and Pimelea are both genera of flowering plants. So the answer is: genera of flowering plants.\"\nA: genera of flowering plants\nQ: [EOQ]\nS: 0.0"
+  ],
+  "tokens": {
+    "qid": "5ae497595542995ad6573db7",
+    "k": 1,
+    "prompt_tokens": 6465,
+    "total_tokens": 6492,
+    "completion_tokens": 27,
+    "latency_seconds": 0.9021325297653675,
+    "finish_reason": "stop",
+    "prompt_cropped": false,
+    "format_valid": true,
+    "prompt_sha256": "f58136e2853befdae45bbde3ab824e99568bffe15087f0d183d81f8c7ccc17a0",
+    "context_sha256": "27c3074193cb17966b234f2179dd9bb63422c244ae9b7c97723255c8a7be1c25",
+    "fewshot_count": 15,
+    "raw_generation": "Stauntonia and Pimelea are both genera of flowering plants. So the answer is: genera of flowering plants.",
+    "prediction": "genera of flowering plants",
+    "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "recovered_api_response": true
+  },
+  "contexts": [
+    {
+      "title": "Stauntonia",
+      "paragraph_text": "Stauntonia is a genus of flowering plant in the Lardizabalaceae family. It is named after George Staunton, who brought it to Britain from China in the 19th Century."
+    }
+  ],
+  "retrieval": {
+    "request": {
+      "retrieval_method": "retrieve_from_elasticsearch",
+      "query_text": "are both Stauntonia and Pimelea?",
+      "max_hits_count": 1,
+      "corpus_name": "hotpotqa",
+      "document_type": "title_paragraph_text"
+    },
+    "documents": [
+      {
+        "paragraph_text": "Stauntonia is a genus of flowering plant in the Lardizabalaceae family. It is named after George Staunton, who brought it to Britain from China in the 19th Century.",
+        "id": "33KYB7vAyCDEneBmP16fQXvGSBY1uN3R",
+        "paragraph_index": 0,
+        "title": "Stauntonia",
+        "is_abstract": true,
+        "url": "https://en.wikipedia.org/wiki?curid=7484674",
+        "score": 37.378162,
+        "corpus_name": "hotpotqa"
+      }
+    ]
+  },
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+  "input_sha256": "fb7fd76c12c2508ee1d109cfe1da438f2aa366b0ca1c1e45c655de2c38f4dbbb",
+  "elapsed_seconds": 0.32801822014153004
+}

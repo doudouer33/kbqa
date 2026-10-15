@@ -1,0 +1,30 @@
+{
+  "response": {
+    "id": "chat-b3a696e41689435ca3643edcd3cad7d8",
+    "object": "chat.completion",
+    "created": 1791929919,
+    "model": "Qwen2.5-7B-Instruct",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The 'Burbs stars include Tom Hanks, Bruce Dern, Carrie Fisher, Rick Ducommun, Corey Feldman, Wendy Schaal, and Henry Gibson. Among these, Carrie Fisher is Canadian. So the answer is: Carrie Fisher.",
+          "tool_calls": []
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 6495,
+      "total_tokens": 6546,
+      "completion_tokens": 51
+    },
+    "prompt_logprobs": null
+  },
+  "latency_seconds": 1.438048930838704,
+  "prompt_sha256": "1a143f35290a303f6ebc1162be1198bf19a04c30761dfca6f8eeec349defcf47",
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1"
+}

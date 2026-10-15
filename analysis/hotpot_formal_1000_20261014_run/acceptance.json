@@ -1,0 +1,19 @@
+{
+  "valid_pairs": 15000,
+  "all_k_validated": true,
+  "historical_files_unchanged": true,
+  "dataset_sha256": "b9798320af36fbeedf1e81ed7690673016ba77b3cdc085d268c36b50669b04af",
+  "analysis_artifacts": [
+    "fixed_k_results.csv",
+    "oracle_distribution.csv",
+    "per_question_curves.jsonl",
+    "hotpot_basic_statistics.json",
+    "fixed_k_f1.png",
+    "token_curve.png",
+    "bridge_oracle_distribution.png",
+    "comparison_oracle_distribution.png",
+    "combined_oracle_distribution.png",
+    "hotpot_500_500_analysis.md"
+  ],
+  "finished_at": "2026-10-15T01:20:11.621850+08:00"
+}

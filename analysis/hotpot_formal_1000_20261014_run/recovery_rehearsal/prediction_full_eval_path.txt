@@ -1,0 +1,1 @@
+/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/hotpotqa_smoke.jsonl

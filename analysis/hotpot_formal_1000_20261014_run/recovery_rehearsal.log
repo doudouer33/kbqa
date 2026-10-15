@@ -1,0 +1,22 @@
+
+2026-10-14T06:20:41.347254+08:00 COMMAND ["/home/dengxin/miniconda3/envs/adaptiverag/bin/python", "-m", "commaqa.inference.configurable_inference", "--config", "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/instantiated_configs/oner_qa_qwen_hotpotqa_formal____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet", "--input", "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/predictions/hotpot_formal_1000_20261014_smoke/hotpotqa_smoke.jsonl", "--output", "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_formal_1000_20261014_run/recovery_rehearsal/prediction.json", "--silent"]
+/home/dengxin/miniconda3/envs/adaptiverag/lib/python3.8/site-packages/huggingface_hub/file_download.py:949: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'Qwen2Tokenizer'. 
+The class this function is called from is 'PreTrainedTokenizerFast'.
+Running inference on examples
+0it [00:00, ?it/s]
+0it [00:00, ?it/s][AFORMAL k=1 completed=4/8 qid=5a79b495554299148911fa3b seconds=0.46
+4it [00:00,  8.75it/s]
+4it [00:00,  8.75it/s][AFORMAL k=1 completed=5/8 qid=5ae14def55429901ffe4ae4a seconds=0.39
+5it [00:00,  5.34it/s]
+5it [00:00,  5.34it/s][AFORMAL k=1 completed=6/8 qid=5ae497595542995ad6573db7 seconds=0.33
+6it [00:01,  4.42it/s]
+6it [00:01,  4.42it/s][AFORMAL k=1 completed=7/8 qid=5ab80bbf5542991d32223818 seconds=0.33
+7it [00:01,  3.90it/s]
+7it [00:01,  3.90it/s][AFORMAL k=1 completed=8/8 qid=5abdc0ad55429933744ab81b seconds=0.32
+8it [00:01,  3.63it/s]
+8it [00:01,  3.63it/s][A8it [00:01,  4.36it/s]
+8it [00:01,  4.36it/s]
+Writing predictions in /media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_formal_1000_20261014_run/recovery_rehearsal/prediction.json

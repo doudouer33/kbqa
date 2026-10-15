@@ -1,0 +1,57 @@
+{
+  "qid": "5a79b495554299148911fa3b",
+  "k": 1,
+  "result": [
+    "5a79b495554299148911fa3b",
+    "Wayne Boden",
+    "\n5a79b495554299148911fa3b\nWhich serial killer was known to start killing first, Wayne Boden or Ted Bundy?\nA: [\"Wayne Boden\"]\nQ: Which serial killer was known to start killing first, Wayne Boden or Ted Bundy?\nA: \"Wayne Clifford Boden was active between 1969 and 1971, while Ted Bundy's first known murder was in 1974. Thus, Wayne Boden started killing first. So the answer is: Wayne Boden.\"\nA: Wayne Boden\nQ: [EOQ]\nS: 0.0"
+  ],
+  "tokens": {
+    "qid": "5a79b495554299148911fa3b",
+    "k": 1,
+    "prompt_tokens": 6543,
+    "total_tokens": 6597,
+    "completion_tokens": 54,
+    "latency_seconds": 1.306167595088482,
+    "finish_reason": "stop",
+    "prompt_cropped": false,
+    "format_valid": true,
+    "prompt_sha256": "5491a6532946ff74aa31c0543ec5ae4339455bf1d8631fba15cd0f906bd02829",
+    "context_sha256": "960df51cf7b1dd4c78a5e7eea92d9faf8a049e07532a3af693708ddcb43c469d",
+    "fewshot_count": 15,
+    "raw_generation": "Wayne Clifford Boden was active between 1969 and 1971, while Ted Bundy's first known murder was in 1974. Thus, Wayne Boden started killing first. So the answer is: Wayne Boden.",
+    "prediction": "Wayne Boden",
+    "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "recovered_api_response": true
+  },
+  "contexts": [
+    {
+      "title": "Wayne Boden",
+      "paragraph_text": "Wayne Clifford Boden (c. 1948 – 27 March 2006) was a Canadian serial killer and rapist active between 1969 and 1971. He was raised in Dundas, Ontario, near Hamilton. He earned the nickname \"The Vampire Rapist\" because he had the penchant of biting the breasts of his victims, a modus operandi that led to his conviction due to forensic odontological evidence. His was the first such conviction in North America, several years before Ted Bundy, another serial killer."
+    }
+  ],
+  "retrieval": {
+    "request": {
+      "retrieval_method": "retrieve_from_elasticsearch",
+      "query_text": "serial killer was known to start killing first, Wayne Boden or Ted Bundy?",
+      "max_hits_count": 1,
+      "corpus_name": "hotpotqa",
+      "document_type": "title_paragraph_text"
+    },
+    "documents": [
+      {
+        "paragraph_text": "Wayne Clifford Boden (c. 1948 – 27 March 2006) was a Canadian serial killer and rapist active between 1969 and 1971. He was raised in Dundas, Ontario, near Hamilton. He earned the nickname \"The Vampire Rapist\" because he had the penchant of biting the breasts of his victims, a modus operandi that led to his conviction due to forensic odontological evidence. His was the first such conviction in North America, several years before Ted Bundy, another serial killer.",
+        "id": "5Yy1KynUpMjcJt7ZKk8CuidxYGMd9BR3",
+        "paragraph_index": 0,
+        "title": "Wayne Boden",
+        "is_abstract": true,
+        "url": "https://en.wikipedia.org/wiki?curid=5980374",
+        "score": 63.802025,
+        "corpus_name": "hotpotqa"
+      }
+    ]
+  },
+  "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+  "input_sha256": "fb7fd76c12c2508ee1d109cfe1da438f2aa366b0ca1c1e45c655de2c38f4dbbb",
+  "elapsed_seconds": 0.45511660538613796
+}

@@ -1,0 +1,29 @@
+{
+  "observed_at": "2026-10-14T19:06:22.232398+08:00",
+  "runner_process_present": false,
+  "completion_signal_or_exit_code": "unavailable",
+  "request_events_k4": 827,
+  "completed_checkpoints_k4": 826,
+  "pending_requests": [
+    {
+      "qid": "5a844fd35542990548d0b274",
+      "k": 4,
+      "prompt_sha256": "d2ab50415bd44bd46ffb72fb8e9ff1765a3f3992f2ac92ccb927a25f8b23b295",
+      "parameters": {
+        "model": "Qwen2.5-7B-Instruct",
+        "frequency_penalty": 0,
+        "logprobs": false,
+        "max_tokens": 512,
+        "n": 1,
+        "presence_penalty": 0,
+        "stop": [],
+        "temperature": 0,
+        "top_logprobs": null,
+        "top_p": 1
+      }
+    }
+  ],
+  "preserved_valid_pairs": 3826,
+  "model_endpoint_currently_responds": true,
+  "safe_resume_blocked_by_missing_api_response": true
+}
