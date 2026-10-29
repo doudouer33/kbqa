@@ -1,0 +1,62 @@
+Python: /home/dengxin/miniconda3/envs/adaptiverag/bin/python (3.8.20)
+Command: python -m unittest discover -s analysis/soft_oracle_1000/tests -p 'test_*.py' -v
+Lint: ruff check --isolated --select E,F --ignore E501 analysis/soft_oracle_1000
+The repository's legacy ruff config contains unsupported show-source in installed ruff 0.15.11; isolated lint preserves repository configuration.
+
+reformatted analysis/soft_oracle_1000/analyze_soft_oracle.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted, 2 files left unchanged.
+All checks passed!
+test_abnormal_tokens (test_soft_oracle.AlignmentTests) ... ok
+test_api_token_total_conflict (test_soft_oracle.AlignmentTests) ... ok
+test_bad_recall_bounds (test_soft_oracle.AlignmentTests) ... ok
+test_duplicate_pair (test_soft_oracle.AlignmentTests) ... ok
+test_duplicate_query (test_soft_oracle.AlignmentTests) ... ok
+test_extra_k (test_soft_oracle.AlignmentTests) ... ok
+test_f1_em_conflicts (test_soft_oracle.AlignmentTests) ... ok
+test_hard_oracle_conflict (test_soft_oracle.AlignmentTests) ... ok
+test_inconsistent_evidence_counts (test_soft_oracle.AlignmentTests) ... ok
+test_inconsistent_evidence_status (test_soft_oracle.AlignmentTests) ... ok
+test_missing_curve_k (test_soft_oracle.AlignmentTests) ... ok
+test_missing_file (test_soft_oracle.AlignmentTests) ... ok
+test_missing_pair (test_soft_oracle.AlignmentTests) ... ok
+test_missing_tokens (test_soft_oracle.AlignmentTests) ... ok
+test_missing_type (test_soft_oracle.AlignmentTests) ... ok
+test_noninteger_tokens (test_soft_oracle.AlignmentTests) ... ok
+test_qid_alias_mismatch (test_soft_oracle.AlignmentTests) ... ok
+test_qid_sets_differ (test_soft_oracle.AlignmentTests) ... ok
+test_type_mismatch (test_soft_oracle.AlignmentTests) ... ok
+test_unknown_diagnostic_preserved (test_soft_oracle.AlignmentTests) ... ok
+test_valid_data_join (test_soft_oracle.AlignmentTests) ... ok
+test_ablation_masks (test_soft_oracle.LabelTests) ... ok
+test_all_zero_even_if_candidates_exist (test_soft_oracle.LabelTests) ... ok
+test_all_zero_has_priority_over_empty (test_soft_oracle.LabelTests) ... ok
+test_alternative_token_cost (test_soft_oracle.LabelTests) ... ok
+test_bad_costs (test_soft_oracle.LabelTests) ... ok
+test_bad_parameters (test_soft_oracle.LabelTests) ... ok
+test_both_thresholds_inclusive (test_soft_oracle.LabelTests) ... ok
+test_empty_is_null_without_fallback (test_soft_oracle.LabelTests) ... ok
+test_feasibility_partition_denominators (test_soft_oracle.LabelTests) ... ok
+test_maximum_over_all_k_for_cost (test_soft_oracle.LabelTests) ... ok
+test_multi_softmax_matches_utility_difference (test_soft_oracle.LabelTests) ... ok
+test_non_candidates_exact_zero (test_soft_oracle.LabelTests) ... ok
+test_normalize_cost (test_soft_oracle.LabelTests) ... ok
+test_numeric_stability (test_soft_oracle.LabelTests) ... ok
+test_parameter_runs_do_not_pollute_state (test_soft_oracle.LabelTests) ... ok
+test_roundoff_at_threshold (test_soft_oracle.LabelTests) ... ok
+test_singleton_is_onehot (test_soft_oracle.LabelTests) ... ok
+test_smax_not_recomputed_after_evidence (test_soft_oracle.LabelTests) ... ok
+test_summary_same_subset_fixed_baseline (test_soft_oracle.LabelTests) ... ok
+test_tau_zero_equals_no_evidence_constraint (test_soft_oracle.LabelTests) ... ok
+test_temperature_preserves_argmax (test_soft_oracle.LabelTests) ... ok
+test_tied_utility_selects_smallest_k (test_soft_oracle.LabelTests) ... ok
+test_tiny_temperature_and_huge_utility (test_soft_oracle.LabelTests) ... ok
+test_unknown_not_treated_as_confirmed_hit (test_soft_oracle.LabelTests) ... ok
+test_refuse_duplicate_json_object_keys (test_soft_oracle.OutputSafetyTests) ... ok
+test_refuse_existing_directory (test_soft_oracle.OutputSafetyTests) ... ok
+
+----------------------------------------------------------------------
+Ran 47 tests in 0.041s
+
+OK

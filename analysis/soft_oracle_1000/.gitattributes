@@ -1,0 +1,2 @@
+# Preserve csv.writer CRLF bytes so recorded output SHA256 values remain valid.
+*.csv -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

@@ -1,0 +1,25 @@
+{
+  "inputs": {
+    "curves": "analysis/hotpot_formal_1000_20261014/per_question_curves.jsonl",
+    "evidence": "analysis/hotpot_formal_1000_20261014/evidence_diagnostic/per_k_evidence.csv",
+    "questions": "analysis/hotpot_formal_1000_20261014/evidence_diagnostic/per_question.csv",
+    "dataset": "processed_data/hotpotqa/dev_1000_subsampled.jsonl"
+  },
+  "expected_type_counts": {"bridge": 500, "comparison": 500},
+  "k_values": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+  "reference": {
+    "epsilon": 0.1,
+    "tau": 0.5,
+    "lambda": 0.1,
+    "temperature": 0.1,
+    "evidence_metric": "sentence_recall_lower",
+    "cost_metric": "context_tokens",
+    "scheme": "D"
+  },
+  "sweep": {
+    "epsilon": [0, 0.05, 0.1],
+    "tau": [0, 0.5, 0.75, 1.0],
+    "lambda": [0.05, 0.1, 0.2],
+    "temperature": [0.05, 0.1, 0.2]
+  }
+}

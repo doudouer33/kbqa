@@ -1,0 +1,165 @@
+{
+  "label_construction_version": "soft-oracle-1.0.0",
+  "created_at": "2026-10-29T22:48:37.593247+08:00",
+  "timezone": "Asia/Shanghai",
+  "analysis_kind": "Offline Oracle / Label Analysis",
+  "command": [
+    "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+    "analysis/soft_oracle_1000/analyze_soft_oracle.py",
+    "--config",
+    "analysis/soft_oracle_1000/config.json",
+    "--output",
+    "analysis/soft_oracle_1000/outputs/experiment_002"
+  ],
+  "python_version": "3.8.20",
+  "config_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/soft_oracle_1000/config.json",
+  "config_sha256": "60b2ffa2cd2b8bd3efbd6163eeb789e65cb063628a4602e21b944bbca6f2658a",
+  "configuration": {
+    "inputs": {
+      "curves": "analysis/hotpot_formal_1000_20261014/per_question_curves.jsonl",
+      "evidence": "analysis/hotpot_formal_1000_20261014/evidence_diagnostic/per_k_evidence.csv",
+      "questions": "analysis/hotpot_formal_1000_20261014/evidence_diagnostic/per_question.csv",
+      "dataset": "processed_data/hotpotqa/dev_1000_subsampled.jsonl"
+    },
+    "expected_type_counts": {
+      "bridge": 500,
+      "comparison": 500
+    },
+    "k_values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "reference": {
+      "epsilon": 0.1,
+      "tau": 0.5,
+      "lambda": 0.1,
+      "temperature": 0.1,
+      "evidence_metric": "sentence_recall_lower",
+      "cost_metric": "context_tokens",
+      "scheme": "D"
+    },
+    "sweep": {
+      "epsilon": [
+        0,
+        0.05,
+        0.1
+      ],
+      "tau": [
+        0,
+        0.5,
+        0.75,
+        1.0
+      ],
+      "lambda": [
+        0.05,
+        0.1,
+        0.2
+      ],
+      "temperature": [
+        0.05,
+        0.1,
+        0.2
+      ]
+    }
+  },
+  "runtime_parameters": {
+    "epsilon": 0.1,
+    "tau": 0.5,
+    "temperature": 0.1,
+    "evidence_metric": "sentence_recall_lower",
+    "cost_metric": "context_tokens",
+    "scheme": "D",
+    "lambda": 0.1
+  },
+  "inputs": {
+    "curves": {
+      "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_formal_1000_20261014/per_question_curves.jsonl",
+      "sha256": "8a83d74ec9f2a52a6608cd50753c71d54a4ab57afcff18d474c1b66de55153f0"
+    },
+    "evidence": {
+      "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_formal_1000_20261014/evidence_diagnostic/per_k_evidence.csv",
+      "sha256": "e4cd524771554c00232f6aed3250e3c3cee3a3d6cff69836f43db0012492c484"
+    },
+    "questions": {
+      "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_formal_1000_20261014/evidence_diagnostic/per_question.csv",
+      "sha256": "903b9a2d1dfdb03f05bf46b6642bd0343d9b37a4a21695d86dbca27f3093e0a9"
+    },
+    "dataset": {
+      "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/processed_data/hotpotqa/dev_1000_subsampled.jsonl",
+      "sha256": "b9798320af36fbeedf1e81ed7690673016ba77b3cdc085d268c36b50669b04af"
+    }
+  },
+  "cost_normalization": "per-query tokens(k) / max(tokens(j) for all 15 j); independent of candidate set",
+  "evidence_definition": "Reused diagnostic: confirmed Gold sentence/paragraph hits in actual model-visible filtered, 350-word-rendered contexts; lower=hit/total, upper=(hit+unknown)/total. Unknown is uncertainty, not confirmed absence.",
+  "numeric_boundary_atol": 1e-12,
+  "entropy_log_base": "e",
+  "single_candidate_normalized_entropy": null,
+  "all_zero_policy": "retain counts/masks/curves, soft_label=null; same in A/B/C/D",
+  "empty_policy": "soft_label=null; no fallback",
+  "argmax_tie_policy": "maximum utility then smallest k",
+  "scope": "Only local saved statistics; no retrieval, LLM, inference, or training imports/calls",
+  "evidence_definition_sources": {
+    "analysis/hotpot_formal_1000_20261014/evidence_diagnostic/analyze_evidence.py": "d67c5dfdf8f18e8d5fff78f39221715a3229091f4c52585427d15d6aa857dfc5",
+    "analysis/hotpot_formal_1000_20261014/evidence_diagnostic/summary.md": "90d17b58ee7ab18ea09ed457d284f655ef5c9c7bb2b7d35aa2631cd46b90e1fa"
+  },
+  "sample_count": 1000,
+  "k_values": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "code_sha256": {
+    "analysis/soft_oracle_1000/analyze_soft_oracle.py": "4055f00b6483f61ec19930574def3513b3723e25e5313b3ff0370b079002e1ab",
+    "analysis/soft_oracle_1000/build_soft_oracle.py": "6a6b60e7d085af02dccb7219205eb06dc869879d10acfbb2de8b5f544e092633",
+    "analysis/soft_oracle_1000/tests/test_soft_oracle.py": "75f67a8c25937d5deb488c704def4e748317a65485dbccc5d18c7d108a91be01"
+  },
+  "git_head": "5c4fcac514f096b8e5fdf3a11b950dc1166d080b",
+  "git_status_before_run": "?? analysis/soft_oracle_1000/README.md\n?? analysis/soft_oracle_1000/analyze_soft_oracle.py\n?? analysis/soft_oracle_1000/build_soft_oracle.py\n?? analysis/soft_oracle_1000/config.json\n?? analysis/soft_oracle_1000/outputs/experiment_001/distribution_summary.json\n?? analysis/soft_oracle_1000/outputs/experiment_001/examples.jsonl\n?? analysis/soft_oracle_1000/outputs/experiment_001/feasibility_summary.csv\n?? analysis/soft_oracle_1000/outputs/experiment_001/figures/candidate_count.png\n?? analysis/soft_oracle_1000/outputs/experiment_001/figures/feasible_ratio.png\n?? analysis/soft_oracle_1000/outputs/experiment_001/figures/label_distribution.png\n?? analysis/soft_oracle_1000/outputs/experiment_001/figures/label_entropy.png\n?? analysis/soft_oracle_1000/outputs/experiment_001/figures/quality_cost_tradeoff.png\n?? analysis/soft_oracle_1000/outputs/experiment_001/labels.jsonl\n?? analysis/soft_oracle_1000/outputs/experiment_001/metadata.json\n?? analysis/soft_oracle_1000/outputs/experiment_001/parameter_sweep.csv\n?? analysis/soft_oracle_1000/outputs/experiment_001/per_k_details.csv\n?? analysis/soft_oracle_1000/outputs/experiment_001/report.md\n?? analysis/soft_oracle_1000/outputs/experiment_001/validation.json\n?? analysis/soft_oracle_1000/tests/test_soft_oracle.py\n?? \"docs/\\345\\275\\223\\345\\211\\215\\347\\240\\224\\347\\251\\266\\346\\226\\271\\346\\263\\225\\344\\270\\216\\351\\227\\256\\351\\242\\230\\346\\225\\264\\347\\220\\206.md\"\n",
+  "plotting": {
+    "matplotlib_version": "3.7.5",
+    "figure_count": 5,
+    "figure_language": "English; Chinese captions in report"
+  },
+  "input_hashes_unchanged_after_run": true,
+  "sweep_numeric_parameter_combinations": 108,
+  "output_sha256": {
+    "distribution_summary.json": "a8452aa150efa568c1e8ae277c374ff227d925172467fdbab3658d386cf46aa0",
+    "examples.jsonl": "8cc78c027e20184a9b236214d33b4bacbaecf3b21745032bb1a4b4349fc7d6d9",
+    "feasibility_summary.csv": "40d0a04c2f09188e136d1718b8df0d59e22bacfdec3c9503580b754d0c992c2b",
+    "figures/candidate_count.png": "64a8c9ae8fc9fe9915b5dac954adba3557d5ce4e68a07531de339a1fb7324be8",
+    "figures/feasible_ratio.png": "1f2aac30b3168ef7e60a26c40e2c21c0c993d68005ca3bda55ecf26d5af5505f",
+    "figures/label_distribution.png": "7594521f3c5eef82cd8f249b52eb7587a6211b4cc491c2879a15b8ee0ccc416f",
+    "figures/label_entropy.png": "5a2eb35aca2fc0c8bf50249b00321535f2cd66543bacd6da0821c59fb44fb08d",
+    "figures/quality_cost_tradeoff.png": "cef5bbef1ba75cda0bade3fc3906a59c3050e2f3d86de9e427dbb41df309926c",
+    "labels.jsonl": "479fd04ed480b5dc6e329403b393d52507b36a7194f1e7b68b7cd627309f828e",
+    "parameter_sweep.csv": "1d5b5920a49ad86fe42885e0c6360e27f6210707352bec7fdf94939d0ba5c8d1",
+    "per_k_details.csv": "3ae1e421a12b053e216a636d9e869d8d143886ab7a76ab2cbe32f93d49c42d27",
+    "report.md": "ac60e0b1ccbe934169f8384337ee91dd5c6e2733b5713390a8094179e23e795c",
+    "tests.log": "c9446989e79cfc45756203a5a203de4034a3d15a667b711872e5e314f91c9040"
+  }
+}

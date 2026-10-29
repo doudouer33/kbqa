@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "query_count": 1000,
+  "pair_count": 15000,
+  "type_counts": {
+    "bridge": 500,
+    "comparison": 500
+  },
+  "k_values": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "duplicate_keys": 0,
+  "missing_pairs": 0,
+  "f1_em_mismatches": 0,
+  "token_anomalies": 0,
+  "all_zero_f1_count": 181,
+  "unknown_sentence_pairs": 1,
+  "unknown_sentence_queries": 1,
+  "context_tokens_min": 18,
+  "context_token_decrease_pairs": 0,
+  "checks": [
+    "all four qid sets; full unique (qid,k) join",
+    "type and text alignment",
+    "F1/EM across three diagnostic views",
+    "Hard Oracle/ties from all k",
+    "evidence count/status/bound consistency; unknown retained",
+    "token usage qid/k; integer nonnegative API tokens; positive context; total=prompt+completion"
+  ],
+  "output_validation": {
+    "passed": true,
+    "labels_n": 1000,
+    "valid_labels_n": 752,
+    "per_k_n": 15000,
+    "feasibility_rows": 144,
+    "parameter_sweep_rows": 2592,
+    "probabilities_and_null_states_checked": true,
+    "summary_partitions_and_histograms_checked": true,
+    "reference_probability_mass_recomputed_from_saved_labels": true
+  }
+}
