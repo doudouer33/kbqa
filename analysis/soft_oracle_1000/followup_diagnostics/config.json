@@ -1,0 +1,8 @@
+{
+  "base_config": "analysis/soft_oracle_1000/config.json",
+  "source_experiment": "analysis/soft_oracle_1000/outputs/experiment_002",
+  "lambda_values": [0.1, 0.2, 0.4, 0.8],
+  "temperature_values": [0.01, 0.02, 0.05, 0.1],
+  "tau_values": [0.5, 0.75, 1.0],
+  "near_one_hot_threshold": 0.95
+}

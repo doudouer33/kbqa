@@ -1,0 +1,56 @@
+{
+  "passed": true,
+  "preexisting_files_checked": 4555,
+  "changed_preexisting_files": [],
+  "old_code_and_experiment_001_002_unchanged": true,
+  "source_and_output_hashes_match_metadata": true,
+  "all_48_sharpness_rows_independently_recomputed": true,
+  "all_3000_evidence_curves_match_source": true,
+  "new_tests": {
+    "passed": 28,
+    "failed": 0
+  },
+  "existing_regression_tests": {
+    "passed": 47,
+    "failed": 0
+  },
+  "python_38_syntax_check": true,
+  "ruff_check": "passed, isolated E/F except E501",
+  "git_diff_check_passed": true,
+  "new_text_files_whitespace_checked": 17,
+  "tracked_changes": "",
+  "staged_changes": "",
+  "unrelated_document_preserved": true,
+  "reference_budget_differences": {
+    "different_k_n": 3,
+    "valid_n": 752,
+    "sum_f1_gain": 0.3,
+    "sum_extra_context_tokens": 1746
+  },
+  "file_manifest_sha256": {
+    "README.md": "9c8d9448fd74a0f8021442bcd027fc679fa708b3148e0ed0b95f5a0e4736920b",
+    "analyze.py": "a8081f8faba17cef1b27a88f4ed19225eaa111e268a630dc0c98fce51251f6df",
+    "config.json": "df6f4aba4d0892fc0644a66f64bed57585fc7b22a85d911d100e015f4334e4aa",
+    "outputs/experiment_001/distribution_summary.json": "30fd6e1da08f5f9b9996e31bc97516872e62d363f5ceb7d4e77410b609bcfa38",
+    "outputs/experiment_001/empty_candidate_analysis.csv": "ee01428ea5355c63ad28ac8201789365f4e032f864fba4309246f7689aa531d1",
+    "outputs/experiment_001/empty_candidate_per_question.jsonl": "767acdc2cc6cabf571309e91501c48d61527680ff18da7178b29194ce8f37fb3",
+    "outputs/experiment_001/empty_candidate_transitions.csv": "5a147800f40b2245beae1bd2bc5b65c2e7013a474c188ed8d8f14d1728d80323",
+    "outputs/experiment_001/examples.jsonl": "9fe740107ca4f918b01e8caf963a134d71eff608f15845f41fd820553961a50d",
+    "outputs/experiment_001/figures/empty_candidate_causes.png": "c1e3c0fe10fcbeb31e0803f9c9fbb65945d7cfa0f264978ae5272dd27b0bdd3f",
+    "outputs/experiment_001/figures/example_curves.png": "ea9d9eab19f2e82dcc6c818f1bc472173120bad2eb426e657e80d097db0681d5",
+    "outputs/experiment_001/figures/min_feasible_comparison.png": "6e923de0e3102eb891b57e1cbc7bd52f667ec5eddc00f13c260c41c48c8033b2",
+    "outputs/experiment_001/figures/probability_sharpness.png": "684ce5fb38259f627a663de50c9ed7040dd82692d43ad290018e090b1648db2e",
+    "outputs/experiment_001/figures/quality_cost_sensitivity.png": "2222d85c211bb5b56ba0e0647db188492583759ac7074f97dc7acadf773afbe7",
+    "outputs/experiment_001/figures/sharpness_heatmap.png": "f2246ec61dcefa17d12e71d50f75ae622461b0efa816725b337f2ecd57959e55",
+    "outputs/experiment_001/metadata.json": "afb1b3fd53fa40680dbd1872a15b6eac4f62b00410ac6c1ef5496d940e988b80",
+    "outputs/experiment_001/min_feasible_comparison.csv": "07b73e5ed52d7bd44f5dd0e1e31e5bb3717b660ee487786cc54ed4f94e9297ca",
+    "outputs/experiment_001/min_feasible_per_question.csv": "a5eab52d61be297579c4c55be74f2205c22a8fec5b741bc3c56347162d455015",
+    "outputs/experiment_001/report.md": "7a5f6d2793b23ba37956fa22387c3a0874483e72772c51337ff661942a1b2cb2",
+    "outputs/experiment_001/sharpness_per_question.jsonl": "d5c3faa83904bc4341e2dbbcd725cb0a40a00358a6393f095fecae655390c3e0",
+    "outputs/experiment_001/sharpness_sweep.csv": "ae40b3f7bfb9191cf6c4e28f53bbb8cbc670db46cc994c902084cf918e8367d0",
+    "outputs/experiment_001/tests.log": "e5fa7583b46086cf881673b4937f062a8358210301c610e7d474a5fe226cd60e",
+    "outputs/experiment_001/validation.json": "89500b62fb669a395683761e8489a7782e3ddb942fbe5eff296291c2ab97a900",
+    "tests/test_followup.py": "dfbdb5e46fe38ae57f0f4fa775fa7b31250c6c22637c1c2bbb311ea23bc3349b"
+  },
+  "git_status": "?? analysis/soft_oracle_1000/followup_diagnostics/README.md\n?? analysis/soft_oracle_1000/followup_diagnostics/analyze.py\n?? analysis/soft_oracle_1000/followup_diagnostics/config.json\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/distribution_summary.json\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/empty_candidate_analysis.csv\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/empty_candidate_per_question.jsonl\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/empty_candidate_transitions.csv\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/examples.jsonl\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/figures/empty_candidate_causes.png\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/figures/example_curves.png\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/figures/min_feasible_comparison.png\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/figures/probability_sharpness.png\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/figures/quality_cost_sensitivity.png\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/figures/sharpness_heatmap.png\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/metadata.json\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/min_feasible_comparison.csv\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/min_feasible_per_question.csv\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/report.md\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/sharpness_per_question.jsonl\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/sharpness_sweep.csv\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/tests.log\n?? analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/validation.json\n?? analysis/soft_oracle_1000/followup_diagnostics/tests/test_followup.py\n?? \"docs/\\345\\275\\223\\345\\211\\215\\347\\240\\224\\347\\251\\266\\346\\226\\271\\346\\263\\225\\344\\270\\216\\351\\227\\256\\351\\242\\230\\346\\225\\264\\347\\220\\206.md\"\n"
+}

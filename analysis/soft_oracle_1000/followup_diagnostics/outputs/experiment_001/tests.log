@@ -1,0 +1,38 @@
+Python: /home/dengxin/miniconda3/envs/adaptiverag/bin/python (3.8.20)
+Command: python -m unittest discover -s analysis/soft_oracle_1000/followup_diagnostics/tests -p 'test_*.py' -v
+Lint: ruff check --isolated --select E,F --ignore E501 analysis/soft_oracle_1000/followup_diagnostics: passed
+Existing regression suite: python -m unittest discover -s analysis/soft_oracle_1000/tests -p 'test_*.py' -q: 47 tests, OK
+
+test_budget_comparison_evaluates_same_valid_qids (test_followup.BudgetTests) ... ok
+test_equal_token_tie_chooses_smaller_k (test_followup.BudgetTests) ... ok
+test_lambda_changes_choice (test_followup.BudgetTests) ... ok
+test_minimum_uses_actual_tokens (test_followup.BudgetTests) ... ok
+test_no_budget_for_all_zero (test_followup.BudgetTests) ... ok
+test_no_budget_for_empty (test_followup.BudgetTests) ... ok
+test_reject_non_candidates_when_minimizing (test_followup.BudgetTests) ... ok
+test_utility_quality_cost_gain (test_followup.BudgetTests) ... ok
+test_A_no_evidence_budget (test_followup.EmptyTests) ... ok
+test_B_evidence_quality_conflict (test_followup.EmptyTests) ... ok
+test_all_zero_separate_from_A (test_followup.EmptyTests) ... ok
+test_all_zero_separate_from_B (test_followup.EmptyTests) ... ok
+test_boundary_is_valid_not_conflict (test_followup.EmptyTests) ... ok
+test_reason_summary_partition (test_followup.EmptyTests) ... ok
+test_reject_other_scheme (test_followup.EmptyTests) ... ok
+test_roundoff_boundary_reuses_original_tolerance (test_followup.EmptyTests) ... ok
+test_smax_is_global_for_conflict (test_followup.EmptyTests) ... ok
+test_tau_transitions_distinguish_new_losses_and_old_B_to_A (test_followup.EmptyTests) ... ok
+test_unknown_keeps_lower_and_upper (test_followup.EmptyTests) ... ok
+test_existing_output_refused (test_followup.OutputTests) ... ok
+test_cost_only_labels_depend_on_lambda_over_temperature (test_followup.SharpnessTests) ... ok
+test_expected_cost_from_probability (test_followup.SharpnessTests) ... ok
+test_no_parameter_state_pollution (test_followup.SharpnessTests) ... ok
+test_probability_gap_temperature_identity (test_followup.SharpnessTests) ... ok
+test_singleton_has_null_top_two_metrics (test_followup.SharpnessTests) ... ok
+test_summary_excludes_singleton_undefined_metrics (test_followup.SharpnessTests) ... ok
+test_temperature_invariance_and_entropy (test_followup.SharpnessTests) ... ok
+test_tied_utilities_do_not_become_onehot (test_followup.SharpnessTests) ... ok
+
+----------------------------------------------------------------------
+Ran 28 tests in 0.011s
+
+OK
