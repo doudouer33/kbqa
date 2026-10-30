@@ -1,0 +1,52 @@
+{
+  "status": "complete",
+  "prepared": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/data/prepared_001",
+  "matrix": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001",
+  "inputs_unchanged": true,
+  "input_sha256_before": {
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/data/prepared_001/metadata.json": "a90e5ae73390148f3256a4feed134c04b33945de374eb4fbab94d99cb6817e7f",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/data/prepared_001/labels.jsonl": "c4c93e4c36f05b41a1c802454add64e18b730918d20f90c191e804a09458a642",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/matrix.json": "35e606d6f2ddb74e8b9bde68ded6ec50095c0b86f4071cc1655591384c2b03cf",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/data/prepared_001/splits/seed_13.json": "33515d262b29ae7851c1b0b41a10e0bf424e9176e0438c8c0f482973e548f23b",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_13/linear_original_soft/training.json": "9885f8d6c68519bbc491cb5fa3f1b0f832c4977ea82983654edb15eb5934a5c0",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_13/linear_original_soft/evaluation/predictions.jsonl": "eb8b343f471a390efea7041f5b39b4407c5caaf21db4eea9e75654909674fed9",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_13/mlp_original_soft/training.json": "eae7d4cf4729b60dbfa6fa09a8696fa397b982ce4b52728402f66147ca3e2949",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_13/mlp_original_soft/evaluation/predictions.jsonl": "32d8e8801724fec7735be522f32a37187e076d98db0d0fa7dc939b5d3afa3217",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/data/prepared_001/splits/seed_42.json": "ab73ba8095e141e1b8a02def9faccdb240b6708f56413ffcebf20ead6f97c287",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_42/linear_original_soft/training.json": "bec0e74a7c47e7a113de7a4b34f9d5c5cea2390dc20ffcf77b41cf97b2793304",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_42/linear_original_soft/evaluation/predictions.jsonl": "60f024064de1c2be70fd89f05428df7cf3cfa2bdf858cb78ba048a9779add514",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_42/mlp_original_soft/training.json": "6293451ff40842cd85ae4aa00e4d278c8b2fe4d858b208f49cf890e831803903",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_42/mlp_original_soft/evaluation/predictions.jsonl": "5607ae64d196c969155fa4e333ce54d97c576e65714647d06fc1d5547815540e",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/data/prepared_001/splits/seed_2026.json": "f164a9c6ed418bb3f528c737b7db45a996969b2867ea598361716f7f014983f8",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_2026/linear_original_soft/training.json": "284820c2677d16c1da3431865398edbbfe13a83e1d6b0a711fc552e7a0561835",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_2026/linear_original_soft/evaluation/predictions.jsonl": "3ae16ac0c361a2764ce2b557f1d96ca9cd662e3b370c2817f7e259293ca2f268",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_2026/mlp_original_soft/training.json": "75f2294ab3f69ccad2f398dc57d854936643c5aa10b01abb8b7c8f987d725180",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_2026/mlp_original_soft/evaluation/predictions.jsonl": "380eee344346448e47504f61668d5fae9970c75a1920fc6378e2cb9d2cac7a71"
+  },
+  "input_sha256_after": {
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/data/prepared_001/metadata.json": "a90e5ae73390148f3256a4feed134c04b33945de374eb4fbab94d99cb6817e7f",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/data/prepared_001/labels.jsonl": "c4c93e4c36f05b41a1c802454add64e18b730918d20f90c191e804a09458a642",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/matrix.json": "35e606d6f2ddb74e8b9bde68ded6ec50095c0b86f4071cc1655591384c2b03cf",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/data/prepared_001/splits/seed_13.json": "33515d262b29ae7851c1b0b41a10e0bf424e9176e0438c8c0f482973e548f23b",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_13/linear_original_soft/training.json": "9885f8d6c68519bbc491cb5fa3f1b0f832c4977ea82983654edb15eb5934a5c0",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_13/linear_original_soft/evaluation/predictions.jsonl": "eb8b343f471a390efea7041f5b39b4407c5caaf21db4eea9e75654909674fed9",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_13/mlp_original_soft/training.json": "eae7d4cf4729b60dbfa6fa09a8696fa397b982ce4b52728402f66147ca3e2949",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_13/mlp_original_soft/evaluation/predictions.jsonl": "32d8e8801724fec7735be522f32a37187e076d98db0d0fa7dc939b5d3afa3217",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/data/prepared_001/splits/seed_42.json": "ab73ba8095e141e1b8a02def9faccdb240b6708f56413ffcebf20ead6f97c287",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_42/linear_original_soft/training.json": "bec0e74a7c47e7a113de7a4b34f9d5c5cea2390dc20ffcf77b41cf97b2793304",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_42/linear_original_soft/evaluation/predictions.jsonl": "60f024064de1c2be70fd89f05428df7cf3cfa2bdf858cb78ba048a9779add514",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_42/mlp_original_soft/training.json": "6293451ff40842cd85ae4aa00e4d278c8b2fe4d858b208f49cf890e831803903",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_42/mlp_original_soft/evaluation/predictions.jsonl": "5607ae64d196c969155fa4e333ce54d97c576e65714647d06fc1d5547815540e",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/data/prepared_001/splits/seed_2026.json": "f164a9c6ed418bb3f528c737b7db45a996969b2867ea598361716f7f014983f8",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_2026/linear_original_soft/training.json": "284820c2677d16c1da3431865398edbbfe13a83e1d6b0a711fc552e7a0561835",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_2026/linear_original_soft/evaluation/predictions.jsonl": "3ae16ac0c361a2764ce2b557f1d96ca9cd662e3b370c2817f7e259293ca2f268",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_2026/mlp_original_soft/training.json": "75f2294ab3f69ccad2f398dc57d854936643c5aa10b01abb8b7c8f987d725180",
+    "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/query_budget_pilot/outputs/matrix_001/seed_2026/mlp_original_soft/evaluation/predictions.jsonl": "380eee344346448e47504f61668d5fae9970c75a1920fc6378e2cb9d2cac7a71"
+  },
+  "code_sha256": "14cf122af024635f17003304951d3307c4f5baabc272052c0149c4f3916d689e",
+  "versions": {
+    "python": "3.8.20",
+    "numpy": "1.24.4"
+  },
+  "scope": "Saved probabilities only; no model/embedding loading, training, RAG, or LLM."
+}

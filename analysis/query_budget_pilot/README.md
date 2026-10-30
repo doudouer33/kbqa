@@ -6,6 +6,21 @@
 
 所有 A800 新建文件统一放在 `/nas/luoyichen/`：代码 `/nas/luoyichen/query_budget_pilot/`，模型 `/nas/luoyichen/models/`，缓存 `/nas/luoyichen/cache/`，环境 `/nas/luoyichen/envs/`，临时文件 `/nas/luoyichen/tmp/`。`a800_env.sh` 显式配置这些位置。
 
+## Original Soft Label 可学习性离线诊断
+
+新增 `diagnose_soft_labels.py`，只读取保存的标签、划分、训练元数据与六份 Original Soft Label `predictions.jsonl`。每个 seed 的 Mean Distribution Baseline 只使用有效 Train 标签；所有方法在相同的有效 Test 问题上比较。包含 KL / Soft CE、逐题胜率、预测分布变化、大 k 质量与 Pearson / Spearman，以及消除逐题变化后的概率对照。
+
+已完成结果见 [diagnostics/original_soft_001/report.md](diagnostics/original_soft_001/report.md)。脚本仅依赖 NumPy / Matplotlib，不导入训练、Embedding 或 RAG 模块；不会读取权重或向量。输入缺失时报告缺失路径并退出（退出码 2），不会自动补训。结果目录必须是新目录，并位于既有训练/准备结果之外；复现时可运行：
+
+```sh
+/home/dengxin/miniconda3/envs/adaptiverag/bin/python analysis/query_budget_pilot/diagnose_soft_labels.py \
+  --output analysis/query_budget_pilot/diagnostics/original_soft_002
+/home/dengxin/miniconda3/envs/adaptiverag/bin/python -m unittest discover \
+  -s analysis/query_budget_pilot/tests -p test_soft_label_diagnostic.py -v
+```
+
+这组新增测试只验证计算与文件读取，不调用训练或生成 Embedding。诊断产物与原 `outputs/matrix_001/` 分开保存。
+
 ## 文件与已准备的数据
 
 ```text

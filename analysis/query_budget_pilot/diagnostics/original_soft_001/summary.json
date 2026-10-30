@@ -1,0 +1,747 @@
+{
+  "seeds": [
+    13,
+    42,
+    2026
+  ],
+  "parameters": {
+    "lambda": 0.1,
+    "temperature": 0.1
+  },
+  "epsilon": 1e-12,
+  "win_tolerance": 1e-12,
+  "std_definition": "sample SD across seeds (ddof=1); not a confidence interval",
+  "per_seed": [
+    {
+      "seed": 13,
+      "method": "mean_distribution",
+      "n_test": 150,
+      "best_epoch": null,
+      "kl": 0.49730040973509015,
+      "soft_ce": 2.70171573701201,
+      "target_entropy": 2.20441532727692,
+      "kl_gain": 0.0,
+      "relative_kl_gain": 0.0,
+      "win_fraction": 0.0,
+      "tie_fraction": 1.0,
+      "query_tv_to_own_mean": 0.0,
+      "query_tv_to_train_mean": 0.0,
+      "mean_shift_tv": 1.1171619185290638e-15,
+      "mean_per_k_query_std": 0.0,
+      "own_mean_kl": 0.49730040973509043,
+      "query_kl_gain_vs_own_mean": 2.9013828376870757e-16,
+      "argmax_k1_k2_fraction": 1.0,
+      "floored_prediction_entries": 0,
+      "mass_ge5_target_mean": 0.674353104129534,
+      "mass_ge5_target_std": 0.22347988848664824,
+      "mass_ge5_pred_mean": 0.6564012996308046,
+      "mass_ge5_pred_std": 1.1139423751593565e-16,
+      "mass_ge5_pearson": null,
+      "mass_ge5_spearman": null,
+      "mass_ge8_target_mean": 0.4801777454672191,
+      "mass_ge8_target_std": 0.23285142410256085,
+      "mass_ge8_pred_mean": 0.44619256040197275,
+      "mass_ge8_pred_std": 1.1139423751593565e-16,
+      "mass_ge8_pearson": null,
+      "mass_ge8_spearman": null
+    },
+    {
+      "seed": 13,
+      "method": "linear",
+      "n_test": 150,
+      "best_epoch": 1,
+      "kl": 0.5098034037978132,
+      "soft_ce": 2.7142187310747334,
+      "target_entropy": 2.20441532727692,
+      "kl_gain": -0.012502994062723044,
+      "relative_kl_gain": -0.02514173288009824,
+      "win_fraction": 0.34,
+      "tie_fraction": 0.0,
+      "query_tv_to_own_mean": 0.022222258601059534,
+      "query_tv_to_train_mean": 0.04792015206048094,
+      "mean_shift_tv": 0.04418656503715003,
+      "mean_per_k_query_std": 0.0037424744009607875,
+      "own_mean_kl": 0.5099443148803517,
+      "query_kl_gain_vs_own_mean": 0.000140911082538544,
+      "argmax_k1_k2_fraction": 0.8733333333333333,
+      "floored_prediction_entries": 0,
+      "mass_ge5_target_mean": 0.674353104129534,
+      "mass_ge5_target_std": 0.22347988848664824,
+      "mass_ge5_pred_mean": 0.6179043031623765,
+      "mass_ge5_pred_std": 0.011138106389474706,
+      "mass_ge5_pearson": -0.03940297491373851,
+      "mass_ge5_spearman": 0.04250876034081039,
+      "mass_ge8_target_mean": 0.4801777454672191,
+      "mass_ge8_target_std": 0.23285142410256085,
+      "mass_ge8_pred_mean": 0.4124253376350666,
+      "mass_ge8_pred_std": 0.01087214277318045,
+      "mass_ge8_pearson": 0.011610566223199231,
+      "mass_ge8_spearman": 0.0720532071818677
+    },
+    {
+      "seed": 13,
+      "method": "mlp",
+      "n_test": 150,
+      "best_epoch": 3,
+      "kl": 0.49870977271787864,
+      "soft_ce": 2.703125099994799,
+      "target_entropy": 2.20441532727692,
+      "kl_gain": -0.0014093629827885905,
+      "relative_kl_gain": -0.0028340273910881196,
+      "win_fraction": 0.5333333333333333,
+      "tie_fraction": 0.0,
+      "query_tv_to_own_mean": 0.008863162630630618,
+      "query_tv_to_train_mean": 0.015173249620155212,
+      "mean_shift_tv": 0.012935522980696966,
+      "mean_per_k_query_std": 0.0014784813268476705,
+      "own_mean_kl": 0.49941776504403085,
+      "query_kl_gain_vs_own_mean": 0.0007079923261521308,
+      "argmax_k1_k2_fraction": 1.0,
+      "floored_prediction_entries": 0,
+      "mass_ge5_target_mean": 0.674353104129534,
+      "mass_ge5_target_std": 0.22347988848664824,
+      "mass_ge5_pred_mean": 0.6508790227160476,
+      "mass_ge5_pred_std": 0.006209645286887465,
+      "mass_ge5_pearson": -0.0277329583865841,
+      "mass_ge5_spearman": 0.07254985257512225,
+      "mass_ge8_target_mean": 0.4801777454672191,
+      "mass_ge8_target_std": 0.23285142410256085,
+      "mass_ge8_pred_mean": 0.43831749049378355,
+      "mass_ge8_pred_std": 0.006689958654940837,
+      "mass_ge8_pearson": 0.001554709904413737,
+      "mass_ge8_spearman": 0.08419312831685029
+    },
+    {
+      "seed": 42,
+      "method": "mean_distribution",
+      "n_test": 150,
+      "best_epoch": null,
+      "kl": 0.5967085827355728,
+      "soft_ce": 2.6942142836748797,
+      "target_entropy": 2.097505700939307,
+      "kl_gain": 0.0,
+      "relative_kl_gain": 0.0,
+      "win_fraction": 0.0,
+      "tie_fraction": 1.0,
+      "query_tv_to_own_mean": 0.0,
+      "query_tv_to_train_mean": 0.0,
+      "mean_shift_tv": 7.494005416219807e-16,
+      "mean_per_k_query_std": 0.0,
+      "own_mean_kl": 0.5967085827355728,
+      "query_kl_gain_vs_own_mean": 1.1842378929335003e-16,
+      "argmax_k1_k2_fraction": 1.0,
+      "floored_prediction_entries": 0,
+      "mass_ge5_target_mean": 0.6694535668652376,
+      "mass_ge5_target_std": 0.23588730322335263,
+      "mass_ge5_pred_mean": 0.659658673933513,
+      "mass_ge5_pred_std": 0.0,
+      "mass_ge5_pearson": null,
+      "mass_ge5_spearman": null,
+      "mass_ge8_target_mean": 0.468144191166332,
+      "mass_ge8_target_std": 0.2463614064399822,
+      "mass_ge8_pred_mean": 0.44714315570090224,
+      "mass_ge8_pred_std": 0.0,
+      "mass_ge8_pearson": null,
+      "mass_ge8_spearman": null
+    },
+    {
+      "seed": 42,
+      "method": "linear",
+      "n_test": 150,
+      "best_epoch": 3,
+      "kl": 0.5983878203007631,
+      "soft_ce": 2.6958935212400696,
+      "target_entropy": 2.097505700939307,
+      "kl_gain": -0.0016792375651903798,
+      "relative_kl_gain": -0.0028141669380588115,
+      "win_fraction": 0.3333333333333333,
+      "tie_fraction": 0.0,
+      "query_tv_to_own_mean": 0.04777888403356221,
+      "query_tv_to_train_mean": 0.05053732536220128,
+      "mean_shift_tv": 0.018636077377589308,
+      "mean_per_k_query_std": 0.008027688029099634,
+      "own_mean_kl": 0.5986758354598248,
+      "query_kl_gain_vs_own_mean": 0.00028801515906176964,
+      "argmax_k1_k2_fraction": 0.6133333333333333,
+      "floored_prediction_entries": 0,
+      "mass_ge5_target_mean": 0.6694535668652376,
+      "mass_ge5_target_std": 0.23588730322335263,
+      "mass_ge5_pred_mean": 0.6649139896599079,
+      "mass_ge5_pred_std": 0.022879856600763367,
+      "mass_ge5_pearson": 0.06258913256095887,
+      "mass_ge5_spearman": 0.06700687415546436,
+      "mass_ge8_target_mean": 0.468144191166332,
+      "mass_ge8_target_std": 0.2463614064399822,
+      "mass_ge8_pred_mean": 0.452451262186723,
+      "mass_ge8_pred_std": 0.022485892782047663,
+      "mass_ge8_pearson": 0.04063809060093431,
+      "mass_ge8_spearman": 0.07270539996578819
+    },
+    {
+      "seed": 42,
+      "method": "mlp",
+      "n_test": 150,
+      "best_epoch": 7,
+      "kl": 0.5969131276808183,
+      "soft_ce": 2.6944188286201247,
+      "target_entropy": 2.097505700939307,
+      "kl_gain": -0.00020454494524551652,
+      "relative_kl_gain": -0.00034278867635486845,
+      "win_fraction": 0.4866666666666667,
+      "tie_fraction": 0.0,
+      "query_tv_to_own_mean": 0.02597913373139108,
+      "query_tv_to_train_mean": 0.029495638959604616,
+      "mean_shift_tv": 0.01655405392628892,
+      "mean_per_k_query_std": 0.0043433077410639336,
+      "own_mean_kl": 0.5986750439633173,
+      "query_kl_gain_vs_own_mean": 0.0017619162824989735,
+      "argmax_k1_k2_fraction": 0.9533333333333334,
+      "floored_prediction_entries": 0,
+      "mass_ge5_target_mean": 0.6694535668652376,
+      "mass_ge5_target_std": 0.23588730322335263,
+      "mass_ge5_pred_mean": 0.6448114349129417,
+      "mass_ge5_pred_std": 0.017155128305174176,
+      "mass_ge5_pearson": 0.03220545671264014,
+      "mass_ge5_spearman": 0.04654981921845092,
+      "mass_ge8_target_mean": 0.468144191166332,
+      "mass_ge8_target_std": 0.2463614064399822,
+      "mass_ge8_pred_mean": 0.43284212881543377,
+      "mass_ge8_pred_std": 0.01724557224897401,
+      "mass_ge8_pearson": 0.03489558430094607,
+      "mass_ge8_spearman": 0.09527135382843499
+    },
+    {
+      "seed": 2026,
+      "method": "mean_distribution",
+      "n_test": 150,
+      "best_epoch": null,
+      "kl": 0.5122391439822835,
+      "soft_ce": 2.6830961942942184,
+      "target_entropy": 2.1708570503119344,
+      "kl_gain": 0.0,
+      "relative_kl_gain": 0.0,
+      "win_fraction": 0.0,
+      "tie_fraction": 1.0,
+      "query_tv_to_own_mean": 0.0,
+      "query_tv_to_train_mean": 0.0,
+      "mean_shift_tv": 1.0200174038743626e-15,
+      "mean_per_k_query_std": 0.0,
+      "own_mean_kl": 0.5122391439822839,
+      "query_kl_gain_vs_own_mean": 2.102022259956963e-16,
+      "argmax_k1_k2_fraction": 1.0,
+      "floored_prediction_entries": 0,
+      "mass_ge5_target_mean": 0.643414377766051,
+      "mass_ge5_target_std": 0.23997934449970798,
+      "mass_ge5_pred_mean": 0.6669358410229286,
+      "mass_ge5_pred_std": 1.1139423751593565e-16,
+      "mass_ge5_pearson": null,
+      "mass_ge5_spearman": null,
+      "mass_ge8_target_mean": 0.4226923626047847,
+      "mass_ge8_target_std": 0.22605726737694715,
+      "mass_ge8_pred_mean": 0.46482406701363693,
+      "mass_ge8_pred_std": 5.569711875796783e-17,
+      "mass_ge8_pearson": null,
+      "mass_ge8_spearman": null
+    },
+    {
+      "seed": 2026,
+      "method": "linear",
+      "n_test": 150,
+      "best_epoch": 2,
+      "kl": 0.5156604520491488,
+      "soft_ce": 2.686517502361083,
+      "target_entropy": 2.1708570503119344,
+      "kl_gain": -0.003421308066865215,
+      "relative_kl_gain": -0.006679122646244984,
+      "win_fraction": 0.28,
+      "tie_fraction": 0.0,
+      "query_tv_to_own_mean": 0.035731408911685525,
+      "query_tv_to_train_mean": 0.03991810248125704,
+      "mean_shift_tv": 0.01898409773267399,
+      "mean_per_k_query_std": 0.005958303952336227,
+      "own_mean_kl": 0.5150879657825262,
+      "query_kl_gain_vs_own_mean": -0.0005724862666225554,
+      "argmax_k1_k2_fraction": 0.92,
+      "floored_prediction_entries": 0,
+      "mass_ge5_target_mean": 0.643414377766051,
+      "mass_ge5_target_std": 0.23997934449970798,
+      "mass_ge5_pred_mean": 0.6759402508195766,
+      "mass_ge5_pred_std": 0.015182638489314037,
+      "mass_ge5_pearson": 0.05983676973196452,
+      "mass_ge5_spearman": -0.025557107038235112,
+      "mass_ge8_target_mean": 0.4226923626047847,
+      "mass_ge8_target_std": 0.22605726737694715,
+      "mass_ge8_pred_mean": 0.4779953648260742,
+      "mass_ge8_pred_std": 0.016523372061492306,
+      "mass_ge8_pearson": 0.07394689757571518,
+      "mass_ge8_spearman": 0.006402930058300669
+    },
+    {
+      "seed": 2026,
+      "method": "mlp",
+      "n_test": 150,
+      "best_epoch": 5,
+      "kl": 0.5112459361752326,
+      "soft_ce": 2.682102986487167,
+      "target_entropy": 2.1708570503119344,
+      "kl_gain": 0.0009932078070510168,
+      "relative_kl_gain": 0.0019389533555158529,
+      "win_fraction": 0.46,
+      "tie_fraction": 0.0,
+      "query_tv_to_own_mean": 0.015871549513465696,
+      "query_tv_to_train_mean": 0.0178555760726045,
+      "mean_shift_tv": 0.008762918720009973,
+      "mean_per_k_query_std": 0.002673665011635618,
+      "own_mean_kl": 0.512688707693716,
+      "query_kl_gain_vs_own_mean": 0.0014427715184835085,
+      "argmax_k1_k2_fraction": 1.0,
+      "floored_prediction_entries": 0,
+      "mass_ge5_target_mean": 0.643414377766051,
+      "mass_ge5_target_std": 0.23997934449970798,
+      "mass_ge5_pred_mean": 0.6617340648346404,
+      "mass_ge5_pred_std": 0.009800656443362189,
+      "mass_ge5_pearson": 0.07566283198970068,
+      "mass_ge5_spearman": 0.022696462682837478,
+      "mass_ge8_target_mean": 0.4226923626047847,
+      "mass_ge8_target_std": 0.22605726737694715,
+      "mass_ge8_pred_mean": 0.4628815753275063,
+      "mass_ge8_pred_std": 0.009105885069034286,
+      "mass_ge8_pearson": 0.0658771687384507,
+      "mass_ge8_spearman": 0.02094388100504185
+    }
+  ],
+  "aggregate": [
+    {
+      "method": "mean_distribution",
+      "n_seeds": 3,
+      "n_test": {
+        "mean": 150.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "kl": {
+        "mean": 0.5354160454843155,
+        "std": 0.053603850489024024,
+        "n": 3
+      },
+      "soft_ce": {
+        "mean": 2.6930087383270362,
+        "std": 0.009368129346043346,
+        "n": 3
+      },
+      "target_entropy": {
+        "mean": 2.1575926928427207,
+        "std": 0.05467517201815938,
+        "n": 3
+      },
+      "kl_gain": {
+        "mean": 0.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "relative_kl_gain": {
+        "mean": 0.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "win_fraction": {
+        "mean": 0.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "tie_fraction": {
+        "mean": 1.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "query_tv_to_own_mean": {
+        "mean": 0.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "query_tv_to_train_mean": {
+        "mean": 0.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "mean_shift_tv": {
+        "mean": 9.62193288008469e-16,
+        "std": 1.90577619011002e-16,
+        "n": 3
+      },
+      "mean_per_k_query_std": {
+        "mean": 0.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "own_mean_kl": {
+        "mean": 0.5354160454843157,
+        "std": 0.05360385048902385,
+        "n": 3
+      },
+      "query_kl_gain_vs_own_mean": {
+        "mean": 2.0625476635258463e-16,
+        "std": 8.592527993237728e-17,
+        "n": 3
+      },
+      "argmax_k1_k2_fraction": {
+        "mean": 1.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "floored_prediction_entries": {
+        "mean": 0.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "mass_ge5_target_mean": {
+        "mean": 0.6624070162536075,
+        "std": 0.016629540098581096,
+        "n": 3
+      },
+      "mass_ge5_target_std": {
+        "mean": 0.23311551206990297,
+        "std": 0.008591864281428087,
+        "n": 3
+      },
+      "mass_ge5_pred_mean": {
+        "mean": 0.6609986048624155,
+        "std": 0.0053935796792357864,
+        "n": 3
+      },
+      "mass_ge5_pred_std": {
+        "mean": 7.426282501062377e-17,
+        "std": 6.431349301599857e-17,
+        "n": 3
+      },
+      "mass_ge5_pearson": {
+        "mean": null,
+        "std": null,
+        "n": 0
+      },
+      "mass_ge5_spearman": {
+        "mean": null,
+        "std": null,
+        "n": 0
+      },
+      "mass_ge8_target_mean": {
+        "mean": 0.4570047664127786,
+        "std": 0.030318433313583745,
+        "n": 3
+      },
+      "mass_ge8_target_std": {
+        "mean": 0.23509003263983005,
+        "std": 0.0103355233012227,
+        "n": 3
+      },
+      "mass_ge8_pred_mean": {
+        "mean": 0.452719927705504,
+        "std": 0.010493262083289628,
+        "n": 3
+      },
+      "mass_ge8_pred_std": {
+        "mean": 5.569711875796783e-17,
+        "std": 5.569711875796783e-17,
+        "n": 3
+      },
+      "mass_ge8_pearson": {
+        "mean": null,
+        "std": null,
+        "n": 0
+      },
+      "mass_ge8_spearman": {
+        "mean": null,
+        "std": null,
+        "n": 0
+      }
+    },
+    {
+      "method": "linear",
+      "n_seeds": 3,
+      "n_test": {
+        "mean": 150.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "kl": {
+        "mean": 0.5412838920492417,
+        "std": 0.0495400869990233,
+        "n": 3
+      },
+      "soft_ce": {
+        "mean": 2.6988765848919622,
+        "std": 0.014089482588971153,
+        "n": 3
+      },
+      "target_entropy": {
+        "mean": 2.1575926928427207,
+        "std": 0.05467517201815938,
+        "n": 3
+      },
+      "kl_gain": {
+        "mean": -0.005867846564926213,
+        "std": 0.005811849029899268,
+        "n": 3
+      },
+      "relative_kl_gain": {
+        "mean": -0.01154500748813401,
+        "std": 0.011932630753313531,
+        "n": 3
+      },
+      "win_fraction": {
+        "mean": 0.31777777777777777,
+        "std": 0.03288588574877497,
+        "n": 3
+      },
+      "tie_fraction": {
+        "mean": 0.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "query_tv_to_own_mean": {
+        "mean": 0.03524418384876909,
+        "std": 0.012785277356035773,
+        "n": 3
+      },
+      "query_tv_to_train_mean": {
+        "mean": 0.04612519330131309,
+        "std": 0.005532484194204938,
+        "n": 3
+      },
+      "mean_shift_tv": {
+        "mean": 0.027268913382471106,
+        "std": 0.014652149421626973,
+        "n": 3
+      },
+      "mean_per_k_query_std": {
+        "mean": 0.005909488794132216,
+        "std": 0.0021430238331501556,
+        "n": 3
+      },
+      "own_mean_kl": {
+        "mean": 0.5412360387075675,
+        "std": 0.04981076163196388,
+        "n": 3
+      },
+      "query_kl_gain_vs_own_mean": {
+        "mean": -4.785334167408059e-05,
+        "std": 0.000460260449949191,
+        "n": 3
+      },
+      "argmax_k1_k2_fraction": {
+        "mean": 0.8022222222222223,
+        "std": 0.16523832395574495,
+        "n": 3
+      },
+      "floored_prediction_entries": {
+        "mean": 0.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "mass_ge5_target_mean": {
+        "mean": 0.6624070162536075,
+        "std": 0.016629540098581096,
+        "n": 3
+      },
+      "mass_ge5_target_std": {
+        "mean": 0.23311551206990297,
+        "std": 0.008591864281428087,
+        "n": 3
+      },
+      "mass_ge5_pred_mean": {
+        "mean": 0.652919514547287,
+        "std": 0.030821151504085285,
+        "n": 3
+      },
+      "mass_ge5_pred_std": {
+        "mean": 0.016400200493184035,
+        "std": 0.00596481495362809,
+        "n": 3
+      },
+      "mass_ge5_pearson": {
+        "mean": 0.027674309126394958,
+        "std": 0.05810693074785628,
+        "n": 3
+      },
+      "mass_ge5_spearman": {
+        "mean": 0.027986175819346547,
+        "std": 0.04796041857088179,
+        "n": 3
+      },
+      "mass_ge8_target_mean": {
+        "mean": 0.4570047664127786,
+        "std": 0.030318433313583745,
+        "n": 3
+      },
+      "mass_ge8_target_std": {
+        "mean": 0.23509003263983005,
+        "std": 0.0103355233012227,
+        "n": 3
+      },
+      "mass_ge8_pred_mean": {
+        "mean": 0.44762398821595456,
+        "std": 0.033050477257507364,
+        "n": 3
+      },
+      "mass_ge8_pred_std": {
+        "mean": 0.01662713587224014,
+        "std": 0.005807570276236998,
+        "n": 3
+      },
+      "mass_ge8_pearson": {
+        "mean": 0.04206518479994958,
+        "std": 0.031192659393073762,
+        "n": 3
+      },
+      "mass_ge8_spearman": {
+        "mean": 0.05038717906865218,
+        "std": 0.038092872819076085,
+        "n": 3
+      }
+    },
+    {
+      "method": "mlp",
+      "n_seeds": 3,
+      "n_test": {
+        "mean": 150.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "kl": {
+        "mean": 0.5356229455246432,
+        "std": 0.053447672260915326,
+        "n": 3
+      },
+      "soft_ce": {
+        "mean": 2.693215638367364,
+        "std": 0.010562578481137832,
+        "n": 3
+      },
+      "target_entropy": {
+        "mean": 2.1575926928427207,
+        "std": 0.05467517201815938,
+        "n": 3
+      },
+      "kl_gain": {
+        "mean": -0.0002069000403276967,
+        "std": 0.0012012871263366901,
+        "n": 3
+      },
+      "relative_kl_gain": {
+        "mean": -0.00041262090397571177,
+        "std": 0.002387256523056104,
+        "n": 3
+      },
+      "win_fraction": {
+        "mean": 0.49333333333333335,
+        "std": 0.037118429085533464,
+        "n": 3
+      },
+      "tie_fraction": {
+        "mean": 0.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "query_tv_to_own_mean": {
+        "mean": 0.01690461529182913,
+        "std": 0.00860462290616713,
+        "n": 3
+      },
+      "query_tv_to_train_mean": {
+        "mean": 0.020841488217454778,
+        "std": 0.007613767963384933,
+        "n": 3
+      },
+      "mean_shift_tv": {
+        "mean": 0.012750831875665286,
+        "std": 0.0038988498373030717,
+        "n": 3
+      },
+      "mean_per_k_query_std": {
+        "mean": 0.002831818026515741,
+        "std": 0.0014389464472260797,
+        "n": 3
+      },
+      "own_mean_kl": {
+        "mean": 0.536927172233688,
+        "std": 0.05388533406277507,
+        "n": 3
+      },
+      "query_kl_gain_vs_own_mean": {
+        "mean": 0.001304226709044871,
+        "std": 0.0005404488177498742,
+        "n": 3
+      },
+      "argmax_k1_k2_fraction": {
+        "mean": 0.9844444444444443,
+        "std": 0.026943012562182518,
+        "n": 3
+      },
+      "floored_prediction_entries": {
+        "mean": 0.0,
+        "std": 0.0,
+        "n": 3
+      },
+      "mass_ge5_target_mean": {
+        "mean": 0.6624070162536075,
+        "std": 0.016629540098581096,
+        "n": 3
+      },
+      "mass_ge5_target_std": {
+        "mean": 0.23311551206990297,
+        "std": 0.008591864281428087,
+        "n": 3
+      },
+      "mass_ge5_pred_mean": {
+        "mean": 0.6524748408212099,
+        "std": 0.008573437317392933,
+        "n": 3
+      },
+      "mass_ge5_pred_std": {
+        "mean": 0.011055143345141275,
+        "std": 0.005579534269627902,
+        "n": 3
+      },
+      "mass_ge5_pearson": {
+        "mean": 0.02671177677191891,
+        "std": 0.05191635345777348,
+        "n": 3
+      },
+      "mass_ge5_spearman": {
+        "mean": 0.04726537815880355,
+        "std": 0.024934396711889368,
+        "n": 3
+      },
+      "mass_ge8_target_mean": {
+        "mean": 0.4570047664127786,
+        "std": 0.030318433313583745,
+        "n": 3
+      },
+      "mass_ge8_target_std": {
+        "mean": 0.23509003263983005,
+        "std": 0.0103355233012227,
+        "n": 3
+      },
+      "mass_ge8_pred_mean": {
+        "mean": 0.4446803982122412,
+        "std": 0.01599865721437654,
+        "n": 3
+      },
+      "mass_ge8_pred_std": {
+        "mean": 0.011013805324316376,
+        "std": 0.005530403634638364,
+        "n": 3
+      },
+      "mass_ge8_pearson": {
+        "mean": 0.034109154314603506,
+        "std": 0.032168439994918294,
+        "n": 3
+      },
+      "mass_ge8_spearman": {
+        "mean": 0.06680278771677571,
+        "std": 0.04009939231108139,
+        "n": 3
+      }
+    }
+  ]
+}

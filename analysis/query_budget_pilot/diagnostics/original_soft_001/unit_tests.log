@@ -1,0 +1,19 @@
+test_changed_labels_and_wrong_training_identity_rejected (test_soft_label_diagnostic.DiagnosticIOTests) ... ok
+test_duplicate_prediction_and_wrong_partition_rejected (test_soft_label_diagnostic.DiagnosticIOTests) ... ok
+test_join_by_id_with_reordered_saved_predictions (test_soft_label_diagnostic.DiagnosticIOTests) ... ok
+test_missing_prediction_file_report_and_cli_exit_2 (test_soft_label_diagnostic.DiagnosticIOTests) ... ok
+test_missing_test_prediction_is_error_without_shrinking_cohort (test_soft_label_diagnostic.DiagnosticIOTests) ... ok
+test_pipeline_same_cohort_read_only_and_refuses_overwrite (test_soft_label_diagnostic.DiagnosticIOTests) ... ok
+test_analytic_kl_ce_entropy_and_direction (test_soft_label_diagnostic.DiagnosticMathTests) ... ok
+test_bad_probabilities_rejected_and_float_roundoff_normalized (test_soft_label_diagnostic.DiagnosticMathTests) ... ok
+test_correlations_ties_and_constant_undefined (test_soft_label_diagnostic.DiagnosticMathTests) ... ok
+test_full_tail_mass_has_exact_ties_despite_float_roundoff (test_soft_label_diagnostic.DiagnosticMathTests) ... ok
+test_seed_aggregation_uses_sample_sd_and_keeps_null (test_soft_label_diagnostic.DiagnosticMathTests) ... ok
+test_tail_boundaries_diversity_and_query_specific_gain (test_soft_label_diagnostic.DiagnosticMathTests) ... ok
+test_train_mean_excludes_invalid_validation_and_test (test_soft_label_diagnostic.DiagnosticMathTests) ... ok
+test_zero_target_and_zero_prediction_are_finite (test_soft_label_diagnostic.DiagnosticMathTests) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.370s
+
+OK
