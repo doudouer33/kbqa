@@ -1,0 +1,5 @@
+# A800 only; Python 3.10 or 3.11 recommended. Install suitable CUDA PyTorch first.
+numpy>=1.24,<3
+torch>=2.2,<3
+sentence-transformers==3.4.1
+transformers>=4.41,<4.50

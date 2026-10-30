@@ -1,0 +1,28 @@
+{
+  "base_config": "analysis/soft_oracle_1000/config.json",
+  "source_labels": "analysis/soft_oracle_1000/outputs/experiment_002/labels.jsonl",
+  "source_minimum": "analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/min_feasible_per_question.csv",
+  "prepared": "analysis/query_budget_pilot/data/prepared_001",
+  "embeddings": "analysis/query_budget_pilot/inputs/embeddings.npz",
+  "embedding_metadata": "analysis/query_budget_pilot/inputs/embedding_metadata.json",
+  "expected_count": 1000,
+  "embedding_dim": 1024,
+  "seeds": [13, 42, 2026],
+  "split_ratios": [0.7, 0.1, 0.2],
+  "labels": {
+    "minimum_feasible": {"lambda": 0.1, "temperature": 0.1},
+    "original_soft": {"lambda": 0.1, "temperature": 0.1},
+    "sharper_soft": {"lambda": 0.2, "temperature": 0.02}
+  },
+  "training": {
+    "epochs": 200,
+    "batch_size": 64,
+    "weight_decay": 0.01,
+    "patience": 20,
+    "min_delta": 0.0001,
+    "hidden_dim": 256,
+    "dropout": 0.2,
+    "num_threads": 2,
+    "learning_rates": {"linear": 0.01, "mlp": 0.001}
+  }
+}

@@ -1,0 +1,17 @@
+__pycache__/
+.ruff_cache/
+inputs/*
+!inputs/.gitkeep
+outputs/*
+!outputs/.gitkeep
+# Keep the completed pilot's aggregate report; intermediate runs stay local.
+!outputs/matrix_001/
+outputs/matrix_001/*
+!outputs/matrix_001/report/
+outputs/matrix_001/report/*
+!outputs/matrix_001/report/report.md
+!outputs/matrix_001/report/summary.json
+!outputs/matrix_001/report/summary.csv
+!outputs/matrix_001/report/f1_token.png
+*.pt
+*.npz

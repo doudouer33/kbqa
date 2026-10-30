@@ -1,0 +1,10 @@
+{
+  "query_count": 1000,
+  "unique_question_ids": 1000,
+  "id_sets_match": true,
+  "order": "question_id ascending; text preserved byte-for-byte after JSON decoding",
+  "source_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/processed_data/hotpotqa/dev_1000_subsampled.jsonl",
+  "source_sha256": "b9798320af36fbeedf1e81ed7690673016ba77b3cdc085d268c36b50669b04af",
+  "soft_oracle_sha256": "479fd04ed480b5dc6e329403b393d52507b36a7194f1e7b68b7cd627309f828e",
+  "queries_sha256": "876d1ea0f5ad699a793a84ced0be45bd0a80c8277241140b2a64f86217d91304"
+}

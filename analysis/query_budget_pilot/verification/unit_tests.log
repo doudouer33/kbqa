@@ -1,0 +1,23 @@
+test_changing_test_targets_and_scores_cannot_change_training (test_pilot.PilotTests) ... ok
+test_early_stopping_uses_only_validation (test_pilot.PilotTests) ... ok
+test_embedding_archive_reorder_is_joined_by_id (test_pilot.PilotTests) ... ok
+test_embedding_provenance_and_prepared_hashes_checked (test_pilot.PilotTests) ... ok
+test_evaluation_full_test_and_saved_curve_lookup (test_pilot.PilotTests) ... ok
+test_fake_encoder_frozen_inference_and_export (test_pilot.PilotTests) ... ok
+test_invalid_embedding_values_shape_dtype_ids_and_norm (test_pilot.PilotTests) ... ok
+test_invalid_targets_stay_null (test_pilot.PilotTests) ... ok
+test_labels_match_reused_oracle_and_minimum_cost (test_pilot.PilotTests) ... ok
+test_missing_embedding_fails_before_any_download_or_output (test_pilot.PilotTests) ... ok
+test_missing_label_id_and_changed_target_configuration_rejected (test_pilot.PilotTests) ... ok
+test_query_input_rejects_duplicates_empty_and_extra_fields (test_pilot.PilotTests) ... ok
+test_soft_cross_entropy_matches_known_distribution (test_pilot.PilotTests) ... ok
+test_split_is_deterministic_disjoint_and_preserves_unlabeled_test (test_pilot.PilotTests) ... ok
+test_standalone_verify_without_repo_or_model_library (test_pilot.PilotTests) ... ok
+test_training_reproducible_best_checkpoint_and_cpu (test_pilot.PilotTests) ... ok
+test_upload_package_is_minimal_hashed_and_refuses_overwrite (test_pilot.PilotTests) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 2.928s
+
+OK
+Verified embeddings: shape=(100, 1024), dtype=float32, metadata=/tmp/query_budget_test_w6tw9s5z/fake_export/embedding_metadata.json

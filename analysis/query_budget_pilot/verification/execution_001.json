@@ -1,0 +1,444 @@
+{
+  "created_at": "2026-10-30T10:12:10.632227+08:00",
+  "status": "complete_real_embeddings_and_18_cpu_experiments",
+  "authorization": "User explicitly authorized SSH alias a800 and first physical GPU after preparation stage.",
+  "preparation_snapshot": "verification/delivery_audit.json (historical preparation-only state)",
+  "a800": {
+    "ssh_alias": "a800",
+    "physical_gpu_index": 0,
+    "gpu_uuid": "GPU-1173bf72-51fb-2860-8f92-23860ba176f5",
+    "gpu_name": "NVIDIA A800-SXM4-80GB",
+    "post_extraction_memory_mib": 0,
+    "job": "/nas/luoyichen/query_budget_pilot/a800_embedding_job",
+    "environment": "/nas/luoyichen/envs/query-budget-embedding",
+    "model": "/nas/luoyichen/models/bge-m3",
+    "result": "/nas/luoyichen/query_budget_pilot/results/run_001",
+    "cache": "/nas/luoyichen/cache",
+    "temporary_files": "/nas/luoyichen/tmp",
+    "versions": {
+      "executable": "/nas/luoyichen/envs/query-budget-embedding/bin/python",
+      "python": "3.10.20 (main, Mar 11 2026, 17:46:40) [GCC 14.3.0]",
+      "numpy": "1.26.4",
+      "torch": "2.4.0+cu118",
+      "sentence_transformers": "3.4.1",
+      "transformers": "4.45.1",
+      "huggingface_hub": "0.36.2",
+      "environment_method": "new venv with read-only inherited existing CUDA PyTorch; original environment unmodified",
+      "pip_index": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    "model_provenance": {
+      "model": "BAAI/bge-m3",
+      "revision": "5617a9f61b028005a4858fdac845db406aefb181",
+      "official_metadata_source": "https://huggingface.co/api/models/BAAI/bge-m3?blobs=true",
+      "download_endpoint": "https://hf-mirror.com",
+      "verified_at_utc": "2026-10-30T01:59:58.302175+00:00",
+      "files": {
+        "1_Pooling/config.json": {
+          "algorithm": "git_blob_sha1",
+          "digest": "9bd85925f325e25246d94c4918dc02ab98f2a1b7",
+          "bytes": 191
+        },
+        "config.json": {
+          "algorithm": "git_blob_sha1",
+          "digest": "e6eda1c72da8f9dc30fdd9b69c73d35af3b7a7ad",
+          "bytes": 687
+        },
+        "config_sentence_transformers.json": {
+          "algorithm": "git_blob_sha1",
+          "digest": "1fba91c78a6c8e17227058ab6d4d3acb5d8630a9",
+          "bytes": 123
+        },
+        "modules.json": {
+          "algorithm": "git_blob_sha1",
+          "digest": "952a9b81c0bfd99800fabf352f69c7ccd46c5e43",
+          "bytes": 349
+        },
+        "sentence_bert_config.json": {
+          "algorithm": "git_blob_sha1",
+          "digest": "0140ba1eac83a3c9b857d64baba91969d988624b",
+          "bytes": 54
+        },
+        "special_tokens_map.json": {
+          "algorithm": "git_blob_sha1",
+          "digest": "b1879d702821e753ffe4245048eee415d54a9385",
+          "bytes": 964
+        },
+        "tokenizer_config.json": {
+          "algorithm": "git_blob_sha1",
+          "digest": "dc69ac559dcba2694012009aaa108c614541789a",
+          "bytes": 444
+        },
+        "sentencepiece.bpe.model": {
+          "algorithm": "sha256",
+          "digest": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+          "bytes": 5069051
+        },
+        "tokenizer.json": {
+          "algorithm": "sha256",
+          "digest": "21106b6d7dab2952c1d496fb21d5dc9db75c28ed361a05f5020bbba27810dd08",
+          "bytes": 17098108
+        },
+        "pytorch_model.bin": {
+          "algorithm": "sha256",
+          "digest": "b5e0ce3470abf5ef3831aa1bd5553b486803e83251590ab7ff35a117cf6aad38",
+          "bytes": 2271145830
+        }
+      }
+    },
+    "uploaded_repository": false,
+    "uploaded_labels": false,
+    "embedding_model_trained": false
+  },
+  "embedding": {
+    "shape": [
+      1000,
+      1024
+    ],
+    "dtype": "float32",
+    "normalization": "l2",
+    "pooling": "cls",
+    "max_query_tokens": 58,
+    "truncated_queries": 0,
+    "queries_sha256": "876d1ea0f5ad699a793a84ced0be45bd0a80c8277241140b2a64f86217d91304",
+    "embeddings_sha256": "bd76637583caa1ed84ba662cbca2b430171c0c1815fb3c53321b0af9a0796e28",
+    "metadata_sha256": "0b5b3c68b310bcc56df95793936f64122143da2674a8f322923a37ab2d15e426",
+    "remote_and_local_verification_passed": true
+  },
+  "cpu_training": {
+    "device": "cpu",
+    "cuda_visible_devices": "",
+    "threads": 2,
+    "seeds": [
+      13,
+      42,
+      2026
+    ],
+    "models": [
+      "linear",
+      "mlp"
+    ],
+    "labels": [
+      "minimum_feasible",
+      "original_soft",
+      "sharper_soft"
+    ],
+    "completed_runs": 18,
+    "checkpoint_count": 18,
+    "hyperparameters": "unchanged predeclared config.json; early stopping on valid validation IDs only",
+    "report": "outputs/matrix_001/report/report.md",
+    "summary_json_sha256": "c17e6f35b88b9bf52ef7424888a2b782834bdc60683fc73e70cca25febb5abc5"
+  },
+  "validation": {
+    "passed": true,
+    "runs": 18,
+    "predicted_ids_checked": 18000,
+    "scalar_offline_metric_checks": 11664,
+    "full_test_per_seed": 200,
+    "unlabeled_test_per_seed": 50,
+    "all_test_ids_equal_within_seed": true,
+    "all_checkpoints_cpu": true
+  },
+  "test_metrics_mean_sample_sd": {
+    "fixed_k1": {
+      "answer_f1": {
+        "mean": 0.5035979913332855,
+        "std": 0.02890366494477803
+      },
+      "context_tokens": {
+        "mean": 94.075,
+        "std": 3.1851373596754082
+      },
+      "prompt_tokens": {
+        "mean": 6512.141666666666,
+        "std": 2.9885712863058798
+      },
+      "evidence_recall": {
+        "mean": 0.3813690476190476,
+        "std": 0.013511380312876395
+      },
+      "k1_ratio": {
+        "mean": 1.0,
+        "std": 0.0
+      },
+      "collapse_seed_count": 3
+    },
+    "fixed_k13": {
+      "answer_f1": {
+        "mean": 0.5959370280275853,
+        "std": 0.02395506627106307
+      },
+      "context_tokens": {
+        "mean": 999.945,
+        "std": 18.056293224247323
+      },
+      "prompt_tokens": {
+        "mean": 7418.035,
+        "std": 18.224390936324998
+      },
+      "evidence_recall": {
+        "mean": 0.7281468253968254,
+        "std": 0.012760973742988325
+      },
+      "k1_ratio": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "collapse_seed_count": 3
+    },
+    "fixed_k3": {
+      "answer_f1": {
+        "mean": 0.5282297168202741,
+        "std": 0.025010454662005525
+      },
+      "context_tokens": {
+        "mean": 254.17666666666668,
+        "std": 4.320880504403401
+      },
+      "prompt_tokens": {
+        "mean": 6672.263333333333,
+        "std": 4.382500237687804
+      },
+      "evidence_recall": {
+        "mean": 0.5987023809523809,
+        "std": 0.029182850223470842
+      },
+      "k1_ratio": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "collapse_seed_count": 3
+    },
+    "fixed_k5": {
+      "answer_f1": {
+        "mean": 0.5679698933104506,
+        "std": 0.01757921371207871
+      },
+      "context_tokens": {
+        "mean": 405.20666666666665,
+        "std": 4.599536208503341
+      },
+      "prompt_tokens": {
+        "mean": 6823.276666666667,
+        "std": 4.773207342378342
+      },
+      "evidence_recall": {
+        "mean": 0.6470357142857143,
+        "std": 0.02197608406825604
+      },
+      "k1_ratio": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "collapse_seed_count": 3
+    },
+    "linear/minimum_feasible": {
+      "answer_f1": {
+        "mean": 0.5035979913332855,
+        "std": 0.02890366494477803
+      },
+      "context_tokens": {
+        "mean": 94.075,
+        "std": 3.1851373596754082
+      },
+      "prompt_tokens": {
+        "mean": 6512.141666666666,
+        "std": 2.9885712863058798
+      },
+      "evidence_recall": {
+        "mean": 0.3813690476190476,
+        "std": 0.013511380312876395
+      },
+      "k1_ratio": {
+        "mean": 1.0,
+        "std": 0.0
+      },
+      "collapse_seed_count": 3
+    },
+    "linear/original_soft": {
+      "answer_f1": {
+        "mean": 0.5277063819679919,
+        "std": 0.02820763064672686
+      },
+      "context_tokens": {
+        "mean": 163.515,
+        "std": 42.590722874823335
+      },
+      "prompt_tokens": {
+        "mean": 6581.585,
+        "std": 42.68486470635671
+      },
+      "evidence_recall": {
+        "mean": 0.48231349206349206,
+        "std": 0.0468266304989491
+      },
+      "k1_ratio": {
+        "mean": 0.5133333333333333,
+        "std": 0.1890987396397272
+      },
+      "collapse_seed_count": 0
+    },
+    "linear/sharper_soft": {
+      "answer_f1": {
+        "mean": 0.5058440230793172,
+        "std": 0.03569835095664414
+      },
+      "context_tokens": {
+        "mean": 100.54333333333332,
+        "std": 12.046586999367635
+      },
+      "prompt_tokens": {
+        "mean": 6518.611666666667,
+        "std": 11.797187517935594
+      },
+      "evidence_recall": {
+        "mean": 0.3948412698412698,
+        "std": 0.029211720143229827
+      },
+      "k1_ratio": {
+        "mean": 0.925,
+        "std": 0.10499999999999997
+      },
+      "collapse_seed_count": 2
+    },
+    "mlp/minimum_feasible": {
+      "answer_f1": {
+        "mean": 0.5035979913332855,
+        "std": 0.02890366494477803
+      },
+      "context_tokens": {
+        "mean": 94.075,
+        "std": 3.1851373596754082
+      },
+      "prompt_tokens": {
+        "mean": 6512.141666666666,
+        "std": 2.9885712863058798
+      },
+      "evidence_recall": {
+        "mean": 0.3813690476190476,
+        "std": 0.013511380312876395
+      },
+      "k1_ratio": {
+        "mean": 1.0,
+        "std": 0.0
+      },
+      "collapse_seed_count": 3
+    },
+    "mlp/original_soft": {
+      "answer_f1": {
+        "mean": 0.5352267105672679,
+        "std": 0.024690828684284388
+      },
+      "context_tokens": {
+        "mean": 141.88666666666666,
+        "std": 4.0369119798843025
+      },
+      "prompt_tokens": {
+        "mean": 6559.963333333333,
+        "std": 3.7989943844827816
+      },
+      "evidence_recall": {
+        "mean": 0.47248015873015875,
+        "std": 0.014744893872581145
+      },
+      "k1_ratio": {
+        "mean": 0.43,
+        "std": 0.09013878188659975
+      },
+      "collapse_seed_count": 0
+    },
+    "mlp/sharper_soft": {
+      "answer_f1": {
+        "mean": 0.5035979913332855,
+        "std": 0.02890366494477803
+      },
+      "context_tokens": {
+        "mean": 94.29,
+        "std": 3.2715477988255097
+      },
+      "prompt_tokens": {
+        "mean": 6512.356666666667,
+        "std": 3.0959906868936824
+      },
+      "evidence_recall": {
+        "mean": 0.38220238095238096,
+        "std": 0.01399290697382897
+      },
+      "k1_ratio": {
+        "mean": 0.995,
+        "std": 0.008660254037844395
+      },
+      "collapse_seed_count": 3
+    },
+    "offline_max_f1_oracle": {
+      "answer_f1": {
+        "mean": 0.7307055465461039,
+        "std": 0.010152823030364142
+      },
+      "context_tokens": {
+        "mean": 176.24,
+        "std": 9.565035284827754
+      },
+      "prompt_tokens": {
+        "mean": 6594.308333333333,
+        "std": 9.791334604298465
+      },
+      "evidence_recall": {
+        "mean": 0.4645357142857143,
+        "std": 0.014494520623943187
+      },
+      "k1_ratio": {
+        "mean": 0.7116666666666667,
+        "std": 0.030550504633038912
+      },
+      "collapse_seed_count": 0
+    }
+  },
+  "mlp_original_soft_vs_fixed3": {
+    "f1_difference": 0.006996993746993807,
+    "relative_context_saving": 0.44177933982925266,
+    "relative_prompt_saving": 0.01683087048422849,
+    "evidence_recall_difference": -0.12622222222222218,
+    "paired_deltas": {
+      "answer_f1": {
+        "mean": 0.00699699374699377,
+        "std": 0.0029331537089489408
+      },
+      "context_tokens": {
+        "mean": -112.29,
+        "std": 7.415045515706571
+      },
+      "prompt_tokens": {
+        "mean": -112.29999999999957,
+        "std": 7.413588874492501
+      },
+      "evidence_recall": {
+        "mean": -0.1262222222222222,
+        "std": 0.027541046807615318
+      },
+      "mean_k": {
+        "mean": -1.41,
+        "std": 0.05766281297335397
+      },
+      "k1_ratio": {
+        "mean": 0.43,
+        "std": 0.09013878188659975
+      },
+      "dominant_k_ratio": {
+        "mean": -0.41,
+        "std": 0.057662812973353975
+      }
+    }
+  },
+  "preservation": {
+    "preexisting_hashed_files_unchanged": 4579,
+    "original_offline_inputs_unchanged": true,
+    "tracked_diff_empty": true,
+    "embeddings_and_18_checkpoints_git_ignored": true,
+    "rag_retrieval_or_llm_rerun": false
+  },
+  "limitations": [
+    "HotpotQA Dev was already used in method design; exploratory rather than independent generalization evidence.",
+    "Cross-seed test sets overlap; sample SD is not an independent confidence interval.",
+    "Evidence recall decreases relative to fixed k=3; context token savings differ substantially from prompt token savings."
+  ]
+}

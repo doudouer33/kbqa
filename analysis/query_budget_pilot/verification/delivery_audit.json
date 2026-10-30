@@ -1,0 +1,78 @@
+{
+  "created_at": "2026-10-30T09:43:25.700910+08:00",
+  "status": "ready_for_manual_A800_transfer",
+  "prepared_data": {
+    "queries": 1000,
+    "unique_ids": 1000,
+    "valid": 752,
+    "unlabeled": 248,
+    "all_zero_f1": 181,
+    "empty_candidates": 67,
+    "split_sizes": [
+      700,
+      100,
+      200
+    ],
+    "test_unlabeled_per_seed": 50,
+    "seeds": [
+      13,
+      42,
+      2026
+    ]
+  },
+  "crosschecks": {
+    "original_soft_labels_including_invalid": 1000,
+    "minimum_feasible_including_invalid": 1000,
+    "sharper_soft_valid_against_existing_followup": 752,
+    "sharper_reference_sha256": "d5c3faa83904bc4341e2dbbcd725cb0a40a00358a6393f095fecae655390c3e0"
+  },
+  "verification": {
+    "unit_tests_passed": 17,
+    "synthetic_cpu_runs": 18,
+    "black_check": "passed (12 Python files including standalone copy)",
+    "ruff_check": "passed",
+    "shell_syntax": "passed",
+    "python_compile_and_ast": "passed",
+    "cli_help_checks": 9,
+    "missing_real_features_guards": 2,
+    "new_file_whitespace_errors": 0,
+    "git_diff_check": "passed",
+    "tracked_diff_empty": true
+  },
+  "preservation": {
+    "preexisting_hashed_files_unchanged": 4579,
+    "baseline_manifest_sha256": "4c39768c79d62c63f8ee55784abd2ac1b018ecd1bce56e35528aa0233cd6b17b",
+    "old_offline_inputs_sha256_unchanged": true,
+    "existing_user_document_unchanged": true
+  },
+  "execution_boundaries": {
+    "A800_connected": false,
+    "ssh_or_scp_executed": false,
+    "real_embeddings_extracted": false,
+    "bge_m3_loaded_or_downloaded": false,
+    "real_hotpot_training_completed": false,
+    "rag_or_retrieval_or_llm_rerun": false,
+    "new_model_or_npz_files_in_workspace": 0
+  },
+  "a800_job": {
+    "relative_path": "analysis/query_budget_pilot/staging/a800_embedding_job",
+    "files": [
+      "README.md",
+      "a800_env.sh",
+      "extract_embeddings.py",
+      "job_manifest.json",
+      "queries.jsonl",
+      "requirements-embedding.txt"
+    ],
+    "total_bytes": 166665,
+    "required_remote_root": "/nas/luoyichen"
+  },
+  "git_status": "?? analysis/query_budget_pilot/\n?? \"docs/\\345\\275\\223\\345\\211\\215\\347\\240\\224\\347\\251\\266\\346\\226\\271\\346\\263\\225\\344\\270\\216\\351\\227\\256\\351\\242\\230\\346\\225\\264\\347\\220\\206.md\"\n",
+  "dependencies_used": {
+    "python": "3.8.20",
+    "numpy": "1.24.4",
+    "torch": "1.13.1+cu117 (CPU only)",
+    "matplotlib": "3.7.5"
+  },
+  "a800_runtime_note": "Inference API checked against official Sentence Transformers 3.4.1 source; actual BGE-M3 inference remains for user on A800."
+}

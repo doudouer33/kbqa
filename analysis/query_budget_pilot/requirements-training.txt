@@ -1,0 +1,4 @@
+# Python >=3.8. Existing adaptiverag environment is sufficient for CPU training.
+numpy>=1.24,<3
+torch>=1.13,<3
+matplotlib>=3.7,<4

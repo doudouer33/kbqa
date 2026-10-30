@@ -1,0 +1,75 @@
+{
+  "passed": true,
+  "query_count": 1000,
+  "status_counts": {
+    "valid": 752,
+    "all_zero_f1": 181,
+    "empty_candidates": 67
+  },
+  "split_counts": {
+    "13": {
+      "train": {
+        "comparison/valid": 319,
+        "bridge/unlabeled": 143,
+        "comparison/unlabeled": 31,
+        "bridge/valid": 207
+      },
+      "validation": {
+        "bridge/valid": 30,
+        "comparison/valid": 46,
+        "bridge/unlabeled": 20,
+        "comparison/unlabeled": 4
+      },
+      "test": {
+        "comparison/valid": 91,
+        "bridge/unlabeled": 41,
+        "bridge/valid": 59,
+        "comparison/unlabeled": 9
+      }
+    },
+    "42": {
+      "train": {
+        "comparison/valid": 319,
+        "bridge/unlabeled": 143,
+        "bridge/valid": 207,
+        "comparison/unlabeled": 31
+      },
+      "validation": {
+        "comparison/valid": 46,
+        "bridge/valid": 30,
+        "comparison/unlabeled": 4,
+        "bridge/unlabeled": 20
+      },
+      "test": {
+        "comparison/valid": 91,
+        "bridge/unlabeled": 41,
+        "comparison/unlabeled": 9,
+        "bridge/valid": 59
+      }
+    },
+    "2026": {
+      "train": {
+        "comparison/valid": 319,
+        "bridge/unlabeled": 143,
+        "comparison/unlabeled": 31,
+        "bridge/valid": 207
+      },
+      "validation": {
+        "comparison/valid": 46,
+        "bridge/valid": 30,
+        "bridge/unlabeled": 20,
+        "comparison/unlabeled": 4
+      },
+      "test": {
+        "bridge/unlabeled": 41,
+        "bridge/valid": 59,
+        "comparison/valid": 91,
+        "comparison/unlabeled": 9
+      }
+    }
+  },
+  "source_ids_equal": true,
+  "all_targets_share_validity": true,
+  "split_overlap": 0,
+  "old_labels_and_minimum_match": true
+}

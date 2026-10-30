@@ -1,0 +1,14 @@
+{
+  "query_count": 1000,
+  "embedding_dim": 1024,
+  "source_dataset_sha256": "b9798320af36fbeedf1e81ed7690673016ba77b3cdc085d268c36b50669b04af",
+  "queries_sha256": "876d1ea0f5ad699a793a84ced0be45bd0a80c8277241140b2a64f86217d91304",
+  "a800_root": "/nas/luoyichen",
+  "files_sha256": {
+    "extract_embeddings.py": "1888967750db3d69b7029a999c8dadb9edf70136819be09fa4c720ab33e47c75",
+    "queries.jsonl": "876d1ea0f5ad699a793a84ced0be45bd0a80c8277241140b2a64f86217d91304",
+    "requirements-embedding.txt": "8c9bf402dfe89b132bef4b04c827e098c44a1ff1dd7afacb181a6d33ae1285b2",
+    "README.md": "1a32e8e00f77329de9106447f56703f6693a9fb2409e43cc1843bddadbcd5e28",
+    "a800_env.sh": "a97a7befb1cce337837e4ad2c8e60ea0bec083bddbcbcb7f2a22a5329a5f9e9c"
+  }
+}

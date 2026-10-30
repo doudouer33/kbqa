@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "synthetic_only": true,
+  "real_hotpot_training": false,
+  "bge_m3_loaded": false,
+  "gpu_used": false,
+  "runs": 18,
+  "seeds": [
+    13,
+    42,
+    2026
+  ],
+  "synthetic_queries": 100,
+  "feature_dimension": 1024,
+  "archive_order": "reversed to verify ID joins",
+  "full_test_n_per_seed": 20,
+  "methods_per_seed": 11,
+  "report_generated": true,
+  "all_checkpoints_cpu": true,
+  "temporary_models_and_embeddings_deleted_on_exit": true
+}

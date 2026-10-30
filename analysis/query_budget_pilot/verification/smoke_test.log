@@ -1,0 +1,20 @@
+Training seed_13/linear_minimum_feasible
+Training seed_13/linear_original_soft
+Training seed_13/linear_sharper_soft
+Training seed_13/mlp_minimum_feasible
+Training seed_13/mlp_original_soft
+Training seed_13/mlp_sharper_soft
+Training seed_42/linear_minimum_feasible
+Training seed_42/linear_original_soft
+Training seed_42/linear_sharper_soft
+Training seed_42/mlp_minimum_feasible
+Training seed_42/mlp_original_soft
+Training seed_42/mlp_sharper_soft
+Training seed_2026/linear_minimum_feasible
+Training seed_2026/linear_original_soft
+Training seed_2026/linear_sharper_soft
+Training seed_2026/mlp_minimum_feasible
+Training seed_2026/mlp_original_soft
+Training seed_2026/mlp_sharper_soft
+Saved report: /tmp/query_budget_SYNTHETIC_t0ybxcdw/SYNTHETIC_matrix/report/report.md
+{'passed': True, 'synthetic_only': True, 'real_hotpot_training': False, 'bge_m3_loaded': False, 'gpu_used': False, 'runs': 18, 'seeds': [13, 42, 2026], 'synthetic_queries': 100, 'feature_dimension': 1024, 'archive_order': 'reversed to verify ID joins', 'full_test_n_per_seed': 20, 'methods_per_seed': 11, 'report_generated': True, 'all_checkpoints_cpu': True, 'temporary_models_and_embeddings_deleted_on_exit': True}

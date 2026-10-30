@@ -1,0 +1,59 @@
+[
+  {
+    "script": "prepare_queries.py",
+    "python": "/usr/bin/python3",
+    "help_exit_code": 0
+  },
+  {
+    "script": "prepare_labels.py",
+    "python": "/usr/bin/python3",
+    "help_exit_code": 0
+  },
+  {
+    "script": "train.py",
+    "python": "/usr/bin/python3",
+    "help_exit_code": 0
+  },
+  {
+    "script": "evaluate.py",
+    "python": "/usr/bin/python3",
+    "help_exit_code": 0
+  },
+  {
+    "script": "run_matrix.py",
+    "python": "/usr/bin/python3",
+    "help_exit_code": 0
+  },
+  {
+    "script": "pack_a800_job.py",
+    "python": "/usr/bin/python3",
+    "help_exit_code": 0
+  },
+  {
+    "script": "smoke_test.py",
+    "python": "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+    "help_exit_code": 0
+  },
+  {
+    "script": "extract_embeddings.py",
+    "python": "/usr/bin/python3",
+    "help_exit_code": 0
+  },
+  {
+    "script": "staging/a800_embedding_job/extract_embeddings.py",
+    "python": "/usr/bin/python3",
+    "help_exit_code": 0
+  },
+  {
+    "script": "train.py",
+    "missing_real_features_exit_code": 1,
+    "clear_a800_instruction": true,
+    "output_created": false
+  },
+  {
+    "script": "run_matrix.py",
+    "missing_real_features_exit_code": 1,
+    "clear_a800_instruction": true,
+    "output_created": false
+  }
+]

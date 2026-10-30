@@ -1,0 +1,314 @@
+{
+  "pilot_configuration": {
+    "base_config": "analysis/soft_oracle_1000/config.json",
+    "source_labels": "analysis/soft_oracle_1000/outputs/experiment_002/labels.jsonl",
+    "source_minimum": "analysis/soft_oracle_1000/followup_diagnostics/outputs/experiment_001/min_feasible_per_question.csv",
+    "prepared": "analysis/query_budget_pilot/data/prepared_001",
+    "embeddings": "analysis/query_budget_pilot/inputs/embeddings.npz",
+    "embedding_metadata": "analysis/query_budget_pilot/inputs/embedding_metadata.json",
+    "expected_count": 1000,
+    "embedding_dim": 1024,
+    "seeds": [
+      13,
+      42,
+      2026
+    ],
+    "split_ratios": [
+      0.7,
+      0.1,
+      0.2
+    ],
+    "labels": {
+      "minimum_feasible": {
+        "lambda": 0.1,
+        "temperature": 0.1
+      },
+      "original_soft": {
+        "lambda": 0.1,
+        "temperature": 0.1
+      },
+      "sharper_soft": {
+        "lambda": 0.2,
+        "temperature": 0.02
+      }
+    },
+    "training": {
+      "epochs": 200,
+      "batch_size": 64,
+      "weight_decay": 0.01,
+      "patience": 20,
+      "min_delta": 0.0001,
+      "hidden_dim": 256,
+      "dropout": 0.2,
+      "num_threads": 2,
+      "learning_rates": {
+        "linear": 0.01,
+        "mlp": 0.001
+      }
+    }
+  },
+  "query_count": 1000,
+  "status_counts": {
+    "valid": 752,
+    "all_zero_f1": 181,
+    "empty_candidates": 67
+  },
+  "labels": {
+    "minimum_feasible": {
+      "lambda": 0.1,
+      "temperature": 0.1
+    },
+    "original_soft": {
+      "lambda": 0.1,
+      "temperature": 0.1
+    },
+    "sharper_soft": {
+      "lambda": 0.2,
+      "temperature": 0.02
+    }
+  },
+  "constraints": {
+    "epsilon": 0.1,
+    "tau": 0.5,
+    "evidence": "sentence_recall_lower",
+    "cost": "context_tokens",
+    "k": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  "oracle_source_metadata": {
+    "label_construction_version": "soft-oracle-1.0.0",
+    "created_at": "2026-10-30T09:39:39.931427+08:00",
+    "timezone": "Asia/Shanghai",
+    "analysis_kind": "Offline Oracle / Label Analysis",
+    "command": [
+      "/usr/bin/python3",
+      "analysis/query_budget_pilot/prepare_labels.py"
+    ],
+    "python_version": "3.12.3",
+    "config_path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/soft_oracle_1000/config.json",
+    "config_sha256": "60b2ffa2cd2b8bd3efbd6163eeb789e65cb063628a4602e21b944bbca6f2658a",
+    "configuration": {
+      "inputs": {
+        "curves": "analysis/hotpot_formal_1000_20261014/per_question_curves.jsonl",
+        "evidence": "analysis/hotpot_formal_1000_20261014/evidence_diagnostic/per_k_evidence.csv",
+        "questions": "analysis/hotpot_formal_1000_20261014/evidence_diagnostic/per_question.csv",
+        "dataset": "processed_data/hotpotqa/dev_1000_subsampled.jsonl"
+      },
+      "expected_type_counts": {
+        "bridge": 500,
+        "comparison": 500
+      },
+      "k_values": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "reference": {
+        "epsilon": 0.1,
+        "tau": 0.5,
+        "lambda": 0.1,
+        "temperature": 0.1,
+        "evidence_metric": "sentence_recall_lower",
+        "cost_metric": "context_tokens",
+        "scheme": "D"
+      },
+      "sweep": {
+        "epsilon": [
+          0,
+          0.05,
+          0.1
+        ],
+        "tau": [
+          0,
+          0.5,
+          0.75,
+          1.0
+        ],
+        "lambda": [
+          0.05,
+          0.1,
+          0.2
+        ],
+        "temperature": [
+          0.05,
+          0.1,
+          0.2
+        ]
+      }
+    },
+    "runtime_parameters": {
+      "epsilon": 0.1,
+      "tau": 0.5,
+      "temperature": 0.1,
+      "evidence_metric": "sentence_recall_lower",
+      "cost_metric": "context_tokens",
+      "scheme": "D",
+      "lambda": 0.1
+    },
+    "inputs": {
+      "curves": {
+        "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_formal_1000_20261014/per_question_curves.jsonl",
+        "sha256": "8a83d74ec9f2a52a6608cd50753c71d54a4ab57afcff18d474c1b66de55153f0"
+      },
+      "evidence": {
+        "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_formal_1000_20261014/evidence_diagnostic/per_k_evidence.csv",
+        "sha256": "e4cd524771554c00232f6aed3250e3c3cee3a3d6cff69836f43db0012492c484"
+      },
+      "questions": {
+        "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/analysis/hotpot_formal_1000_20261014/evidence_diagnostic/per_question.csv",
+        "sha256": "903b9a2d1dfdb03f05bf46b6642bd0343d9b37a4a21695d86dbca27f3093e0a9"
+      },
+      "dataset": {
+        "path": "/media/hnu/hnu2021/dengxin/luoyichen/kbqa/processed_data/hotpotqa/dev_1000_subsampled.jsonl",
+        "sha256": "b9798320af36fbeedf1e81ed7690673016ba77b3cdc085d268c36b50669b04af"
+      }
+    },
+    "cost_normalization": "per-query tokens(k) / max(tokens(j) for all 15 j); independent of candidate set",
+    "evidence_definition": "Reused diagnostic: confirmed Gold sentence/paragraph hits in actual model-visible filtered, 350-word-rendered contexts; lower=hit/total, upper=(hit+unknown)/total. Unknown is uncertainty, not confirmed absence.",
+    "numeric_boundary_atol": 1e-12,
+    "entropy_log_base": "e",
+    "single_candidate_normalized_entropy": null,
+    "all_zero_policy": "retain counts/masks/curves, soft_label=null; same in A/B/C/D",
+    "empty_policy": "soft_label=null; no fallback",
+    "argmax_tie_policy": "maximum utility then smallest k",
+    "scope": "Only local saved statistics; no retrieval, LLM, inference, or training imports/calls",
+    "evidence_definition_sources": {
+      "analysis/hotpot_formal_1000_20261014/evidence_diagnostic/analyze_evidence.py": "d67c5dfdf8f18e8d5fff78f39221715a3229091f4c52585427d15d6aa857dfc5",
+      "analysis/hotpot_formal_1000_20261014/evidence_diagnostic/summary.md": "90d17b58ee7ab18ea09ed457d284f655ef5c9c7bb2b7d35aa2631cd46b90e1fa"
+    },
+    "sample_count": 1000,
+    "k_values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "code_sha256": {
+      "analysis/soft_oracle_1000/analyze_soft_oracle.py": "4055f00b6483f61ec19930574def3513b3723e25e5313b3ff0370b079002e1ab",
+      "analysis/soft_oracle_1000/build_soft_oracle.py": "6a6b60e7d085af02dccb7219205eb06dc869879d10acfbb2de8b5f544e092633",
+      "analysis/soft_oracle_1000/followup_diagnostics/analyze.py": "a8081f8faba17cef1b27a88f4ed19225eaa111e268a630dc0c98fce51251f6df",
+      "analysis/soft_oracle_1000/followup_diagnostics/tests/test_followup.py": "dfbdb5e46fe38ae57f0f4fa775fa7b31250c6c22637c1c2bbb311ea23bc3349b",
+      "analysis/soft_oracle_1000/tests/test_soft_oracle.py": "75f67a8c25937d5deb488c704def4e748317a65485dbccc5d18c7d108a91be01"
+    },
+    "git_head": "20e83307a98ad4ca5e4b4df680084df2359f517d",
+    "git_status_before_run": "?? analysis/query_budget_pilot/.gitignore\n?? analysis/query_budget_pilot/A800_README.md\n?? analysis/query_budget_pilot/README.md\n?? analysis/query_budget_pilot/a800_env.sh\n?? analysis/query_budget_pilot/common.py\n?? analysis/query_budget_pilot/config.json\n?? analysis/query_budget_pilot/data/prepared_001/queries.jsonl\n?? analysis/query_budget_pilot/data/prepared_001/query_metadata.json\n?? analysis/query_budget_pilot/evaluate.py\n?? analysis/query_budget_pilot/extract_embeddings.py\n?? analysis/query_budget_pilot/inputs/.gitkeep\n?? analysis/query_budget_pilot/outputs/.gitkeep\n?? analysis/query_budget_pilot/pack_a800_job.py\n?? analysis/query_budget_pilot/prepare_labels.py\n?? analysis/query_budget_pilot/prepare_queries.py\n?? analysis/query_budget_pilot/requirements-embedding.txt\n?? analysis/query_budget_pilot/requirements-training.txt\n?? analysis/query_budget_pilot/ruff.toml\n?? analysis/query_budget_pilot/run_matrix.py\n?? analysis/query_budget_pilot/smoke_test.py\n?? analysis/query_budget_pilot/tests/synthetic.py\n?? analysis/query_budget_pilot/tests/test_pilot.py\n?? analysis/query_budget_pilot/train.py\n?? \"docs/\\345\\275\\223\\345\\211\\215\\347\\240\\224\\347\\251\\266\\346\\226\\271\\346\\263\\225\\344\\270\\216\\351\\227\\256\\351\\242\\230\\346\\225\\264\\347\\220\\206.md\"\n"
+  },
+  "source_validation": {
+    "passed": true,
+    "query_count": 1000,
+    "pair_count": 15000,
+    "type_counts": {
+      "bridge": 500,
+      "comparison": 500
+    },
+    "k_values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "duplicate_keys": 0,
+    "missing_pairs": 0,
+    "f1_em_mismatches": 0,
+    "token_anomalies": 0,
+    "all_zero_f1_count": 181,
+    "unknown_sentence_pairs": 1,
+    "unknown_sentence_queries": 1,
+    "context_tokens_min": 18,
+    "context_token_decrease_pairs": 0,
+    "checks": [
+      "all four qid sets; full unique (qid,k) join",
+      "type and text alignment",
+      "F1/EM across three diagnostic views",
+      "Hard Oracle/ties from all k",
+      "evidence count/status/bound consistency; unknown retained",
+      "token usage qid/k; integer nonnegative API tokens; positive context; total=prompt+completion"
+    ]
+  },
+  "reference_checks": {
+    "old_soft_labels": 1000,
+    "old_minimum": 1000
+  },
+  "source_labels_sha256": "479fd04ed480b5dc6e329403b393d52507b36a7194f1e7b68b7cd627309f828e",
+  "source_minimum_sha256": "a5eab52d61be297579c4c55be74f2205c22a8fec5b741bc3c56347162d455015",
+  "pilot_code_sha256": {
+    "common.py": "88793f7163e7e260b1f05ee86ea9f0ef3f17136221e80867d2a9d92cf7fc16ff",
+    "evaluate.py": "fe9df386b094ef6f08860c8940616270f23e25a8f5f29b5af87a42409afc9d54",
+    "extract_embeddings.py": "1888967750db3d69b7029a999c8dadb9edf70136819be09fa4c720ab33e47c75",
+    "pack_a800_job.py": "3a3a510014884ae00d4dad696cedc3407f1b0290567b20c070334bc45326dccb",
+    "prepare_labels.py": "791a00e85bdbc74b8d9a9db52857babc63e3e6c1409642df83a7944d8f99dabb",
+    "prepare_queries.py": "ca9b3aa19d0828fb1f0fdc289c385d8a0e3ccaa44e2a1e166b954854fdc2d09d",
+    "run_matrix.py": "11031725881e03740ad4a7af927fff0f130ca1c30a1178bb3066be9c05a32a2e",
+    "smoke_test.py": "124ef1f3668c24503e43db97c3019b824aae52566f167672fc3ed0656a04a2aa",
+    "train.py": "85e48714e873581d68408657fcea410fc59b93444fb65b065f25aa1b96dadb56"
+  },
+  "artifacts_sha256": {
+    "queries.jsonl": "876d1ea0f5ad699a793a84ced0be45bd0a80c8277241140b2a64f86217d91304",
+    "query_metadata.json": "c63a015db45cc8eb6c4a226c9b63accef05501fcfe9361534058f80f98fffbdd",
+    "labels.jsonl": "c4c93e4c36f05b41a1c802454add64e18b730918d20f90c191e804a09458a642",
+    "offline_curves.jsonl": "9c1f042260a33fc1307a460462b128b9198258cd45df0370c01f7c39767ebe43",
+    "splits/seed_13.json": "33515d262b29ae7851c1b0b41a10e0bf424e9176e0438c8c0f482973e548f23b",
+    "splits/seed_2026.json": "f164a9c6ed418bb3f528c737b7db45a996969b2867ea598361716f7f014983f8",
+    "splits/seed_42.json": "ab73ba8095e141e1b8a02def9faccdb240b6708f56413ffcebf20ead6f97c287"
+  },
+  "seeds": [
+    13,
+    42,
+    2026
+  ],
+  "targets": [
+    "minimum_feasible",
+    "original_soft",
+    "sharper_soft"
+  ],
+  "study_scope": "Exploratory learnability on method-design HotpotQA Dev; not independent generalization evidence"
+}
