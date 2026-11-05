@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.log
+*.lock
+*.tmp
+*.swp
+*~
+.pytest_cache/
+/data/*.jsonl
+/configs/*____*.jsonnet
+/runs/*
+!/runs/directory_migration.json

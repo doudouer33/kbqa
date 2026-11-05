@@ -1,0 +1,11 @@
+{
+  "source": "processed_data/hotpotqa/train.jsonl",
+  "sample_size": 5000,
+  "seed": 42,
+  "baseline": "base_configs/oner_qa_qwen_hotpotqa_formal.jsonnet",
+  "set_name": "hotpotqa_train_5000_seed42",
+  "smoke_set_name": "hotpotqa_train_5000_seed42_smoke",
+  "llm_port": "8002",
+  "ks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+  "smoke_ks": [1, 8, 15]
+}
