@@ -2021,6 +2021,84 @@
       "mean_prediction_entropy_nats": 2.1586620107164727
     }
   },
+  "primary_comparison": "Fixed-k Answer F1 vs actual Context Tokens; Train Mean is an auxiliary label-learning diagnostic.",
+  "bert_vs_fixed_k": {
+    "1": {
+      "f1_delta_bert_minus_fixed": 0.02324764682603553,
+      "token_saving_ratio": -0.5370737755734656,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    },
+    "2": {
+      "f1_delta_bert_minus_fixed": -0.010504987736721594,
+      "token_saving_ratio": 0.1886133807503081,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    },
+    "3": {
+      "f1_delta_bert_minus_fixed": -0.016204549372196397,
+      "token_saving_ratio": 0.4325808838674733,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    },
+    "4": {
+      "f1_delta_bert_minus_fixed": -0.018719539937187113,
+      "token_saving_ratio": 0.5620875012511113,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    },
+    "5": {
+      "f1_delta_bert_minus_fixed": -0.03143522980287694,
+      "token_saving_ratio": 0.6425615962400704,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    },
+    "6": {
+      "f1_delta_bert_minus_fixed": -0.021252819700901537,
+      "token_saving_ratio": 0.6968533542009281,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    },
+    "7": {
+      "f1_delta_bert_minus_fixed": -0.03306763821572023,
+      "token_saving_ratio": 0.7369247583374892,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    },
+    "8": {
+      "f1_delta_bert_minus_fixed": -0.03171329256137456,
+      "token_saving_ratio": 0.7678097875203107,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    },
+    "9": {
+      "f1_delta_bert_minus_fixed": -0.0325195807176627,
+      "token_saving_ratio": 0.7919387052919555,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    },
+    "10": {
+      "f1_delta_bert_minus_fixed": -0.03876350901159098,
+      "token_saving_ratio": 0.8118221216974186,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    },
+    "11": {
+      "f1_delta_bert_minus_fixed": -0.037907855130765444,
+      "token_saving_ratio": 0.8281549629643321,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    },
+    "12": {
+      "f1_delta_bert_minus_fixed": -0.0345455417131888,
+      "token_saving_ratio": 0.8420126977788445,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    },
+    "13": {
+      "f1_delta_bert_minus_fixed": -0.043378765976847866,
+      "token_saving_ratio": 0.8534603177104985,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    },
+    "14": {
+      "f1_delta_bert_minus_fixed": -0.02815801257565964,
+      "token_saving_ratio": 0.8635032317026172,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    },
+    "15": {
+      "f1_delta_bert_minus_fixed": -0.044844905392987355,
+      "token_saving_ratio": 0.872222327206634,
+      "simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens": false
+    }
+  },
   "validation_selected_fixed_k": {
     "k": 12,
     "criterion": "highest mean validation answer F1; smallest k tie",

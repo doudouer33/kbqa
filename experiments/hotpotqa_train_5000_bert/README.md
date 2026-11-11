@@ -1,6 +1,6 @@
 # HotpotQA Train5000: Original Soft Labels + BERT end-to-end
 
-Execution completed successfully. Results are in [`reports/report.md`](reports/report.md); the selected checkpoint is epoch 2 of 5, trained on the pinned RTX 4090. BERT did not outperform Train Mean on test Soft CE/KL.
+Execution completed successfully. Results are in [`reports/report.md`](reports/report.md); the selected checkpoint is epoch 2 of 5, trained on the pinned RTX 4090. The primary deployment comparison is Answer F1–Context Tokens against fixed-k baselines; Train Mean remains an auxiliary label-learning diagnostic.
 
 This independent experiment builds offline labels from the completed 5000×15 formal RAG run, then fully fine-tunes BERT on **question text only**. It never imports a historical experiment module, calls Qwen/BM25, or modifies the formal RAG results.
 
@@ -75,4 +75,4 @@ Evaluation compares BERT, the Train Mean Distribution, all Fixed-k policies and 
 
 [`examples/`](examples/README.md) 提供 7 道真实题目的输入、标签和曲线示例。完整 5000 道输入/标签/曲线与约 418 MiB 模型权重保留在本地，未纳入普通 Git 历史；文件指纹保存在报告中。`references/` 中历史 1000 道标签参考数据已复制到本目录，回归测试不需要导入或读取旧实验目录。
 
-结果解读：argmax F1 提高同时增加了 tokens；测试 Soft CE/KL 未优于 Train Mean。不能把 F1 单项上升理解为在相同成本下动态策略整体优于基线。
+结果解读以固定 k 为主：相对 k=15，BERT 节省87.2%上下文tokens，F1下降4.48个百分点；相对 k=2，节省18.9%tokens，F1下降1.05个百分点。Train Mean 与 Soft CE/KL 为辅助标签学习诊断。当前结果体现成本和质量的交换，不能声称在同等成本下已经全面优于固定 k。

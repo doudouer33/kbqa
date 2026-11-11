@@ -7,6 +7,24 @@
 训练 5 epoch；最佳 epoch=2，仅依据 Validation Soft CE 选择。
 峰值模型分配显存：2544.5 MiB。
 
+## 主要比较：BERT 与固定 k
+
+统一使用1000道测试题的argmax部署结果；Answer F1与Context Tokens是主要比较，Soft CE/KL为标签学习辅助指标。
+
+| 方法 | Answer F1 | 平均 Context Tokens | BERT 相对该方法节省 tokens | BERT−该方法 F1（百分点） |
+|---|---:|---:|---:|---:|
+| BERT | 0.50712 | 148.8 | — | — |
+| fixed k=1 | 0.48387 | 96.8 | -53.7% | +2.32 |
+| fixed k=2 | 0.51763 | 183.3 | 18.9% | -1.05 |
+| fixed k=3 | 0.52333 | 262.2 | 43.3% | -1.62 |
+| fixed k=5 | 0.53856 | 416.2 | 64.3% | -3.14 |
+| fixed k=10 | 0.54589 | 790.5 | 81.2% | -3.88 |
+| fixed k=12 | 0.54167 | 941.6 | 84.2% | -3.45 |
+| fixed k=15 | 0.55197 | 1164.2 | 87.2% | -4.48 |
+
+相对k=15：BERT节省87.2%上下文tokens，F1下降4.48个百分点。相对k=2：节省18.9%tokens，F1下降1.05个百分点。
+这些结果说明存在成本与质量的交换，不能声称F1全面超越固定k；是否值得取决于预先确定的预算或F1容忍度。k=12由Validation选择；其他k完整展示，仅用于描述，不用Test重新选参。
+
 ## 标签分布
 
 | 数据 | valid | all_zero_f1 | empty_candidates | 平均熵（nats） |
@@ -44,7 +62,7 @@
 Fixed-k 的确定性分布与多数 Soft Label 支持集不兼容，因此精确 CE/KL 为无穷；JSON另列有明确标记的1e-12截断分数。
 Validation 选择的 fixed-k 为 12；全部 fixed-k 测试结果仅作描述，不使用Test选参。
 
-## BERT 与 Train Mean
+## 辅助诊断：BERT 与 Train Mean
 
 BERT 的测试 Soft CE 未低于 Train Mean；差值 BERT−Mean=0.00223，paired bootstrap 95% CI=[-0.00075, 0.00486]。
 确定性策略 F1 差值=0.02325；平均 tokens 差值=52.0。
@@ -66,7 +84,7 @@ BERT原对应F1相对打乱的增量=0.00329，置换检验p=0.28856。这是训
 
 ## 结论
 
-本次BERT没有在主要Soft CE/KL目标上优于训练集Mean Distribution。argmax F1上升同时增加了上下文成本，因此不能据此宣称整体优于Mean。
+主要部署比较是固定k下的Answer F1–Context Tokens权衡。BERT提供更低预算的工作点，但没有同时提高F1并降低tokens的Pareto优势；Train Mean只用于辅助检查标签学习。
 BERT的测试argmax-k计数：`{"1": 442, "2": 521, "3": 36, "4": 0, "5": 0, "6": 0, "7": 1, "8": 0, "9": 0, "10": 0, "11": 0, "12": 0, "13": 0, "14": 0, "15": 0}`。
 训练损失继续下降，但第2轮后Validation Loss上升；按预先规则采用第2轮，不使用测试集重新选模型。
 观察到少量query-dependent概率变化；部署决策的实际收益应结合上述固定决策分布的诊断判断，不能仅凭不同问题选出不同k作结论。

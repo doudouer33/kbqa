@@ -12,6 +12,6 @@ test_invalid_labels_are_excluded_from_ce_not_answer_metrics (test_evaluation.Eva
 test_paired_interval_zero_differences (test_evaluation.EvaluationTests) ... ok
 
 ----------------------------------------------------------------------
-Ran 12 tests in 0.649s
+Ran 12 tests in 0.659s
 
 OK

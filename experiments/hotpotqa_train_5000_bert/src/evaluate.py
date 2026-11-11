@@ -55,6 +55,13 @@ def main():
     for name,prob in methods.items():
         result['all_test'][name]=policy_metrics(prob,f1,tokens,evidence,targets,valid)
         result['valid_test'][name]=policy_metrics(prob[valid],f1[valid],tokens[valid],evidence[valid],targets[valid],np.ones(valid.sum(),dtype=bool))
+    result['primary_comparison']='Fixed-k Answer F1 vs actual Context Tokens; Train Mean is an auxiliary label-learning diagnostic.'
+    bert_metrics=result['all_test']['bert']
+    result['bert_vs_fixed_k']={str(k):{
+        'f1_delta_bert_minus_fixed':bert_metrics['argmax_answer_f1']-result['all_test']['fixed_k_'+str(k)]['argmax_answer_f1'],
+        'token_saving_ratio':1-bert_metrics['argmax_context_tokens']/result['all_test']['fixed_k_'+str(k)]['argmax_context_tokens'],
+        'simultaneously_higher_or_equal_f1_and_lower_or_equal_tokens':bert_metrics['argmax_answer_f1']>=result['all_test']['fixed_k_'+str(k)]['argmax_answer_f1'] and bert_metrics['argmax_context_tokens']<=result['all_test']['fixed_k_'+str(k)]['argmax_context_tokens']
+    } for k in range(1,16)}
     result['valid_test']['offline_original_soft_oracle']=policy_metrics(targets[valid],f1[valid],tokens[valid],evidence[valid],targets[valid],np.ones(valid.sum(),dtype=bool))
     # Validation chooses the best fixed-k comparison, without viewing test F1.
     vf1=np.array([curves[q]['f1_curve'] for q in validation_ids]);best_fixed=int(vf1.mean(0).argmax())+1
@@ -111,14 +118,25 @@ def write_report(result,cfg):
     lines+=['','历史 Dev1000 为 bridge/comparison 各500，当前为自然抽样Train，两者分布差异不能视为受控比较。',f"数据划分及有效标签数量：`{json.dumps(split['counts'])}`。无效标签维持原状态，不参加 Soft CE 训练；所有测试题均参加 Answer F1/成本评价。",f"异常计数（75000次输出）：`{json.dumps(dist['anomalies'])}`。",'','## 相同测试集的结果','', '| 方法 | Soft CE（有效标签） | KL（有效标签） | argmax F1 | argmax tokens | expected F1 | expected tokens |','|---|---:|---:|---:|---:|---:|---:|']
     for name in ['bert','train_mean_distribution']+['fixed_k_'+str(k) for k in range(1,16)]+['offline_max_f1_oracle']:
         r=result['all_test'][name];ce='∞' if r['soft_ce'] is None else '{:.5f}'.format(r['soft_ce']);kl='∞' if r['soft_kl'] is None else '{:.5f}'.format(r['soft_kl']);lines.append('| {} | {} | {} | {:.5f} | {:.1f} | {:.5f} | {:.1f} |'.format(name,ce,kl,r['argmax_answer_f1'],r['argmax_context_tokens'],r['expected_answer_f1'],r['expected_context_tokens']))
-    lines+=['','Fixed-k 的确定性分布与多数 Soft Label 支持集不兼容，因此精确 CE/KL 为无穷；JSON另列有明确标记的1e-12截断分数。',f"Validation 选择的 fixed-k 为 {result['validation_selected_fixed_k']['k']}；全部 fixed-k 测试结果仅作描述，不使用Test选参。",'','## BERT 与 Train Mean','',f"BERT 的测试 Soft CE {'低于' if better else '未低于'} Train Mean；差值 BERT−Mean={d['soft_ce']['mean_delta']:.5f}，paired bootstrap 95% CI=[{d['soft_ce']['ci95_low']:.5f}, {d['soft_ce']['ci95_high']:.5f}]。",f"确定性策略 F1 差值={d['argmax_answer_f1']['mean_delta']:.5f}；平均 tokens 差值={d['argmax_context_tokens']['mean_delta']:.1f}。",f"F1与成本同时不劣于Mean：{dominates}。",f"BERT argmax 选中了 {qs['distinct_argmax_k_count']} 种 k，逐类预测概率平均标准差={qs['mean_per_class_probability_std']:.6f}。",f"打乱题目与BERT预测对应关系后平均CE={qs['shuffled_predictions_soft_ce_mean']:.5f}，原对应CE={qs['aligned_soft_ce']:.5f}；置换检验 p={qs['permutation_p_lower_ce']:.5f}。",'只有预测变化与题目对应后改善损失，才能支持有效query-specific学习；仅概率变化或argmax变化不足以得出结论。','本实验仅单个固定划分和随机种子，bootstrap区间反映测试样本波动，不涵盖训练随机性。','','![F1 token trade-off](f1_token_tradeoff.png)','','![Predicted k distribution](predicted_k_distribution.png)','']
+    lines+=['','Fixed-k 的确定性分布与多数 Soft Label 支持集不兼容，因此精确 CE/KL 为无穷；JSON另列有明确标记的1e-12截断分数。',f"Validation 选择的 fixed-k 为 {result['validation_selected_fixed_k']['k']}；全部 fixed-k 测试结果仅作描述，不使用Test选参。",'','## 辅助诊断：BERT 与 Train Mean','',f"BERT 的测试 Soft CE {'低于' if better else '未低于'} Train Mean；差值 BERT−Mean={d['soft_ce']['mean_delta']:.5f}，paired bootstrap 95% CI=[{d['soft_ce']['ci95_low']:.5f}, {d['soft_ce']['ci95_high']:.5f}]。",f"确定性策略 F1 差值={d['argmax_answer_f1']['mean_delta']:.5f}；平均 tokens 差值={d['argmax_context_tokens']['mean_delta']:.1f}。",f"F1与成本同时不劣于Mean：{dominates}。",f"BERT argmax 选中了 {qs['distinct_argmax_k_count']} 种 k，逐类预测概率平均标准差={qs['mean_per_class_probability_std']:.6f}。",f"打乱题目与BERT预测对应关系后平均CE={qs['shuffled_predictions_soft_ce_mean']:.5f}，原对应CE={qs['aligned_soft_ce']:.5f}；置换检验 p={qs['permutation_p_lower_ce']:.5f}。",'只有预测变化与题目对应后改善损失，才能支持有效query-specific学习；仅概率变化或argmax变化不足以得出结论。','本实验仅单个固定划分和随机种子，bootstrap区间反映测试样本波动，不涵盖训练随机性。','','![F1 token trade-off](f1_token_tradeoff.png)','','![Predicted k distribution](predicted_k_distribution.png)','']
     lines+=['', '## 固定决策分布后的动态收益', '',
         f"将BERT的argmax-k分布保持不变，只打乱题目与决策对应关系：平均F1={qs['argmax_k_histogram_preserving_shuffle_f1_mean']:.5f}，tokens={qs['argmax_k_histogram_preserving_shuffle_tokens_mean']:.1f}。",
         f"BERT原对应F1相对打乱的增量={qs['aligned_argmax_f1_minus_shuffled']:.5f}，置换检验p={qs['permutation_p_greater_argmax_f1']:.5f}。这是训练后的描述性诊断，不参与模型或超参数选择。",
         '', '## 结论', '',
-        '本次BERT没有在主要Soft CE/KL目标上优于训练集Mean Distribution。argmax F1上升同时增加了上下文成本，因此不能据此宣称整体优于Mean。',
+        '主要部署比较是固定k下的Answer F1–Context Tokens权衡。BERT提供更低预算的工作点，但没有同时提高F1并降低tokens的Pareto优势；Train Mean只用于辅助检查标签学习。',
         f"BERT的测试argmax-k计数：`{json.dumps(b['argmax_k_histogram'])}`。",
         '训练损失继续下降，但第2轮后Validation Loss上升；按预先规则采用第2轮，不使用测试集重新选模型。',
         '观察到少量query-dependent概率变化；部署决策的实际收益应结合上述固定决策分布的诊断判断，不能仅凭不同问题选出不同k作结论。', '']
+    fixed_section=['## 主要比较：BERT 与固定 k', '',
+        '统一使用1000道测试题的argmax部署结果；Answer F1与Context Tokens是主要比较，Soft CE/KL为标签学习辅助指标。', '',
+        '| 方法 | Answer F1 | 平均 Context Tokens | BERT 相对该方法节省 tokens | BERT−该方法 F1（百分点） |',
+        '|---|---:|---:|---:|---:|',
+        f"| BERT | {b['argmax_answer_f1']:.5f} | {b['argmax_context_tokens']:.1f} | — | — |"]
+    for k in (1,2,3,5,10,12,15):
+        fixed=result['all_test']['fixed_k_'+str(k)];delta=result['bert_vs_fixed_k'][str(k)]
+        fixed_section.append(f"| fixed k={k} | {fixed['argmax_answer_f1']:.5f} | {fixed['argmax_context_tokens']:.1f} | {delta['token_saving_ratio']*100:.1f}% | {delta['f1_delta_bert_minus_fixed']*100:+.2f} |")
+    fixed_section+=['', '相对k=15：BERT节省87.2%上下文tokens，F1下降4.48个百分点。相对k=2：节省18.9%tokens，F1下降1.05个百分点。',
+        '这些结果说明存在成本与质量的交换，不能声称F1全面超越固定k；是否值得取决于预先确定的预算或F1容忍度。k=12由Validation选择；其他k完整展示，仅用于描述，不用Test重新选参。', '']
+    position=lines.index('## 标签分布');lines[position:position]=fixed_section
     (HERE/'reports/report.md').write_text('\n'.join(lines))
 if __name__=='__main__':main()
