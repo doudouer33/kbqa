@@ -1,0 +1,16 @@
+{
+  "epoch": 2,
+  "train_soft_ce": 2.6874185927532057,
+  "validation_soft_ce": 2.6910600662231445,
+  "validation_kl": 0.5867799770000369,
+  "seconds": 34.05969953536987,
+  "memory": {
+    "allocated_mib": 1266.58203125,
+    "reserved_mib": 2976.0,
+    "peak_allocated_mib": 2544.54443359375,
+    "free_mib": 20237.75,
+    "total_mib": 24080.875
+  },
+  "selection": "minimum_validation_soft_ce",
+  "test_used_for_selection": false
+}

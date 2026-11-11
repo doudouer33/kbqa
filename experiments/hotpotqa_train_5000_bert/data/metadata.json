@@ -1,0 +1,172 @@
+{
+  "configuration": {
+    "seed": 42,
+    "expected_questions": 5000,
+    "k_values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "data_source": "experiments/hotpotqa_train_5000",
+    "raw_gold": "raw_data/hotpotqa/hotpot_train_v1.1.json",
+    "reference_labels": "experiments/hotpotqa_train_5000_bert/references/dev1000_original_soft_labels.jsonl",
+    "soft_label": {
+      "epsilon": 0.1,
+      "tau": 0.5,
+      "lambda": 0.1,
+      "temperature": 0.1,
+      "scheme": "D",
+      "evidence_metric": "sentence_recall_lower",
+      "cost_metric": "context_tokens"
+    },
+    "context_tokenizer": "Qwen/Qwen2.5-7B-Instruct",
+    "split_ratios": [
+      0.7,
+      0.1,
+      0.2
+    ],
+    "training": {
+      "model": "bert-base-uncased",
+      "epochs": 5,
+      "learning_rate": 2e-05,
+      "batch_size": 16,
+      "gradient_accumulation": 1,
+      "max_length": 128,
+      "weight_decay": 0.01,
+      "warmup_ratio": 0.1,
+      "gradient_clip": 1.0,
+      "mixed_precision": "fp16",
+      "selection_metric": "validation_soft_ce",
+      "gpu_uuid": "GPU-39c44260-a26c-5152-103c-9e2bff35d4f9",
+      "required_gpu_name": "NVIDIA GeForce RTX 4090",
+      "minimum_free_mib": 8000,
+      "maximum_other_process_used_mib": 2048
+    },
+    "unavailable_supporting_fact_policy": "user_approved_unknown_keep_original_denominator",
+    "unavailable_supporting_facts": {
+      "5abed6d45542990832d3a0ef": [
+        [
+          "Jonathan Taylor Thomas",
+          20
+        ]
+      ],
+      "5a80577a5542996402f6a4e9": [
+        [
+          "Buprenorphine",
+          7
+        ]
+      ]
+    }
+  },
+  "source_input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+  "official_train_sha256": "26650cf50234ef5fb2e664ed70bbecdfd87815e6bffc257e068efea5cf7cd316",
+  "source_outputs": {
+    "1": {
+      "complete_sha256": "5962ae53a56a30f9e7925a9bb6f801f669e5789c909f00720d661403473c2009",
+      "prediction_sha256": "f9de474dee15deae35c97acbfd637987a741c47f586ee259dffe153db306d757",
+      "contexts_sha256": "cddf2f0ad3f175c1b8bae7bd46daa3b986eed0edfc5bcaf7d46287f71ab9e34e"
+    },
+    "2": {
+      "complete_sha256": "1d4a14ee93295d1d3111fd3618bd6881e5b3968e790a42f235996efd9376f3c9",
+      "prediction_sha256": "a06ba15708901da8a87c2b77c79aeeb718e072de752aa6ffb637184982c476ee",
+      "contexts_sha256": "e6fc95afbe22c88d0b7cdb9d93a5ca34b5b0a581c09f83496790f849dbaab743"
+    },
+    "3": {
+      "complete_sha256": "0e52db137d3850775b48258d9985c2f9ba666bbb62652d0284d6de28e87bf5d1",
+      "prediction_sha256": "5071f15241ce1f9285e1bdd2723966c3fd37c9bb44e6e4b20366069baffe3c34",
+      "contexts_sha256": "bcb97a82c96ed9151916b55d50966ed2babe7eb0e7f5d302b39b4747d8c9845f"
+    },
+    "4": {
+      "complete_sha256": "0e8b716b6de3d2ec389598ffdb6db25b13ba6b39cb84dc07ab5c053071233aaa",
+      "prediction_sha256": "bed24fce030d540295cf3716627706ccd09686b47ef1e7188abc297d36c17c42",
+      "contexts_sha256": "d75cc608cca3392dc785f816f20026688b7a0c35a173496f320db5d60acbc667"
+    },
+    "5": {
+      "complete_sha256": "5b1bb5c12d4c9e7429a3eb6ef2d35a6b3eb221b17a672ded180952498eeaf86c",
+      "prediction_sha256": "e6290160a3562262e5fd7ab7edb659a3464dbd3fe3790450dc2b1106ba66d77a",
+      "contexts_sha256": "340d86554d72184978895718a86bd1144441be4361d25da957dc941b69000f53"
+    },
+    "6": {
+      "complete_sha256": "b4d0373af6adc64b22581abc1abde0ef40f033ea10487a93e119d29a847ae935",
+      "prediction_sha256": "738a98429e22c38cacad687884cc390a1e466b65fba224d7370b41e1d8886c15",
+      "contexts_sha256": "4c7dbea29438ff9b2aff751f9afff89a99a5e6e47889dbe7d1d1c461189e971a"
+    },
+    "7": {
+      "complete_sha256": "e58a2f038faa1bf3621b8b77123554a4a6e1b9deb3c2dce06cdfd979cb786b5d",
+      "prediction_sha256": "7cf4322c3e7552bd53e7575843eb1e75a6b843aef265b5bd1d2bc405d1bc25db",
+      "contexts_sha256": "4b9d97a76f85e7577cc253d065eef289757d283088feab8bb60f4c2ff74e3c7b"
+    },
+    "8": {
+      "complete_sha256": "b19dc48fadcc8d7ec659c8099af401b31bcd9f00e3e7cdb92684195c56a6cfa1",
+      "prediction_sha256": "3acf5ff8fd1b782b7e7bbe5c4fbd7f37aee622dc074de03ec38a76a73728f46a",
+      "contexts_sha256": "56b283993eff9413da6dc06f25399a5c07693d47ac8048cdb5fbe1a75910faa8"
+    },
+    "9": {
+      "complete_sha256": "1dd764ebc8926962c7c8110db1763d0d9b5edbdf5867bce4ed9c31d0d41a255e",
+      "prediction_sha256": "48f35fb00d6f22e7d63aaaec6a6eca84b6fd3bbf403c53cb49cfc3da894692c9",
+      "contexts_sha256": "f4e363b565b578d6c3e6de35963b2d0694c5ab0ebec74647d4fddf12fa5af2ed"
+    },
+    "10": {
+      "complete_sha256": "4a8dc74c10c5070c9be74e0c8519e03c25ff87e69c9c499ea7c84c0ac2b7eacd",
+      "prediction_sha256": "22b17eba9ea78e0d81bfa7167072d4d68391843aa397720e8af167f4a232d378",
+      "contexts_sha256": "7392099289719452a0a565546620940a3364045925a33746d70812e16b0ec535"
+    },
+    "11": {
+      "complete_sha256": "011c7314985bd6aeb43b32c21f4b11ce981ee2889f265b422303cbf393aa9c03",
+      "prediction_sha256": "93c8f9def1fb7443db1124de3743bc614c1520a5a575e40ec2cce20e1e58042c",
+      "contexts_sha256": "28dac51f6524a669c204c142e653ee1ec6053627e5d7352304007134e7900122"
+    },
+    "12": {
+      "complete_sha256": "8f4aa8219989cb68d9acad8a33b2f49e0f5f5d6c169c9e193219a2ef8e223b4b",
+      "prediction_sha256": "371fc3a5d183507ce8e232322bc0f08654f008ba9f0405e130f69aefecadbe6a",
+      "contexts_sha256": "229aa0ff1518f06545bab2669c6fdc38b81209f7ad06b3530729e63e7fd9447a"
+    },
+    "13": {
+      "complete_sha256": "6e82f9f0d63dab5a4ab2c73d1a144b8f4788befda633f7f36d5ff090142db336",
+      "prediction_sha256": "99730c028e03641c53b67ddc458ba3cd9a9d03e2a72d181536f26e495c22ff05",
+      "contexts_sha256": "2cba0b5138de551dcdbd2b3fb0ce7e8ddc9424d0beca914a8a03f14f01771815"
+    },
+    "14": {
+      "complete_sha256": "15d1906d4cc04813229e4e449055a2f3e87fb2b0a1d2d48f49c2e5401e96f5b1",
+      "prediction_sha256": "1bbf5fb8dc0a9b05fb6231f9105eab359a2f8c6fe221d634c8580c3d87924803",
+      "contexts_sha256": "1e7364037bbca75ffe9427fa587103af02e66ec9171eef82ab3db596a5ea268d"
+    },
+    "15": {
+      "complete_sha256": "3940df1f086ec445f76c1ccbf18eca2252dde2df1badda81e3187912e252e46e",
+      "prediction_sha256": "d0e832ab4b90ec356b90b477ea88df5641a0903b9cd653fd86563b9430edde1f",
+      "contexts_sha256": "a5f05c761002b986dd43fa5903fac17671609c92f6e8f7073fc968c85677a35d"
+    }
+  },
+  "built_questions": 5000,
+  "built_qid_k_pairs": 75000,
+  "reference_reproduction_passed": true,
+  "seconds": 373.7768669128418,
+  "artifacts_sha256": {
+    "queries.jsonl": "8f18a13799a504b421117468aaa06799385b2fe01cc8e6b672bf019c262017dc",
+    "curves.jsonl": "cda08d2b7472a1644ca34090da776fbc8742d34921cfa96946e1d8c487e82c86",
+    "labels.jsonl": "76ba31b9389b2662485fae33c0c7bc484bfda52f7877862c5f6eef19b5120db3",
+    "splits.json": "029cbd6c718bea64cf6264ef03920f1443eb351fe72437d42dc83653542b71e0"
+  },
+  "code_sha256": {
+    "metrics.py": "ddbccde2c939e5e6284c89b50635a4330b93d2781c630638efc354aca0ca75e7",
+    "soft_oracle.py": "c6edd16b626ae967a7aba7720017cc1be1649304e47f3648a49e6b0f9ac5c183",
+    "common.py": "4e299c6c88e2904652da2f534f8bd76a835d96f357ba465616cbc21f62d2e742",
+    "build_data.py": "07d836f75dc14aa8cc6c845b07c23d86db2bbae32c587cff4f1e4c8e16fd0ce0",
+    "device.py": "70033070e1e5f088384974cb3065d40af1903d3d8079216cc4fb0555e01248b5",
+    "train.py": "94d65239260209efccf469a26f9d2c14c44674b082288ceca76b78919c8f5fae",
+    "run_pipeline.py": "4b89820c3f3a97e9be3d5f4a97211df388fa19d01f6c93512d7afe0dc38b0c12",
+    "evaluate.py": "a37b12526650e09e524374c830ee69e89882acb8b77223e9163fd94bda3387be"
+  }
+}

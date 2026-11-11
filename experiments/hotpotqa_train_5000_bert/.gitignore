@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+/data/*
+/checkpoints/*
+/logs/*
+
+# Publish lightweight results and reproducibility records, keeping bulk artifacts local.
+!/data/metadata.json
+!/data/splits.json
+!/data/train_mean_distribution.json
+!/data/bert_predictions.jsonl
+!/data/test_decisions.jsonl
+!/checkpoints/best/
+/checkpoints/best/*
+!/checkpoints/best/README.md
+!/checkpoints/best/config.json
+!/checkpoints/best/selection.json
+!/logs/batches.jsonl
+!/logs/epochs.jsonl
+!/logs/tests.log

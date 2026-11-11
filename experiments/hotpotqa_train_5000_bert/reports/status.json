@@ -1,0 +1,7 @@
+{
+  "stage": "complete",
+  "data_construction_complete": true,
+  "training_started": true,
+  "training_complete": true,
+  "evaluation_complete": true
+}

@@ -1,0 +1,71 @@
+{
+  "seed": 42,
+  "expected_questions": 5000,
+  "k_values": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "data_source": "experiments/hotpotqa_train_5000",
+  "raw_gold": "raw_data/hotpotqa/hotpot_train_v1.1.json",
+  "reference_labels": "experiments/hotpotqa_train_5000_bert/references/dev1000_original_soft_labels.jsonl",
+  "soft_label": {
+    "epsilon": 0.1,
+    "tau": 0.5,
+    "lambda": 0.1,
+    "temperature": 0.1,
+    "scheme": "D",
+    "evidence_metric": "sentence_recall_lower",
+    "cost_metric": "context_tokens"
+  },
+  "context_tokenizer": "Qwen/Qwen2.5-7B-Instruct",
+  "split_ratios": [
+    0.7,
+    0.1,
+    0.2
+  ],
+  "training": {
+    "model": "bert-base-uncased",
+    "epochs": 5,
+    "learning_rate": 2e-05,
+    "batch_size": 16,
+    "gradient_accumulation": 1,
+    "max_length": 128,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "gradient_clip": 1.0,
+    "mixed_precision": "fp16",
+    "selection_metric": "validation_soft_ce",
+    "gpu_uuid": "GPU-39c44260-a26c-5152-103c-9e2bff35d4f9",
+    "required_gpu_name": "NVIDIA GeForce RTX 4090",
+    "minimum_free_mib": 8000,
+    "resource_policy": "Require at least 8000 MiB free on the pinned RTX 4090; other-process memory is logged, not treated as unavailability when sufficient memory remains."
+  },
+  "unavailable_supporting_fact_policy": "user_approved_unknown_keep_original_denominator",
+  "unavailable_supporting_facts": {
+    "5abed6d45542990832d3a0ef": [
+      [
+        "Jonathan Taylor Thomas",
+        20
+      ]
+    ],
+    "5a80577a5542996402f6a4e9": [
+      [
+        "Buprenorphine",
+        7
+      ]
+    ]
+  }
+}

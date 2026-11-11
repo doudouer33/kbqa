@@ -1,0 +1,8 @@
+{
+  "reason": "The initial custom 2048 MiB other-process cap was stricter than the requested availability requirement. Latest observed free memory was 19886 MiB, sufficient for full BERT fine-tuning. Judge capacity using minimum_free_mib=8000 instead.",
+  "minimum_free_mib": 8000,
+  "automatic_device_fallback": false,
+  "batch_size_changed": false,
+  "model_or_label_hyperparameters_changed": false,
+  "updated_unix": 1794421515.9005883
+}

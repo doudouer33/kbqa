@@ -1,0 +1,15 @@
+{
+  "policy": "user_approved_unknown_keep_original_denominator",
+  "items": [
+    {
+      "question_id": "5abed6d45542990832d3a0ef",
+      "title": "Jonathan Taylor Thomas",
+      "sentence_index": 20
+    },
+    {
+      "question_id": "5a80577a5542996402f6a4e9",
+      "title": "Buprenorphine",
+      "sentence_index": 7
+    }
+  ]
+}

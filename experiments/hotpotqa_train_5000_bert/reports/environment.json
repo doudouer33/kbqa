@@ -1,0 +1,15 @@
+{
+  "python": "3.8.20 (default, Oct  3 2024, 15:24:27) \n[GCC 11.2.0]",
+  "executable": "/home/dengxin/miniconda3/envs/adaptiverag/bin/python",
+  "versions": {
+    "torch": "1.13.1+cu117",
+    "transformers": "4.26.0.dev0",
+    "numpy": "1.24.4",
+    "tokenizers": "0.13.3",
+    "safetensors": null,
+    "matplotlib": "3.7.5"
+  },
+  "cached_bert_revision": "86b5e0934494bd15c9632b12f734a8a67f723594",
+  "pretrained_model": "bert-base-uncased",
+  "network_model_downloads": false
+}

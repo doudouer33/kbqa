@@ -1,0 +1,114 @@
+{
+  "config": {
+    "seed": 42,
+    "expected_questions": 5000,
+    "k_values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "data_source": "experiments/hotpotqa_train_5000",
+    "raw_gold": "raw_data/hotpotqa/hotpot_train_v1.1.json",
+    "reference_labels": "experiments/hotpotqa_train_5000_bert/references/dev1000_original_soft_labels.jsonl",
+    "soft_label": {
+      "epsilon": 0.1,
+      "tau": 0.5,
+      "lambda": 0.1,
+      "temperature": 0.1,
+      "scheme": "D",
+      "evidence_metric": "sentence_recall_lower",
+      "cost_metric": "context_tokens"
+    },
+    "context_tokenizer": "Qwen/Qwen2.5-7B-Instruct",
+    "split_ratios": [
+      0.7,
+      0.1,
+      0.2
+    ],
+    "training": {
+      "model": "bert-base-uncased",
+      "epochs": 5,
+      "learning_rate": 2e-05,
+      "batch_size": 16,
+      "gradient_accumulation": 1,
+      "max_length": 128,
+      "weight_decay": 0.01,
+      "warmup_ratio": 0.1,
+      "gradient_clip": 1.0,
+      "mixed_precision": "fp16",
+      "selection_metric": "validation_soft_ce",
+      "gpu_uuid": "GPU-39c44260-a26c-5152-103c-9e2bff35d4f9",
+      "required_gpu_name": "NVIDIA GeForce RTX 4090",
+      "minimum_free_mib": 8000,
+      "resource_policy": "Require at least 8000 MiB free on the pinned RTX 4090; other-process memory is logged, not treated as unavailability when sufficient memory remains."
+    },
+    "unavailable_supporting_fact_policy": "user_approved_unknown_keep_original_denominator",
+    "unavailable_supporting_facts": {
+      "5abed6d45542990832d3a0ef": [
+        [
+          "Jonathan Taylor Thomas",
+          20
+        ]
+      ],
+      "5a80577a5542996402f6a4e9": [
+        [
+          "Buprenorphine",
+          7
+        ]
+      ]
+    }
+  },
+  "device": {
+    "gpu_uuid": "GPU-39c44260-a26c-5152-103c-9e2bff35d4f9",
+    "gpu_name": "NVIDIA GeForce RTX 4090",
+    "memory_total_mib": 24564,
+    "memory_used_before_mib": 4196,
+    "memory_free_before_mib": 19886,
+    "driver": "580.159.03",
+    "torch_version": "1.13.1+cu117",
+    "cuda_runtime": "11.7",
+    "cuda_visible_devices": "0",
+    "logical_device": "cuda:0",
+    "torch_device_properties": "_CudaDeviceProperties(name='NVIDIA GeForce RTX 4090', major=8, minor=9, total_memory=24080MB, multi_processor_count=128)",
+    "pid": 595957
+  },
+  "trainable_parameters": 109493775,
+  "trainable_encoder_parameters": 109482240,
+  "counts": {
+    "train": {
+      "all": 3500,
+      "valid": 2516
+    },
+    "validation": {
+      "all": 500,
+      "valid": 344
+    },
+    "test": {
+      "all": 1000,
+      "valid": 683
+    }
+  },
+  "feature_fields": [
+    "question_text"
+  ],
+  "full_parameter_finetuning": true,
+  "initial_memory": {
+    "allocated_mib": 418.77392578125,
+    "reserved_mib": 472.0,
+    "peak_allocated_mib": 418.77392578125,
+    "free_mib": 18560.4375,
+    "total_mib": 24080.875
+  }
+}

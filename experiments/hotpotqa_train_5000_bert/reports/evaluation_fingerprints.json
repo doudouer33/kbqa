@@ -1,0 +1,9 @@
+{
+  "evaluation_source_sha256": "11aa4dfe11bb16a35435f2569caff14737b638ca6a950cc2f7638783e21138b9",
+  "checkpoint_selection_sha256": "de928d5eb9dbc6bed3a290c0a85bcc5cbe5027d47ceaba7f20a43eba55b605a7",
+  "bert_test_validation_predictions_sha256": "9cc0338731128b4e037c869495a0573c860db360554157d400555e94160f3aff",
+  "evaluation_json_sha256": "ba0de746e1be5965c3223710a631394b7f6091622007bdc3547e2b639ba8fd94",
+  "report_sha256": "2af69b1bb42e32f9352e8fdfa912674b8de7ddf019a653186cade55333cf701c",
+  "post_training_diagnostics_only": true,
+  "checkpoint_or_training_not_changed_after_test_evaluation": true
+}

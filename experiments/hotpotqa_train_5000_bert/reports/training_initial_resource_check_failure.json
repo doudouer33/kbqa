@@ -1,0 +1,4 @@
+{
+  "exception": "ValueError('RTX 4090 occupied; stop instead of switching device')",
+  "automatic_cpu_or_other_gpu_fallback": false
+}

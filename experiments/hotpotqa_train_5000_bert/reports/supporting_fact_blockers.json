@@ -1,0 +1,40 @@
+{
+  "invalid_fact_count": 2,
+  "affected_question_count": 2,
+  "affected_question_ratio": 0.0004,
+  "issues": [
+    {
+      "question_id": "5abed6d45542990832d3a0ef",
+      "title": "Jonathan Taylor Thomas",
+      "sentence_index": 20,
+      "available_sentence_count": 2,
+      "question": "In the 1994 American animated musical film The Lion King, Jonathan Taylor Thomas was featured as the voice of what character?",
+      "sentences": [
+        "Jonathan Taylor Thomas (\"né\" Weiss; September 8, 1981) is an American actor, voice actor, and director.",
+        " He is known for portraying Randy Taylor on \"Home Improvement\" and voicing young Simba in Disney's 1994 film \"The Lion King\"."
+      ]
+    },
+    {
+      "question_id": "5a80577a5542996402f6a4e9",
+      "title": "Buprenorphine",
+      "sentence_index": 7,
+      "available_sentence_count": 2,
+      "question": "Which opioid along with Subutex makes up the two best known of the thevinol, orvinol, or bridged oripavine derivatives?",
+      "sentences": [
+        "Buprenorphine, sold under the brand name Subutex, among others, is an opioid used to treat opioid addiction, moderate acute pain and moderate chronic pain.",
+        " The combination buprenorphine/naloxone is also used for opioid addiction."
+      ]
+    }
+  ],
+  "policy": "Do not replace sentence evidence with paragraph recall, silently drop questions, or create one-hot labels.",
+  "local_official_train_size_bytes": 566426227,
+  "local_official_train_sha256": "26650cf50234ef5fb2e664ed70bbecdfd87815e6bffc257e068efea5cf7cd316",
+  "published_train_sha256": "26650cf50234ef5fb2e664ed70bbecdfd87815e6bffc257e068efea5cf7cd316",
+  "checksum_source": "https://huggingface.co/datasets/hotpotqa/hotpot_qa/blob/cb440e4e72efe5808fe5df497ffa0b4e8da85c32/dataset_infos.json",
+  "official_homepage": "https://hotpotqa.github.io/",
+  "training_started": false,
+  "full_rag_outputs_modified": false,
+  "resolved": true,
+  "resolution": "User approved: mark only these unavailable official supporting sentences unknown; keep original denominator; no question dropped.",
+  "training_started_at_issue_discovery": false
+}

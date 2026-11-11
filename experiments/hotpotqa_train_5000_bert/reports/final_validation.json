@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "questions": 5000,
+  "qid_k_pairs": 75000,
+  "saved_prediction_rows": 1500,
+  "split_counts": {
+    "train": {
+      "all": 3500,
+      "valid": 2516
+    },
+    "validation": {
+      "all": 500,
+      "valid": 344
+    },
+    "test": {
+      "all": 1000,
+      "valid": 683
+    }
+  },
+  "invalid_labels_preserved": true,
+  "source_completion_markers_unchanged": true,
+  "historical_runtime_imports": false,
+  "reference_labels_copied_locally": true,
+  "gpu_name": "NVIDIA GeForce RTX 4090",
+  "checkpoint_sha256": "2695eadb80747bf44e28dfa61a00bd85185a034845bde9de89300cefd479e1ac",
+  "selection_sha256": "de928d5eb9dbc6bed3a290c0a85bcc5cbe5027d47ceaba7f20a43eba55b605a7",
+  "input_features": [
+    "question_text"
+  ],
+  "encoder_weights_updated": true,
+  "tests_passed": 12
+}

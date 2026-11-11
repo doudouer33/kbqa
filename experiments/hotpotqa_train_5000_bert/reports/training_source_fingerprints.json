@@ -1,0 +1,14 @@
+{
+  "src_sha256": {
+    "metrics.py": "ddbccde2c939e5e6284c89b50635a4330b93d2781c630638efc354aca0ca75e7",
+    "soft_oracle.py": "c6edd16b626ae967a7aba7720017cc1be1649304e47f3648a49e6b0f9ac5c183",
+    "common.py": "4e299c6c88e2904652da2f534f8bd76a835d96f357ba465616cbc21f62d2e742",
+    "build_data.py": "07d836f75dc14aa8cc6c845b07c23d86db2bbae32c587cff4f1e4c8e16fd0ce0",
+    "device.py": "8754dc6b8c135bca0fde5d10facb70bce1a883271a7ca3e51406506d872b380c",
+    "train.py": "94d65239260209efccf469a26f9d2c14c44674b082288ceca76b78919c8f5fae",
+    "run_pipeline.py": "8c8f5ac464930bf9fdea9e7ae5ff7b345b18963fa4b66d63cc71e7927bc05900",
+    "evaluate.py": "a37b12526650e09e524374c830ee69e89882acb8b77223e9163fd94bda3387be"
+  },
+  "configuration_sha256": "37b00c9f1c2d16e11bb10b63b299f22085d2fd0c62d8d358338a101d00bfdb9b",
+  "data_metadata_sha256": "7fca5346302aac5d10abcbf7a7eca9ab97b6c692df456df0128c1b195a894830"
+}

@@ -1,0 +1,17 @@
+test_approved_missing_sentence_keeps_denominator (test_core.CoreTests) ... ok
+test_cost_normalizes_by_all_k_and_epsilon_is_inclusive (test_core.CoreTests) ... ok
+test_invalid_support_index_stops (test_core.CoreTests) ... ok
+test_official_f1_yes_no_and_empty (test_core.CoreTests) ... ok
+test_original_distribution_reproduction (test_core.CoreTests) ... ok
+test_sentence_lower_preserves_unknown (test_core.CoreTests) ... ok
+test_train_dedup_does_not_change_raw_support_sentences (test_core.CoreTests) ... ok
+test_zero_and_empty_are_null (test_core.CoreTests) ... ok
+test_fixed_policy_infinite_ce_is_not_reported_as_finite (test_evaluation.EvaluationTests) ... ok
+test_identical_predictions_match_target_entropy (test_evaluation.EvaluationTests) ... ok
+test_invalid_labels_are_excluded_from_ce_not_answer_metrics (test_evaluation.EvaluationTests) ... ok
+test_paired_interval_zero_differences (test_evaluation.EvaluationTests) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.649s
+
+OK

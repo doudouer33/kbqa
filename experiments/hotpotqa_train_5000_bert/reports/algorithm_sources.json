@@ -1,0 +1,17 @@
+{
+  "copied_source_sha256": {
+    "official_evaluation/hotpotqa/hotpot_evaluate_v1.py": "04ffa572e24bf220dfd5bcf6f17c86adc9dd42d76d4285b73079a5b4235fe252",
+    "analysis/hotpot_formal_1000_20261014/evidence_diagnostic/analyze_evidence.py": "d67c5dfdf8f18e8d5fff78f39221715a3229091f4c52585427d15d6aa857dfc5",
+    "analysis/soft_oracle_1000/build_soft_oracle.py": "6a6b60e7d085af02dccb7219205eb06dc869879d10acfbb2de8b5f544e092633",
+    "processing_scripts/process_hotpotqa.py": "d2f9c37da41c62ac258d29f72d2ef6451aabf3c0b1ebad5207d360a7db5f0cc7"
+  },
+  "context_token_definition_source": "analysis/analyze_hotpot_500_500.py::count_context_tokens",
+  "context_token_definition": "Qwen tokenizer.encode(effective_context_text, add_special_tokens=False); no API usage substitution",
+  "sentence_evidence_definition": "sentence_hit/sentence_total; unknown sentences excluded from numerator; same literal matching as historical diagnostic",
+  "copied_reference_dataset": {
+    "source": "analysis/soft_oracle_1000/outputs/experiment_002/labels.jsonl",
+    "local_copy": "experiments/hotpotqa_train_5000_bert/references/dev1000_original_soft_labels.jsonl",
+    "sha256": "479fd04ed480b5dc6e329403b393d52507b36a7194f1e7b68b7cd627309f828e",
+    "copied_before_final_build": true
+  }
+}

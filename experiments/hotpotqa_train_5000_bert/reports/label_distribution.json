@@ -1,0 +1,275 @@
+{
+  "train5000": {
+    "total": 5000,
+    "valid_count": 3543,
+    "statuses": {
+      "valid": {
+        "count": 3543,
+        "ratio": 0.7086
+      },
+      "all_zero_f1": {
+        "count": 1137,
+        "ratio": 0.2274
+      },
+      "empty_candidates": {
+        "count": 320,
+        "ratio": 0.064
+      }
+    },
+    "mean_probability": [
+      0.09597172028442864,
+      0.08730394150063692,
+      0.08252542675698821,
+      0.07585633523091581,
+      0.07271872983040541,
+      0.06730855936916225,
+      0.06628681423016129,
+      0.06381184273693576,
+      0.060292545264193406,
+      0.05789517301597815,
+      0.0551709945173903,
+      0.05335274686628317,
+      0.05325492394874765,
+      0.05000399654802636,
+      0.058246249899746486
+    ],
+    "mean_entropy_nats": 2.126360723821396,
+    "argmax_k_histogram": {
+      "1": 2013,
+      "2": 568,
+      "3": 253,
+      "4": 133,
+      "5": 104,
+      "6": 82,
+      "7": 76,
+      "8": 55,
+      "9": 49,
+      "10": 45,
+      "11": 33,
+      "12": 33,
+      "13": 28,
+      "14": 24,
+      "15": 47
+    },
+    "candidate_count_histogram": {
+      "1": 277,
+      "2": 154,
+      "3": 117,
+      "4": 101,
+      "5": 85,
+      "6": 89,
+      "7": 106,
+      "8": 99,
+      "9": 109,
+      "10": 122,
+      "11": 139,
+      "12": 156,
+      "13": 260,
+      "14": 455,
+      "15": 1274
+    }
+  },
+  "historical_dev1000": {
+    "reproduced_count": 1000,
+    "probability_tolerance": 1e-12,
+    "summary": {
+      "total": 1000,
+      "valid_count": 752,
+      "statuses": {
+        "valid": {
+          "count": 752,
+          "ratio": 0.752
+        },
+        "all_zero_f1": {
+          "count": 181,
+          "ratio": 0.181
+        },
+        "empty_candidates": {
+          "count": 67,
+          "ratio": 0.067
+        }
+      },
+      "mean_probability": [
+        0.09285731938885924,
+        0.09049169473172161,
+        0.08071288860371571,
+        0.0772800342464876,
+        0.07310787356056213,
+        0.06915367658322917,
+        0.06368736019431746,
+        0.06301930061345393,
+        0.06007020577011896,
+        0.05627768135213941,
+        0.057075694507831405,
+        0.05908280673940832,
+        0.053255588319995134,
+        0.05048986237233173,
+        0.05343801301582809
+      ],
+      "mean_entropy_nats": 2.106487260117623,
+      "argmax_k_histogram": {
+        "1": 397,
+        "2": 150,
+        "3": 52,
+        "4": 37,
+        "5": 26,
+        "6": 14,
+        "7": 7,
+        "8": 15,
+        "9": 9,
+        "10": 8,
+        "11": 8,
+        "12": 12,
+        "13": 5,
+        "14": 5,
+        "15": 7
+      },
+      "candidate_count_histogram": {
+        "1": 66,
+        "2": 25,
+        "3": 23,
+        "4": 28,
+        "5": 22,
+        "6": 22,
+        "7": 18,
+        "8": 18,
+        "9": 22,
+        "10": 37,
+        "11": 24,
+        "12": 39,
+        "13": 50,
+        "14": 115,
+        "15": 243
+      }
+    },
+    "source_sha256": "479fd04ed480b5dc6e329403b393d52507b36a7194f1e7b68b7cd627309f828e"
+  },
+  "caveat": "Different populations: natural Train5000 vs balanced 500 bridge + 500 comparison Dev1000. Not a controlled causal comparison.",
+  "anomalies": {
+    "empty_answer": 1,
+    "answer_extraction_fallback": 18,
+    "api_usage_missing": 1144,
+    "prompt_cropped": 0,
+    "sentence_unknown": 101
+  },
+  "anomalies_by_k": {
+    "1": {
+      "empty_answer": 0,
+      "answer_extraction_fallback": 0,
+      "api_usage_missing": 6,
+      "prompt_cropped": 0,
+      "sentence_unknown": 7
+    },
+    "2": {
+      "empty_answer": 0,
+      "answer_extraction_fallback": 0,
+      "api_usage_missing": 14,
+      "prompt_cropped": 0,
+      "sentence_unknown": 9
+    },
+    "3": {
+      "empty_answer": 0,
+      "answer_extraction_fallback": 0,
+      "api_usage_missing": 41,
+      "prompt_cropped": 0,
+      "sentence_unknown": 6
+    },
+    "4": {
+      "empty_answer": 0,
+      "answer_extraction_fallback": 1,
+      "api_usage_missing": 56,
+      "prompt_cropped": 0,
+      "sentence_unknown": 6
+    },
+    "5": {
+      "empty_answer": 0,
+      "answer_extraction_fallback": 0,
+      "api_usage_missing": 64,
+      "prompt_cropped": 0,
+      "sentence_unknown": 5
+    },
+    "6": {
+      "empty_answer": 0,
+      "answer_extraction_fallback": 2,
+      "api_usage_missing": 81,
+      "prompt_cropped": 0,
+      "sentence_unknown": 6
+    },
+    "7": {
+      "empty_answer": 0,
+      "answer_extraction_fallback": 5,
+      "api_usage_missing": 94,
+      "prompt_cropped": 0,
+      "sentence_unknown": 7
+    },
+    "8": {
+      "empty_answer": 0,
+      "answer_extraction_fallback": 0,
+      "api_usage_missing": 82,
+      "prompt_cropped": 0,
+      "sentence_unknown": 6
+    },
+    "9": {
+      "empty_answer": 0,
+      "answer_extraction_fallback": 1,
+      "api_usage_missing": 87,
+      "prompt_cropped": 0,
+      "sentence_unknown": 6
+    },
+    "10": {
+      "empty_answer": 0,
+      "answer_extraction_fallback": 2,
+      "api_usage_missing": 93,
+      "prompt_cropped": 0,
+      "sentence_unknown": 8
+    },
+    "11": {
+      "empty_answer": 1,
+      "answer_extraction_fallback": 0,
+      "api_usage_missing": 87,
+      "prompt_cropped": 0,
+      "sentence_unknown": 8
+    },
+    "12": {
+      "empty_answer": 0,
+      "answer_extraction_fallback": 2,
+      "api_usage_missing": 115,
+      "prompt_cropped": 0,
+      "sentence_unknown": 7
+    },
+    "13": {
+      "empty_answer": 0,
+      "answer_extraction_fallback": 2,
+      "api_usage_missing": 112,
+      "prompt_cropped": 0,
+      "sentence_unknown": 7
+    },
+    "14": {
+      "empty_answer": 0,
+      "answer_extraction_fallback": 2,
+      "api_usage_missing": 110,
+      "prompt_cropped": 0,
+      "sentence_unknown": 7
+    },
+    "15": {
+      "empty_answer": 0,
+      "answer_extraction_fallback": 1,
+      "api_usage_missing": 102,
+      "prompt_cropped": 0,
+      "sentence_unknown": 6
+    }
+  },
+  "api_usage_policy": "Unavailable API usage remains unavailable; costs use only independently tokenized actual reader context.",
+  "unavailable_supporting_facts": [
+    {
+      "question_id": "5abed6d45542990832d3a0ef",
+      "title": "Jonathan Taylor Thomas",
+      "sentence_index": 20
+    },
+    {
+      "question_id": "5a80577a5542996402f6a4e9",
+      "title": "Buprenorphine",
+      "sentence_index": 7
+    }
+  ]
+}
