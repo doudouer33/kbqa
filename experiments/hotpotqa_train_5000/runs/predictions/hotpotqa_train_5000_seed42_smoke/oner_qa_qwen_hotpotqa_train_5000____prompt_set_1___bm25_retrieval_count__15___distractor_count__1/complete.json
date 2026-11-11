@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "binding": {
+    "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+    "input_sha256": "0fd238c10e4f9d318d16f92e4ffb30dbd7369816c572fddae4e2f9a0768a616e",
+    "config_sha256": "a20a7fc7848f5c229858d16c9e7a2104fcb02e7cd5fc1579b76942a974d12b39",
+    "k": 15,
+    "set_name": "hotpotqa_train_5000_seed42_smoke"
+  },
+  "predict_exit_code": 0,
+  "completed_at_utc": "2026-11-05T19:20:54.155726+00:00",
+  "attempt": "predictions/hotpotqa_train_5000_seed42_smoke/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/attempts/2026-11-05T19-20-37.452280+00-00_66abddaf",
+  "output_hashes": {
+    "prediction__hotpotqa_to_hotpotqa__smoke.json": "52bf022cbd904cfc7185e16d87e3d128fa7ea56c72c5d9a4955f246df241bfb7",
+    "contexts.jsonl": "3bfb684bf23c2c8e1d993b6f54eea6d6ebf33466cf542e89cf51b96f0b3ab26d",
+    "config__hotpotqa_to_hotpotqa__smoke.jsonnet": "a20a7fc7848f5c229858d16c9e7a2104fcb02e7cd5fc1579b76942a974d12b39",
+    "prediction__hotpotqa_to_hotpotqa__smoke_chains.txt": "45b01e1ce00a2cf8152b41df639b90ac79397af83b334a549e7c9fbd359eddee",
+    "prediction__hotpotqa_to_hotpotqa__smoke_time_taken.txt": "6b51d431df5d7f141cbececcf79edf3dd861c3b4069f0b11661a3eefacbba918",
+    "prediction__hotpotqa_to_hotpotqa__smoke_full_eval_path.txt": "9972d4a69f35d7be1868f36eb048c45b1a297d3e3d31605581b5867daf1a80fb",
+    "prediction__hotpotqa_to_hotpotqa__smoke_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

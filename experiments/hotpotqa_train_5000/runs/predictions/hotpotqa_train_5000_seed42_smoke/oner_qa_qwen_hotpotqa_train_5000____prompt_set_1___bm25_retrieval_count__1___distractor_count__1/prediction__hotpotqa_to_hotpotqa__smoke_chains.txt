@@ -1,0 +1,54 @@
+
+5ab7180e5542993667793f30
+KIMN (100.3 FM, "Mix 100.3") is a Hot AC radio station in Denver, Colorado, the station has an effective radiated power of 97 kW, and is under ownership of KSE Radio Ventures, which American business entrepreneur, owns KSE?
+A: ["KIMN"]
+Q: KIMN (100.3 FM, "Mix 100.3") is a Hot AC radio station in Denver, Colorado, the station has an effective radiated power of 97 kW, and is under ownership of KSE Radio Ventures, which American business entrepreneur, owns KSE?
+A: "Stan Kroenke, so the answer is: Stan Kroenke."
+A: Stan Kroenke
+Q: [EOQ]
+S: 0.0
+
+5abbda885542992ccd8e7fbf
+Datong and Jianyang, Sichuan, are located in which country?
+A: ["Jianyang, Sichuan"]
+Q: Datong and Jianyang, Sichuan, are located in which country?
+A: "Jianyang, Sichuan is located in China. So the answer is: China."
+A: China
+Q: [EOQ]
+S: 0.0
+
+5ab2e6ad554299295394689b
+Clarence Hungerforf Webb studied which Caddoan culture sire 15 miles from the Mississippi River?
+A: ["Clarence Hungerford Webb"]
+Q: Clarence Hungerforf Webb studied which Caddoan culture sire 15 miles from the Mississippi River?
+A: "Clarence Hungerford Webb studied the Poverty Point site, which is located about 15 miles from the Mississippi River. So the answer is: Poverty Point."
+A: Poverty Point
+Q: [EOQ]
+S: 0.0
+
+5a70f62e5542994082a3e44a
+Which Italian composer was born in Legnago, south of Verona, Gaetano Donizetti or Antonio Salieri?
+A: ["Antonio Salieri"]
+Q: Which Italian composer was born in Legnago, south of Verona, Gaetano Donizetti or Antonio Salieri?
+A: "Antonio Salieri was born in Legnago, south of Verona, while Gaetano Donizetti was born in Bergamo. Thus, the Italian composer born in Legnago, south of Verona, is Antonio Salieri. So the answer is: Antonio Salieri."
+A: Antonio Salieri
+Q: [EOQ]
+S: 0.0
+
+5ae79f5e5542994a481bbdb4
+Where was the father of Hyrbyair Marri from?
+A: ["Hyrbyair Marri"]
+Q: Where was the father of Hyrbyair Marri from?
+A: "The father of Hyrbyair Marri is Khair Bakhsh Marri, who is a nationalist leader from Balochistan. So the answer is: Balochistan."
+A: Balochistan
+Q: [EOQ]
+S: 0.0
+
+5a772ca65542993735360209
+Which battle took place first, Second Battle of the Marne or Battle of Guam?
+A: ["Battle of Guam (1941)"]
+Q: Which battle took place first, Second Battle of the Marne or Battle of Guam?
+A: "The Second Battle of the Marne took place in July 1918, while the Battle of Guam occurred in December 1941. Thus, the Battle of Guam took place first. So the answer is: Battle of Guam."
+A: Battle of Guam
+Q: [EOQ]
+S: 0.0

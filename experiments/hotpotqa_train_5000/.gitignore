@@ -10,3 +10,20 @@ __pycache__/
 /configs/*____*.jsonnet
 /runs/*
 !/runs/directory_migration.json
+
+# Small, real smoke artifacts for understanding the pipeline on GitHub.
+!/runs/run_manifest.json
+!/runs/selected_prompt.txt
+!/runs/empty_answer_policy.json
+!/runs/smoke/
+/runs/smoke/*
+!/runs/smoke/README.md
+!/runs/smoke/smoke.jsonl
+!/runs/smoke/smoke_acceptance_report.json
+!/runs/smoke/cache_validation_report.json
+!/runs/predictions/
+/runs/predictions/*
+!/runs/predictions/hotpotqa_train_5000_seed42_smoke/
+!/configs/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__1___distractor_count__1.jsonnet
+!/configs/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__8___distractor_count__1.jsonnet
+!/configs/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__15___distractor_count__1.jsonnet

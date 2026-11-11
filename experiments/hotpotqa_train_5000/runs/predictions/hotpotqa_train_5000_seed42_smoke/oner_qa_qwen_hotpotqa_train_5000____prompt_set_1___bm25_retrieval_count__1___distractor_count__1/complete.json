@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "binding": {
+    "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+    "input_sha256": "0fd238c10e4f9d318d16f92e4ffb30dbd7369816c572fddae4e2f9a0768a616e",
+    "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "k": 1,
+    "set_name": "hotpotqa_train_5000_seed42_smoke"
+  },
+  "predict_exit_code": 0,
+  "completed_at_utc": "2026-11-05T19:20:06.022322+00:00",
+  "attempt": "predictions/hotpotqa_train_5000_seed42_smoke/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/attempts/2026-11-05T19-19-34.516306+00-00_f2511c83",
+  "output_hashes": {
+    "prediction__hotpotqa_to_hotpotqa__smoke.json": "32139c0073ae2df2096456bafbc6525153898814d27865543624dad645de056b",
+    "contexts.jsonl": "87103b66946e26f0eb13420994ef0e2cd88d04b27d56aef53507b381e49619a1",
+    "config__hotpotqa_to_hotpotqa__smoke.jsonnet": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "prediction__hotpotqa_to_hotpotqa__smoke_chains.txt": "7a9e3e62294eccd249d41ee6ff570c4157cfc697993b25587e3e2138a3939ebf",
+    "prediction__hotpotqa_to_hotpotqa__smoke_time_taken.txt": "b7a56873cd771f2c446d369b649430b65a756ba278ff97ec81bb6f55b2e73569",
+    "prediction__hotpotqa_to_hotpotqa__smoke_full_eval_path.txt": "9972d4a69f35d7be1868f36eb048c45b1a297d3e3d31605581b5867daf1a80fb",
+    "prediction__hotpotqa_to_hotpotqa__smoke_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

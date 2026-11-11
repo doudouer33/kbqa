@@ -123,12 +123,20 @@ def install():
         return result
     generator.openai_call = observe_call
 
+    original_find = model_search.BestFirstDecomposer.find_answer_decomp
+    def observe_find(self, *args, **kwargs):
+        result = original_find(self, *args, **kwargs)
+        current["reached_final_state"] = result[0] is not None
+        return result
+    model_search.BestFirstDecomposer.find_answer_decomp = observe_find
+
     original_prediction = model_search.QuestionSearchBase.return_qid_prediction
     def observe_prediction(self, example, *args, **kwargs):
         current.clear()
         current.update(qid=example["qid"])
         result = original_prediction(self, example, *args, **kwargs)
-        check(result[0] == current["qid"] and isinstance(result[1], str) and bool(result[1].strip()), "Empty/invalid prediction")
+        check(result[0] == current["qid"] and isinstance(result[1], str), "Invalid prediction")
+        check(current.get("reached_final_state"), "Inference did not reach a final state")
         check("api" in current and "reader_contexts" in current, "Prediction lacks context/call observation")
         check(len(current["raw_contexts"]) == len(current["reader_contexts"]) > 0, "Context count mismatch")
         check(len(current["raw_contexts"]) <= k, "Context count exceeds requested k")

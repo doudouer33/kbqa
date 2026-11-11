@@ -1,0 +1,54 @@
+
+5ab7180e5542993667793f30
+KIMN (100.3 FM, "Mix 100.3") is a Hot AC radio station in Denver, Colorado, the station has an effective radiated power of 97 kW, and is under ownership of KSE Radio Ventures, which American business entrepreneur, owns KSE?
+A: ["KIMN", "100.3 FM", "KSES-FM", "Republic 100.3", "KXKL-FM", "KWOF", "100.3 The Point", "Skai 100.3", "KFXN-FM", "WFFG-FM", "CJMJ-FM", "XHEN-FM", "WUPT (FM)", "CFBR-FM", "CFAQ-FM"]
+Q: KIMN (100.3 FM, "Mix 100.3") is a Hot AC radio station in Denver, Colorado, the station has an effective radiated power of 97 kW, and is under ownership of KSE Radio Ventures, which American business entrepreneur, owns KSE?
+A: "KIMN (100.3 FM, \"Mix 100.3\") is a Hot AC radio station in Denver, Colorado, under ownership of Stan Kroenke's KSE Radio Ventures. So the answer is: Stan Kroenke."
+A: Stan Kroenke
+Q: [EOQ]
+S: 0.0
+
+5abbda885542992ccd8e7fbf
+Datong and Jianyang, Sichuan, are located in which country?
+A: ["Jianyang, Sichuan", "Jianyang Railway Station", "Jianyang Middle School", "Jianyang", "Jianyang dialect", "Jianyang District", "Datong District", "Datong Yungang Airport", "Datong Railway Station", "Datong Theater", "Datong Huairen Airport", "Sichuan Provincial Women's Prison", "Sanhe, Ziyang", "Datong County, Shanxi", "Datong (instrument)"]
+Q: Datong and Jianyang, Sichuan, are located in which country?
+A: "Datong and Jianyang, Sichuan, are located in China. So the answer is: China."
+A: China
+Q: [EOQ]
+S: 0.0
+
+5ab2e6ad554299295394689b
+Clarence Hungerforf Webb studied which Caddoan culture sire 15 miles from the Mississippi River?
+A: ["Clarence Hungerford Webb", "Caddoan Mississippian culture", "Webb, Mississippi", "Belcher Mound Site", "Nine-Mile Island (Mississippi River)", "Clarence Miles", "The Clarence River Advocate", "Cultural studies", "Webb River", "Caddoan languages", "Popular culture studies", "River mile", "Lower Mississippi River", "Clarence (river)", "Center for the Study of Southern Culture"]
+Q: Clarence Hungerforf Webb studied which Caddoan culture sire 15 miles from the Mississippi River?
+A: "Clarence Hungerford Webb studied the Belcher Mound Site, which is located 15 miles north of Shreveport, Louisiana, near the Mississippi River. So the answer is: Belcher Mound Site."
+A: Belcher Mound Site
+Q: [EOQ]
+S: 0.0
+
+5a70f62e5542994082a3e44a
+Which Italian composer was born in Legnago, south of Verona, Gaetano Donizetti or Antonio Salieri?
+A: ["Antonio Salieri", "Gaetano Donizetti", "List of operas by Donizetti", "List of operas by Salieri", "SS Gaetano Donizetti", "9912 Donizetti", "Gaetano Rossi", "Legnago", "F.C. Legnago Salus S.S.D.", "Antonio De Gaetano", "List of compositions by Antonio Salieri", "Mario Salieri", "Gaetano Pugnani", "Antonio Tarsia (composer)", "Antonio Pachera"]
+Q: Which Italian composer was born in Legnago, south of Verona, Gaetano Donizetti or Antonio Salieri?
+A: "Antonio Salieri was born in Legnago, south of Verona. So the answer is: Antonio Salieri."
+A: Antonio Salieri
+Q: [EOQ]
+S: 0.0
+
+5ae79f5e5542994a481bbdb4
+Where was the father of Hyrbyair Marri from?
+A: ["Hyrbyair Marri", "From Father to Son", "Atta Muhammad Marri", "Ghazan Marri", "Putative father", "Marri Nallos", "Margret Marri", "Father, Dear Father", "Mehran Marri", "Father", "Al-Marri", "Marry A. Somby", "Marrying a Millionaire", "Father, Dear Father (film)", "Dreams from My Father"]
+Q: Where was the father of Hyrbyair Marri from?
+A: "Hyrbyair Marri is from Balochistan. His father, Khair Bakhsh Marri, is a nationalist leader from Balochistan. So the answer is: Balochistan."
+A: Balochistan
+Q: [EOQ]
+S: 0.0
+
+5a772ca65542993735360209
+Which battle took place first, Second Battle of the Marne or Battle of Guam?
+A: ["Battle of Guam (1941)", "Battle of the Marne", "First Battle of the Marne", "Battle of Guam (1944)", "Battle of Fismes and Fismette", "Second Battle of Newbury", "Second Battle of Middlewich", "Second Battle of the Marne", "Second Battle of Bapaume", "Second Battle of Donaldsonville", "Second Battle of Cellorigo", "Order of battle of the First Battle of the Marne", "First Battle of the Aisne", "Second Battle of Fredericksburg", "Second Battle of Acentejo"]
+Q: Which battle took place first, Second Battle of the Marne or Battle of Guam?
+A: "The Second Battle of the Marne took place from 15 July \u2013 6 August 1918, while the First Battle of Guam took place from 8 December 1941 to 10 December 1941. Thus, the Second Battle of the Marne took place first. So the answer is: Second Battle of the Marne."
+A: Second Battle of the Marne
+Q: [EOQ]
+S: 0.0

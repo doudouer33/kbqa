@@ -1,0 +1,61 @@
+{
+  "qid": "5abbda885542992ccd8e7fbf",
+  "raw_contexts": [
+    {
+      "title": "Jianyang, Sichuan",
+      "paragraph_text": "Jianyang () is a county-level city located in the Sichuan basin in Sichuan Province, in south central China. Situated only 48 kilometers south east of the city center of Chengdu, Jianyang is administratively under the jurisdiction of Chengdu since May 2016. The urban center is located on the banks of the Tuo River."
+    }
+  ],
+  "reader_contexts": [
+    "Wikipedia Title: Jianyang, Sichuan\nJianyang () is a county-level city located in the Sichuan basin in Sichuan Province, in south central China. Situated only 48 kilometers south east of the city center of Chengdu, Jianyang is administratively under the jurisdiction of Chengdu since May 2016. The urban center is located on the banks of the Tuo River."
+  ],
+  "effective_context_text": "Wikipedia Title: Jianyang, Sichuan\nJianyang () is a county-level city located in the Sichuan basin in Sichuan Province, in south central China. Situated only 48 kilometers south east of the city center of Chengdu, Jianyang is administratively under the jurisdiction of Chengdu since May 2016. The urban center is located on the banks of the Tuo River.",
+  "context_suffix": "",
+  "input_question": "Datong and Jianyang, Sichuan, are located in which country?",
+  "prompt_cropped": false,
+  "prompt_sha256": "e9db22d7b1e108b39658ee8776ae6c5651e5ebd4804628768abf9a83d7fdc275",
+  "effective_context_verified_in_prompt": true,
+  "call_sha256": "b56571bec395f7dd01d72a91523c8c47530e911a2e72877fbb93e3173022f87e",
+  "parameters": {
+    "engine": "Qwen2.5-7B-Instruct",
+    "temperature": 0,
+    "max_tokens": 512,
+    "top_p": 1,
+    "n": 1,
+    "best_of": 1,
+    "logprobs": 0,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "stop": []
+  },
+  "fewshot_count_after_fit": 15,
+  "cache_hit": false,
+  "api": {
+    "usage": {
+      "prompt_tokens": 6503,
+      "completion_tokens": 20,
+      "total_tokens": 6523
+    },
+    "usage_source": "api_response",
+    "response_id": "chat-93a15101293444aab2392bdcff5ec687",
+    "response_model": "Qwen2.5-7B-Instruct",
+    "finish_reasons": [
+      "stop"
+    ]
+  },
+  "raw_generation": "Jianyang, Sichuan is located in China. So the answer is: China.",
+  "schema_version": 1,
+  "k": 1,
+  "binding": {
+    "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+    "input_sha256": "0fd238c10e4f9d318d16f92e4ffb30dbd7369816c572fddae4e2f9a0768a616e",
+    "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "k": 1,
+    "set_name": "hotpotqa_train_5000_seed42_smoke"
+  },
+  "recorded_at_utc": "2026-11-05T19:19:47.445789+00:00",
+  "prediction": "China",
+  "chain": "\n5abbda885542992ccd8e7fbf\nDatong and Jianyang, Sichuan, are located in which country?\nA: [\"Jianyang, Sichuan\"]\nQ: Datong and Jianyang, Sichuan, are located in which country?\nA: \"Jianyang, Sichuan is located in China. So the answer is: China.\"\nA: China\nQ: [EOQ]\nS: 0.0",
+  "context_sha256": "8dafe197b6f992335993272d0de0b264bba42871eed36a9eced2cdb55bfcf311",
+  "chain_sha256": "0fb6845ad2f22ba650ea9847c2d082c0612630c1ff4b83e10edd4b2fa74f76c4"
+}

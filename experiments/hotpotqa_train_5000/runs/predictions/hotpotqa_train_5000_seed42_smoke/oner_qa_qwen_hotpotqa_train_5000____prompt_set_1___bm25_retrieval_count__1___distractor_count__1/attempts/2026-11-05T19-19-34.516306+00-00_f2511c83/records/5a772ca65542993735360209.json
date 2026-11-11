@@ -1,0 +1,61 @@
+{
+  "qid": "5a772ca65542993735360209",
+  "raw_contexts": [
+    {
+      "title": "Battle of Guam (1941)",
+      "paragraph_text": "The First Battle of Guam was an engagement during the Pacific War in World War II, and took place from 8 December to 10 December 1941 on Guam in the Mariana Islands between Japan and the United States. The American garrison was defeated by Japanese forces on 10 December, which resulted in an occupation until the Second Battle of Guam in 1944."
+    }
+  ],
+  "reader_contexts": [
+    "Wikipedia Title: Battle of Guam (1941)\nThe First Battle of Guam was an engagement during the Pacific War in World War II, and took place from 8 December to 10 December 1941 on Guam in the Mariana Islands between Japan and the United States. The American garrison was defeated by Japanese forces on 10 December, which resulted in an occupation until the Second Battle of Guam in 1944."
+  ],
+  "effective_context_text": "Wikipedia Title: Battle of Guam (1941)\nThe First Battle of Guam was an engagement during the Pacific War in World War II, and took place from 8 December to 10 December 1941 on Guam in the Mariana Islands between Japan and the United States. The American garrison was defeated by Japanese forces on 10 December, which resulted in an occupation until the Second Battle of Guam in 1944.",
+  "context_suffix": "",
+  "input_question": "Which battle took place first, Second Battle of the Marne or Battle of Guam?",
+  "prompt_cropped": false,
+  "prompt_sha256": "9edfbc2f66d652dd3146153d86bdb07a62cd7eb0c1e1daea4a5b77bb88427dd4",
+  "effective_context_verified_in_prompt": true,
+  "call_sha256": "fb686959d057e5467dae904b886f43b111559b93c8bce71d4fe575dd3582311a",
+  "parameters": {
+    "engine": "Qwen2.5-7B-Instruct",
+    "temperature": 0,
+    "max_tokens": 512,
+    "top_p": 1,
+    "n": 1,
+    "best_of": 1,
+    "logprobs": 0,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "stop": []
+  },
+  "fewshot_count_after_fit": 15,
+  "cache_hit": false,
+  "api": {
+    "usage": {
+      "prompt_tokens": 6510,
+      "completion_tokens": 51,
+      "total_tokens": 6561
+    },
+    "usage_source": "api_response",
+    "response_id": "chat-0e93b0439ce443b2a6e8b77296d89a26",
+    "response_model": "Qwen2.5-7B-Instruct",
+    "finish_reasons": [
+      "stop"
+    ]
+  },
+  "raw_generation": "The Second Battle of the Marne took place in July 1918, while the Battle of Guam occurred in December 1941. Thus, the Battle of Guam took place first. So the answer is: Battle of Guam.",
+  "schema_version": 1,
+  "k": 1,
+  "binding": {
+    "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+    "input_sha256": "0fd238c10e4f9d318d16f92e4ffb30dbd7369816c572fddae4e2f9a0768a616e",
+    "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "k": 1,
+    "set_name": "hotpotqa_train_5000_seed42_smoke"
+  },
+  "recorded_at_utc": "2026-11-05T19:20:03.971855+00:00",
+  "prediction": "Battle of Guam",
+  "chain": "\n5a772ca65542993735360209\nWhich battle took place first, Second Battle of the Marne or Battle of Guam?\nA: [\"Battle of Guam (1941)\"]\nQ: Which battle took place first, Second Battle of the Marne or Battle of Guam?\nA: \"The Second Battle of the Marne took place in July 1918, while the Battle of Guam occurred in December 1941. Thus, the Battle of Guam took place first. So the answer is: Battle of Guam.\"\nA: Battle of Guam\nQ: [EOQ]\nS: 0.0",
+  "context_sha256": "f3b02592a9d693798386053eb98c8e807d9ace151ca2c91f68960356e24f5dfc",
+  "chain_sha256": "bc1e9a69f5e800e534b1a9ce640e27ea43156155d3c2e6a1c2968259948d9a2c"
+}

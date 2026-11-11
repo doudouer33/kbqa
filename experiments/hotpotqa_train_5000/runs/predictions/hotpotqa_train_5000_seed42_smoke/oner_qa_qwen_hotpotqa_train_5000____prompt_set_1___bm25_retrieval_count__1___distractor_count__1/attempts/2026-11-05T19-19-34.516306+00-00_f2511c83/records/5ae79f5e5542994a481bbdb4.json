@@ -1,0 +1,61 @@
+{
+  "qid": "5ae79f5e5542994a481bbdb4",
+  "raw_contexts": [
+    {
+      "title": "Hyrbyair Marri",
+      "paragraph_text": "Hyrbyair Marri (Urdu: ‎ ) (born 1968) is a Baloch nationalist from Balochistan. He is the fifth son of the nationalist leader Khair Bakhsh Marri. Hyrbyair Marri lives in Britain."
+    }
+  ],
+  "reader_contexts": [
+    "Wikipedia Title: Hyrbyair Marri\nHyrbyair Marri (Urdu: ‎ ) (born 1968) is a Baloch nationalist from Balochistan. He is the fifth son of the nationalist leader Khair Bakhsh Marri. Hyrbyair Marri lives in Britain."
+  ],
+  "effective_context_text": "Wikipedia Title: Hyrbyair Marri\nHyrbyair Marri (Urdu: ‎ ) (born 1968) is a Baloch nationalist from Balochistan. He is the fifth son of the nationalist leader Khair Bakhsh Marri. Hyrbyair Marri lives in Britain.",
+  "context_suffix": "",
+  "input_question": "Where was the father of Hyrbyair Marri from?",
+  "prompt_cropped": false,
+  "prompt_sha256": "06df5f9a924e75fac6a6b608f59de3984bcc0d27a460be0eb988e8e3de998f52",
+  "effective_context_verified_in_prompt": true,
+  "call_sha256": "2b61532748aee049bafc46fe54a6e34bc731489612152bacd92973c6141975f7",
+  "parameters": {
+    "engine": "Qwen2.5-7B-Instruct",
+    "temperature": 0,
+    "max_tokens": 512,
+    "top_p": 1,
+    "n": 1,
+    "best_of": 1,
+    "logprobs": 0,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "stop": []
+  },
+  "fewshot_count_after_fit": 15,
+  "cache_hit": false,
+  "api": {
+    "usage": {
+      "prompt_tokens": 6480,
+      "completion_tokens": 38,
+      "total_tokens": 6518
+    },
+    "usage_source": "api_response",
+    "response_id": "chat-68ecbfabb7f5451a9fd735d81429d7b0",
+    "response_model": "Qwen2.5-7B-Instruct",
+    "finish_reasons": [
+      "stop"
+    ]
+  },
+  "raw_generation": "The father of Hyrbyair Marri is Khair Bakhsh Marri, who is a nationalist leader from Balochistan. So the answer is: Balochistan.",
+  "schema_version": 1,
+  "k": 1,
+  "binding": {
+    "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+    "input_sha256": "0fd238c10e4f9d318d16f92e4ffb30dbd7369816c572fddae4e2f9a0768a616e",
+    "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "k": 1,
+    "set_name": "hotpotqa_train_5000_seed42_smoke"
+  },
+  "recorded_at_utc": "2026-11-05T19:20:00.879485+00:00",
+  "prediction": "Balochistan",
+  "chain": "\n5ae79f5e5542994a481bbdb4\nWhere was the father of Hyrbyair Marri from?\nA: [\"Hyrbyair Marri\"]\nQ: Where was the father of Hyrbyair Marri from?\nA: \"The father of Hyrbyair Marri is Khair Bakhsh Marri, who is a nationalist leader from Balochistan. So the answer is: Balochistan.\"\nA: Balochistan\nQ: [EOQ]\nS: 0.0",
+  "context_sha256": "2a7d3263ddd8d32afe3476b689e42e3b0e0ea39521567eaa5bb5912340c34ab3",
+  "chain_sha256": "d3c0e93f99e94d3932441073c27390b26c6147ab238a81236d6e0aa40e6a5a58"
+}

@@ -63,10 +63,16 @@ class StrictCompletionTest(unittest.TestCase):
     def test_valid_outputs_and_unknown_cached_usage_are_complete(self):
         self.assertTrue(pipeline.inspect_complete(self.manifest, "smoke", 1)[0])
 
-    def test_missing_extra_or_whitespace_prediction_is_rejected(self):
-        for predictions in ({}, {"q1": "yes", "extra": "no"}, {"q1": " "}, {"q1": None}, {"q1": ["yes"]}):
+    def test_missing_extra_or_non_string_prediction_is_rejected(self):
+        for predictions in ({}, {"q1": "yes", "extra": "no"}, {"q1": None}, {"q1": ["yes"]}):
             with self.subTest(predictions=predictions), self.assertRaises(ValueError):
                 self.validate(predictions=predictions)
+
+    def test_empty_prediction_is_accepted_and_still_bound_to_record(self):
+        for value in ("", " "):
+            self.validate(predictions={"q1": value}, records=[dict(self.row, prediction=value)])
+            with self.assertRaises(ValueError):
+                self.validate(predictions={"q1": value})
 
     def test_duplicate_or_missing_context_is_rejected(self):
         for records in ([], [self.row, self.row]):

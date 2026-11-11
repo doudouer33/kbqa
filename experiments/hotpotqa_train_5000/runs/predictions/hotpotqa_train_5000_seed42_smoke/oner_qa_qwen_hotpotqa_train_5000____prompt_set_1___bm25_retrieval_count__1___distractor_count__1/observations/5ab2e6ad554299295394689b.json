@@ -1,0 +1,61 @@
+{
+  "qid": "5ab2e6ad554299295394689b",
+  "raw_contexts": [
+    {
+      "title": "Clarence Hungerford Webb",
+      "paragraph_text": "Clarence H. Webb (25 August 1902 - 18 January 1999) was an American medical doctor and archaeologist who conducted extensive research on prehistoric sites in the southeastern United States. A pediatrician by profession, he became interested in archaeology on a camping trip with his sons where he found some small, triangular points. A distinguished physician, his archaeological research included the study of Caddoan culture, and at a number of major sites such as Poverty Point, John Pearce , Gahagan, and Belcher Mound."
+    }
+  ],
+  "reader_contexts": [
+    "Wikipedia Title: Clarence Hungerford Webb\nClarence H. Webb (25 August 1902 - 18 January 1999) was an American medical doctor and archaeologist who conducted extensive research on prehistoric sites in the southeastern United States. A pediatrician by profession, he became interested in archaeology on a camping trip with his sons where he found some small, triangular points. A distinguished physician, his archaeological research included the study of Caddoan culture, and at a number of major sites such as Poverty Point, John Pearce , Gahagan, and Belcher Mound."
+  ],
+  "effective_context_text": "Wikipedia Title: Clarence Hungerford Webb\nClarence H. Webb (25 August 1902 - 18 January 1999) was an American medical doctor and archaeologist who conducted extensive research on prehistoric sites in the southeastern United States. A pediatrician by profession, he became interested in archaeology on a camping trip with his sons where he found some small, triangular points. A distinguished physician, his archaeological research included the study of Caddoan culture, and at a number of major sites such as Poverty Point, John Pearce , Gahagan, and Belcher Mound.",
+  "context_suffix": "",
+  "input_question": "Clarence Hungerforf Webb studied which Caddoan culture sire 15 miles from the Mississippi River?",
+  "prompt_cropped": false,
+  "prompt_sha256": "9c91c5a5b324ad98ad70fc6683f5b8dfeb05323b52ffa3310229d7f20271df9e",
+  "effective_context_verified_in_prompt": true,
+  "call_sha256": "e579f484836e28906480fdb748fb66f0cec5378e12435d87581e589d1ae4a782",
+  "parameters": {
+    "engine": "Qwen2.5-7B-Instruct",
+    "temperature": 0,
+    "max_tokens": 512,
+    "top_p": 1,
+    "n": 1,
+    "best_of": 1,
+    "logprobs": 0,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "stop": []
+  },
+  "fewshot_count_after_fit": 15,
+  "cache_hit": false,
+  "api": {
+    "usage": {
+      "prompt_tokens": 6547,
+      "completion_tokens": 33,
+      "total_tokens": 6580
+    },
+    "usage_source": "api_response",
+    "response_id": "chat-d216fab8e51640a394fda29706f838ca",
+    "response_model": "Qwen2.5-7B-Instruct",
+    "finish_reasons": [
+      "stop"
+    ]
+  },
+  "raw_generation": "Clarence Hungerford Webb studied the Poverty Point site, which is located about 15 miles from the Mississippi River. So the answer is: Poverty Point.",
+  "schema_version": 1,
+  "k": 1,
+  "binding": {
+    "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+    "input_sha256": "0fd238c10e4f9d318d16f92e4ffb30dbd7369816c572fddae4e2f9a0768a616e",
+    "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "k": 1,
+    "set_name": "hotpotqa_train_5000_seed42_smoke"
+  },
+  "recorded_at_utc": "2026-11-05T19:19:50.337074+00:00",
+  "prediction": "Poverty Point",
+  "chain": "\n5ab2e6ad554299295394689b\nClarence Hungerforf Webb studied which Caddoan culture sire 15 miles from the Mississippi River?\nA: [\"Clarence Hungerford Webb\"]\nQ: Clarence Hungerforf Webb studied which Caddoan culture sire 15 miles from the Mississippi River?\nA: \"Clarence Hungerford Webb studied the Poverty Point site, which is located about 15 miles from the Mississippi River. So the answer is: Poverty Point.\"\nA: Poverty Point\nQ: [EOQ]\nS: 0.0",
+  "context_sha256": "55c5a7ac5c1e469dbb52835d76479ffbb3a23846dc5ce2db892a121144390d84",
+  "chain_sha256": "5e8b58c3c94df209352358bb030326aae036ffef834236b84a6fb9bf66121ff3"
+}

@@ -1,0 +1,156 @@
+{
+  "checked_at_utc": "2026-11-05T19:23:24.541612+00:00",
+  "status": "passed",
+  "count": 18,
+  "prompt_reconstruction_exact": true,
+  "original_diskcache_function_module": "commaqa.models.gpt3generator",
+  "original_diskcache_function_name": "cached_openai_call",
+  "cache_directory": "/home/dengxin/.cache/gpt3calls",
+  "legacy_cache_value_schema_unchanged": true,
+  "records": [
+    {
+      "qid": "5ab7180e5542993667793f30",
+      "k": 1,
+      "prompt_sha256": "81b2f0d1a206e1a983a0362a98ddf0700e9c75171cad7475c5eccff8c0771c5b",
+      "call_sha256": "1616fc8ed58182b76ef388bce910341f8ba3ddb4580cd131083aec1a29027129",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5abbda885542992ccd8e7fbf",
+      "k": 1,
+      "prompt_sha256": "e9db22d7b1e108b39658ee8776ae6c5651e5ebd4804628768abf9a83d7fdc275",
+      "call_sha256": "b56571bec395f7dd01d72a91523c8c47530e911a2e72877fbb93e3173022f87e",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5ab2e6ad554299295394689b",
+      "k": 1,
+      "prompt_sha256": "9c91c5a5b324ad98ad70fc6683f5b8dfeb05323b52ffa3310229d7f20271df9e",
+      "call_sha256": "e579f484836e28906480fdb748fb66f0cec5378e12435d87581e589d1ae4a782",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5a70f62e5542994082a3e44a",
+      "k": 1,
+      "prompt_sha256": "30aad33e207c67b1fbf1adf4903101779c33c15cfa1d21f86c0b5c1d4489ee6a",
+      "call_sha256": "46cfccff7e9e570bf8aceafd77ed21084042eb8604397357e964101c9298c1e9",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5ae79f5e5542994a481bbdb4",
+      "k": 1,
+      "prompt_sha256": "06df5f9a924e75fac6a6b608f59de3984bcc0d27a460be0eb988e8e3de998f52",
+      "call_sha256": "2b61532748aee049bafc46fe54a6e34bc731489612152bacd92973c6141975f7",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5a772ca65542993735360209",
+      "k": 1,
+      "prompt_sha256": "9edfbc2f66d652dd3146153d86bdb07a62cd7eb0c1e1daea4a5b77bb88427dd4",
+      "call_sha256": "fb686959d057e5467dae904b886f43b111559b93c8bce71d4fe575dd3582311a",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5ab7180e5542993667793f30",
+      "k": 8,
+      "prompt_sha256": "8b6878398b9c0b77ddd85dcbaa720cc904b7b2f778777427d2bc2a06ed5a6b88",
+      "call_sha256": "fbcf91d540f6784a0ef97c8cf718c9fe7b58221f08d9923456f290b6e54daf41",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5abbda885542992ccd8e7fbf",
+      "k": 8,
+      "prompt_sha256": "2f06073a92dbb05d4bf4bf8b4c40ef41c5f9d8165ccec0c376946975b8cdcfca",
+      "call_sha256": "5577f46a919f228473c6eb86d8caeb5d80aba30bb2abe9f83a403e6491fc1dcc",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5ab2e6ad554299295394689b",
+      "k": 8,
+      "prompt_sha256": "0edc8f5852bd30acad4c91664478d79566ef9d25875b7129628500afecf71442",
+      "call_sha256": "3f915fcf00cfe762391ad9f5986aa2de996aa7e0ebf904fb6a5804e5c17a76f8",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5a70f62e5542994082a3e44a",
+      "k": 8,
+      "prompt_sha256": "b7bd08b25ed1e4b4c6b5a37864b66f9dd53a2445f70153ccf142c1ea13eddd89",
+      "call_sha256": "d241d9a2227846434306799534d6a12ed901ed18afc2ab5b90b01f45a6c8a0e4",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5ae79f5e5542994a481bbdb4",
+      "k": 8,
+      "prompt_sha256": "2d0c3e43f86a31367be8b128ac9339e8e3f3f7976a0b1543e9d2a9ec39fcbc3d",
+      "call_sha256": "1932192e7f81e4c698be76048a9d93ad61a3b737d03be5b05013c2a5878560c8",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5a772ca65542993735360209",
+      "k": 8,
+      "prompt_sha256": "9de5c53797f18605b6fd6aef2e83f9c7d00a597486321bef415681f67b885237",
+      "call_sha256": "c5822c9e621203375f1d9d06017fe296d16dcec61de4bb17f5ca1997e847f51f",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5ab7180e5542993667793f30",
+      "k": 15,
+      "prompt_sha256": "a612e7ffb205093c65cb4a5cb06839c09dbf7937acf8320b0ea1050776b072f8",
+      "call_sha256": "12b3bd83de4e54057940cd580826a814574d80a2a5d185571635c7368d5a5566",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5abbda885542992ccd8e7fbf",
+      "k": 15,
+      "prompt_sha256": "cbf00eed944a8321bb5e63e057b701bd3f0314e69179ec3f3e34f922e5e01a7a",
+      "call_sha256": "036ae80c0fc9476f618953fe17f6f0135afaf252f1dc21d32578df3b8da41e42",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5ab2e6ad554299295394689b",
+      "k": 15,
+      "prompt_sha256": "5fff76fe6466121ad6637e65ff61070779dffc1c6a066ac3d479640c9c4a1244",
+      "call_sha256": "48d81e0ba9ae41c73dc83b093e6fb4ceecde11987a67057c278ead0ad61505d2",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5a70f62e5542994082a3e44a",
+      "k": 15,
+      "prompt_sha256": "f8d4be20bdcf96e54423d8f3bac6a792b6d70ba41c09b6704a060e534db30f2f",
+      "call_sha256": "1991ed3008209aaf397431d502694b70a9af3cc4cfae6c05164dc4830dd7e02b",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5ae79f5e5542994a481bbdb4",
+      "k": 15,
+      "prompt_sha256": "24f3d795a6f9542fb3aebe6845fa3adcfc72e99a4efbcfa52ac183173ff22c45",
+      "call_sha256": "976a433461cf749d75d9da14bf83130acc9c0c6e708dcf8ab4706f7ca670c357",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    },
+    {
+      "qid": "5a772ca65542993735360209",
+      "k": 15,
+      "prompt_sha256": "acb072f93b7a3bd832b80e0def442a7b1fc6e75d02af5a4c4feb645e90884d65",
+      "call_sha256": "adc0e302da8c8cd025ec4fa3dfffeb314d0f143104e38c7aab70e1e6b302416b",
+      "original_diskcache_key_found": true,
+      "cached_generation_equal": true
+    }
+  ]
+}

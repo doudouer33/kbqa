@@ -1,0 +1,96 @@
+{
+  "qid": "5ae79f5e5542994a481bbdb4",
+  "raw_contexts": [
+    {
+      "title": "Hyrbyair Marri",
+      "paragraph_text": "Hyrbyair Marri (Urdu: ‎ ) (born 1968) is a Baloch nationalist from Balochistan. He is the fifth son of the nationalist leader Khair Bakhsh Marri. Hyrbyair Marri lives in Britain."
+    },
+    {
+      "title": "From Father to Son",
+      "paragraph_text": "From Father to Son (Finnish: Isästä poikaan ) is a 1942 novel by the Finnish writer Mika Waltari."
+    },
+    {
+      "title": "Atta Muhammad Marri",
+      "paragraph_text": "Atta Muammad Marri (1937–1998) was a Sindhi politician hailing from a political agricultural family of Sindh. His father Ali Muhammad Marri was an influential politician of his time and remained member of the Legislative Assembly during the British Raj, as well as the Sindh President of the Khilafat Movement."
+    },
+    {
+      "title": "Ghazan Marri",
+      "paragraph_text": "Ghazan Marri (Urdu: مير غزن مری‎ ) is a politician from Balochistan, Pakistan. Marri is the son of politician Nawab Khair Bakhsh Marri. Marri's late brother, Balach Marri, was also a politician."
+    },
+    {
+      "title": "Putative father",
+      "paragraph_text": "A putative father, with some variations in specific language, generally means a man whose legal relationship to a child has not been established but who is alleged to be or claims that he may be the biological father of a child who is born to a woman to whom he is not married at the time of the child's birth."
+    },
+    {
+      "title": "Marri Nallos",
+      "paragraph_text": "Marri Nallos is a pop singer from the Philippines."
+    },
+    {
+      "title": "Margret Marri",
+      "paragraph_text": "Margret Marri is a footballer from Burma who currently plays as a forward."
+    },
+    {
+      "title": "Father, Dear Father",
+      "paragraph_text": "Father, Dear Father is a British television sitcom produced by Thames Television for ITV from 1968 to 1973 starring Patrick Cargill. It was subsequently made into a spin-off film of the same title released in 1973."
+    }
+  ],
+  "reader_contexts": [
+    "Wikipedia Title: Hyrbyair Marri\nHyrbyair Marri (Urdu: ‎ ) (born 1968) is a Baloch nationalist from Balochistan. He is the fifth son of the nationalist leader Khair Bakhsh Marri. Hyrbyair Marri lives in Britain.",
+    "Wikipedia Title: From Father to Son\nFrom Father to Son (Finnish: Isästä poikaan ) is a 1942 novel by the Finnish writer Mika Waltari.",
+    "Wikipedia Title: Atta Muhammad Marri\nAtta Muammad Marri (1937–1998) was a Sindhi politician hailing from a political agricultural family of Sindh. His father Ali Muhammad Marri was an influential politician of his time and remained member of the Legislative Assembly during the British Raj, as well as the Sindh President of the Khilafat Movement.",
+    "Wikipedia Title: Ghazan Marri\nGhazan Marri (Urdu: مير غزن مری‎ ) is a politician from Balochistan, Pakistan. Marri is the son of politician Nawab Khair Bakhsh Marri. Marri's late brother, Balach Marri, was also a politician.",
+    "Wikipedia Title: Putative father\nA putative father, with some variations in specific language, generally means a man whose legal relationship to a child has not been established but who is alleged to be or claims that he may be the biological father of a child who is born to a woman to whom he is not married at the time of the child's birth.",
+    "Wikipedia Title: Marri Nallos\nMarri Nallos is a pop singer from the Philippines.",
+    "Wikipedia Title: Margret Marri\nMargret Marri is a footballer from Burma who currently plays as a forward.",
+    "Wikipedia Title: Father, Dear Father\nFather, Dear Father is a British television sitcom produced by Thames Television for ITV from 1968 to 1973 starring Patrick Cargill. It was subsequently made into a spin-off film of the same title released in 1973."
+  ],
+  "effective_context_text": "Wikipedia Title: Hyrbyair Marri\nHyrbyair Marri (Urdu: ‎ ) (born 1968) is a Baloch nationalist from Balochistan. He is the fifth son of the nationalist leader Khair Bakhsh Marri. Hyrbyair Marri lives in Britain.\n\nWikipedia Title: From Father to Son\nFrom Father to Son (Finnish: Isästä poikaan ) is a 1942 novel by the Finnish writer Mika Waltari.\n\nWikipedia Title: Atta Muhammad Marri\nAtta Muammad Marri (1937–1998) was a Sindhi politician hailing from a political agricultural family of Sindh. His father Ali Muhammad Marri was an influential politician of his time and remained member of the Legislative Assembly during the British Raj, as well as the Sindh President of the Khilafat Movement.\n\nWikipedia Title: Ghazan Marri\nGhazan Marri (Urdu: مير غزن مری‎ ) is a politician from Balochistan, Pakistan. Marri is the son of politician Nawab Khair Bakhsh Marri. Marri's late brother, Balach Marri, was also a politician.\n\nWikipedia Title: Putative father\nA putative father, with some variations in specific language, generally means a man whose legal relationship to a child has not been established but who is alleged to be or claims that he may be the biological father of a child who is born to a woman to whom he is not married at the time of the child's birth.\n\nWikipedia Title: Marri Nallos\nMarri Nallos is a pop singer from the Philippines.\n\nWikipedia Title: Margret Marri\nMargret Marri is a footballer from Burma who currently plays as a forward.\n\nWikipedia Title: Father, Dear Father\nFather, Dear Father is a British television sitcom produced by Thames Television for ITV from 1968 to 1973 starring Patrick Cargill. It was subsequently made into a spin-off film of the same title released in 1973.",
+  "context_suffix": "",
+  "input_question": "Where was the father of Hyrbyair Marri from?",
+  "prompt_cropped": false,
+  "prompt_sha256": "2d0c3e43f86a31367be8b128ac9339e8e3f3f7976a0b1543e9d2a9ec39fcbc3d",
+  "effective_context_verified_in_prompt": true,
+  "call_sha256": "1932192e7f81e4c698be76048a9d93ad61a3b737d03be5b05013c2a5878560c8",
+  "parameters": {
+    "engine": "Qwen2.5-7B-Instruct",
+    "temperature": 0,
+    "max_tokens": 512,
+    "top_p": 1,
+    "n": 1,
+    "best_of": 1,
+    "logprobs": 0,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "stop": []
+  },
+  "fewshot_count_after_fit": 15,
+  "cache_hit": false,
+  "api": {
+    "usage": {
+      "prompt_tokens": 6861,
+      "completion_tokens": 38,
+      "total_tokens": 6899
+    },
+    "usage_source": "api_response",
+    "response_id": "chat-e16dc2fc272942c587dbe85848a78813",
+    "response_model": "Qwen2.5-7B-Instruct",
+    "finish_reasons": [
+      "stop"
+    ]
+  },
+  "raw_generation": "The father of Hyrbyair Marri is Khair Bakhsh Marri, who is a nationalist leader from Balochistan. So the answer is: Balochistan.",
+  "schema_version": 1,
+  "k": 8,
+  "binding": {
+    "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+    "input_sha256": "0fd238c10e4f9d318d16f92e4ffb30dbd7369816c572fddae4e2f9a0768a616e",
+    "config_sha256": "5b58ebc3f6677a85de296f0e07d11d25e0acb6e586f0bdf18bdfc36dd109c0db",
+    "k": 8,
+    "set_name": "hotpotqa_train_5000_seed42_smoke"
+  },
+  "recorded_at_utc": "2026-11-05T19:20:30.303553+00:00",
+  "prediction": "Balochistan",
+  "chain": "\n5ae79f5e5542994a481bbdb4\nWhere was the father of Hyrbyair Marri from?\nA: [\"Hyrbyair Marri\", \"From Father to Son\", \"Atta Muhammad Marri\", \"Ghazan Marri\", \"Putative father\", \"Marri Nallos\", \"Margret Marri\", \"Father, Dear Father\"]\nQ: Where was the father of Hyrbyair Marri from?\nA: \"The father of Hyrbyair Marri is Khair Bakhsh Marri, who is a nationalist leader from Balochistan. So the answer is: Balochistan.\"\nA: Balochistan\nQ: [EOQ]\nS: 0.0",
+  "context_sha256": "e519db8c28efd878b21c9b19beefd1f7e223c46efaad770121c94f2f0f31c4f4",
+  "chain_sha256": "e40c1af1a1cd300d3420c3247297653c2c80936bfab2b377bd7e433a48f72a7c"
+}

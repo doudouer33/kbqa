@@ -1,0 +1,13 @@
+{
+  "binding": {
+    "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+    "input_sha256": "0fd238c10e4f9d318d16f92e4ffb30dbd7369816c572fddae4e2f9a0768a616e",
+    "config_sha256": "5b58ebc3f6677a85de296f0e07d11d25e0acb6e586f0bdf18bdfc36dd109c0db",
+    "k": 8,
+    "set_name": "hotpotqa_train_5000_seed42_smoke"
+  },
+  "started_at_utc": "2026-11-05T19:20:09.838036+00:00",
+  "status": "failed",
+  "ended_at_utc": "2026-11-05T19:20:17.462642+00:00",
+  "error": "InterruptedError('Received signal 15')"
+}

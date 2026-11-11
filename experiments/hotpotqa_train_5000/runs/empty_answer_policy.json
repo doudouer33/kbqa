@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "policy": "allow_empty_string_v1",
+  "reason": "Allow model-produced empty answers after a successful final inference state; retain strict provenance and failure checks.",
+  "created_at_utc": "2026-11-10T18:43:42.344703+00:00",
+  "run_manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+  "directory_migration_sha256": "f03f6c6f136db8aa93c79512fd7cb0e95abdc9cbdac6d338a80b953f4b0137ee",
+  "changed_files": {
+    "experiments/hotpotqa_train_5000/hooks.py": {
+      "path": "experiments/hotpotqa_train_5000/scripts/hooks.py",
+      "previous_sha256": "0d2012aff8cb5ef6d63f121356a1be3819adf3473d9fb760b743bef451d88caf",
+      "sha256": "073c91a2571125c7875f160a7f9b9e3dcbb5cbf4299681d418a7b35d200aff9e"
+    },
+    "experiments/hotpotqa_train_5000/pipeline.py": {
+      "path": "experiments/hotpotqa_train_5000/scripts/pipeline.py",
+      "previous_sha256": "d7856dc67d4623cc272b4b675c9c53c39d72db4b11730fcfa9f9250d6183600f",
+      "sha256": "7e54b0bf72d81f638c7d3627c8c3813fa7aac060da7d55a84dbcf6a8f293679d"
+    },
+    "experiments/hotpotqa_train_5000/test_pipeline.py": {
+      "path": "experiments/hotpotqa_train_5000/tests/test_pipeline.py",
+      "previous_sha256": "4546fb7b74fd5bb4815e58d6679067b39d7efba273d3698edc966ca23a4dc35d",
+      "sha256": "620a9e850ffa0d2fcd1929e80fa6d068d479826ebab33d07dbdbfeb60c9f18a3"
+    }
+  }
+}

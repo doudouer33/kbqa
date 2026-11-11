@@ -49,7 +49,7 @@ experiments/hotpotqa_train_5000/
     ├── directory_migration/before/ # 迁移前脚本、入口及文档快照
     ├── logs/               # prepare、unit_tests、shell_smoke_recheck 等日志
     ├── smoke/              # 原 Smoke 数据、日志、Smoke/缓存验证报告
-    └── predictions/        # 原 Smoke 预测、上下文、attempt 及逐题记录
+    └── predictions/        # Smoke 和正式预测、上下文、attempt 及逐题记录
 ```
 
 这次仅移动目录并修改路径引用。既有数据、配置、运行 Manifest、测试报告和预测结果
@@ -58,8 +58,16 @@ experiments/hotpotqa_train_5000/
 原运行 Manifest 的 SHA256 不变，因此已完成结果的实验身份、预测与上下文绑定也不变。
 迁移前快照保存在 `runs/directory_migration/before/`，不作为当前代码导入。
 
-`.gitignore` 忽略 Python 缓存、日志、锁、临时文件、JSONL 数据、生成的 k 配置及运行结果。
-小型目录迁移记录保留为可提交文件，原有文件只是在本地被忽略，并未删除。
+GitHub 上保留了小型真实 Smoke 示例，入口为 [`runs/smoke/README.md`](runs/smoke/README.md)。
+其中包含 6 道输入题、k=1/8/15 的配置、预测、实际检索上下文、逐题记录和验收报告，
+用于理解输入输出结构及代码之间的对应关系。`runs/run_manifest.json` 和
+`runs/selected_prompt.txt` 保留实验元数据和实际选用的 15 个 Few-shot 示例；
+`runs/empty_answer_policy.json` 记录允许空答案的代码变更。
+
+`.gitignore` 继续忽略完整 5000 题输入、正式运行结果、其他生成配置，以及日志、锁和缓存。
+上述文件在本地保留。GitHub 中的 Smoke 是用于阅读分析的真实历史运行快照；
+直接运行仍需要原始数据、检索服务、模型服务及 Manifest 中对应的运行环境，
+不能把缺少完整数据和本地依赖的仓库副本视为可直接复现全部正式实验的环境。
 
 | 文件 | 用途 |
 | --- | --- |
@@ -136,13 +144,13 @@ sh experiments/hotpotqa_train_5000/run.sh full --allow-full-run
 从不调用 `evaluate.py`，不要求 metrics 文件，也不使用 `run.py` 的 90% 判断。
 
 完成须同时满足：推理子进程退出码为 0；预测 JSON 的 ID 集合与全部输入完全一致；
-每个预测都是非空字符串；每题都有对应的当前 attempt 上下文记录；qid、k、预测、
+每个预测都是字符串（允许空答案）；每题都有对应的当前 attempt 上下文记录；qid、k、预测、
 chain、配置/数据/代码身份及所有最终文件 SHA256 均一致。通过后才原子写入 `complete.json`。
 不能仅根据预测文件存在或旧 marker 存在认定完成。
 
 未完成的 k 会整 k 重跑原流程，尽可能命中原 DiskCache。既有最终文件先归档到新
 attempt 的 `previous_outputs/`，逐题记录和历史日志保留。每道完成题的观察记录原子保存并
-fsync。中断、非零退出、空预测、HTTP 失败、异常 finish reason 或上下文无法可靠对应时
+fsync。中断、非零退出、HTTP 失败、异常 finish reason 或上下文无法可靠对应时
 不生成完成 marker，并停止 Shell 后续 k。SIGTERM/Ctrl-C 会终止推理进程组；锁阻止
 同一实验并发写入。SIGKILL 可能留下 `running` 状态，它仍视为未完成；存活子进程持锁时
 会拒绝另一运行，需等原子进程结束再重跑。
@@ -165,7 +173,7 @@ sh experiments/hotpotqa_train_5000/run.sh check --mode full --k 7
 预测结果实际保存在 `runs/predictions/`；仓库原 `predictions/<set_name>` 路径通过兼容符号链接访问相同目录，原 `predict.py` 不变：
 
 ```text
-experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/       # 正式，尚未启动
+experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/       # 正式，已完成 k=1–15；完整结果仅在本地
 experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42_smoke/ # 已保留的 Smoke
   run_identity.json
   oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__K___distractor_count__1/
@@ -247,3 +255,7 @@ Smoke 完成后再次运行只做严格核验与跳过；要重做带中断的�
 以及 `run.sh check --mode smoke` 对已保存 18 条预测的只读校验。没有启动 Smoke 或正式
 RAG 推理，没有重新生成任何原有数据、Manifest、配置或报告。迁移前后哈希记录在
 `runs/directory_migration.json`，本次轻量检查日志在 `runs/directory_migration/`。
+
+空答案策略：允许模型输出空字符串，并保留原始生成和上下文；这不代表回答正确。
+推理未到达最终状态、非字符串预测及其他完整性错误仍会中止。完成标记记录空答案数量；
+规则变更及原始、更新后的代码哈希保存在 `runs/empty_answer_policy.json`。

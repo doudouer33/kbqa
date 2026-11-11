@@ -1,0 +1,61 @@
+{
+  "qid": "5ab7180e5542993667793f30",
+  "raw_contexts": [
+    {
+      "title": "KIMN",
+      "paragraph_text": "KIMN (100.3 FM, \"Mix 100.3\") is a Hot AC radio station in Denver, Colorado. The station broadcasts at 100.3 MHz with an effective radiated power of 97 kW and is under ownership of Stan Kroenke's KSE Radio Ventures. Its studios are located on Colorado Boulevard in Glendale, and the transmitter site is on Mount Morrison west of Lakewood."
+    }
+  ],
+  "reader_contexts": [
+    "Wikipedia Title: KIMN\nKIMN (100.3 FM, \"Mix 100.3\") is a Hot AC radio station in Denver, Colorado. The station broadcasts at 100.3 MHz with an effective radiated power of 97 kW and is under ownership of Stan Kroenke's KSE Radio Ventures. Its studios are located on Colorado Boulevard in Glendale, and the transmitter site is on Mount Morrison west of Lakewood."
+  ],
+  "effective_context_text": "Wikipedia Title: KIMN\nKIMN (100.3 FM, \"Mix 100.3\") is a Hot AC radio station in Denver, Colorado. The station broadcasts at 100.3 MHz with an effective radiated power of 97 kW and is under ownership of Stan Kroenke's KSE Radio Ventures. Its studios are located on Colorado Boulevard in Glendale, and the transmitter site is on Mount Morrison west of Lakewood.",
+  "context_suffix": "",
+  "input_question": "KIMN (100.3 FM, \"Mix 100.3\") is a Hot AC radio station in Denver, Colorado, the station has an effective radiated power of 97 kW, and is under ownership of KSE Radio Ventures, which American business entrepreneur, owns KSE?",
+  "prompt_cropped": false,
+  "prompt_sha256": "81b2f0d1a206e1a983a0362a98ddf0700e9c75171cad7475c5eccff8c0771c5b",
+  "effective_context_verified_in_prompt": true,
+  "call_sha256": "1616fc8ed58182b76ef388bce910341f8ba3ddb4580cd131083aec1a29027129",
+  "parameters": {
+    "engine": "Qwen2.5-7B-Instruct",
+    "temperature": 0,
+    "max_tokens": 512,
+    "top_p": 1,
+    "n": 1,
+    "best_of": 1,
+    "logprobs": 0,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "stop": []
+  },
+  "fewshot_count_after_fit": 15,
+  "cache_hit": false,
+  "api": {
+    "usage": {
+      "prompt_tokens": 6566,
+      "completion_tokens": 16,
+      "total_tokens": 6582
+    },
+    "usage_source": "api_response",
+    "response_id": "chat-e5b8ec0b3bf448c897da0e152c823ea3",
+    "response_model": "Qwen2.5-7B-Instruct",
+    "finish_reasons": [
+      "stop"
+    ]
+  },
+  "raw_generation": "Stan Kroenke, so the answer is: Stan Kroenke.",
+  "schema_version": 1,
+  "k": 1,
+  "binding": {
+    "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+    "input_sha256": "0fd238c10e4f9d318d16f92e4ffb30dbd7369816c572fddae4e2f9a0768a616e",
+    "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+    "k": 1,
+    "set_name": "hotpotqa_train_5000_seed42_smoke"
+  },
+  "recorded_at_utc": "2026-11-05T19:19:44.230224+00:00",
+  "prediction": "Stan Kroenke",
+  "chain": "\n5ab7180e5542993667793f30\nKIMN (100.3 FM, \"Mix 100.3\") is a Hot AC radio station in Denver, Colorado, the station has an effective radiated power of 97 kW, and is under ownership of KSE Radio Ventures, which American business entrepreneur, owns KSE?\nA: [\"KIMN\"]\nQ: KIMN (100.3 FM, \"Mix 100.3\") is a Hot AC radio station in Denver, Colorado, the station has an effective radiated power of 97 kW, and is under ownership of KSE Radio Ventures, which American business entrepreneur, owns KSE?\nA: \"Stan Kroenke, so the answer is: Stan Kroenke.\"\nA: Stan Kroenke\nQ: [EOQ]\nS: 0.0",
+  "context_sha256": "1c683b5257c5b976564161f3f508cd83b4f1404dd2c821d3873403706cbec673",
+  "chain_sha256": "bcd11e62fb9b0ca60f3b630a400fc8a9968d458c5d29517c15e779f7421edb3c"
+}

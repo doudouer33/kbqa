@@ -55,10 +55,19 @@ def load_manifest():
     migration = read_json(migration_path) if migration_path.exists() else None
     if migration:
         require(sha256(RUNS / "run_manifest.json") == migration["run_manifest_sha256"], "Original run manifest changed")
+    policy_path = RUNS / "empty_answer_policy.json"
+    policy = read_json(policy_path) if policy_path.exists() else None
+    if policy:
+        require(policy["run_manifest_sha256"] == sha256(RUNS / "run_manifest.json"), "Policy manifest differs")
+        require(policy["directory_migration_sha256"] == sha256(migration_path), "Policy migration differs")
     for key, expected in manifest["file_hashes"].items():
         if migration and key in migration["changed_files"]:
             entry = migration["changed_files"][key]
             require(entry["original_sha256"] == expected, "Migration source hash differs: " + key)
+            expected = entry["sha256"]
+        if policy and key in policy["changed_files"]:
+            entry = policy["changed_files"][key]
+            require(entry["previous_sha256"] == expected, "Policy source hash differs: " + key)
             expected = entry["sha256"]
         require(sha256(artifact_path(key)) == expected, "Frozen experiment file changed: " + key)
     require(str(Path(sys.executable).resolve()) == manifest["python"], "Python interpreter changed")
@@ -139,7 +148,7 @@ def validate_records(manifest, mode, k, predictions, records):
     qids = manifest["datasets"][mode]["question_ids"]
     expected = binding(manifest, mode, k)
     require(isinstance(predictions, dict) and set(predictions) == set(qids), "Prediction IDs must exactly equal input IDs")
-    require(all(isinstance(value, str) and value.strip() for value in predictions.values()), "Every prediction must be a nonempty string")
+    require(all(isinstance(value, str) for value in predictions.values()), "Every prediction must be a string")
     require([row["qid"] for row in records] == qids, "Context IDs/order must exactly equal input IDs, without duplicates")
     for row in records:
         require(row["binding"] == expected and row["k"] == k, "Context/config/data binding differs")
@@ -232,7 +241,8 @@ def run_k(mode, k, allow_full=False):
             archive.mkdir()
             for path in old:
                 shutil.move(str(path), str(archive / path.name))
-        metadata = {"binding": binding(manifest, mode, k), "started_at_utc": now(), "status": "running"}
+        metadata = {"binding": binding(manifest, mode, k), "started_at_utc": now(), "status": "running",
+                    "answer_policy": "allow_empty_string_v1"}
         atomic_json(attempt / "attempt.json", metadata)
         cfg = artifact_path(manifest["configs"][str(k)]["path"])
         data = artifact_path(manifest["datasets"][mode]["path"])
@@ -259,6 +269,8 @@ def run_k(mode, k, allow_full=False):
                 ("_chains.txt", "_time_taken.txt", "_full_eval_path.txt", "_variable_replacements.json")]
             marker = {"status": "complete", "binding": metadata["binding"], "predict_exit_code": 0,
                       "completed_at_utc": now(), "attempt": str(attempt.relative_to(ROOT)),
+                      "answer_policy": "allow_empty_string_v1",
+                      "empty_prediction_count": sum(not value.strip() for value in read_json(prediction).values()),
                       "output_hashes": {path.name: sha256(path) for path in outputs}}
             # Validate before publishing the completion marker.
             require((directory / (prediction.stem + "_chains.txt")).read_text() ==
