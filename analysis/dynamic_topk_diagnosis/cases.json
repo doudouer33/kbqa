@@ -1,0 +1,4035 @@
+[
+  {
+    "question_id": "5ae7b15e5542993210983ef8",
+    "category": "k=1 严重不足，BERT 仍选 k=1",
+    "question": "Where is the headquarters of a Midwestern department store that follows the \"everyday low price\" strategy?",
+    "type": "bridge",
+    "gold_answer": "Omaha, Nebraska",
+    "label_status": "valid",
+    "soft_label": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.1895752893440253,
+      0.18051980012328253,
+      0.17137988400394777,
+      0.0,
+      0.0,
+      0.0,
+      0.13529219586347815,
+      0.11207674291239907,
+      0.10728717764286244,
+      0.10386891011000475
+    ],
+    "soft_argmax_k": 6,
+    "bert_k": 1,
+    "bert_confidence": 0.09777603298425674,
+    "oracles": {
+      "Oracle ε=0": 6,
+      "Oracle ε=0.05": 6,
+      "Oracle ε=0.1": 6
+    },
+    "f1_curve": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.6666666666666666,
+      0.6666666666666666,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "context_tokens": [
+      144,
+      276,
+      389,
+      435,
+      484,
+      529,
+      594,
+      663,
+      740,
+      807,
+      919,
+      977,
+      1227,
+      1285,
+      1328
+    ],
+    "sentence_recall": [
+      0.6666666666666666,
+      0.6666666666666666,
+      0.6666666666666666,
+      0.6666666666666666,
+      0.6666666666666666,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "predictions": [
+      "Little Rock, Arkansas",
+      "Ohio",
+      "No information available",
+      "no",
+      "not provided",
+      "Omaha, Nebraska",
+      "Omaha, Nebraska",
+      "Omaha, Nebraska",
+      "not enough information",
+      "Omaha",
+      "Omaha",
+      "Omaha, Nebraska",
+      "Omaha, Nebraska",
+      "Omaha, Nebraska",
+      "Omaha, Nebraska"
+    ],
+    "answer_fallback_curve": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "contexts": [
+      {
+        "titles": [
+          "Everyday low price"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378"
+        ],
+        "total_tokens": 6602
+      },
+      {
+        "titles": [
+          "Everyday low price",
+          "High–low pricing"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378",
+          "86789e794b776a5d02ed7e04bad9291724394b85bbe0e317ebfd5bcd471cb456"
+        ],
+        "total_tokens": 6726
+      },
+      {
+        "titles": [
+          "Everyday low price",
+          "High–low pricing",
+          "Manor (department store)"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378",
+          "86789e794b776a5d02ed7e04bad9291724394b85bbe0e317ebfd5bcd471cb456",
+          "5a36ec92104331e387b3dcf42e23236ec6ef33eec2cc339d8e7b60a7981db703"
+        ],
+        "total_tokens": 6869
+      },
+      {
+        "titles": [
+          "Everyday low price",
+          "High–low pricing",
+          "Manor (department store)",
+          "Stewart's Department Store"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378",
+          "86789e794b776a5d02ed7e04bad9291724394b85bbe0e317ebfd5bcd471cb456",
+          "5a36ec92104331e387b3dcf42e23236ec6ef33eec2cc339d8e7b60a7981db703",
+          "e4ec882127a816e016b7d2b00051440561e9834b1d87c7d19b2c535cce6f7e90"
+        ],
+        "total_tokens": 6912
+      },
+      {
+        "titles": [
+          "Everyday low price",
+          "High–low pricing",
+          "Manor (department store)",
+          "Stewart's Department Store",
+          "Limit price"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378",
+          "86789e794b776a5d02ed7e04bad9291724394b85bbe0e317ebfd5bcd471cb456",
+          "5a36ec92104331e387b3dcf42e23236ec6ef33eec2cc339d8e7b60a7981db703",
+          "e4ec882127a816e016b7d2b00051440561e9834b1d87c7d19b2c535cce6f7e90",
+          "1b5634a00fc0475569b1c100bb9334346e46aceda8113069c0cfefa5f2f79559"
+        ],
+        "total_tokens": 7015
+      },
+      {
+        "titles": [
+          "Everyday low price",
+          "High–low pricing",
+          "Manor (department store)",
+          "Stewart's Department Store",
+          "Limit price",
+          "Gordmans"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378",
+          "86789e794b776a5d02ed7e04bad9291724394b85bbe0e317ebfd5bcd471cb456",
+          "5a36ec92104331e387b3dcf42e23236ec6ef33eec2cc339d8e7b60a7981db703",
+          "e4ec882127a816e016b7d2b00051440561e9834b1d87c7d19b2c535cce6f7e90",
+          "1b5634a00fc0475569b1c100bb9334346e46aceda8113069c0cfefa5f2f79559",
+          "498ce3853f60936a11484dda741e2b47baf1e560d7e1d6b8ca7d195fb81d1e48"
+        ],
+        "total_tokens": 6989
+      },
+      {
+        "titles": [
+          "Everyday low price",
+          "High–low pricing",
+          "Manor (department store)",
+          "Stewart's Department Store",
+          "Limit price",
+          "Gordmans",
+          "Ross Stores"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378",
+          "86789e794b776a5d02ed7e04bad9291724394b85bbe0e317ebfd5bcd471cb456",
+          "5a36ec92104331e387b3dcf42e23236ec6ef33eec2cc339d8e7b60a7981db703",
+          "e4ec882127a816e016b7d2b00051440561e9834b1d87c7d19b2c535cce6f7e90",
+          "1b5634a00fc0475569b1c100bb9334346e46aceda8113069c0cfefa5f2f79559",
+          "498ce3853f60936a11484dda741e2b47baf1e560d7e1d6b8ca7d195fb81d1e48",
+          "5edf633ec2fe847227d180caf813cefc9aaffb6fed062ec7dec3a2e3b8fbc939"
+        ],
+        "total_tokens": 7092
+      },
+      {
+        "titles": [
+          "Everyday low price",
+          "High–low pricing",
+          "Manor (department store)",
+          "Stewart's Department Store",
+          "Limit price",
+          "Gordmans",
+          "Ross Stores",
+          "Pricing strategies"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378",
+          "86789e794b776a5d02ed7e04bad9291724394b85bbe0e317ebfd5bcd471cb456",
+          "5a36ec92104331e387b3dcf42e23236ec6ef33eec2cc339d8e7b60a7981db703",
+          "e4ec882127a816e016b7d2b00051440561e9834b1d87c7d19b2c535cce6f7e90",
+          "1b5634a00fc0475569b1c100bb9334346e46aceda8113069c0cfefa5f2f79559",
+          "498ce3853f60936a11484dda741e2b47baf1e560d7e1d6b8ca7d195fb81d1e48",
+          "5edf633ec2fe847227d180caf813cefc9aaffb6fed062ec7dec3a2e3b8fbc939",
+          "980f94f154011dc9ff2e7d13e0f9344a0429eeee0f78698a7107a2b0b76b3dc3"
+        ],
+        "total_tokens": 7180
+      },
+      {
+        "titles": [
+          "Everyday low price",
+          "High–low pricing",
+          "Manor (department store)",
+          "Stewart's Department Store",
+          "Limit price",
+          "Gordmans",
+          "Ross Stores",
+          "Pricing strategies",
+          "Meitetsu Department Store"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378",
+          "86789e794b776a5d02ed7e04bad9291724394b85bbe0e317ebfd5bcd471cb456",
+          "5a36ec92104331e387b3dcf42e23236ec6ef33eec2cc339d8e7b60a7981db703",
+          "e4ec882127a816e016b7d2b00051440561e9834b1d87c7d19b2c535cce6f7e90",
+          "1b5634a00fc0475569b1c100bb9334346e46aceda8113069c0cfefa5f2f79559",
+          "498ce3853f60936a11484dda741e2b47baf1e560d7e1d6b8ca7d195fb81d1e48",
+          "5edf633ec2fe847227d180caf813cefc9aaffb6fed062ec7dec3a2e3b8fbc939",
+          "980f94f154011dc9ff2e7d13e0f9344a0429eeee0f78698a7107a2b0b76b3dc3",
+          "4d7d9e7ef61301cc47dc105e44f90d406a12a3e0b74f8814a4a7df633a960278"
+        ],
+        "total_tokens": 7259
+      },
+      {
+        "titles": [
+          "Everyday low price",
+          "High–low pricing",
+          "Manor (department store)",
+          "Stewart's Department Store",
+          "Limit price",
+          "Gordmans",
+          "Ross Stores",
+          "Pricing strategies",
+          "Meitetsu Department Store",
+          "The May Department Stores Company"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378",
+          "86789e794b776a5d02ed7e04bad9291724394b85bbe0e317ebfd5bcd471cb456",
+          "5a36ec92104331e387b3dcf42e23236ec6ef33eec2cc339d8e7b60a7981db703",
+          "e4ec882127a816e016b7d2b00051440561e9834b1d87c7d19b2c535cce6f7e90",
+          "1b5634a00fc0475569b1c100bb9334346e46aceda8113069c0cfefa5f2f79559",
+          "498ce3853f60936a11484dda741e2b47baf1e560d7e1d6b8ca7d195fb81d1e48",
+          "5edf633ec2fe847227d180caf813cefc9aaffb6fed062ec7dec3a2e3b8fbc939",
+          "980f94f154011dc9ff2e7d13e0f9344a0429eeee0f78698a7107a2b0b76b3dc3",
+          "4d7d9e7ef61301cc47dc105e44f90d406a12a3e0b74f8814a4a7df633a960278",
+          "048b1028c491a968a9b79e6310c3f43680f0bd8ce5d6904aafa716b692b82832"
+        ],
+        "total_tokens": 7259
+      },
+      {
+        "titles": [
+          "Everyday low price",
+          "High–low pricing",
+          "Manor (department store)",
+          "Stewart's Department Store",
+          "Limit price",
+          "Gordmans",
+          "Ross Stores",
+          "Pricing strategies",
+          "Meitetsu Department Store",
+          "The May Department Stores Company",
+          "Burlington (department store)"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378",
+          "86789e794b776a5d02ed7e04bad9291724394b85bbe0e317ebfd5bcd471cb456",
+          "5a36ec92104331e387b3dcf42e23236ec6ef33eec2cc339d8e7b60a7981db703",
+          "e4ec882127a816e016b7d2b00051440561e9834b1d87c7d19b2c535cce6f7e90",
+          "1b5634a00fc0475569b1c100bb9334346e46aceda8113069c0cfefa5f2f79559",
+          "498ce3853f60936a11484dda741e2b47baf1e560d7e1d6b8ca7d195fb81d1e48",
+          "5edf633ec2fe847227d180caf813cefc9aaffb6fed062ec7dec3a2e3b8fbc939",
+          "980f94f154011dc9ff2e7d13e0f9344a0429eeee0f78698a7107a2b0b76b3dc3",
+          "4d7d9e7ef61301cc47dc105e44f90d406a12a3e0b74f8814a4a7df633a960278",
+          "048b1028c491a968a9b79e6310c3f43680f0bd8ce5d6904aafa716b692b82832",
+          "2d566b1ca6d72b228fff8693dd68d7236270d00285c027800563e020fe8f53a6"
+        ],
+        "total_tokens": 7371
+      },
+      {
+        "titles": [
+          "Everyday low price",
+          "High–low pricing",
+          "Manor (department store)",
+          "Stewart's Department Store",
+          "Limit price",
+          "Gordmans",
+          "Ross Stores",
+          "Pricing strategies",
+          "Meitetsu Department Store",
+          "The May Department Stores Company",
+          "Burlington (department store)",
+          "Gertz (department store)"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378",
+          "86789e794b776a5d02ed7e04bad9291724394b85bbe0e317ebfd5bcd471cb456",
+          "5a36ec92104331e387b3dcf42e23236ec6ef33eec2cc339d8e7b60a7981db703",
+          "e4ec882127a816e016b7d2b00051440561e9834b1d87c7d19b2c535cce6f7e90",
+          "1b5634a00fc0475569b1c100bb9334346e46aceda8113069c0cfefa5f2f79559",
+          "498ce3853f60936a11484dda741e2b47baf1e560d7e1d6b8ca7d195fb81d1e48",
+          "5edf633ec2fe847227d180caf813cefc9aaffb6fed062ec7dec3a2e3b8fbc939",
+          "980f94f154011dc9ff2e7d13e0f9344a0429eeee0f78698a7107a2b0b76b3dc3",
+          "4d7d9e7ef61301cc47dc105e44f90d406a12a3e0b74f8814a4a7df633a960278",
+          "048b1028c491a968a9b79e6310c3f43680f0bd8ce5d6904aafa716b692b82832",
+          "2d566b1ca6d72b228fff8693dd68d7236270d00285c027800563e020fe8f53a6",
+          "3dd5a4598e0d7530b2fe28bf85e30321deaf7453dc92c26d0533643c4f301185"
+        ],
+        "total_tokens": 7431
+      },
+      {
+        "titles": [
+          "Everyday low price",
+          "High–low pricing",
+          "Manor (department store)",
+          "Stewart's Department Store",
+          "Limit price",
+          "Gordmans",
+          "Ross Stores",
+          "Pricing strategies",
+          "Meitetsu Department Store",
+          "The May Department Stores Company",
+          "Burlington (department store)",
+          "Gertz (department store)",
+          "Discount store"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378",
+          "86789e794b776a5d02ed7e04bad9291724394b85bbe0e317ebfd5bcd471cb456",
+          "5a36ec92104331e387b3dcf42e23236ec6ef33eec2cc339d8e7b60a7981db703",
+          "e4ec882127a816e016b7d2b00051440561e9834b1d87c7d19b2c535cce6f7e90",
+          "1b5634a00fc0475569b1c100bb9334346e46aceda8113069c0cfefa5f2f79559",
+          "498ce3853f60936a11484dda741e2b47baf1e560d7e1d6b8ca7d195fb81d1e48",
+          "5edf633ec2fe847227d180caf813cefc9aaffb6fed062ec7dec3a2e3b8fbc939",
+          "980f94f154011dc9ff2e7d13e0f9344a0429eeee0f78698a7107a2b0b76b3dc3",
+          "4d7d9e7ef61301cc47dc105e44f90d406a12a3e0b74f8814a4a7df633a960278",
+          "048b1028c491a968a9b79e6310c3f43680f0bd8ce5d6904aafa716b692b82832",
+          "2d566b1ca6d72b228fff8693dd68d7236270d00285c027800563e020fe8f53a6",
+          "3dd5a4598e0d7530b2fe28bf85e30321deaf7453dc92c26d0533643c4f301185",
+          "27db427608dfca15e2cf8ecfd662b6ca8e03f855a564c137f965e4a3e46b3469"
+        ],
+        "total_tokens": 7681
+      },
+      {
+        "titles": [
+          "Everyday low price",
+          "High–low pricing",
+          "Manor (department store)",
+          "Stewart's Department Store",
+          "Limit price",
+          "Gordmans",
+          "Ross Stores",
+          "Pricing strategies",
+          "Meitetsu Department Store",
+          "The May Department Stores Company",
+          "Burlington (department store)",
+          "Gertz (department store)",
+          "Discount store",
+          "Taylor's (department store)"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378",
+          "86789e794b776a5d02ed7e04bad9291724394b85bbe0e317ebfd5bcd471cb456",
+          "5a36ec92104331e387b3dcf42e23236ec6ef33eec2cc339d8e7b60a7981db703",
+          "e4ec882127a816e016b7d2b00051440561e9834b1d87c7d19b2c535cce6f7e90",
+          "1b5634a00fc0475569b1c100bb9334346e46aceda8113069c0cfefa5f2f79559",
+          "498ce3853f60936a11484dda741e2b47baf1e560d7e1d6b8ca7d195fb81d1e48",
+          "5edf633ec2fe847227d180caf813cefc9aaffb6fed062ec7dec3a2e3b8fbc939",
+          "980f94f154011dc9ff2e7d13e0f9344a0429eeee0f78698a7107a2b0b76b3dc3",
+          "4d7d9e7ef61301cc47dc105e44f90d406a12a3e0b74f8814a4a7df633a960278",
+          "048b1028c491a968a9b79e6310c3f43680f0bd8ce5d6904aafa716b692b82832",
+          "2d566b1ca6d72b228fff8693dd68d7236270d00285c027800563e020fe8f53a6",
+          "3dd5a4598e0d7530b2fe28bf85e30321deaf7453dc92c26d0533643c4f301185",
+          "27db427608dfca15e2cf8ecfd662b6ca8e03f855a564c137f965e4a3e46b3469",
+          "ef8e4c47ca42a544029dd2f556d559590ee296bc34798ae00ee25185aa9dd9c0"
+        ],
+        "total_tokens": 7739
+      },
+      {
+        "titles": [
+          "Everyday low price",
+          "High–low pricing",
+          "Manor (department store)",
+          "Stewart's Department Store",
+          "Limit price",
+          "Gordmans",
+          "Ross Stores",
+          "Pricing strategies",
+          "Meitetsu Department Store",
+          "The May Department Stores Company",
+          "Burlington (department store)",
+          "Gertz (department store)",
+          "Discount store",
+          "Taylor's (department store)",
+          "Structure follows strategy"
+        ],
+        "reader_context_sha256": [
+          "512ed0b2f52c640f0e3387c0a07a83e857f0474b35f75ffdb44442cf7ee2c378",
+          "86789e794b776a5d02ed7e04bad9291724394b85bbe0e317ebfd5bcd471cb456",
+          "5a36ec92104331e387b3dcf42e23236ec6ef33eec2cc339d8e7b60a7981db703",
+          "e4ec882127a816e016b7d2b00051440561e9834b1d87c7d19b2c535cce6f7e90",
+          "1b5634a00fc0475569b1c100bb9334346e46aceda8113069c0cfefa5f2f79559",
+          "498ce3853f60936a11484dda741e2b47baf1e560d7e1d6b8ca7d195fb81d1e48",
+          "5edf633ec2fe847227d180caf813cefc9aaffb6fed062ec7dec3a2e3b8fbc939",
+          "980f94f154011dc9ff2e7d13e0f9344a0429eeee0f78698a7107a2b0b76b3dc3",
+          "4d7d9e7ef61301cc47dc105e44f90d406a12a3e0b74f8814a4a7df633a960278",
+          "048b1028c491a968a9b79e6310c3f43680f0bd8ce5d6904aafa716b692b82832",
+          "2d566b1ca6d72b228fff8693dd68d7236270d00285c027800563e020fe8f53a6",
+          "3dd5a4598e0d7530b2fe28bf85e30321deaf7453dc92c26d0533643c4f301185",
+          "27db427608dfca15e2cf8ecfd662b6ca8e03f855a564c137f965e4a3e46b3469",
+          "ef8e4c47ca42a544029dd2f556d559590ee296bc34798ae00ee25185aa9dd9c0",
+          "f7cf9d400d4a46adb79adcbb711efc91c0447012080a6b041da612083949a453"
+        ],
+        "total_tokens": 7782
+      }
+    ]
+  },
+  {
+    "question_id": "5ab8855955429916710eb07e",
+    "category": "k=1 严重不足，BERT 仍选 k=1",
+    "question": "What kind of technique does SpongeBob SquarePants and Mermaid Man and Barnacle Boy have in common?",
+    "type": "bridge",
+    "gold_answer": "animated",
+    "label_status": "valid",
+    "soft_label": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.3839008576383904,
+      0.0,
+      0.31184799345027764,
+      0.3042511489113319,
+      0.0,
+      0.0
+    ],
+    "soft_argmax_k": 10,
+    "bert_k": 1,
+    "bert_confidence": 0.10632777214050293,
+    "oracles": {
+      "Oracle ε=0": 10,
+      "Oracle ε=0.05": 10,
+      "Oracle ε=0.1": 10
+    },
+    "f1_curve": [
+      0.0,
+      0.0,
+      0.6666666666666666,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    "context_tokens": [
+      117,
+      240,
+      445,
+      491,
+      650,
+      826,
+      906,
+      995,
+      1025,
+      1090,
+      1187,
+      1444,
+      1486,
+      1609,
+      1703
+    ],
+    "sentence_recall": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "predictions": [
+      "animation",
+      "animation",
+      "animated characters",
+      "voicing",
+      "animation",
+      "animation",
+      "animation and voice acting",
+      "animation",
+      "animation",
+      "animated",
+      "animation",
+      "animated",
+      "animated",
+      "animation",
+      "animation"
+    ],
+    "answer_fallback_curve": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "contexts": [
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991"
+        ],
+        "total_tokens": 6576
+      },
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy",
+          "List of SpongeBob SquarePants characters"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991",
+          "5b573e4a7b7c9b18637d68fe8db75a77852f0dda84b6cbe80e37552d7b8f6c73"
+        ],
+        "total_tokens": 6699
+      },
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy",
+          "List of SpongeBob SquarePants characters",
+          "SpongeBob SquarePants: Lights, Camera, Pants!"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991",
+          "5b573e4a7b7c9b18637d68fe8db75a77852f0dda84b6cbe80e37552d7b8f6c73",
+          "000d2721037a29da77ab1b5596ae100b7cd2eac2a34a328e3c26322846e33493"
+        ],
+        "total_tokens": 6910
+      },
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy",
+          "List of SpongeBob SquarePants characters",
+          "SpongeBob SquarePants: Lights, Camera, Pants!",
+          "SpongeBob SquarePants: Operation Krabby Patty"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991",
+          "5b573e4a7b7c9b18637d68fe8db75a77852f0dda84b6cbe80e37552d7b8f6c73",
+          "000d2721037a29da77ab1b5596ae100b7cd2eac2a34a328e3c26322846e33493",
+          "11f627890ae889a1a02f803588aaa87fb2c1f7199969c65647c30f868290884a"
+        ],
+        "total_tokens": 6978
+      },
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy",
+          "List of SpongeBob SquarePants characters",
+          "SpongeBob SquarePants: Lights, Camera, Pants!",
+          "SpongeBob SquarePants: Operation Krabby Patty",
+          "SpongeBob SquarePants 4-D"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991",
+          "5b573e4a7b7c9b18637d68fe8db75a77852f0dda84b6cbe80e37552d7b8f6c73",
+          "000d2721037a29da77ab1b5596ae100b7cd2eac2a34a328e3c26322846e33493",
+          "11f627890ae889a1a02f803588aaa87fb2c1f7199969c65647c30f868290884a",
+          "9c765a0c504b436ef3d8dda71673e9812e573012a896bec74c9818aa93d79b08"
+        ],
+        "total_tokens": 7115
+      },
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy",
+          "List of SpongeBob SquarePants characters",
+          "SpongeBob SquarePants: Lights, Camera, Pants!",
+          "SpongeBob SquarePants: Operation Krabby Patty",
+          "SpongeBob SquarePants 4-D",
+          "SpongeBob SquarePants (season 1)"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991",
+          "5b573e4a7b7c9b18637d68fe8db75a77852f0dda84b6cbe80e37552d7b8f6c73",
+          "000d2721037a29da77ab1b5596ae100b7cd2eac2a34a328e3c26322846e33493",
+          "11f627890ae889a1a02f803588aaa87fb2c1f7199969c65647c30f868290884a",
+          "9c765a0c504b436ef3d8dda71673e9812e573012a896bec74c9818aa93d79b08",
+          "d00eddfc036d003ae1c1d87b5f8ff419dfc36624a86eb56c4934eeb010e66d44"
+        ],
+        "total_tokens": 7278
+      },
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy",
+          "List of SpongeBob SquarePants characters",
+          "SpongeBob SquarePants: Lights, Camera, Pants!",
+          "SpongeBob SquarePants: Operation Krabby Patty",
+          "SpongeBob SquarePants 4-D",
+          "SpongeBob SquarePants (season 1)",
+          "SpongeBob SquarePants: Employee of the Month"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991",
+          "5b573e4a7b7c9b18637d68fe8db75a77852f0dda84b6cbe80e37552d7b8f6c73",
+          "000d2721037a29da77ab1b5596ae100b7cd2eac2a34a328e3c26322846e33493",
+          "11f627890ae889a1a02f803588aaa87fb2c1f7199969c65647c30f868290884a",
+          "9c765a0c504b436ef3d8dda71673e9812e573012a896bec74c9818aa93d79b08",
+          "d00eddfc036d003ae1c1d87b5f8ff419dfc36624a86eb56c4934eeb010e66d44",
+          "925f6678bbd0921c05403ef7e8dc79c7a96c018b7ae3ecda0f768073c6c383a1"
+        ],
+        "total_tokens": 7375
+      },
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy",
+          "List of SpongeBob SquarePants characters",
+          "SpongeBob SquarePants: Lights, Camera, Pants!",
+          "SpongeBob SquarePants: Operation Krabby Patty",
+          "SpongeBob SquarePants 4-D",
+          "SpongeBob SquarePants (season 1)",
+          "SpongeBob SquarePants: Employee of the Month",
+          "SpongeBob SquarePants 4D: The Great Jelly Rescue"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991",
+          "5b573e4a7b7c9b18637d68fe8db75a77852f0dda84b6cbe80e37552d7b8f6c73",
+          "000d2721037a29da77ab1b5596ae100b7cd2eac2a34a328e3c26322846e33493",
+          "11f627890ae889a1a02f803588aaa87fb2c1f7199969c65647c30f868290884a",
+          "9c765a0c504b436ef3d8dda71673e9812e573012a896bec74c9818aa93d79b08",
+          "d00eddfc036d003ae1c1d87b5f8ff419dfc36624a86eb56c4934eeb010e66d44",
+          "925f6678bbd0921c05403ef7e8dc79c7a96c018b7ae3ecda0f768073c6c383a1",
+          "fb93db1b991af8e67d3543263d70b907a72e63d582923bc0f8b3a88723656df0"
+        ],
+        "total_tokens": 7461
+      },
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy",
+          "List of SpongeBob SquarePants characters",
+          "SpongeBob SquarePants: Lights, Camera, Pants!",
+          "SpongeBob SquarePants: Operation Krabby Patty",
+          "SpongeBob SquarePants 4-D",
+          "SpongeBob SquarePants (season 1)",
+          "SpongeBob SquarePants: Employee of the Month",
+          "SpongeBob SquarePants 4D: The Great Jelly Rescue",
+          "SpongeBob SquarePants: Revenge of the Flying Dutchman"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991",
+          "5b573e4a7b7c9b18637d68fe8db75a77852f0dda84b6cbe80e37552d7b8f6c73",
+          "000d2721037a29da77ab1b5596ae100b7cd2eac2a34a328e3c26322846e33493",
+          "11f627890ae889a1a02f803588aaa87fb2c1f7199969c65647c30f868290884a",
+          "9c765a0c504b436ef3d8dda71673e9812e573012a896bec74c9818aa93d79b08",
+          "d00eddfc036d003ae1c1d87b5f8ff419dfc36624a86eb56c4934eeb010e66d44",
+          "925f6678bbd0921c05403ef7e8dc79c7a96c018b7ae3ecda0f768073c6c383a1",
+          "fb93db1b991af8e67d3543263d70b907a72e63d582923bc0f8b3a88723656df0",
+          "cb672fbc19efbdb41f08c386a0a6caf4bb452129825bc79d6bfac76f24b7e24c"
+        ],
+        "total_tokens": 7492
+      },
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy",
+          "List of SpongeBob SquarePants characters",
+          "SpongeBob SquarePants: Lights, Camera, Pants!",
+          "SpongeBob SquarePants: Operation Krabby Patty",
+          "SpongeBob SquarePants 4-D",
+          "SpongeBob SquarePants (season 1)",
+          "SpongeBob SquarePants: Employee of the Month",
+          "SpongeBob SquarePants 4D: The Great Jelly Rescue",
+          "SpongeBob SquarePants: Revenge of the Flying Dutchman",
+          "SpongeBob SquarePants: The Yellow Avenger"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991",
+          "5b573e4a7b7c9b18637d68fe8db75a77852f0dda84b6cbe80e37552d7b8f6c73",
+          "000d2721037a29da77ab1b5596ae100b7cd2eac2a34a328e3c26322846e33493",
+          "11f627890ae889a1a02f803588aaa87fb2c1f7199969c65647c30f868290884a",
+          "9c765a0c504b436ef3d8dda71673e9812e573012a896bec74c9818aa93d79b08",
+          "d00eddfc036d003ae1c1d87b5f8ff419dfc36624a86eb56c4934eeb010e66d44",
+          "925f6678bbd0921c05403ef7e8dc79c7a96c018b7ae3ecda0f768073c6c383a1",
+          "fb93db1b991af8e67d3543263d70b907a72e63d582923bc0f8b3a88723656df0",
+          "cb672fbc19efbdb41f08c386a0a6caf4bb452129825bc79d6bfac76f24b7e24c",
+          "5b7415a7954ea2fd3f2d27059c9873ebb0b6a55c2b7a0a4e9e36677c597ded11"
+        ],
+        "total_tokens": 7549
+      },
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy",
+          "List of SpongeBob SquarePants characters",
+          "SpongeBob SquarePants: Lights, Camera, Pants!",
+          "SpongeBob SquarePants: Operation Krabby Patty",
+          "SpongeBob SquarePants 4-D",
+          "SpongeBob SquarePants (season 1)",
+          "SpongeBob SquarePants: Employee of the Month",
+          "SpongeBob SquarePants 4D: The Great Jelly Rescue",
+          "SpongeBob SquarePants: Revenge of the Flying Dutchman",
+          "SpongeBob SquarePants: The Yellow Avenger",
+          "SpongeBob SquarePants: Original Theme Highlights"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991",
+          "5b573e4a7b7c9b18637d68fe8db75a77852f0dda84b6cbe80e37552d7b8f6c73",
+          "000d2721037a29da77ab1b5596ae100b7cd2eac2a34a328e3c26322846e33493",
+          "11f627890ae889a1a02f803588aaa87fb2c1f7199969c65647c30f868290884a",
+          "9c765a0c504b436ef3d8dda71673e9812e573012a896bec74c9818aa93d79b08",
+          "d00eddfc036d003ae1c1d87b5f8ff419dfc36624a86eb56c4934eeb010e66d44",
+          "925f6678bbd0921c05403ef7e8dc79c7a96c018b7ae3ecda0f768073c6c383a1",
+          "fb93db1b991af8e67d3543263d70b907a72e63d582923bc0f8b3a88723656df0",
+          "cb672fbc19efbdb41f08c386a0a6caf4bb452129825bc79d6bfac76f24b7e24c",
+          "5b7415a7954ea2fd3f2d27059c9873ebb0b6a55c2b7a0a4e9e36677c597ded11",
+          "bfe3873b03925c238f96630d135a1da8c42a26b3dc7ca1e343fd2b867d7aba90"
+        ],
+        "total_tokens": 7654
+      },
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy",
+          "List of SpongeBob SquarePants characters",
+          "SpongeBob SquarePants: Lights, Camera, Pants!",
+          "SpongeBob SquarePants: Operation Krabby Patty",
+          "SpongeBob SquarePants 4-D",
+          "SpongeBob SquarePants (season 1)",
+          "SpongeBob SquarePants: Employee of the Month",
+          "SpongeBob SquarePants 4D: The Great Jelly Rescue",
+          "SpongeBob SquarePants: Revenge of the Flying Dutchman",
+          "SpongeBob SquarePants: The Yellow Avenger",
+          "SpongeBob SquarePants: Original Theme Highlights",
+          "List of SpongeBob SquarePants guest stars"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991",
+          "5b573e4a7b7c9b18637d68fe8db75a77852f0dda84b6cbe80e37552d7b8f6c73",
+          "000d2721037a29da77ab1b5596ae100b7cd2eac2a34a328e3c26322846e33493",
+          "11f627890ae889a1a02f803588aaa87fb2c1f7199969c65647c30f868290884a",
+          "9c765a0c504b436ef3d8dda71673e9812e573012a896bec74c9818aa93d79b08",
+          "d00eddfc036d003ae1c1d87b5f8ff419dfc36624a86eb56c4934eeb010e66d44",
+          "925f6678bbd0921c05403ef7e8dc79c7a96c018b7ae3ecda0f768073c6c383a1",
+          "fb93db1b991af8e67d3543263d70b907a72e63d582923bc0f8b3a88723656df0",
+          "cb672fbc19efbdb41f08c386a0a6caf4bb452129825bc79d6bfac76f24b7e24c",
+          "5b7415a7954ea2fd3f2d27059c9873ebb0b6a55c2b7a0a4e9e36677c597ded11",
+          "bfe3873b03925c238f96630d135a1da8c42a26b3dc7ca1e343fd2b867d7aba90",
+          "ceaaf7c971dbefd7bbe847caa780d12e993f6300e1240c858e35988ee00292ef"
+        ],
+        "total_tokens": 7907
+      },
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy",
+          "List of SpongeBob SquarePants characters",
+          "SpongeBob SquarePants: Lights, Camera, Pants!",
+          "SpongeBob SquarePants: Operation Krabby Patty",
+          "SpongeBob SquarePants 4-D",
+          "SpongeBob SquarePants (season 1)",
+          "SpongeBob SquarePants: Employee of the Month",
+          "SpongeBob SquarePants 4D: The Great Jelly Rescue",
+          "SpongeBob SquarePants: Revenge of the Flying Dutchman",
+          "SpongeBob SquarePants: The Yellow Avenger",
+          "SpongeBob SquarePants: Original Theme Highlights",
+          "List of SpongeBob SquarePants guest stars",
+          "List of SpongeBob SquarePants merchandise"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991",
+          "5b573e4a7b7c9b18637d68fe8db75a77852f0dda84b6cbe80e37552d7b8f6c73",
+          "000d2721037a29da77ab1b5596ae100b7cd2eac2a34a328e3c26322846e33493",
+          "11f627890ae889a1a02f803588aaa87fb2c1f7199969c65647c30f868290884a",
+          "9c765a0c504b436ef3d8dda71673e9812e573012a896bec74c9818aa93d79b08",
+          "d00eddfc036d003ae1c1d87b5f8ff419dfc36624a86eb56c4934eeb010e66d44",
+          "925f6678bbd0921c05403ef7e8dc79c7a96c018b7ae3ecda0f768073c6c383a1",
+          "fb93db1b991af8e67d3543263d70b907a72e63d582923bc0f8b3a88723656df0",
+          "cb672fbc19efbdb41f08c386a0a6caf4bb452129825bc79d6bfac76f24b7e24c",
+          "5b7415a7954ea2fd3f2d27059c9873ebb0b6a55c2b7a0a4e9e36677c597ded11",
+          "bfe3873b03925c238f96630d135a1da8c42a26b3dc7ca1e343fd2b867d7aba90",
+          "ceaaf7c971dbefd7bbe847caa780d12e993f6300e1240c858e35988ee00292ef",
+          "dfd34b4aef098e51726e2c7d7e1eaef274b1541648a78f64cd440fdf83b88633"
+        ],
+        "total_tokens": 7948
+      },
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy",
+          "List of SpongeBob SquarePants characters",
+          "SpongeBob SquarePants: Lights, Camera, Pants!",
+          "SpongeBob SquarePants: Operation Krabby Patty",
+          "SpongeBob SquarePants 4-D",
+          "SpongeBob SquarePants (season 1)",
+          "SpongeBob SquarePants: Employee of the Month",
+          "SpongeBob SquarePants 4D: The Great Jelly Rescue",
+          "SpongeBob SquarePants: Revenge of the Flying Dutchman",
+          "SpongeBob SquarePants: The Yellow Avenger",
+          "SpongeBob SquarePants: Original Theme Highlights",
+          "List of SpongeBob SquarePants guest stars",
+          "List of SpongeBob SquarePants merchandise",
+          "The SpongeBob SquarePants Movie (video game)"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991",
+          "5b573e4a7b7c9b18637d68fe8db75a77852f0dda84b6cbe80e37552d7b8f6c73",
+          "000d2721037a29da77ab1b5596ae100b7cd2eac2a34a328e3c26322846e33493",
+          "11f627890ae889a1a02f803588aaa87fb2c1f7199969c65647c30f868290884a",
+          "9c765a0c504b436ef3d8dda71673e9812e573012a896bec74c9818aa93d79b08",
+          "d00eddfc036d003ae1c1d87b5f8ff419dfc36624a86eb56c4934eeb010e66d44",
+          "925f6678bbd0921c05403ef7e8dc79c7a96c018b7ae3ecda0f768073c6c383a1",
+          "fb93db1b991af8e67d3543263d70b907a72e63d582923bc0f8b3a88723656df0",
+          "cb672fbc19efbdb41f08c386a0a6caf4bb452129825bc79d6bfac76f24b7e24c",
+          "5b7415a7954ea2fd3f2d27059c9873ebb0b6a55c2b7a0a4e9e36677c597ded11",
+          "bfe3873b03925c238f96630d135a1da8c42a26b3dc7ca1e343fd2b867d7aba90",
+          "ceaaf7c971dbefd7bbe847caa780d12e993f6300e1240c858e35988ee00292ef",
+          "dfd34b4aef098e51726e2c7d7e1eaef274b1541648a78f64cd440fdf83b88633",
+          "f7aea9b99cb9b16aeed63237bee6d4e03f56f1093b5ef22cf67e815100e65f5d"
+        ],
+        "total_tokens": 8075
+      },
+      {
+        "titles": [
+          "Mermaid Man and Barnacle Boy",
+          "List of SpongeBob SquarePants characters",
+          "SpongeBob SquarePants: Lights, Camera, Pants!",
+          "SpongeBob SquarePants: Operation Krabby Patty",
+          "SpongeBob SquarePants 4-D",
+          "SpongeBob SquarePants (season 1)",
+          "SpongeBob SquarePants: Employee of the Month",
+          "SpongeBob SquarePants 4D: The Great Jelly Rescue",
+          "SpongeBob SquarePants: Revenge of the Flying Dutchman",
+          "SpongeBob SquarePants: The Yellow Avenger",
+          "SpongeBob SquarePants: Original Theme Highlights",
+          "List of SpongeBob SquarePants guest stars",
+          "List of SpongeBob SquarePants merchandise",
+          "The SpongeBob SquarePants Movie (video game)",
+          "To SquarePants or Not to SquarePants"
+        ],
+        "reader_context_sha256": [
+          "4eb4e8298af8a34080eae6927b07b3acff2e5eb8adb0643c089a6935d1857991",
+          "5b573e4a7b7c9b18637d68fe8db75a77852f0dda84b6cbe80e37552d7b8f6c73",
+          "000d2721037a29da77ab1b5596ae100b7cd2eac2a34a328e3c26322846e33493",
+          "11f627890ae889a1a02f803588aaa87fb2c1f7199969c65647c30f868290884a",
+          "9c765a0c504b436ef3d8dda71673e9812e573012a896bec74c9818aa93d79b08",
+          "d00eddfc036d003ae1c1d87b5f8ff419dfc36624a86eb56c4934eeb010e66d44",
+          "925f6678bbd0921c05403ef7e8dc79c7a96c018b7ae3ecda0f768073c6c383a1",
+          "fb93db1b991af8e67d3543263d70b907a72e63d582923bc0f8b3a88723656df0",
+          "cb672fbc19efbdb41f08c386a0a6caf4bb452129825bc79d6bfac76f24b7e24c",
+          "5b7415a7954ea2fd3f2d27059c9873ebb0b6a55c2b7a0a4e9e36677c597ded11",
+          "bfe3873b03925c238f96630d135a1da8c42a26b3dc7ca1e343fd2b867d7aba90",
+          "ceaaf7c971dbefd7bbe847caa780d12e993f6300e1240c858e35988ee00292ef",
+          "dfd34b4aef098e51726e2c7d7e1eaef274b1541648a78f64cd440fdf83b88633",
+          "f7aea9b99cb9b16aeed63237bee6d4e03f56f1093b5ef22cf67e815100e65f5d",
+          "62985cfb89e2944379ddae01f75c5f4391ace69178785b833df80041b58d0204"
+        ],
+        "total_tokens": 8160
+      }
+    ]
+  },
+  {
+    "question_id": "5a8a12bb5542992d82986e93",
+    "category": "k=1 已答对，BERT 加检索",
+    "question": "When was the winner of the ladies' title of The 1988 Prize of Moscow News banned for life by the U.S. Figure Skating Association?",
+    "type": "bridge",
+    "gold_answer": "1994",
+    "label_status": "valid",
+    "soft_label": [
+      0.0,
+      0.0,
+      0.09703258410304626,
+      0.09703258410304626,
+      0.09703258410304626,
+      0.09703258410304626,
+      0.09703258410304626,
+      0.09703258410304626,
+      0.09703258410304626,
+      0.09703258410304626,
+      0.09703258410304626,
+      0.0,
+      0.0743985462992246,
+      0.0,
+      0.0523081967733591
+    ],
+    "soft_argmax_k": 3,
+    "bert_k": 2,
+    "bert_confidence": 0.09536128491163254,
+    "oracles": {
+      "Oracle ε=0": 1,
+      "Oracle ε=0.05": 1,
+      "Oracle ε=0.1": 1
+    },
+    "f1_curve": [
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0
+    ],
+    "context_tokens": [
+      128,
+      331,
+      410,
+      410,
+      410,
+      410,
+      410,
+      410,
+      410,
+      410,
+      410,
+      607,
+      695,
+      866,
+      1073
+    ],
+    "sentence_recall": [
+      0.0,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "predictions": [
+      "1994",
+      "1991",
+      "1994",
+      "1994",
+      "1994",
+      "1994",
+      "1994",
+      "1994",
+      "1994",
+      "1994",
+      "1994",
+      "1988",
+      "1994",
+      "1991",
+      "1994"
+    ],
+    "answer_fallback_curve": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "contexts": [
+      {
+        "titles": [
+          "Prize of Moscow News"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992"
+        ],
+        "total_tokens": 6629
+      },
+      {
+        "titles": [
+          "Prize of Moscow News",
+          "1988 Prize of Moscow News"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992",
+          "db312aacd28ca9b13558112da789f78b49229169384a3334ae26603136d2f9ab"
+        ],
+        "total_tokens": 6825
+      },
+      {
+        "titles": [
+          "Prize of Moscow News",
+          "1988 Prize of Moscow News",
+          "1974 Prize of Moscow News"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992",
+          "db312aacd28ca9b13558112da789f78b49229169384a3334ae26603136d2f9ab",
+          "0fd9311a52f2966a26134f2d457fcc3bc8b6989c80b5ca3a29d2fc182c522c25"
+        ],
+        "total_tokens": 6909
+      },
+      {
+        "titles": [
+          "Prize of Moscow News",
+          "1988 Prize of Moscow News",
+          "1974 Prize of Moscow News"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992",
+          "db312aacd28ca9b13558112da789f78b49229169384a3334ae26603136d2f9ab",
+          "0fd9311a52f2966a26134f2d457fcc3bc8b6989c80b5ca3a29d2fc182c522c25"
+        ],
+        "total_tokens": null
+      },
+      {
+        "titles": [
+          "Prize of Moscow News",
+          "1988 Prize of Moscow News",
+          "1974 Prize of Moscow News"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992",
+          "db312aacd28ca9b13558112da789f78b49229169384a3334ae26603136d2f9ab",
+          "0fd9311a52f2966a26134f2d457fcc3bc8b6989c80b5ca3a29d2fc182c522c25"
+        ],
+        "total_tokens": null
+      },
+      {
+        "titles": [
+          "Prize of Moscow News",
+          "1988 Prize of Moscow News",
+          "1974 Prize of Moscow News"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992",
+          "db312aacd28ca9b13558112da789f78b49229169384a3334ae26603136d2f9ab",
+          "0fd9311a52f2966a26134f2d457fcc3bc8b6989c80b5ca3a29d2fc182c522c25"
+        ],
+        "total_tokens": null
+      },
+      {
+        "titles": [
+          "Prize of Moscow News",
+          "1988 Prize of Moscow News",
+          "1974 Prize of Moscow News"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992",
+          "db312aacd28ca9b13558112da789f78b49229169384a3334ae26603136d2f9ab",
+          "0fd9311a52f2966a26134f2d457fcc3bc8b6989c80b5ca3a29d2fc182c522c25"
+        ],
+        "total_tokens": 6909
+      },
+      {
+        "titles": [
+          "Prize of Moscow News",
+          "1988 Prize of Moscow News",
+          "1974 Prize of Moscow News"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992",
+          "db312aacd28ca9b13558112da789f78b49229169384a3334ae26603136d2f9ab",
+          "0fd9311a52f2966a26134f2d457fcc3bc8b6989c80b5ca3a29d2fc182c522c25"
+        ],
+        "total_tokens": null
+      },
+      {
+        "titles": [
+          "Prize of Moscow News",
+          "1988 Prize of Moscow News",
+          "1974 Prize of Moscow News"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992",
+          "db312aacd28ca9b13558112da789f78b49229169384a3334ae26603136d2f9ab",
+          "0fd9311a52f2966a26134f2d457fcc3bc8b6989c80b5ca3a29d2fc182c522c25"
+        ],
+        "total_tokens": null
+      },
+      {
+        "titles": [
+          "Prize of Moscow News",
+          "1988 Prize of Moscow News",
+          "1974 Prize of Moscow News"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992",
+          "db312aacd28ca9b13558112da789f78b49229169384a3334ae26603136d2f9ab",
+          "0fd9311a52f2966a26134f2d457fcc3bc8b6989c80b5ca3a29d2fc182c522c25"
+        ],
+        "total_tokens": null
+      },
+      {
+        "titles": [
+          "Prize of Moscow News",
+          "1988 Prize of Moscow News",
+          "1974 Prize of Moscow News"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992",
+          "db312aacd28ca9b13558112da789f78b49229169384a3334ae26603136d2f9ab",
+          "0fd9311a52f2966a26134f2d457fcc3bc8b6989c80b5ca3a29d2fc182c522c25"
+        ],
+        "total_tokens": 6909
+      },
+      {
+        "titles": [
+          "Prize of Moscow News",
+          "1988 Prize of Moscow News",
+          "1974 Prize of Moscow News",
+          "1984 Prize of Moscow News"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992",
+          "db312aacd28ca9b13558112da789f78b49229169384a3334ae26603136d2f9ab",
+          "0fd9311a52f2966a26134f2d457fcc3bc8b6989c80b5ca3a29d2fc182c522c25",
+          "a6ce3dd02f1b0c09333fdd5f58ef6d80585a69dd388aed66b4ca8f057ca308f7"
+        ],
+        "total_tokens": 7102
+      },
+      {
+        "titles": [
+          "Prize of Moscow News",
+          "1988 Prize of Moscow News",
+          "1974 Prize of Moscow News",
+          "1984 Prize of Moscow News",
+          "1990 Prize of Moscow News"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992",
+          "db312aacd28ca9b13558112da789f78b49229169384a3334ae26603136d2f9ab",
+          "0fd9311a52f2966a26134f2d457fcc3bc8b6989c80b5ca3a29d2fc182c522c25",
+          "a6ce3dd02f1b0c09333fdd5f58ef6d80585a69dd388aed66b4ca8f057ca308f7",
+          "9833679dafe069056e95ea9eab5d4bdd094437748e46739d36c934f32732ebf4"
+        ],
+        "total_tokens": 7198
+      },
+      {
+        "titles": [
+          "Prize of Moscow News",
+          "1988 Prize of Moscow News",
+          "1974 Prize of Moscow News",
+          "1984 Prize of Moscow News",
+          "1990 Prize of Moscow News",
+          "1988 U.S. Figure Skating Championships"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992",
+          "db312aacd28ca9b13558112da789f78b49229169384a3334ae26603136d2f9ab",
+          "0fd9311a52f2966a26134f2d457fcc3bc8b6989c80b5ca3a29d2fc182c522c25",
+          "a6ce3dd02f1b0c09333fdd5f58ef6d80585a69dd388aed66b4ca8f057ca308f7",
+          "9833679dafe069056e95ea9eab5d4bdd094437748e46739d36c934f32732ebf4",
+          "bf1aa4a987009de554cd2b60abd789c55bfab24ad9754e1ea32957750fda88ab"
+        ],
+        "total_tokens": 7359
+      },
+      {
+        "titles": [
+          "Prize of Moscow News",
+          "1988 Prize of Moscow News",
+          "1974 Prize of Moscow News",
+          "1984 Prize of Moscow News",
+          "1990 Prize of Moscow News",
+          "1988 U.S. Figure Skating Championships",
+          "1987 Prize of Moscow News"
+        ],
+        "reader_context_sha256": [
+          "743b0b975512a80fa7d0cf5cf75939cd8d0c9f86e9d7a980a9a205ffb0c50992",
+          "db312aacd28ca9b13558112da789f78b49229169384a3334ae26603136d2f9ab",
+          "0fd9311a52f2966a26134f2d457fcc3bc8b6989c80b5ca3a29d2fc182c522c25",
+          "a6ce3dd02f1b0c09333fdd5f58ef6d80585a69dd388aed66b4ca8f057ca308f7",
+          "9833679dafe069056e95ea9eab5d4bdd094437748e46739d36c934f32732ebf4",
+          "bf1aa4a987009de554cd2b60abd789c55bfab24ad9754e1ea32957750fda88ab",
+          "c065499dc4b941be8852c28685db96a6ce61592c003dcc8757ba348274961c80"
+        ],
+        "total_tokens": 7584
+      }
+    ]
+  },
+  {
+    "question_id": "5ab5bb225542997d4ad1f1c4",
+    "category": "k=1 已答对，BERT 加检索",
+    "question": "Did Robert Graves and Edith Wharton both write novels?",
+    "type": "comparison",
+    "gold_answer": "yes",
+    "label_status": "valid",
+    "soft_label": [
+      0.13936479535699928,
+      0.0,
+      0.0,
+      0.0,
+      0.10890704726700023,
+      0.09101135827439451,
+      0.08627102845960581,
+      0.08365229073007562,
+      0.08133396020488833,
+      0.07886508607548827,
+      0.07674897811808978,
+      0.0677844869677466,
+      0.06602552646568505,
+      0.061350624381639664,
+      0.05868481769838682
+    ],
+    "soft_argmax_k": 1,
+    "bert_k": 3,
+    "bert_confidence": 0.08810285478830338,
+    "oracles": {
+      "Oracle ε=0": 1,
+      "Oracle ε=0.05": 1,
+      "Oracle ε=0.1": 1
+    },
+    "f1_curve": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "context_tokens": [
+      149,
+      187,
+      347,
+      392,
+      421,
+      619,
+      678,
+      712,
+      743,
+      777,
+      807,
+      944,
+      973,
+      1054,
+      1103
+    ],
+    "sentence_recall": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "predictions": [
+      "yes",
+      "no",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ],
+    "answer_fallback_curve": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "contexts": [
+      {
+        "titles": [
+          "Edith Wharton"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15"
+        ],
+        "total_tokens": 6607
+      },
+      {
+        "titles": [
+          "Edith Wharton",
+          "The Glimpses of the Moon (novel)"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15",
+          "1e46b260b20b52056dfe26db28dc2fbcf7d063c2f62aa9dd392da560bb09482f"
+        ],
+        "total_tokens": 6658
+      },
+      {
+        "titles": [
+          "Edith Wharton",
+          "The Glimpses of the Moon (novel)",
+          "The Reef (novel)"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15",
+          "1e46b260b20b52056dfe26db28dc2fbcf7d063c2f62aa9dd392da560bb09482f",
+          "794f79364f3bc3061f0ea97cb3c5b4e42651d8076700ecbb4387adbffc9736b8"
+        ],
+        "total_tokens": 6818
+      },
+      {
+        "titles": [
+          "Edith Wharton",
+          "The Glimpses of the Moon (novel)",
+          "The Reef (novel)",
+          "Robert Wharton (Philadelphia)"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15",
+          "1e46b260b20b52056dfe26db28dc2fbcf7d063c2f62aa9dd392da560bb09482f",
+          "794f79364f3bc3061f0ea97cb3c5b4e42651d8076700ecbb4387adbffc9736b8",
+          "e1a86deaf21e094eec6f20f1261973a8050ec37385bca264f7013a77826d31de"
+        ],
+        "total_tokens": 6845
+      },
+      {
+        "titles": [
+          "Edith Wharton",
+          "The Glimpses of the Moon (novel)",
+          "The Reef (novel)",
+          "Robert Wharton (Philadelphia)",
+          "The House of Mirth (disambiguation)"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15",
+          "1e46b260b20b52056dfe26db28dc2fbcf7d063c2f62aa9dd392da560bb09482f",
+          "794f79364f3bc3061f0ea97cb3c5b4e42651d8076700ecbb4387adbffc9736b8",
+          "e1a86deaf21e094eec6f20f1261973a8050ec37385bca264f7013a77826d31de",
+          "bb1537e0bf6c7ade608042ee241fc857ff9a737665b987f0d575e2d720230f6f"
+        ],
+        "total_tokens": 6903
+      },
+      {
+        "titles": [
+          "Edith Wharton",
+          "The Glimpses of the Moon (novel)",
+          "The Reef (novel)",
+          "Robert Wharton (Philadelphia)",
+          "The House of Mirth (disambiguation)",
+          "Robert Graves"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15",
+          "1e46b260b20b52056dfe26db28dc2fbcf7d063c2f62aa9dd392da560bb09482f",
+          "794f79364f3bc3061f0ea97cb3c5b4e42651d8076700ecbb4387adbffc9736b8",
+          "e1a86deaf21e094eec6f20f1261973a8050ec37385bca264f7013a77826d31de",
+          "bb1537e0bf6c7ade608042ee241fc857ff9a737665b987f0d575e2d720230f6f",
+          "83e7bd668799ca053ce4f1908ed0894ee831b4718f1d533b8cd48227db521c06"
+        ],
+        "total_tokens": 7085
+      },
+      {
+        "titles": [
+          "Edith Wharton",
+          "The Glimpses of the Moon (novel)",
+          "The Reef (novel)",
+          "Robert Wharton (Philadelphia)",
+          "The House of Mirth (disambiguation)",
+          "Robert Graves",
+          "The Grave (novel)"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15",
+          "1e46b260b20b52056dfe26db28dc2fbcf7d063c2f62aa9dd392da560bb09482f",
+          "794f79364f3bc3061f0ea97cb3c5b4e42651d8076700ecbb4387adbffc9736b8",
+          "e1a86deaf21e094eec6f20f1261973a8050ec37385bca264f7013a77826d31de",
+          "bb1537e0bf6c7ade608042ee241fc857ff9a737665b987f0d575e2d720230f6f",
+          "83e7bd668799ca053ce4f1908ed0894ee831b4718f1d533b8cd48227db521c06",
+          "3fc7ee4251f7edecb85a95b816d7d3f3467ef82298cdc3accf7249b4ce2b996e"
+        ],
+        "total_tokens": 7108
+      },
+      {
+        "titles": [
+          "Edith Wharton",
+          "The Glimpses of the Moon (novel)",
+          "The Reef (novel)",
+          "Robert Wharton (Philadelphia)",
+          "The House of Mirth (disambiguation)",
+          "Robert Graves",
+          "The Grave (novel)",
+          "The Age of Innocence (disambiguation)"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15",
+          "1e46b260b20b52056dfe26db28dc2fbcf7d063c2f62aa9dd392da560bb09482f",
+          "794f79364f3bc3061f0ea97cb3c5b4e42651d8076700ecbb4387adbffc9736b8",
+          "e1a86deaf21e094eec6f20f1261973a8050ec37385bca264f7013a77826d31de",
+          "bb1537e0bf6c7ade608042ee241fc857ff9a737665b987f0d575e2d720230f6f",
+          "83e7bd668799ca053ce4f1908ed0894ee831b4718f1d533b8cd48227db521c06",
+          "3fc7ee4251f7edecb85a95b816d7d3f3467ef82298cdc3accf7249b4ce2b996e",
+          "f3d0d9c6ca106f49d085fa6d9b138cf6bb7c85494a569e22a622cc1b9b5651cd"
+        ],
+        "total_tokens": 7142
+      },
+      {
+        "titles": [
+          "Edith Wharton",
+          "The Glimpses of the Moon (novel)",
+          "The Reef (novel)",
+          "Robert Wharton (Philadelphia)",
+          "The House of Mirth (disambiguation)",
+          "Robert Graves",
+          "The Grave (novel)",
+          "The Age of Innocence (disambiguation)",
+          "Robert Graves (engraver)"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15",
+          "1e46b260b20b52056dfe26db28dc2fbcf7d063c2f62aa9dd392da560bb09482f",
+          "794f79364f3bc3061f0ea97cb3c5b4e42651d8076700ecbb4387adbffc9736b8",
+          "e1a86deaf21e094eec6f20f1261973a8050ec37385bca264f7013a77826d31de",
+          "bb1537e0bf6c7ade608042ee241fc857ff9a737665b987f0d575e2d720230f6f",
+          "83e7bd668799ca053ce4f1908ed0894ee831b4718f1d533b8cd48227db521c06",
+          "3fc7ee4251f7edecb85a95b816d7d3f3467ef82298cdc3accf7249b4ce2b996e",
+          "f3d0d9c6ca106f49d085fa6d9b138cf6bb7c85494a569e22a622cc1b9b5651cd",
+          "8e2d02e48a49da0831f266d8d90f65fee65ea2f7d93173a2577ddd0c3901946f"
+        ],
+        "total_tokens": 7206
+      },
+      {
+        "titles": [
+          "Edith Wharton",
+          "The Glimpses of the Moon (novel)",
+          "The Reef (novel)",
+          "Robert Wharton (Philadelphia)",
+          "The House of Mirth (disambiguation)",
+          "Robert Graves",
+          "The Grave (novel)",
+          "The Age of Innocence (disambiguation)",
+          "Robert Graves (engraver)",
+          "Robert Graves (disambiguation)"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15",
+          "1e46b260b20b52056dfe26db28dc2fbcf7d063c2f62aa9dd392da560bb09482f",
+          "794f79364f3bc3061f0ea97cb3c5b4e42651d8076700ecbb4387adbffc9736b8",
+          "e1a86deaf21e094eec6f20f1261973a8050ec37385bca264f7013a77826d31de",
+          "bb1537e0bf6c7ade608042ee241fc857ff9a737665b987f0d575e2d720230f6f",
+          "83e7bd668799ca053ce4f1908ed0894ee831b4718f1d533b8cd48227db521c06",
+          "3fc7ee4251f7edecb85a95b816d7d3f3467ef82298cdc3accf7249b4ce2b996e",
+          "f3d0d9c6ca106f49d085fa6d9b138cf6bb7c85494a569e22a622cc1b9b5651cd",
+          "8e2d02e48a49da0831f266d8d90f65fee65ea2f7d93173a2577ddd0c3901946f",
+          "a1993d01523dffe7d3f7ccceadce8d16321a75383e8419ece67492aee5dd7cb2"
+        ],
+        "total_tokens": 7207
+      },
+      {
+        "titles": [
+          "Edith Wharton",
+          "The Glimpses of the Moon (novel)",
+          "The Reef (novel)",
+          "Robert Wharton (Philadelphia)",
+          "The House of Mirth (disambiguation)",
+          "Robert Graves",
+          "The Grave (novel)",
+          "The Age of Innocence (disambiguation)",
+          "Robert Graves (engraver)",
+          "Robert Graves (disambiguation)",
+          "Robert Edmund Graves"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15",
+          "1e46b260b20b52056dfe26db28dc2fbcf7d063c2f62aa9dd392da560bb09482f",
+          "794f79364f3bc3061f0ea97cb3c5b4e42651d8076700ecbb4387adbffc9736b8",
+          "e1a86deaf21e094eec6f20f1261973a8050ec37385bca264f7013a77826d31de",
+          "bb1537e0bf6c7ade608042ee241fc857ff9a737665b987f0d575e2d720230f6f",
+          "83e7bd668799ca053ce4f1908ed0894ee831b4718f1d533b8cd48227db521c06",
+          "3fc7ee4251f7edecb85a95b816d7d3f3467ef82298cdc3accf7249b4ce2b996e",
+          "f3d0d9c6ca106f49d085fa6d9b138cf6bb7c85494a569e22a622cc1b9b5651cd",
+          "8e2d02e48a49da0831f266d8d90f65fee65ea2f7d93173a2577ddd0c3901946f",
+          "a1993d01523dffe7d3f7ccceadce8d16321a75383e8419ece67492aee5dd7cb2",
+          "bf91d843ff65004f7ef90a07be9cd1b92210d3051d2393744a6912132551d963"
+        ],
+        "total_tokens": 7237
+      },
+      {
+        "titles": [
+          "Edith Wharton",
+          "The Glimpses of the Moon (novel)",
+          "The Reef (novel)",
+          "Robert Wharton (Philadelphia)",
+          "The House of Mirth (disambiguation)",
+          "Robert Graves",
+          "The Grave (novel)",
+          "The Age of Innocence (disambiguation)",
+          "Robert Graves (engraver)",
+          "Robert Graves (disambiguation)",
+          "Robert Edmund Graves",
+          "Summer (novel)"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15",
+          "1e46b260b20b52056dfe26db28dc2fbcf7d063c2f62aa9dd392da560bb09482f",
+          "794f79364f3bc3061f0ea97cb3c5b4e42651d8076700ecbb4387adbffc9736b8",
+          "e1a86deaf21e094eec6f20f1261973a8050ec37385bca264f7013a77826d31de",
+          "bb1537e0bf6c7ade608042ee241fc857ff9a737665b987f0d575e2d720230f6f",
+          "83e7bd668799ca053ce4f1908ed0894ee831b4718f1d533b8cd48227db521c06",
+          "3fc7ee4251f7edecb85a95b816d7d3f3467ef82298cdc3accf7249b4ce2b996e",
+          "f3d0d9c6ca106f49d085fa6d9b138cf6bb7c85494a569e22a622cc1b9b5651cd",
+          "8e2d02e48a49da0831f266d8d90f65fee65ea2f7d93173a2577ddd0c3901946f",
+          "a1993d01523dffe7d3f7ccceadce8d16321a75383e8419ece67492aee5dd7cb2",
+          "bf91d843ff65004f7ef90a07be9cd1b92210d3051d2393744a6912132551d963",
+          "10c0496d8a62e07630951a1eac3108592129bbeb958a460e8dc10fbc6c596f61"
+        ],
+        "total_tokens": 7374
+      },
+      {
+        "titles": [
+          "Edith Wharton",
+          "The Glimpses of the Moon (novel)",
+          "The Reef (novel)",
+          "Robert Wharton (Philadelphia)",
+          "The House of Mirth (disambiguation)",
+          "Robert Graves",
+          "The Grave (novel)",
+          "The Age of Innocence (disambiguation)",
+          "Robert Graves (engraver)",
+          "Robert Graves (disambiguation)",
+          "Robert Edmund Graves",
+          "Summer (novel)",
+          "Watery Grave (novel)"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15",
+          "1e46b260b20b52056dfe26db28dc2fbcf7d063c2f62aa9dd392da560bb09482f",
+          "794f79364f3bc3061f0ea97cb3c5b4e42651d8076700ecbb4387adbffc9736b8",
+          "e1a86deaf21e094eec6f20f1261973a8050ec37385bca264f7013a77826d31de",
+          "bb1537e0bf6c7ade608042ee241fc857ff9a737665b987f0d575e2d720230f6f",
+          "83e7bd668799ca053ce4f1908ed0894ee831b4718f1d533b8cd48227db521c06",
+          "3fc7ee4251f7edecb85a95b816d7d3f3467ef82298cdc3accf7249b4ce2b996e",
+          "f3d0d9c6ca106f49d085fa6d9b138cf6bb7c85494a569e22a622cc1b9b5651cd",
+          "8e2d02e48a49da0831f266d8d90f65fee65ea2f7d93173a2577ddd0c3901946f",
+          "a1993d01523dffe7d3f7ccceadce8d16321a75383e8419ece67492aee5dd7cb2",
+          "bf91d843ff65004f7ef90a07be9cd1b92210d3051d2393744a6912132551d963",
+          "10c0496d8a62e07630951a1eac3108592129bbeb958a460e8dc10fbc6c596f61",
+          "f6860459c24064ffe8d9d83631706a156b5806ba76dd929258a7e6c789b051f9"
+        ],
+        "total_tokens": 7403
+      },
+      {
+        "titles": [
+          "Edith Wharton",
+          "The Glimpses of the Moon (novel)",
+          "The Reef (novel)",
+          "Robert Wharton (Philadelphia)",
+          "The House of Mirth (disambiguation)",
+          "Robert Graves",
+          "The Grave (novel)",
+          "The Age of Innocence (disambiguation)",
+          "Robert Graves (engraver)",
+          "Robert Graves (disambiguation)",
+          "Robert Edmund Graves",
+          "Summer (novel)",
+          "Watery Grave (novel)",
+          "Jane Wharton, 7th Baroness Wharton"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15",
+          "1e46b260b20b52056dfe26db28dc2fbcf7d063c2f62aa9dd392da560bb09482f",
+          "794f79364f3bc3061f0ea97cb3c5b4e42651d8076700ecbb4387adbffc9736b8",
+          "e1a86deaf21e094eec6f20f1261973a8050ec37385bca264f7013a77826d31de",
+          "bb1537e0bf6c7ade608042ee241fc857ff9a737665b987f0d575e2d720230f6f",
+          "83e7bd668799ca053ce4f1908ed0894ee831b4718f1d533b8cd48227db521c06",
+          "3fc7ee4251f7edecb85a95b816d7d3f3467ef82298cdc3accf7249b4ce2b996e",
+          "f3d0d9c6ca106f49d085fa6d9b138cf6bb7c85494a569e22a622cc1b9b5651cd",
+          "8e2d02e48a49da0831f266d8d90f65fee65ea2f7d93173a2577ddd0c3901946f",
+          "a1993d01523dffe7d3f7ccceadce8d16321a75383e8419ece67492aee5dd7cb2",
+          "bf91d843ff65004f7ef90a07be9cd1b92210d3051d2393744a6912132551d963",
+          "10c0496d8a62e07630951a1eac3108592129bbeb958a460e8dc10fbc6c596f61",
+          "f6860459c24064ffe8d9d83631706a156b5806ba76dd929258a7e6c789b051f9",
+          "e19dd84cf2416c90ce88fe0aca909714ecbcdd3c9d015b67bfd731516395724e"
+        ],
+        "total_tokens": 7484
+      },
+      {
+        "titles": [
+          "Edith Wharton",
+          "The Glimpses of the Moon (novel)",
+          "The Reef (novel)",
+          "Robert Wharton (Philadelphia)",
+          "The House of Mirth (disambiguation)",
+          "Robert Graves",
+          "The Grave (novel)",
+          "The Age of Innocence (disambiguation)",
+          "Robert Graves (engraver)",
+          "Robert Graves (disambiguation)",
+          "Robert Edmund Graves",
+          "Summer (novel)",
+          "Watery Grave (novel)",
+          "Jane Wharton, 7th Baroness Wharton",
+          "Grumbles from the Grave"
+        ],
+        "reader_context_sha256": [
+          "97878e1a6ad7578a6c74ae794b04d3f05c14362a2012947c7419396aabcf3a15",
+          "1e46b260b20b52056dfe26db28dc2fbcf7d063c2f62aa9dd392da560bb09482f",
+          "794f79364f3bc3061f0ea97cb3c5b4e42651d8076700ecbb4387adbffc9736b8",
+          "e1a86deaf21e094eec6f20f1261973a8050ec37385bca264f7013a77826d31de",
+          "bb1537e0bf6c7ade608042ee241fc857ff9a737665b987f0d575e2d720230f6f",
+          "83e7bd668799ca053ce4f1908ed0894ee831b4718f1d533b8cd48227db521c06",
+          "3fc7ee4251f7edecb85a95b816d7d3f3467ef82298cdc3accf7249b4ce2b996e",
+          "f3d0d9c6ca106f49d085fa6d9b138cf6bb7c85494a569e22a622cc1b9b5651cd",
+          "8e2d02e48a49da0831f266d8d90f65fee65ea2f7d93173a2577ddd0c3901946f",
+          "a1993d01523dffe7d3f7ccceadce8d16321a75383e8419ece67492aee5dd7cb2",
+          "bf91d843ff65004f7ef90a07be9cd1b92210d3051d2393744a6912132551d963",
+          "10c0496d8a62e07630951a1eac3108592129bbeb958a460e8dc10fbc6c596f61",
+          "f6860459c24064ffe8d9d83631706a156b5806ba76dd929258a7e6c789b051f9",
+          "e19dd84cf2416c90ce88fe0aca909714ecbcdd3c9d015b67bfd731516395724e",
+          "f84f269c5003b56b890f201206da952f1a16384806eff3f0d81839451c093368"
+        ],
+        "total_tokens": 7533
+      }
+    ]
+  },
+  {
+    "question_id": "5add44e85542992200553a79",
+    "category": "软标签与质量 Oracle 的成本差",
+    "question": "Are Sparta and King Charles both from the same country?",
+    "type": "comparison",
+    "gold_answer": "no",
+    "label_status": "valid",
+    "soft_label": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5126710394847809,
+      0.4873289605152191
+    ],
+    "soft_argmax_k": 14,
+    "bert_k": 2,
+    "bert_confidence": 0.10070226341485977,
+    "oracles": {
+      "Oracle ε=0": 1,
+      "Oracle ε=0.05": 1,
+      "Oracle ε=0.1": 1
+    },
+    "f1_curve": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "context_tokens": [
+      73,
+      147,
+      441,
+      498,
+      545,
+      620,
+      667,
+      746,
+      821,
+      926,
+      970,
+      1027,
+      1126,
+      1161,
+      1223
+    ],
+    "sentence_recall": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.5
+    ],
+    "predictions": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "answer_fallback_curve": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "contexts": [
+      {
+        "titles": [
+          "Eunomus (king of Sparta)"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94"
+        ],
+        "total_tokens": 6528
+      },
+      {
+        "titles": [
+          "Eunomus (king of Sparta)",
+          "Prytanis (king of Sparta)"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94",
+          "b96ee6dd2a8e18ee7713b12ddc800df2eab219a2c397b9ab63cda9ca89a22676"
+        ],
+        "total_tokens": 6602
+      },
+      {
+        "titles": [
+          "Eunomus (king of Sparta)",
+          "Prytanis (king of Sparta)",
+          "List of kings of Sparta"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94",
+          "b96ee6dd2a8e18ee7713b12ddc800df2eab219a2c397b9ab63cda9ca89a22676",
+          "60898be382314850aad6ce52787f131e946481d1aed8845cea7da123521d43ea"
+        ],
+        "total_tokens": 6878
+      },
+      {
+        "titles": [
+          "Eunomus (king of Sparta)",
+          "Prytanis (king of Sparta)",
+          "List of kings of Sparta",
+          "Amyclas of Sparta"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94",
+          "b96ee6dd2a8e18ee7713b12ddc800df2eab219a2c397b9ab63cda9ca89a22676",
+          "60898be382314850aad6ce52787f131e946481d1aed8845cea7da123521d43ea",
+          "677b298ddef08fa3637e49de238e6ec870a6ea2596342ed7f50d6794055d77b3"
+        ],
+        "total_tokens": 6952
+      },
+      {
+        "titles": [
+          "Eunomus (king of Sparta)",
+          "Prytanis (king of Sparta)",
+          "List of kings of Sparta",
+          "Amyclas of Sparta",
+          "Nicander of Sparta"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94",
+          "b96ee6dd2a8e18ee7713b12ddc800df2eab219a2c397b9ab63cda9ca89a22676",
+          "60898be382314850aad6ce52787f131e946481d1aed8845cea7da123521d43ea",
+          "677b298ddef08fa3637e49de238e6ec870a6ea2596342ed7f50d6794055d77b3",
+          "a02b92cda4ecf2b26afef0521b44c7668f82374fe2b849bda5dd40c55a3a9948"
+        ],
+        "total_tokens": 6997
+      },
+      {
+        "titles": [
+          "Eunomus (king of Sparta)",
+          "Prytanis (king of Sparta)",
+          "List of kings of Sparta",
+          "Amyclas of Sparta",
+          "Nicander of Sparta",
+          "Polydectes of Sparta"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94",
+          "b96ee6dd2a8e18ee7713b12ddc800df2eab219a2c397b9ab63cda9ca89a22676",
+          "60898be382314850aad6ce52787f131e946481d1aed8845cea7da123521d43ea",
+          "677b298ddef08fa3637e49de238e6ec870a6ea2596342ed7f50d6794055d77b3",
+          "a02b92cda4ecf2b26afef0521b44c7668f82374fe2b849bda5dd40c55a3a9948",
+          "4af1ae313510007c3e49f46858ef1e355028e953d340fdbaa47a8daa7d212f46"
+        ],
+        "total_tokens": 7074
+      },
+      {
+        "titles": [
+          "Eunomus (king of Sparta)",
+          "Prytanis (king of Sparta)",
+          "List of kings of Sparta",
+          "Amyclas of Sparta",
+          "Nicander of Sparta",
+          "Polydectes of Sparta",
+          "Leon of Sparta"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94",
+          "b96ee6dd2a8e18ee7713b12ddc800df2eab219a2c397b9ab63cda9ca89a22676",
+          "60898be382314850aad6ce52787f131e946481d1aed8845cea7da123521d43ea",
+          "677b298ddef08fa3637e49de238e6ec870a6ea2596342ed7f50d6794055d77b3",
+          "a02b92cda4ecf2b26afef0521b44c7668f82374fe2b849bda5dd40c55a3a9948",
+          "4af1ae313510007c3e49f46858ef1e355028e953d340fdbaa47a8daa7d212f46",
+          "6120cea23af8a41b5dfdbd6e204e2789f56b5bd5b4200b9cd512688e03b48ecb"
+        ],
+        "total_tokens": 7114
+      },
+      {
+        "titles": [
+          "Eunomus (king of Sparta)",
+          "Prytanis (king of Sparta)",
+          "List of kings of Sparta",
+          "Amyclas of Sparta",
+          "Nicander of Sparta",
+          "Polydectes of Sparta",
+          "Leon of Sparta",
+          "Pausanias of Sparta"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94",
+          "b96ee6dd2a8e18ee7713b12ddc800df2eab219a2c397b9ab63cda9ca89a22676",
+          "60898be382314850aad6ce52787f131e946481d1aed8845cea7da123521d43ea",
+          "677b298ddef08fa3637e49de238e6ec870a6ea2596342ed7f50d6794055d77b3",
+          "a02b92cda4ecf2b26afef0521b44c7668f82374fe2b849bda5dd40c55a3a9948",
+          "4af1ae313510007c3e49f46858ef1e355028e953d340fdbaa47a8daa7d212f46",
+          "6120cea23af8a41b5dfdbd6e204e2789f56b5bd5b4200b9cd512688e03b48ecb",
+          "a3b29693238f7383a9a7fa7170611444450fb667a16cb0d0ee1fd10dca8b5e17"
+        ],
+        "total_tokens": 7200
+      },
+      {
+        "titles": [
+          "Eunomus (king of Sparta)",
+          "Prytanis (king of Sparta)",
+          "List of kings of Sparta",
+          "Amyclas of Sparta",
+          "Nicander of Sparta",
+          "Polydectes of Sparta",
+          "Leon of Sparta",
+          "Pausanias of Sparta",
+          "Polydorus of Sparta"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94",
+          "b96ee6dd2a8e18ee7713b12ddc800df2eab219a2c397b9ab63cda9ca89a22676",
+          "60898be382314850aad6ce52787f131e946481d1aed8845cea7da123521d43ea",
+          "677b298ddef08fa3637e49de238e6ec870a6ea2596342ed7f50d6794055d77b3",
+          "a02b92cda4ecf2b26afef0521b44c7668f82374fe2b849bda5dd40c55a3a9948",
+          "4af1ae313510007c3e49f46858ef1e355028e953d340fdbaa47a8daa7d212f46",
+          "6120cea23af8a41b5dfdbd6e204e2789f56b5bd5b4200b9cd512688e03b48ecb",
+          "a3b29693238f7383a9a7fa7170611444450fb667a16cb0d0ee1fd10dca8b5e17",
+          "f910191f2c76ab38f33c036744a750d55641bfa1e33c6619a8c77df5a53a7ac7"
+        ],
+        "total_tokens": 7275
+      },
+      {
+        "titles": [
+          "Eunomus (king of Sparta)",
+          "Prytanis (king of Sparta)",
+          "List of kings of Sparta",
+          "Amyclas of Sparta",
+          "Nicander of Sparta",
+          "Polydectes of Sparta",
+          "Leon of Sparta",
+          "Pausanias of Sparta",
+          "Polydorus of Sparta",
+          "Siege of Sparta"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94",
+          "b96ee6dd2a8e18ee7713b12ddc800df2eab219a2c397b9ab63cda9ca89a22676",
+          "60898be382314850aad6ce52787f131e946481d1aed8845cea7da123521d43ea",
+          "677b298ddef08fa3637e49de238e6ec870a6ea2596342ed7f50d6794055d77b3",
+          "a02b92cda4ecf2b26afef0521b44c7668f82374fe2b849bda5dd40c55a3a9948",
+          "4af1ae313510007c3e49f46858ef1e355028e953d340fdbaa47a8daa7d212f46",
+          "6120cea23af8a41b5dfdbd6e204e2789f56b5bd5b4200b9cd512688e03b48ecb",
+          "a3b29693238f7383a9a7fa7170611444450fb667a16cb0d0ee1fd10dca8b5e17",
+          "f910191f2c76ab38f33c036744a750d55641bfa1e33c6619a8c77df5a53a7ac7",
+          "247f7c169c31c82ae6d645fbf9781e6a05b7ef6bf094c4bd55e30c27c1c40624"
+        ],
+        "total_tokens": 7381
+      },
+      {
+        "titles": [
+          "Eunomus (king of Sparta)",
+          "Prytanis (king of Sparta)",
+          "List of kings of Sparta",
+          "Amyclas of Sparta",
+          "Nicander of Sparta",
+          "Polydectes of Sparta",
+          "Leon of Sparta",
+          "Pausanias of Sparta",
+          "Polydorus of Sparta",
+          "Siege of Sparta",
+          "Pelops of Sparta"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94",
+          "b96ee6dd2a8e18ee7713b12ddc800df2eab219a2c397b9ab63cda9ca89a22676",
+          "60898be382314850aad6ce52787f131e946481d1aed8845cea7da123521d43ea",
+          "677b298ddef08fa3637e49de238e6ec870a6ea2596342ed7f50d6794055d77b3",
+          "a02b92cda4ecf2b26afef0521b44c7668f82374fe2b849bda5dd40c55a3a9948",
+          "4af1ae313510007c3e49f46858ef1e355028e953d340fdbaa47a8daa7d212f46",
+          "6120cea23af8a41b5dfdbd6e204e2789f56b5bd5b4200b9cd512688e03b48ecb",
+          "a3b29693238f7383a9a7fa7170611444450fb667a16cb0d0ee1fd10dca8b5e17",
+          "f910191f2c76ab38f33c036744a750d55641bfa1e33c6619a8c77df5a53a7ac7",
+          "247f7c169c31c82ae6d645fbf9781e6a05b7ef6bf094c4bd55e30c27c1c40624",
+          "4d226faf73c3d13f8c1f054785f7131463e800897cee703e7f4a8a973fac6aa3"
+        ],
+        "total_tokens": 7424
+      },
+      {
+        "titles": [
+          "Eunomus (king of Sparta)",
+          "Prytanis (king of Sparta)",
+          "List of kings of Sparta",
+          "Amyclas of Sparta",
+          "Nicander of Sparta",
+          "Polydectes of Sparta",
+          "Leon of Sparta",
+          "Pausanias of Sparta",
+          "Polydorus of Sparta",
+          "Siege of Sparta",
+          "Pelops of Sparta",
+          "Ariston of Sparta"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94",
+          "b96ee6dd2a8e18ee7713b12ddc800df2eab219a2c397b9ab63cda9ca89a22676",
+          "60898be382314850aad6ce52787f131e946481d1aed8845cea7da123521d43ea",
+          "677b298ddef08fa3637e49de238e6ec870a6ea2596342ed7f50d6794055d77b3",
+          "a02b92cda4ecf2b26afef0521b44c7668f82374fe2b849bda5dd40c55a3a9948",
+          "4af1ae313510007c3e49f46858ef1e355028e953d340fdbaa47a8daa7d212f46",
+          "6120cea23af8a41b5dfdbd6e204e2789f56b5bd5b4200b9cd512688e03b48ecb",
+          "a3b29693238f7383a9a7fa7170611444450fb667a16cb0d0ee1fd10dca8b5e17",
+          "f910191f2c76ab38f33c036744a750d55641bfa1e33c6619a8c77df5a53a7ac7",
+          "247f7c169c31c82ae6d645fbf9781e6a05b7ef6bf094c4bd55e30c27c1c40624",
+          "4d226faf73c3d13f8c1f054785f7131463e800897cee703e7f4a8a973fac6aa3",
+          "284c371567de92a14975516d5ba1b2ef44a68a44caa858b5c92cf6188d0355cc"
+        ],
+        "total_tokens": 7447
+      },
+      {
+        "titles": [
+          "Eunomus (king of Sparta)",
+          "Prytanis (king of Sparta)",
+          "List of kings of Sparta",
+          "Amyclas of Sparta",
+          "Nicander of Sparta",
+          "Polydectes of Sparta",
+          "Leon of Sparta",
+          "Pausanias of Sparta",
+          "Polydorus of Sparta",
+          "Siege of Sparta",
+          "Pelops of Sparta",
+          "Ariston of Sparta",
+          "Hero of Sparta II"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94",
+          "b96ee6dd2a8e18ee7713b12ddc800df2eab219a2c397b9ab63cda9ca89a22676",
+          "60898be382314850aad6ce52787f131e946481d1aed8845cea7da123521d43ea",
+          "677b298ddef08fa3637e49de238e6ec870a6ea2596342ed7f50d6794055d77b3",
+          "a02b92cda4ecf2b26afef0521b44c7668f82374fe2b849bda5dd40c55a3a9948",
+          "4af1ae313510007c3e49f46858ef1e355028e953d340fdbaa47a8daa7d212f46",
+          "6120cea23af8a41b5dfdbd6e204e2789f56b5bd5b4200b9cd512688e03b48ecb",
+          "a3b29693238f7383a9a7fa7170611444450fb667a16cb0d0ee1fd10dca8b5e17",
+          "f910191f2c76ab38f33c036744a750d55641bfa1e33c6619a8c77df5a53a7ac7",
+          "247f7c169c31c82ae6d645fbf9781e6a05b7ef6bf094c4bd55e30c27c1c40624",
+          "4d226faf73c3d13f8c1f054785f7131463e800897cee703e7f4a8a973fac6aa3",
+          "284c371567de92a14975516d5ba1b2ef44a68a44caa858b5c92cf6188d0355cc",
+          "a3654f2e6441880ca07b06f8ce75c03b0c5e96c58b906f254acd1fd8cfb38daa"
+        ],
+        "total_tokens": 7580
+      },
+      {
+        "titles": [
+          "Eunomus (king of Sparta)",
+          "Prytanis (king of Sparta)",
+          "List of kings of Sparta",
+          "Amyclas of Sparta",
+          "Nicander of Sparta",
+          "Polydectes of Sparta",
+          "Leon of Sparta",
+          "Pausanias of Sparta",
+          "Polydorus of Sparta",
+          "Siege of Sparta",
+          "Pelops of Sparta",
+          "Ariston of Sparta",
+          "Hero of Sparta II",
+          "King Charles (musician)"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94",
+          "b96ee6dd2a8e18ee7713b12ddc800df2eab219a2c397b9ab63cda9ca89a22676",
+          "60898be382314850aad6ce52787f131e946481d1aed8845cea7da123521d43ea",
+          "677b298ddef08fa3637e49de238e6ec870a6ea2596342ed7f50d6794055d77b3",
+          "a02b92cda4ecf2b26afef0521b44c7668f82374fe2b849bda5dd40c55a3a9948",
+          "4af1ae313510007c3e49f46858ef1e355028e953d340fdbaa47a8daa7d212f46",
+          "6120cea23af8a41b5dfdbd6e204e2789f56b5bd5b4200b9cd512688e03b48ecb",
+          "a3b29693238f7383a9a7fa7170611444450fb667a16cb0d0ee1fd10dca8b5e17",
+          "f910191f2c76ab38f33c036744a750d55641bfa1e33c6619a8c77df5a53a7ac7",
+          "247f7c169c31c82ae6d645fbf9781e6a05b7ef6bf094c4bd55e30c27c1c40624",
+          "4d226faf73c3d13f8c1f054785f7131463e800897cee703e7f4a8a973fac6aa3",
+          "284c371567de92a14975516d5ba1b2ef44a68a44caa858b5c92cf6188d0355cc",
+          "a3654f2e6441880ca07b06f8ce75c03b0c5e96c58b906f254acd1fd8cfb38daa",
+          "969606d94524ab7ddfd5fee9a3ff703d3f1186d7c19487c4e81609e66a68b254"
+        ],
+        "total_tokens": 7613
+      },
+      {
+        "titles": [
+          "Eunomus (king of Sparta)",
+          "Prytanis (king of Sparta)",
+          "List of kings of Sparta",
+          "Amyclas of Sparta",
+          "Nicander of Sparta",
+          "Polydectes of Sparta",
+          "Leon of Sparta",
+          "Pausanias of Sparta",
+          "Polydorus of Sparta",
+          "Siege of Sparta",
+          "Pelops of Sparta",
+          "Ariston of Sparta",
+          "Hero of Sparta II",
+          "King Charles (musician)",
+          "Theopompus of Sparta"
+        ],
+        "reader_context_sha256": [
+          "cecce18e4b8d79701ebb64be49a60ade5e448e9f2c96d0512fbc000935aa8f94",
+          "b96ee6dd2a8e18ee7713b12ddc800df2eab219a2c397b9ab63cda9ca89a22676",
+          "60898be382314850aad6ce52787f131e946481d1aed8845cea7da123521d43ea",
+          "677b298ddef08fa3637e49de238e6ec870a6ea2596342ed7f50d6794055d77b3",
+          "a02b92cda4ecf2b26afef0521b44c7668f82374fe2b849bda5dd40c55a3a9948",
+          "4af1ae313510007c3e49f46858ef1e355028e953d340fdbaa47a8daa7d212f46",
+          "6120cea23af8a41b5dfdbd6e204e2789f56b5bd5b4200b9cd512688e03b48ecb",
+          "a3b29693238f7383a9a7fa7170611444450fb667a16cb0d0ee1fd10dca8b5e17",
+          "f910191f2c76ab38f33c036744a750d55641bfa1e33c6619a8c77df5a53a7ac7",
+          "247f7c169c31c82ae6d645fbf9781e6a05b7ef6bf094c4bd55e30c27c1c40624",
+          "4d226faf73c3d13f8c1f054785f7131463e800897cee703e7f4a8a973fac6aa3",
+          "284c371567de92a14975516d5ba1b2ef44a68a44caa858b5c92cf6188d0355cc",
+          "a3654f2e6441880ca07b06f8ce75c03b0c5e96c58b906f254acd1fd8cfb38daa",
+          "969606d94524ab7ddfd5fee9a3ff703d3f1186d7c19487c4e81609e66a68b254",
+          "2290d8385db46660b5d74476e13d2fd7fc0f72e1a398e9f8c35306ce7e39f475"
+        ],
+        "total_tokens": 7677
+      }
+    ]
+  },
+  {
+    "question_id": "5ab297bd554299449642c91b",
+    "category": "软标签与质量 Oracle 的成本差",
+    "question": "Which British TV station aired both Dance Factory and Bargain Hunt",
+    "type": "bridge",
+    "gold_answer": "BBC One",
+    "label_status": "valid",
+    "soft_label": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.21942708530931493,
+      0.21069103359321312,
+      0.20115252883659165,
+      0.18771519760542013,
+      0.18101415465546006
+    ],
+    "soft_argmax_k": 11,
+    "bert_k": 2,
+    "bert_confidence": 0.09087894856929779,
+    "oracles": {
+      "Oracle ε=0": 3,
+      "Oracle ε=0.05": 3,
+      "Oracle ε=0.1": 3
+    },
+    "f1_curve": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "context_tokens": [
+      196,
+      255,
+      333,
+      435,
+      506,
+      570,
+      599,
+      912,
+      980,
+      1008,
+      1133,
+      1190,
+      1255,
+      1352,
+      1403
+    ],
+    "sentence_recall": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "predictions": [
+      "no",
+      "no",
+      "BBC One",
+      "BBC One",
+      "BBC One",
+      "BBC One",
+      "no",
+      "no",
+      "no",
+      "BBC One",
+      "BBC One",
+      "BBC One",
+      "BBC One",
+      "BBC One",
+      "BBC One"
+    ],
+    "answer_fallback_curve": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "contexts": [
+      {
+        "titles": [
+          "Bargain Hunt"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef"
+        ],
+        "total_tokens": 6637
+      },
+      {
+        "titles": [
+          "Bargain Hunt",
+          "Dancing with the Stars (South Korean TV series)"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef",
+          "478286e8931526e95d452052a7e55e5cd19df3177c73325cfb301c29c44612a4"
+        ],
+        "total_tokens": 6707
+      },
+      {
+        "titles": [
+          "Bargain Hunt",
+          "Dancing with the Stars (South Korean TV series)",
+          "Both Ends Meet"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef",
+          "478286e8931526e95d452052a7e55e5cd19df3177c73325cfb301c29c44612a4",
+          "6f2ab5ed421b76ccd9e6f80b6a8707109d4381095e0ee327aedfab5dfbc0e700"
+        ],
+        "total_tokens": 6771
+      },
+      {
+        "titles": [
+          "Bargain Hunt",
+          "Dancing with the Stars (South Korean TV series)",
+          "Both Ends Meet",
+          "Dance Factory (video game)"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef",
+          "478286e8931526e95d452052a7e55e5cd19df3177c73325cfb301c29c44612a4",
+          "6f2ab5ed421b76ccd9e6f80b6a8707109d4381095e0ee327aedfab5dfbc0e700",
+          "dc05aa39d969a90a4670422adc8a51fea5ea13da330ef24ca24835c17cd14781"
+        ],
+        "total_tokens": 6934
+      },
+      {
+        "titles": [
+          "Bargain Hunt",
+          "Dancing with the Stars (South Korean TV series)",
+          "Both Ends Meet",
+          "Dance Factory (video game)",
+          "Dance India Dance"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef",
+          "478286e8931526e95d452052a7e55e5cd19df3177c73325cfb301c29c44612a4",
+          "6f2ab5ed421b76ccd9e6f80b6a8707109d4381095e0ee327aedfab5dfbc0e700",
+          "dc05aa39d969a90a4670422adc8a51fea5ea13da330ef24ca24835c17cd14781",
+          "8c0f812b8a72da07e25c3952a99fe48a7b93b2abec2a1da267b59a673386112d"
+        ],
+        "total_tokens": 6982
+      },
+      {
+        "titles": [
+          "Bargain Hunt",
+          "Dancing with the Stars (South Korean TV series)",
+          "Both Ends Meet",
+          "Dance Factory (video game)",
+          "Dance India Dance",
+          "Dance Dance Dance (UK TV series)"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef",
+          "478286e8931526e95d452052a7e55e5cd19df3177c73325cfb301c29c44612a4",
+          "6f2ab5ed421b76ccd9e6f80b6a8707109d4381095e0ee327aedfab5dfbc0e700",
+          "dc05aa39d969a90a4670422adc8a51fea5ea13da330ef24ca24835c17cd14781",
+          "8c0f812b8a72da07e25c3952a99fe48a7b93b2abec2a1da267b59a673386112d",
+          "9fbbbed3b965ce8d1d94817a462bfe0fbee6cda27ece0eb57061f2df9377c8b7"
+        ],
+        "total_tokens": 7066
+      },
+      {
+        "titles": [
+          "Bargain Hunt",
+          "Dancing with the Stars (South Korean TV series)",
+          "Both Ends Meet",
+          "Dance Factory (video game)",
+          "Dance India Dance",
+          "Dance Dance Dance (UK TV series)",
+          "In the Air (TV Rock song)"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef",
+          "478286e8931526e95d452052a7e55e5cd19df3177c73325cfb301c29c44612a4",
+          "6f2ab5ed421b76ccd9e6f80b6a8707109d4381095e0ee327aedfab5dfbc0e700",
+          "dc05aa39d969a90a4670422adc8a51fea5ea13da330ef24ca24835c17cd14781",
+          "8c0f812b8a72da07e25c3952a99fe48a7b93b2abec2a1da267b59a673386112d",
+          "9fbbbed3b965ce8d1d94817a462bfe0fbee6cda27ece0eb57061f2df9377c8b7",
+          "e29693671eb10a4f6abd9057a15686df69775be24423e803216a96d4f3738fed"
+        ],
+        "total_tokens": 7061
+      },
+      {
+        "titles": [
+          "Bargain Hunt",
+          "Dancing with the Stars (South Korean TV series)",
+          "Both Ends Meet",
+          "Dance Factory (video game)",
+          "Dance India Dance",
+          "Dance Dance Dance (UK TV series)",
+          "In the Air (TV Rock song)",
+          "Hunting-Clan Air Transport"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef",
+          "478286e8931526e95d452052a7e55e5cd19df3177c73325cfb301c29c44612a4",
+          "6f2ab5ed421b76ccd9e6f80b6a8707109d4381095e0ee327aedfab5dfbc0e700",
+          "dc05aa39d969a90a4670422adc8a51fea5ea13da330ef24ca24835c17cd14781",
+          "8c0f812b8a72da07e25c3952a99fe48a7b93b2abec2a1da267b59a673386112d",
+          "9fbbbed3b965ce8d1d94817a462bfe0fbee6cda27ece0eb57061f2df9377c8b7",
+          "e29693671eb10a4f6abd9057a15686df69775be24423e803216a96d4f3738fed",
+          "796f67e4f4ae3fc00aa588ebd457eb4af5aab9181e54815e58277992c9baed8f"
+        ],
+        "total_tokens": 7374
+      },
+      {
+        "titles": [
+          "Bargain Hunt",
+          "Dancing with the Stars (South Korean TV series)",
+          "Both Ends Meet",
+          "Dance Factory (video game)",
+          "Dance India Dance",
+          "Dance Dance Dance (UK TV series)",
+          "In the Air (TV Rock song)",
+          "Hunting-Clan Air Transport",
+          "Bargaining power"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef",
+          "478286e8931526e95d452052a7e55e5cd19df3177c73325cfb301c29c44612a4",
+          "6f2ab5ed421b76ccd9e6f80b6a8707109d4381095e0ee327aedfab5dfbc0e700",
+          "dc05aa39d969a90a4670422adc8a51fea5ea13da330ef24ca24835c17cd14781",
+          "8c0f812b8a72da07e25c3952a99fe48a7b93b2abec2a1da267b59a673386112d",
+          "9fbbbed3b965ce8d1d94817a462bfe0fbee6cda27ece0eb57061f2df9377c8b7",
+          "e29693671eb10a4f6abd9057a15686df69775be24423e803216a96d4f3738fed",
+          "796f67e4f4ae3fc00aa588ebd457eb4af5aab9181e54815e58277992c9baed8f",
+          "f7d711fceab0356ee0e09fdd04b76b21a3e5f8d1fd0a4b11c7e91bd6aaa25b81"
+        ],
+        "total_tokens": 7469
+      },
+      {
+        "titles": [
+          "Bargain Hunt",
+          "Dancing with the Stars (South Korean TV series)",
+          "Both Ends Meet",
+          "Dance Factory (video game)",
+          "Dance India Dance",
+          "Dance Dance Dance (UK TV series)",
+          "In the Air (TV Rock song)",
+          "Hunting-Clan Air Transport",
+          "Bargaining power",
+          "Dance Dance Dance (German TV series)"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef",
+          "478286e8931526e95d452052a7e55e5cd19df3177c73325cfb301c29c44612a4",
+          "6f2ab5ed421b76ccd9e6f80b6a8707109d4381095e0ee327aedfab5dfbc0e700",
+          "dc05aa39d969a90a4670422adc8a51fea5ea13da330ef24ca24835c17cd14781",
+          "8c0f812b8a72da07e25c3952a99fe48a7b93b2abec2a1da267b59a673386112d",
+          "9fbbbed3b965ce8d1d94817a462bfe0fbee6cda27ece0eb57061f2df9377c8b7",
+          "e29693671eb10a4f6abd9057a15686df69775be24423e803216a96d4f3738fed",
+          "796f67e4f4ae3fc00aa588ebd457eb4af5aab9181e54815e58277992c9baed8f",
+          "f7d711fceab0356ee0e09fdd04b76b21a3e5f8d1fd0a4b11c7e91bd6aaa25b81",
+          "6321065b4408b4bcc82984277aa0a56829c68d4dbac553bb329a84ec36b28b56"
+        ],
+        "total_tokens": 7446
+      },
+      {
+        "titles": [
+          "Bargain Hunt",
+          "Dancing with the Stars (South Korean TV series)",
+          "Both Ends Meet",
+          "Dance Factory (video game)",
+          "Dance India Dance",
+          "Dance Dance Dance (UK TV series)",
+          "In the Air (TV Rock song)",
+          "Hunting-Clan Air Transport",
+          "Bargaining power",
+          "Dance Dance Dance (German TV series)",
+          "Dance Factory"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef",
+          "478286e8931526e95d452052a7e55e5cd19df3177c73325cfb301c29c44612a4",
+          "6f2ab5ed421b76ccd9e6f80b6a8707109d4381095e0ee327aedfab5dfbc0e700",
+          "dc05aa39d969a90a4670422adc8a51fea5ea13da330ef24ca24835c17cd14781",
+          "8c0f812b8a72da07e25c3952a99fe48a7b93b2abec2a1da267b59a673386112d",
+          "9fbbbed3b965ce8d1d94817a462bfe0fbee6cda27ece0eb57061f2df9377c8b7",
+          "e29693671eb10a4f6abd9057a15686df69775be24423e803216a96d4f3738fed",
+          "796f67e4f4ae3fc00aa588ebd457eb4af5aab9181e54815e58277992c9baed8f",
+          "f7d711fceab0356ee0e09fdd04b76b21a3e5f8d1fd0a4b11c7e91bd6aaa25b81",
+          "6321065b4408b4bcc82984277aa0a56829c68d4dbac553bb329a84ec36b28b56",
+          "f385a5b427057eecb55ca28730fd57caa928337044eb4ded951e476a09e59ecb"
+        ],
+        "total_tokens": 7571
+      },
+      {
+        "titles": [
+          "Bargain Hunt",
+          "Dancing with the Stars (South Korean TV series)",
+          "Both Ends Meet",
+          "Dance Factory (video game)",
+          "Dance India Dance",
+          "Dance Dance Dance (UK TV series)",
+          "In the Air (TV Rock song)",
+          "Hunting-Clan Air Transport",
+          "Bargaining power",
+          "Dance Dance Dance (German TV series)",
+          "Dance Factory",
+          "Hunt Valley station"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef",
+          "478286e8931526e95d452052a7e55e5cd19df3177c73325cfb301c29c44612a4",
+          "6f2ab5ed421b76ccd9e6f80b6a8707109d4381095e0ee327aedfab5dfbc0e700",
+          "dc05aa39d969a90a4670422adc8a51fea5ea13da330ef24ca24835c17cd14781",
+          "8c0f812b8a72da07e25c3952a99fe48a7b93b2abec2a1da267b59a673386112d",
+          "9fbbbed3b965ce8d1d94817a462bfe0fbee6cda27ece0eb57061f2df9377c8b7",
+          "e29693671eb10a4f6abd9057a15686df69775be24423e803216a96d4f3738fed",
+          "796f67e4f4ae3fc00aa588ebd457eb4af5aab9181e54815e58277992c9baed8f",
+          "f7d711fceab0356ee0e09fdd04b76b21a3e5f8d1fd0a4b11c7e91bd6aaa25b81",
+          "6321065b4408b4bcc82984277aa0a56829c68d4dbac553bb329a84ec36b28b56",
+          "f385a5b427057eecb55ca28730fd57caa928337044eb4ded951e476a09e59ecb",
+          "951d1d925ced8f0831619043b84fd654a7e65613e08b069f5c3f6f0ed67dc16c"
+        ],
+        "total_tokens": 7628
+      },
+      {
+        "titles": [
+          "Bargain Hunt",
+          "Dancing with the Stars (South Korean TV series)",
+          "Both Ends Meet",
+          "Dance Factory (video game)",
+          "Dance India Dance",
+          "Dance Dance Dance (UK TV series)",
+          "In the Air (TV Rock song)",
+          "Hunting-Clan Air Transport",
+          "Bargaining power",
+          "Dance Dance Dance (German TV series)",
+          "Dance Factory",
+          "Hunt Valley station",
+          "Factory Air"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef",
+          "478286e8931526e95d452052a7e55e5cd19df3177c73325cfb301c29c44612a4",
+          "6f2ab5ed421b76ccd9e6f80b6a8707109d4381095e0ee327aedfab5dfbc0e700",
+          "dc05aa39d969a90a4670422adc8a51fea5ea13da330ef24ca24835c17cd14781",
+          "8c0f812b8a72da07e25c3952a99fe48a7b93b2abec2a1da267b59a673386112d",
+          "9fbbbed3b965ce8d1d94817a462bfe0fbee6cda27ece0eb57061f2df9377c8b7",
+          "e29693671eb10a4f6abd9057a15686df69775be24423e803216a96d4f3738fed",
+          "796f67e4f4ae3fc00aa588ebd457eb4af5aab9181e54815e58277992c9baed8f",
+          "f7d711fceab0356ee0e09fdd04b76b21a3e5f8d1fd0a4b11c7e91bd6aaa25b81",
+          "6321065b4408b4bcc82984277aa0a56829c68d4dbac553bb329a84ec36b28b56",
+          "f385a5b427057eecb55ca28730fd57caa928337044eb4ded951e476a09e59ecb",
+          "951d1d925ced8f0831619043b84fd654a7e65613e08b069f5c3f6f0ed67dc16c",
+          "8195731f206c2cbe3c90de3694af9066f70b75727759b3ac10a8c81b3227d7ef"
+        ],
+        "total_tokens": 7693
+      },
+      {
+        "titles": [
+          "Bargain Hunt",
+          "Dancing with the Stars (South Korean TV series)",
+          "Both Ends Meet",
+          "Dance Factory (video game)",
+          "Dance India Dance",
+          "Dance Dance Dance (UK TV series)",
+          "In the Air (TV Rock song)",
+          "Hunting-Clan Air Transport",
+          "Bargaining power",
+          "Dance Dance Dance (German TV series)",
+          "Dance Factory",
+          "Hunt Valley station",
+          "Factory Air",
+          "British Dance Council"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef",
+          "478286e8931526e95d452052a7e55e5cd19df3177c73325cfb301c29c44612a4",
+          "6f2ab5ed421b76ccd9e6f80b6a8707109d4381095e0ee327aedfab5dfbc0e700",
+          "dc05aa39d969a90a4670422adc8a51fea5ea13da330ef24ca24835c17cd14781",
+          "8c0f812b8a72da07e25c3952a99fe48a7b93b2abec2a1da267b59a673386112d",
+          "9fbbbed3b965ce8d1d94817a462bfe0fbee6cda27ece0eb57061f2df9377c8b7",
+          "e29693671eb10a4f6abd9057a15686df69775be24423e803216a96d4f3738fed",
+          "796f67e4f4ae3fc00aa588ebd457eb4af5aab9181e54815e58277992c9baed8f",
+          "f7d711fceab0356ee0e09fdd04b76b21a3e5f8d1fd0a4b11c7e91bd6aaa25b81",
+          "6321065b4408b4bcc82984277aa0a56829c68d4dbac553bb329a84ec36b28b56",
+          "f385a5b427057eecb55ca28730fd57caa928337044eb4ded951e476a09e59ecb",
+          "951d1d925ced8f0831619043b84fd654a7e65613e08b069f5c3f6f0ed67dc16c",
+          "8195731f206c2cbe3c90de3694af9066f70b75727759b3ac10a8c81b3227d7ef",
+          "18d0742143e7187514da27cb90edbd300bd763486849b440547e425a8f36137a"
+        ],
+        "total_tokens": 7790
+      },
+      {
+        "titles": [
+          "Bargain Hunt",
+          "Dancing with the Stars (South Korean TV series)",
+          "Both Ends Meet",
+          "Dance Factory (video game)",
+          "Dance India Dance",
+          "Dance Dance Dance (UK TV series)",
+          "In the Air (TV Rock song)",
+          "Hunting-Clan Air Transport",
+          "Bargaining power",
+          "Dance Dance Dance (German TV series)",
+          "Dance Factory",
+          "Hunt Valley station",
+          "Factory Air",
+          "British Dance Council",
+          "Surface bargaining"
+        ],
+        "reader_context_sha256": [
+          "698e6f9f0dfa11ff89b92f5fef7eaa75c33b9bba38666fd875b99a64023a76ef",
+          "478286e8931526e95d452052a7e55e5cd19df3177c73325cfb301c29c44612a4",
+          "6f2ab5ed421b76ccd9e6f80b6a8707109d4381095e0ee327aedfab5dfbc0e700",
+          "dc05aa39d969a90a4670422adc8a51fea5ea13da330ef24ca24835c17cd14781",
+          "8c0f812b8a72da07e25c3952a99fe48a7b93b2abec2a1da267b59a673386112d",
+          "9fbbbed3b965ce8d1d94817a462bfe0fbee6cda27ece0eb57061f2df9377c8b7",
+          "e29693671eb10a4f6abd9057a15686df69775be24423e803216a96d4f3738fed",
+          "796f67e4f4ae3fc00aa588ebd457eb4af5aab9181e54815e58277992c9baed8f",
+          "f7d711fceab0356ee0e09fdd04b76b21a3e5f8d1fd0a4b11c7e91bd6aaa25b81",
+          "6321065b4408b4bcc82984277aa0a56829c68d4dbac553bb329a84ec36b28b56",
+          "f385a5b427057eecb55ca28730fd57caa928337044eb4ded951e476a09e59ecb",
+          "951d1d925ced8f0831619043b84fd654a7e65613e08b069f5c3f6f0ed67dc16c",
+          "8195731f206c2cbe3c90de3694af9066f70b75727759b3ac10a8c81b3227d7ef",
+          "18d0742143e7187514da27cb90edbd300bd763486849b440547e425a8f36137a",
+          "477f385deeb210f5aa727d80a6b7e2c4df0facd38378411660854a94bc0c7f29"
+        ],
+        "total_tokens": 7841
+      }
+    ]
+  },
+  {
+    "question_id": "5ae5c856554299546bf82f5c",
+    "category": "曲线波动，扩大 k 可反复翻转答案",
+    "question": "Which universtiy did the Irish composer which  Stainer & Bell Limited publish the works of attended",
+    "type": "bridge",
+    "gold_answer": "University of Cambridge",
+    "label_status": "valid",
+    "soft_label": [
+      0.5119140867765463,
+      0.0,
+      0.48808591322345374,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "soft_argmax_k": 1,
+    "bert_k": 1,
+    "bert_confidence": 0.09798907488584518,
+    "oracles": {
+      "Oracle ε=0": 1,
+      "Oracle ε=0.05": 1,
+      "Oracle ε=0.1": 1
+    },
+    "f1_curve": [
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.3333333333333333,
+      0.0,
+      0.0,
+      0.28571428571428575,
+      0.3333333333333333,
+      0.0,
+      0.28571428571428575,
+      0.0,
+      0.0,
+      0.3333333333333333,
+      0.3333333333333333
+    ],
+    "context_tokens": [
+      96,
+      123,
+      145,
+      311,
+      373,
+      409,
+      447,
+      507,
+      544,
+      625,
+      660,
+      776,
+      845,
+      957,
+      1028
+    ],
+    "sentence_recall": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "predictions": [
+      "University of Cambridge",
+      "Trinity College, Dublin",
+      "University of Cambridge",
+      "Trinity College, Dublin",
+      "University College, Oxford",
+      "Trinity College, Dublin",
+      "Trinity College, Dublin",
+      "Royal College of Music",
+      "Trinity College, Cambridge",
+      "Trinity College, Dublin",
+      "Royal College of Music",
+      "Oxford",
+      "Trinity College, Dublin",
+      "Trinity College, Cambridge",
+      "Trinity College, Cambridge"
+    ],
+    "answer_fallback_curve": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "contexts": [
+      {
+        "titles": [
+          "Stainer &amp; Bell"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153"
+        ],
+        "total_tokens": 6552
+      },
+      {
+        "titles": [
+          "Stainer &amp; Bell",
+          "Jamaica Association of Composers Authors and Publishers Limited"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153",
+          "8d00c537de2447fd7a7d393054103af21bac0e90a0213ac13874fdca9f2c5ce1"
+        ],
+        "total_tokens": 6635
+      },
+      {
+        "titles": [
+          "Stainer &amp; Bell",
+          "Jamaica Association of Composers Authors and Publishers Limited",
+          "Stainer"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153",
+          "8d00c537de2447fd7a7d393054103af21bac0e90a0213ac13874fdca9f2c5ce1",
+          "0a49fd16e33396fbf5504ba3058c82483404f4709f34a862ded04fabe4c0f0d4"
+        ],
+        "total_tokens": 6601
+      },
+      {
+        "titles": [
+          "Stainer &amp; Bell",
+          "Jamaica Association of Composers Authors and Publishers Limited",
+          "Stainer",
+          "The Crucifixion (Stainer)"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153",
+          "8d00c537de2447fd7a7d393054103af21bac0e90a0213ac13874fdca9f2c5ce1",
+          "0a49fd16e33396fbf5504ba3058c82483404f4709f34a862ded04fabe4c0f0d4",
+          "4637aa0cea8eca7cf2edeb4beb6db731f8f0bbf9653ca54670f20292c584a094"
+        ],
+        "total_tokens": 6812
+      },
+      {
+        "titles": [
+          "Stainer &amp; Bell",
+          "Jamaica Association of Composers Authors and Publishers Limited",
+          "Stainer",
+          "The Crucifixion (Stainer)",
+          "Klayton Stainer"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153",
+          "8d00c537de2447fd7a7d393054103af21bac0e90a0213ac13874fdca9f2c5ce1",
+          "0a49fd16e33396fbf5504ba3058c82483404f4709f34a862ded04fabe4c0f0d4",
+          "4637aa0cea8eca7cf2edeb4beb6db731f8f0bbf9653ca54670f20292c584a094",
+          "2a09000ed869d35de1e258fe1bc67cd3129318f5fea599f8770fe8564b43b3f3"
+        ],
+        "total_tokens": 6831
+      },
+      {
+        "titles": [
+          "Stainer &amp; Bell",
+          "Jamaica Association of Composers Authors and Publishers Limited",
+          "Stainer",
+          "The Crucifixion (Stainer)",
+          "Klayton Stainer",
+          "Society of Composers, Authors and Music Publishers of Canada v Bell Canada"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153",
+          "8d00c537de2447fd7a7d393054103af21bac0e90a0213ac13874fdca9f2c5ce1",
+          "0a49fd16e33396fbf5504ba3058c82483404f4709f34a862ded04fabe4c0f0d4",
+          "4637aa0cea8eca7cf2edeb4beb6db731f8f0bbf9653ca54670f20292c584a094",
+          "2a09000ed869d35de1e258fe1bc67cd3129318f5fea599f8770fe8564b43b3f3",
+          "9da60fec4b2c76ae93874f172ba78a83092e4a850df5725c42f4423f731c0131"
+        ],
+        "total_tokens": 6867
+      },
+      {
+        "titles": [
+          "Stainer &amp; Bell",
+          "Jamaica Association of Composers Authors and Publishers Limited",
+          "Stainer",
+          "The Crucifixion (Stainer)",
+          "Klayton Stainer",
+          "Society of Composers, Authors and Music Publishers of Canada v Bell Canada",
+          "George Bell (publisher)"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153",
+          "8d00c537de2447fd7a7d393054103af21bac0e90a0213ac13874fdca9f2c5ce1",
+          "0a49fd16e33396fbf5504ba3058c82483404f4709f34a862ded04fabe4c0f0d4",
+          "4637aa0cea8eca7cf2edeb4beb6db731f8f0bbf9653ca54670f20292c584a094",
+          "2a09000ed869d35de1e258fe1bc67cd3129318f5fea599f8770fe8564b43b3f3",
+          "9da60fec4b2c76ae93874f172ba78a83092e4a850df5725c42f4423f731c0131",
+          "9da971b378d6c2ab23219a4d828a5c9a27900282cc962dc0081fe3f3a92409ba"
+        ],
+        "total_tokens": 6940
+      },
+      {
+        "titles": [
+          "Stainer &amp; Bell",
+          "Jamaica Association of Composers Authors and Publishers Limited",
+          "Stainer",
+          "The Crucifixion (Stainer)",
+          "Klayton Stainer",
+          "Society of Composers, Authors and Music Publishers of Canada v Bell Canada",
+          "George Bell (publisher)",
+          "David Stainer"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153",
+          "8d00c537de2447fd7a7d393054103af21bac0e90a0213ac13874fdca9f2c5ce1",
+          "0a49fd16e33396fbf5504ba3058c82483404f4709f34a862ded04fabe4c0f0d4",
+          "4637aa0cea8eca7cf2edeb4beb6db731f8f0bbf9653ca54670f20292c584a094",
+          "2a09000ed869d35de1e258fe1bc67cd3129318f5fea599f8770fe8564b43b3f3",
+          "9da60fec4b2c76ae93874f172ba78a83092e4a850df5725c42f4423f731c0131",
+          "9da971b378d6c2ab23219a4d828a5c9a27900282cc962dc0081fe3f3a92409ba",
+          "3b48eeeb5935963025a081c6287e4b398f3287be7e5d801b647a4c91ff3698b9"
+        ],
+        "total_tokens": 6984
+      },
+      {
+        "titles": [
+          "Stainer &amp; Bell",
+          "Jamaica Association of Composers Authors and Publishers Limited",
+          "Stainer",
+          "The Crucifixion (Stainer)",
+          "Klayton Stainer",
+          "Society of Composers, Authors and Music Publishers of Canada v Bell Canada",
+          "George Bell (publisher)",
+          "David Stainer",
+          "Jacob Stainer"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153",
+          "8d00c537de2447fd7a7d393054103af21bac0e90a0213ac13874fdca9f2c5ce1",
+          "0a49fd16e33396fbf5504ba3058c82483404f4709f34a862ded04fabe4c0f0d4",
+          "4637aa0cea8eca7cf2edeb4beb6db731f8f0bbf9653ca54670f20292c584a094",
+          "2a09000ed869d35de1e258fe1bc67cd3129318f5fea599f8770fe8564b43b3f3",
+          "9da60fec4b2c76ae93874f172ba78a83092e4a850df5725c42f4423f731c0131",
+          "9da971b378d6c2ab23219a4d828a5c9a27900282cc962dc0081fe3f3a92409ba",
+          "3b48eeeb5935963025a081c6287e4b398f3287be7e5d801b647a4c91ff3698b9",
+          "49b288c9de7fe9df1f59797843ed7f9a750e8be4a28c4ae710090f96074504b1"
+        ],
+        "total_tokens": 7063
+      },
+      {
+        "titles": [
+          "Stainer &amp; Bell",
+          "Jamaica Association of Composers Authors and Publishers Limited",
+          "Stainer",
+          "The Crucifixion (Stainer)",
+          "Klayton Stainer",
+          "Society of Composers, Authors and Music Publishers of Canada v Bell Canada",
+          "George Bell (publisher)",
+          "David Stainer",
+          "Jacob Stainer",
+          "Pauline Stainer"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153",
+          "8d00c537de2447fd7a7d393054103af21bac0e90a0213ac13874fdca9f2c5ce1",
+          "0a49fd16e33396fbf5504ba3058c82483404f4709f34a862ded04fabe4c0f0d4",
+          "4637aa0cea8eca7cf2edeb4beb6db731f8f0bbf9653ca54670f20292c584a094",
+          "2a09000ed869d35de1e258fe1bc67cd3129318f5fea599f8770fe8564b43b3f3",
+          "9da60fec4b2c76ae93874f172ba78a83092e4a850df5725c42f4423f731c0131",
+          "9da971b378d6c2ab23219a4d828a5c9a27900282cc962dc0081fe3f3a92409ba",
+          "3b48eeeb5935963025a081c6287e4b398f3287be7e5d801b647a4c91ff3698b9",
+          "49b288c9de7fe9df1f59797843ed7f9a750e8be4a28c4ae710090f96074504b1",
+          "c66e45ea8bae1e90568a750cb05adb7634791177c4a2e29da53a417e63f4c7d0"
+        ],
+        "total_tokens": 7109
+      },
+      {
+        "titles": [
+          "Stainer &amp; Bell",
+          "Jamaica Association of Composers Authors and Publishers Limited",
+          "Stainer",
+          "The Crucifixion (Stainer)",
+          "Klayton Stainer",
+          "Society of Composers, Authors and Music Publishers of Canada v Bell Canada",
+          "George Bell (publisher)",
+          "David Stainer",
+          "Jacob Stainer",
+          "Pauline Stainer",
+          "Elizabeth Bell (composer)"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153",
+          "8d00c537de2447fd7a7d393054103af21bac0e90a0213ac13874fdca9f2c5ce1",
+          "0a49fd16e33396fbf5504ba3058c82483404f4709f34a862ded04fabe4c0f0d4",
+          "4637aa0cea8eca7cf2edeb4beb6db731f8f0bbf9653ca54670f20292c584a094",
+          "2a09000ed869d35de1e258fe1bc67cd3129318f5fea599f8770fe8564b43b3f3",
+          "9da60fec4b2c76ae93874f172ba78a83092e4a850df5725c42f4423f731c0131",
+          "9da971b378d6c2ab23219a4d828a5c9a27900282cc962dc0081fe3f3a92409ba",
+          "3b48eeeb5935963025a081c6287e4b398f3287be7e5d801b647a4c91ff3698b9",
+          "49b288c9de7fe9df1f59797843ed7f9a750e8be4a28c4ae710090f96074504b1",
+          "c66e45ea8bae1e90568a750cb05adb7634791177c4a2e29da53a417e63f4c7d0",
+          "2f1a9eb3abd4f2cd544eb2b5ac157ab6406560019528921a4c4cdb488a48b480"
+        ],
+        "total_tokens": 7166
+      },
+      {
+        "titles": [
+          "Stainer &amp; Bell",
+          "Jamaica Association of Composers Authors and Publishers Limited",
+          "Stainer",
+          "The Crucifixion (Stainer)",
+          "Klayton Stainer",
+          "Society of Composers, Authors and Music Publishers of Canada v Bell Canada",
+          "George Bell (publisher)",
+          "David Stainer",
+          "Jacob Stainer",
+          "Pauline Stainer",
+          "Elizabeth Bell (composer)",
+          "John Stainer"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153",
+          "8d00c537de2447fd7a7d393054103af21bac0e90a0213ac13874fdca9f2c5ce1",
+          "0a49fd16e33396fbf5504ba3058c82483404f4709f34a862ded04fabe4c0f0d4",
+          "4637aa0cea8eca7cf2edeb4beb6db731f8f0bbf9653ca54670f20292c584a094",
+          "2a09000ed869d35de1e258fe1bc67cd3129318f5fea599f8770fe8564b43b3f3",
+          "9da60fec4b2c76ae93874f172ba78a83092e4a850df5725c42f4423f731c0131",
+          "9da971b378d6c2ab23219a4d828a5c9a27900282cc962dc0081fe3f3a92409ba",
+          "3b48eeeb5935963025a081c6287e4b398f3287be7e5d801b647a4c91ff3698b9",
+          "49b288c9de7fe9df1f59797843ed7f9a750e8be4a28c4ae710090f96074504b1",
+          "c66e45ea8bae1e90568a750cb05adb7634791177c4a2e29da53a417e63f4c7d0",
+          "2f1a9eb3abd4f2cd544eb2b5ac157ab6406560019528921a4c4cdb488a48b480",
+          "f5bf872abe251a7d3dcbf9200bd662d6c664b53fdb4cfa485447be4fbe5d6d87"
+        ],
+        "total_tokens": 7205
+      },
+      {
+        "titles": [
+          "Stainer &amp; Bell",
+          "Jamaica Association of Composers Authors and Publishers Limited",
+          "Stainer",
+          "The Crucifixion (Stainer)",
+          "Klayton Stainer",
+          "Society of Composers, Authors and Music Publishers of Canada v Bell Canada",
+          "George Bell (publisher)",
+          "David Stainer",
+          "Jacob Stainer",
+          "Pauline Stainer",
+          "Elizabeth Bell (composer)",
+          "John Stainer",
+          "List of Irish classical composers"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153",
+          "8d00c537de2447fd7a7d393054103af21bac0e90a0213ac13874fdca9f2c5ce1",
+          "0a49fd16e33396fbf5504ba3058c82483404f4709f34a862ded04fabe4c0f0d4",
+          "4637aa0cea8eca7cf2edeb4beb6db731f8f0bbf9653ca54670f20292c584a094",
+          "2a09000ed869d35de1e258fe1bc67cd3129318f5fea599f8770fe8564b43b3f3",
+          "9da60fec4b2c76ae93874f172ba78a83092e4a850df5725c42f4423f731c0131",
+          "9da971b378d6c2ab23219a4d828a5c9a27900282cc962dc0081fe3f3a92409ba",
+          "3b48eeeb5935963025a081c6287e4b398f3287be7e5d801b647a4c91ff3698b9",
+          "49b288c9de7fe9df1f59797843ed7f9a750e8be4a28c4ae710090f96074504b1",
+          "c66e45ea8bae1e90568a750cb05adb7634791177c4a2e29da53a417e63f4c7d0",
+          "2f1a9eb3abd4f2cd544eb2b5ac157ab6406560019528921a4c4cdb488a48b480",
+          "f5bf872abe251a7d3dcbf9200bd662d6c664b53fdb4cfa485447be4fbe5d6d87",
+          "34ff9ce54bff7c661f4f6bfda71cd3c0b8ea8b3de9f409859a326e6ac9bfb604"
+        ],
+        "total_tokens": 7305
+      },
+      {
+        "titles": [
+          "Stainer &amp; Bell",
+          "Jamaica Association of Composers Authors and Publishers Limited",
+          "Stainer",
+          "The Crucifixion (Stainer)",
+          "Klayton Stainer",
+          "Society of Composers, Authors and Music Publishers of Canada v Bell Canada",
+          "George Bell (publisher)",
+          "David Stainer",
+          "Jacob Stainer",
+          "Pauline Stainer",
+          "Elizabeth Bell (composer)",
+          "John Stainer",
+          "List of Irish classical composers",
+          "Worshipful Company of Painter-Stainers"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153",
+          "8d00c537de2447fd7a7d393054103af21bac0e90a0213ac13874fdca9f2c5ce1",
+          "0a49fd16e33396fbf5504ba3058c82483404f4709f34a862ded04fabe4c0f0d4",
+          "4637aa0cea8eca7cf2edeb4beb6db731f8f0bbf9653ca54670f20292c584a094",
+          "2a09000ed869d35de1e258fe1bc67cd3129318f5fea599f8770fe8564b43b3f3",
+          "9da60fec4b2c76ae93874f172ba78a83092e4a850df5725c42f4423f731c0131",
+          "9da971b378d6c2ab23219a4d828a5c9a27900282cc962dc0081fe3f3a92409ba",
+          "3b48eeeb5935963025a081c6287e4b398f3287be7e5d801b647a4c91ff3698b9",
+          "49b288c9de7fe9df1f59797843ed7f9a750e8be4a28c4ae710090f96074504b1",
+          "c66e45ea8bae1e90568a750cb05adb7634791177c4a2e29da53a417e63f4c7d0",
+          "2f1a9eb3abd4f2cd544eb2b5ac157ab6406560019528921a4c4cdb488a48b480",
+          "f5bf872abe251a7d3dcbf9200bd662d6c664b53fdb4cfa485447be4fbe5d6d87",
+          "34ff9ce54bff7c661f4f6bfda71cd3c0b8ea8b3de9f409859a326e6ac9bfb604",
+          "55aefc86deda3ca2837b2422cdd68fb0643344a068c3f32c98a649f3dbdbe28f"
+        ],
+        "total_tokens": 7449
+      },
+      {
+        "titles": [
+          "Stainer &amp; Bell",
+          "Jamaica Association of Composers Authors and Publishers Limited",
+          "Stainer",
+          "The Crucifixion (Stainer)",
+          "Klayton Stainer",
+          "Society of Composers, Authors and Music Publishers of Canada v Bell Canada",
+          "George Bell (publisher)",
+          "David Stainer",
+          "Jacob Stainer",
+          "Pauline Stainer",
+          "Elizabeth Bell (composer)",
+          "John Stainer",
+          "List of Irish classical composers",
+          "Worshipful Company of Painter-Stainers",
+          "Robert Bell (Irish geologist)"
+        ],
+        "reader_context_sha256": [
+          "8786591ca8c2c5b133cff9a3efcdbfc0cccf02ae2acecadac9d413c164003153",
+          "8d00c537de2447fd7a7d393054103af21bac0e90a0213ac13874fdca9f2c5ce1",
+          "0a49fd16e33396fbf5504ba3058c82483404f4709f34a862ded04fabe4c0f0d4",
+          "4637aa0cea8eca7cf2edeb4beb6db731f8f0bbf9653ca54670f20292c584a094",
+          "2a09000ed869d35de1e258fe1bc67cd3129318f5fea599f8770fe8564b43b3f3",
+          "9da60fec4b2c76ae93874f172ba78a83092e4a850df5725c42f4423f731c0131",
+          "9da971b378d6c2ab23219a4d828a5c9a27900282cc962dc0081fe3f3a92409ba",
+          "3b48eeeb5935963025a081c6287e4b398f3287be7e5d801b647a4c91ff3698b9",
+          "49b288c9de7fe9df1f59797843ed7f9a750e8be4a28c4ae710090f96074504b1",
+          "c66e45ea8bae1e90568a750cb05adb7634791177c4a2e29da53a417e63f4c7d0",
+          "2f1a9eb3abd4f2cd544eb2b5ac157ab6406560019528921a4c4cdb488a48b480",
+          "f5bf872abe251a7d3dcbf9200bd662d6c664b53fdb4cfa485447be4fbe5d6d87",
+          "34ff9ce54bff7c661f4f6bfda71cd3c0b8ea8b3de9f409859a326e6ac9bfb604",
+          "55aefc86deda3ca2837b2422cdd68fb0643344a068c3f32c98a649f3dbdbe28f",
+          "c4b024ea0a05cc3050436c589e06d9ebec4b97c05b47b525aa0bb3f32e7473a9"
+        ],
+        "total_tokens": 7487
+      }
+    ]
+  },
+  {
+    "question_id": "5a890267554299515336125e",
+    "category": "证据门槛使原软标签缺失",
+    "question": "On what day of the week did the Simpson episode in which HOmer took on the role of the Grim Reaper appear?",
+    "type": "bridge",
+    "gold_answer": "Sunday",
+    "label_status": "empty_candidates",
+    "soft_label": null,
+    "soft_argmax_k": null,
+    "bert_k": 2,
+    "bert_confidence": 0.08977172523736954,
+    "oracles": {
+      "Oracle ε=0": 13,
+      "Oracle ε=0.05": 13,
+      "Oracle ε=0.1": 13
+    },
+    "f1_curve": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    "context_tokens": [
+      48,
+      70,
+      115,
+      265,
+      317,
+      368,
+      487,
+      554,
+      589,
+      785,
+      891,
+      968,
+      1102,
+      1193,
+      1237
+    ],
+    "sentence_recall": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "predictions": [
+      "no information",
+      "no",
+      "no information",
+      "no",
+      "no",
+      "no",
+      "Tuesday",
+      "Friday",
+      "Friday",
+      "Tuesday",
+      "Tuesday",
+      "Tuesday",
+      "Sunday",
+      "Wednesday",
+      "Tuesday"
+    ],
+    "answer_fallback_curve": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "contexts": [
+      {
+        "titles": [
+          "Best of Grim Reaper"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6"
+        ],
+        "total_tokens": 6511
+      },
+      {
+        "titles": [
+          "Best of Grim Reaper",
+          "Grim Reaper (disambiguation)"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6",
+          "eb24be7e9634e08f972f96498ce0d8db03e420baf5d5e98ff3ced96d83952f89"
+        ],
+        "total_tokens": 6544
+      },
+      {
+        "titles": [
+          "Best of Grim Reaper",
+          "Grim Reaper (disambiguation)",
+          "Grim Reaper (comics)"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6",
+          "eb24be7e9634e08f972f96498ce0d8db03e420baf5d5e98ff3ced96d83952f89",
+          "76f1d55352ec4c7605abf49d6d16281e4a18266b5a43107438ccc96010f83a95"
+        ],
+        "total_tokens": 6578
+      },
+      {
+        "titles": [
+          "Best of Grim Reaper",
+          "Grim Reaper (disambiguation)",
+          "Grim Reaper (comics)",
+          "Grim Reaper (advertisement)"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6",
+          "eb24be7e9634e08f972f96498ce0d8db03e420baf5d5e98ff3ced96d83952f89",
+          "76f1d55352ec4c7605abf49d6d16281e4a18266b5a43107438ccc96010f83a95",
+          "0708729f8e5d1976dd52a75dbb90332eb87084f96fc97e925a2d477a830b134e"
+        ],
+        "total_tokens": 6727
+      },
+      {
+        "titles": [
+          "Best of Grim Reaper",
+          "Grim Reaper (disambiguation)",
+          "Grim Reaper (comics)",
+          "Grim Reaper (advertisement)",
+          "Grim Reaper (film)"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6",
+          "eb24be7e9634e08f972f96498ce0d8db03e420baf5d5e98ff3ced96d83952f89",
+          "76f1d55352ec4c7605abf49d6d16281e4a18266b5a43107438ccc96010f83a95",
+          "0708729f8e5d1976dd52a75dbb90332eb87084f96fc97e925a2d477a830b134e",
+          "5c9ada506fb38b59b12b6753aff40fd9f83c2941125a398037930f10a3c7185d"
+        ],
+        "total_tokens": 6779
+      },
+      {
+        "titles": [
+          "Best of Grim Reaper",
+          "Grim Reaper (disambiguation)",
+          "Grim Reaper (comics)",
+          "Grim Reaper (advertisement)",
+          "Grim Reaper (film)",
+          "Grim Reaper (band)"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6",
+          "eb24be7e9634e08f972f96498ce0d8db03e420baf5d5e98ff3ced96d83952f89",
+          "76f1d55352ec4c7605abf49d6d16281e4a18266b5a43107438ccc96010f83a95",
+          "0708729f8e5d1976dd52a75dbb90332eb87084f96fc97e925a2d477a830b134e",
+          "5c9ada506fb38b59b12b6753aff40fd9f83c2941125a398037930f10a3c7185d",
+          "1ebeb19fad50fd93f3b6703ba4475f90a40ba4b3b6131d7be1c0cdd95ff03d28"
+        ],
+        "total_tokens": 6830
+      },
+      {
+        "titles": [
+          "Best of Grim Reaper",
+          "Grim Reaper (disambiguation)",
+          "Grim Reaper (comics)",
+          "Grim Reaper (advertisement)",
+          "Grim Reaper (film)",
+          "Grim Reaper (band)",
+          "Homer's Odyssey (The Simpsons)"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6",
+          "eb24be7e9634e08f972f96498ce0d8db03e420baf5d5e98ff3ced96d83952f89",
+          "76f1d55352ec4c7605abf49d6d16281e4a18266b5a43107438ccc96010f83a95",
+          "0708729f8e5d1976dd52a75dbb90332eb87084f96fc97e925a2d477a830b134e",
+          "5c9ada506fb38b59b12b6753aff40fd9f83c2941125a398037930f10a3c7185d",
+          "1ebeb19fad50fd93f3b6703ba4475f90a40ba4b3b6131d7be1c0cdd95ff03d28",
+          "f119cc806db6cf1ed71e03d107b1121f0e464d030e27b6d1d0c34d4cafddf681"
+        ],
+        "total_tokens": 6984
+      },
+      {
+        "titles": [
+          "Best of Grim Reaper",
+          "Grim Reaper (disambiguation)",
+          "Grim Reaper (comics)",
+          "Grim Reaper (advertisement)",
+          "Grim Reaper (film)",
+          "Grim Reaper (band)",
+          "Homer's Odyssey (The Simpsons)",
+          "Grim Reaper of Love"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6",
+          "eb24be7e9634e08f972f96498ce0d8db03e420baf5d5e98ff3ced96d83952f89",
+          "76f1d55352ec4c7605abf49d6d16281e4a18266b5a43107438ccc96010f83a95",
+          "0708729f8e5d1976dd52a75dbb90332eb87084f96fc97e925a2d477a830b134e",
+          "5c9ada506fb38b59b12b6753aff40fd9f83c2941125a398037930f10a3c7185d",
+          "1ebeb19fad50fd93f3b6703ba4475f90a40ba4b3b6131d7be1c0cdd95ff03d28",
+          "f119cc806db6cf1ed71e03d107b1121f0e464d030e27b6d1d0c34d4cafddf681",
+          "664763796f0e78bdbe0c24661107345c16f45d737058ef43188c0ebca4d0bbd3"
+        ],
+        "total_tokens": 7012
+      },
+      {
+        "titles": [
+          "Best of Grim Reaper",
+          "Grim Reaper (disambiguation)",
+          "Grim Reaper (comics)",
+          "Grim Reaper (advertisement)",
+          "Grim Reaper (film)",
+          "Grim Reaper (band)",
+          "Homer's Odyssey (The Simpsons)",
+          "Grim Reaper of Love",
+          "Grim Reapers Motorcycle Club (USA)"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6",
+          "eb24be7e9634e08f972f96498ce0d8db03e420baf5d5e98ff3ced96d83952f89",
+          "76f1d55352ec4c7605abf49d6d16281e4a18266b5a43107438ccc96010f83a95",
+          "0708729f8e5d1976dd52a75dbb90332eb87084f96fc97e925a2d477a830b134e",
+          "5c9ada506fb38b59b12b6753aff40fd9f83c2941125a398037930f10a3c7185d",
+          "1ebeb19fad50fd93f3b6703ba4475f90a40ba4b3b6131d7be1c0cdd95ff03d28",
+          "f119cc806db6cf1ed71e03d107b1121f0e464d030e27b6d1d0c34d4cafddf681",
+          "664763796f0e78bdbe0c24661107345c16f45d737058ef43188c0ebca4d0bbd3",
+          "012496b70144f0c06f65d1b8875db3587ad8ddfd4b7b512b93eed69ab2c215ba"
+        ],
+        "total_tokens": 7048
+      },
+      {
+        "titles": [
+          "Best of Grim Reaper",
+          "Grim Reaper (disambiguation)",
+          "Grim Reaper (comics)",
+          "Grim Reaper (advertisement)",
+          "Grim Reaper (film)",
+          "Grim Reaper (band)",
+          "Homer's Odyssey (The Simpsons)",
+          "Grim Reaper of Love",
+          "Grim Reapers Motorcycle Club (USA)",
+          "Homer Simpson"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6",
+          "eb24be7e9634e08f972f96498ce0d8db03e420baf5d5e98ff3ced96d83952f89",
+          "76f1d55352ec4c7605abf49d6d16281e4a18266b5a43107438ccc96010f83a95",
+          "0708729f8e5d1976dd52a75dbb90332eb87084f96fc97e925a2d477a830b134e",
+          "5c9ada506fb38b59b12b6753aff40fd9f83c2941125a398037930f10a3c7185d",
+          "1ebeb19fad50fd93f3b6703ba4475f90a40ba4b3b6131d7be1c0cdd95ff03d28",
+          "f119cc806db6cf1ed71e03d107b1121f0e464d030e27b6d1d0c34d4cafddf681",
+          "664763796f0e78bdbe0c24661107345c16f45d737058ef43188c0ebca4d0bbd3",
+          "012496b70144f0c06f65d1b8875db3587ad8ddfd4b7b512b93eed69ab2c215ba",
+          "6f5c9289c1ec5e1a94bda40572dd1c3699398c50a4162fbd56a60108c927215b"
+        ],
+        "total_tokens": 7276
+      },
+      {
+        "titles": [
+          "Best of Grim Reaper",
+          "Grim Reaper (disambiguation)",
+          "Grim Reaper (comics)",
+          "Grim Reaper (advertisement)",
+          "Grim Reaper (film)",
+          "Grim Reaper (band)",
+          "Homer's Odyssey (The Simpsons)",
+          "Grim Reaper of Love",
+          "Grim Reapers Motorcycle Club (USA)",
+          "Homer Simpson",
+          "Panda Bear Meets the Grim Reaper"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6",
+          "eb24be7e9634e08f972f96498ce0d8db03e420baf5d5e98ff3ced96d83952f89",
+          "76f1d55352ec4c7605abf49d6d16281e4a18266b5a43107438ccc96010f83a95",
+          "0708729f8e5d1976dd52a75dbb90332eb87084f96fc97e925a2d477a830b134e",
+          "5c9ada506fb38b59b12b6753aff40fd9f83c2941125a398037930f10a3c7185d",
+          "1ebeb19fad50fd93f3b6703ba4475f90a40ba4b3b6131d7be1c0cdd95ff03d28",
+          "f119cc806db6cf1ed71e03d107b1121f0e464d030e27b6d1d0c34d4cafddf681",
+          "664763796f0e78bdbe0c24661107345c16f45d737058ef43188c0ebca4d0bbd3",
+          "012496b70144f0c06f65d1b8875db3587ad8ddfd4b7b512b93eed69ab2c215ba",
+          "6f5c9289c1ec5e1a94bda40572dd1c3699398c50a4162fbd56a60108c927215b",
+          "b137e025c073d900493011d9adea8f22fd7706f85143fa8b9e16e9af44d77d18"
+        ],
+        "total_tokens": 7349
+      },
+      {
+        "titles": [
+          "Best of Grim Reaper",
+          "Grim Reaper (disambiguation)",
+          "Grim Reaper (comics)",
+          "Grim Reaper (advertisement)",
+          "Grim Reaper (film)",
+          "Grim Reaper (band)",
+          "Homer's Odyssey (The Simpsons)",
+          "Grim Reaper of Love",
+          "Grim Reapers Motorcycle Club (USA)",
+          "Homer Simpson",
+          "Panda Bear Meets the Grim Reaper",
+          "The Reaper's Image"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6",
+          "eb24be7e9634e08f972f96498ce0d8db03e420baf5d5e98ff3ced96d83952f89",
+          "76f1d55352ec4c7605abf49d6d16281e4a18266b5a43107438ccc96010f83a95",
+          "0708729f8e5d1976dd52a75dbb90332eb87084f96fc97e925a2d477a830b134e",
+          "5c9ada506fb38b59b12b6753aff40fd9f83c2941125a398037930f10a3c7185d",
+          "1ebeb19fad50fd93f3b6703ba4475f90a40ba4b3b6131d7be1c0cdd95ff03d28",
+          "f119cc806db6cf1ed71e03d107b1121f0e464d030e27b6d1d0c34d4cafddf681",
+          "664763796f0e78bdbe0c24661107345c16f45d737058ef43188c0ebca4d0bbd3",
+          "012496b70144f0c06f65d1b8875db3587ad8ddfd4b7b512b93eed69ab2c215ba",
+          "6f5c9289c1ec5e1a94bda40572dd1c3699398c50a4162fbd56a60108c927215b",
+          "b137e025c073d900493011d9adea8f22fd7706f85143fa8b9e16e9af44d77d18",
+          "ed0246f1d91c2f88f9a6e7287826b666409b61252bd61f8b3c41c88dab32a871"
+        ],
+        "total_tokens": 7426
+      },
+      {
+        "titles": [
+          "Best of Grim Reaper",
+          "Grim Reaper (disambiguation)",
+          "Grim Reaper (comics)",
+          "Grim Reaper (advertisement)",
+          "Grim Reaper (film)",
+          "Grim Reaper (band)",
+          "Homer's Odyssey (The Simpsons)",
+          "Grim Reaper of Love",
+          "Grim Reapers Motorcycle Club (USA)",
+          "Homer Simpson",
+          "Panda Bear Meets the Grim Reaper",
+          "The Reaper's Image",
+          "Homer Simpson, This Is Your Wife"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6",
+          "eb24be7e9634e08f972f96498ce0d8db03e420baf5d5e98ff3ced96d83952f89",
+          "76f1d55352ec4c7605abf49d6d16281e4a18266b5a43107438ccc96010f83a95",
+          "0708729f8e5d1976dd52a75dbb90332eb87084f96fc97e925a2d477a830b134e",
+          "5c9ada506fb38b59b12b6753aff40fd9f83c2941125a398037930f10a3c7185d",
+          "1ebeb19fad50fd93f3b6703ba4475f90a40ba4b3b6131d7be1c0cdd95ff03d28",
+          "f119cc806db6cf1ed71e03d107b1121f0e464d030e27b6d1d0c34d4cafddf681",
+          "664763796f0e78bdbe0c24661107345c16f45d737058ef43188c0ebca4d0bbd3",
+          "012496b70144f0c06f65d1b8875db3587ad8ddfd4b7b512b93eed69ab2c215ba",
+          "6f5c9289c1ec5e1a94bda40572dd1c3699398c50a4162fbd56a60108c927215b",
+          "b137e025c073d900493011d9adea8f22fd7706f85143fa8b9e16e9af44d77d18",
+          "ed0246f1d91c2f88f9a6e7287826b666409b61252bd61f8b3c41c88dab32a871",
+          "3a16c4614e450e76678f68840d1b50655708fea0a40d7563da378290c31d3204"
+        ],
+        "total_tokens": 7564
+      },
+      {
+        "titles": [
+          "Best of Grim Reaper",
+          "Grim Reaper (disambiguation)",
+          "Grim Reaper (comics)",
+          "Grim Reaper (advertisement)",
+          "Grim Reaper (film)",
+          "Grim Reaper (band)",
+          "Homer's Odyssey (The Simpsons)",
+          "Grim Reaper of Love",
+          "Grim Reapers Motorcycle Club (USA)",
+          "Homer Simpson",
+          "Panda Bear Meets the Grim Reaper",
+          "The Reaper's Image",
+          "Homer Simpson, This Is Your Wife",
+          "Grim Reaper (Nedor Comics)"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6",
+          "eb24be7e9634e08f972f96498ce0d8db03e420baf5d5e98ff3ced96d83952f89",
+          "76f1d55352ec4c7605abf49d6d16281e4a18266b5a43107438ccc96010f83a95",
+          "0708729f8e5d1976dd52a75dbb90332eb87084f96fc97e925a2d477a830b134e",
+          "5c9ada506fb38b59b12b6753aff40fd9f83c2941125a398037930f10a3c7185d",
+          "1ebeb19fad50fd93f3b6703ba4475f90a40ba4b3b6131d7be1c0cdd95ff03d28",
+          "f119cc806db6cf1ed71e03d107b1121f0e464d030e27b6d1d0c34d4cafddf681",
+          "664763796f0e78bdbe0c24661107345c16f45d737058ef43188c0ebca4d0bbd3",
+          "012496b70144f0c06f65d1b8875db3587ad8ddfd4b7b512b93eed69ab2c215ba",
+          "6f5c9289c1ec5e1a94bda40572dd1c3699398c50a4162fbd56a60108c927215b",
+          "b137e025c073d900493011d9adea8f22fd7706f85143fa8b9e16e9af44d77d18",
+          "ed0246f1d91c2f88f9a6e7287826b666409b61252bd61f8b3c41c88dab32a871",
+          "3a16c4614e450e76678f68840d1b50655708fea0a40d7563da378290c31d3204",
+          "48f7b344338c2ae3077463ca8f739061d87a2e3bec01363ba6324e4611e3d0f2"
+        ],
+        "total_tokens": 7655
+      },
+      {
+        "titles": [
+          "Best of Grim Reaper",
+          "Grim Reaper (disambiguation)",
+          "Grim Reaper (comics)",
+          "Grim Reaper (advertisement)",
+          "Grim Reaper (film)",
+          "Grim Reaper (band)",
+          "Homer's Odyssey (The Simpsons)",
+          "Grim Reaper of Love",
+          "Grim Reapers Motorcycle Club (USA)",
+          "Homer Simpson",
+          "Panda Bear Meets the Grim Reaper",
+          "The Reaper's Image",
+          "Homer Simpson, This Is Your Wife",
+          "Grim Reaper (Nedor Comics)",
+          "Fear No Evil (Grim Reaper album)"
+        ],
+        "reader_context_sha256": [
+          "28e99e3abd2d1369b8ef539862b497175dd0d16e190bb3870107cab70a8491c6",
+          "eb24be7e9634e08f972f96498ce0d8db03e420baf5d5e98ff3ced96d83952f89",
+          "76f1d55352ec4c7605abf49d6d16281e4a18266b5a43107438ccc96010f83a95",
+          "0708729f8e5d1976dd52a75dbb90332eb87084f96fc97e925a2d477a830b134e",
+          "5c9ada506fb38b59b12b6753aff40fd9f83c2941125a398037930f10a3c7185d",
+          "1ebeb19fad50fd93f3b6703ba4475f90a40ba4b3b6131d7be1c0cdd95ff03d28",
+          "f119cc806db6cf1ed71e03d107b1121f0e464d030e27b6d1d0c34d4cafddf681",
+          "664763796f0e78bdbe0c24661107345c16f45d737058ef43188c0ebca4d0bbd3",
+          "012496b70144f0c06f65d1b8875db3587ad8ddfd4b7b512b93eed69ab2c215ba",
+          "6f5c9289c1ec5e1a94bda40572dd1c3699398c50a4162fbd56a60108c927215b",
+          "b137e025c073d900493011d9adea8f22fd7706f85143fa8b9e16e9af44d77d18",
+          "ed0246f1d91c2f88f9a6e7287826b666409b61252bd61f8b3c41c88dab32a871",
+          "3a16c4614e450e76678f68840d1b50655708fea0a40d7563da378290c31d3204",
+          "48f7b344338c2ae3077463ca8f739061d87a2e3bec01363ba6324e4611e3d0f2",
+          "8802ce021ed7777440e1845752a99c2a675dd9248fc47c19b270bfd5352eb435"
+        ],
+        "total_tokens": 7695
+      }
+    ]
+  },
+  {
+    "question_id": "5adf8ff35542995534e8c7ee",
+    "category": "k=1 已答对，BERT 增加成本但 F1 不变",
+    "question": "Do both Coprosma and Dicksonia belong to a genus of tree ferns in the order of Cyatheales?",
+    "type": "comparison",
+    "gold_answer": "no",
+    "label_status": "valid",
+    "soft_label": [
+      0.10804137308955389,
+      0.1000917216341266,
+      0.08188782588301205,
+      0.0768468455341048,
+      0.0747530573694981,
+      0.07165284341665926,
+      0.06823993097668418,
+      0.06258175126536643,
+      0.0596009060228825,
+      0.05655335833699229,
+      0.05312084893765511,
+      0.05115275047664889,
+      0.04778330451438155,
+      0.045340021201858,
+      0.04235346134057634
+    ],
+    "soft_argmax_k": 1,
+    "bert_k": 3,
+    "bert_confidence": 0.10252422094345093,
+    "oracles": {
+      "Oracle ε=0": 1,
+      "Oracle ε=0.05": 1,
+      "Oracle ε=0.1": 1
+    },
+    "f1_curve": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "context_tokens": [
+      69,
+      152,
+      370,
+      439,
+      469,
+      515,
+      568,
+      662,
+      715,
+      772,
+      840,
+      881,
+      955,
+      1012,
+      1086
+    ],
+    "sentence_recall": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "predictions": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "answer_fallback_curve": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "contexts": [
+      {
+        "titles": [
+          "Dicksonia"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d"
+        ],
+        "total_tokens": 6526
+      },
+      {
+        "titles": [
+          "Dicksonia",
+          "Cyatheales"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d",
+          "957e408ad6f2168df4c75bec96732aabf2eae4b655465bb15bf068e1b78fb770"
+        ],
+        "total_tokens": 6609
+      },
+      {
+        "titles": [
+          "Dicksonia",
+          "Cyatheales",
+          "Tree fern"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d",
+          "957e408ad6f2168df4c75bec96732aabf2eae4b655465bb15bf068e1b78fb770",
+          "761f403584f842598283baa67df59dacf3007db98b67cb6471035b6b4af66682"
+        ],
+        "total_tokens": 6840
+      },
+      {
+        "titles": [
+          "Dicksonia",
+          "Cyatheales",
+          "Tree fern",
+          "Dicksonia arborescens"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d",
+          "957e408ad6f2168df4c75bec96732aabf2eae4b655465bb15bf068e1b78fb770",
+          "761f403584f842598283baa67df59dacf3007db98b67cb6471035b6b4af66682",
+          "c8f388744f82cf63f47b0faae0a077c9a3d244e662e70c6aca345d91a860b638"
+        ],
+        "total_tokens": 6896
+      },
+      {
+        "titles": [
+          "Dicksonia",
+          "Cyatheales",
+          "Tree fern",
+          "Dicksonia arborescens",
+          "Cyathea"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d",
+          "957e408ad6f2168df4c75bec96732aabf2eae4b655465bb15bf068e1b78fb770",
+          "761f403584f842598283baa67df59dacf3007db98b67cb6471035b6b4af66682",
+          "c8f388744f82cf63f47b0faae0a077c9a3d244e662e70c6aca345d91a860b638",
+          "76907895d034aa210c7c8407dd6b5424363e33fd2d188ec9081c04a119117c2c"
+        ],
+        "total_tokens": 6927
+      },
+      {
+        "titles": [
+          "Dicksonia",
+          "Cyatheales",
+          "Tree fern",
+          "Dicksonia arborescens",
+          "Cyathea",
+          "Dicksonia lanata"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d",
+          "957e408ad6f2168df4c75bec96732aabf2eae4b655465bb15bf068e1b78fb770",
+          "761f403584f842598283baa67df59dacf3007db98b67cb6471035b6b4af66682",
+          "c8f388744f82cf63f47b0faae0a077c9a3d244e662e70c6aca345d91a860b638",
+          "76907895d034aa210c7c8407dd6b5424363e33fd2d188ec9081c04a119117c2c",
+          "7b2c754fb15b0df0e9627288dcbb9818649bcb3b8f9e45a3acc78a0d2f473515"
+        ],
+        "total_tokens": 6973
+      },
+      {
+        "titles": [
+          "Dicksonia",
+          "Cyatheales",
+          "Tree fern",
+          "Dicksonia arborescens",
+          "Cyathea",
+          "Dicksonia lanata",
+          "Dicksonia fibrosa"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d",
+          "957e408ad6f2168df4c75bec96732aabf2eae4b655465bb15bf068e1b78fb770",
+          "761f403584f842598283baa67df59dacf3007db98b67cb6471035b6b4af66682",
+          "c8f388744f82cf63f47b0faae0a077c9a3d244e662e70c6aca345d91a860b638",
+          "76907895d034aa210c7c8407dd6b5424363e33fd2d188ec9081c04a119117c2c",
+          "7b2c754fb15b0df0e9627288dcbb9818649bcb3b8f9e45a3acc78a0d2f473515",
+          "129ec92b7c9ea22dc5055b9846d5569ac35ad192475a0a4275e510704c9e3c28"
+        ],
+        "total_tokens": 7001
+      },
+      {
+        "titles": [
+          "Dicksonia",
+          "Cyatheales",
+          "Tree fern",
+          "Dicksonia arborescens",
+          "Cyathea",
+          "Dicksonia lanata",
+          "Dicksonia fibrosa",
+          "Fern Tree, Tasmania"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d",
+          "957e408ad6f2168df4c75bec96732aabf2eae4b655465bb15bf068e1b78fb770",
+          "761f403584f842598283baa67df59dacf3007db98b67cb6471035b6b4af66682",
+          "c8f388744f82cf63f47b0faae0a077c9a3d244e662e70c6aca345d91a860b638",
+          "76907895d034aa210c7c8407dd6b5424363e33fd2d188ec9081c04a119117c2c",
+          "7b2c754fb15b0df0e9627288dcbb9818649bcb3b8f9e45a3acc78a0d2f473515",
+          "129ec92b7c9ea22dc5055b9846d5569ac35ad192475a0a4275e510704c9e3c28",
+          "023c5e699c1eb8f00c27aedd16c64e060a8a3c66db8c10a680cf683ef318cf75"
+        ],
+        "total_tokens": 7119
+      },
+      {
+        "titles": [
+          "Dicksonia",
+          "Cyatheales",
+          "Tree fern",
+          "Dicksonia arborescens",
+          "Cyathea",
+          "Dicksonia lanata",
+          "Dicksonia fibrosa",
+          "Fern Tree, Tasmania",
+          "Dicksonia antarctica"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d",
+          "957e408ad6f2168df4c75bec96732aabf2eae4b655465bb15bf068e1b78fb770",
+          "761f403584f842598283baa67df59dacf3007db98b67cb6471035b6b4af66682",
+          "c8f388744f82cf63f47b0faae0a077c9a3d244e662e70c6aca345d91a860b638",
+          "76907895d034aa210c7c8407dd6b5424363e33fd2d188ec9081c04a119117c2c",
+          "7b2c754fb15b0df0e9627288dcbb9818649bcb3b8f9e45a3acc78a0d2f473515",
+          "129ec92b7c9ea22dc5055b9846d5569ac35ad192475a0a4275e510704c9e3c28",
+          "023c5e699c1eb8f00c27aedd16c64e060a8a3c66db8c10a680cf683ef318cf75",
+          "479e822486a59ee7880e2b0b4857530603674a6755086b66bdfe6b9c1143fd1a"
+        ],
+        "total_tokens": 7148
+      },
+      {
+        "titles": [
+          "Dicksonia",
+          "Cyatheales",
+          "Tree fern",
+          "Dicksonia arborescens",
+          "Cyathea",
+          "Dicksonia lanata",
+          "Dicksonia fibrosa",
+          "Fern Tree, Tasmania",
+          "Dicksonia antarctica",
+          "Dicksonia squarrosa"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d",
+          "957e408ad6f2168df4c75bec96732aabf2eae4b655465bb15bf068e1b78fb770",
+          "761f403584f842598283baa67df59dacf3007db98b67cb6471035b6b4af66682",
+          "c8f388744f82cf63f47b0faae0a077c9a3d244e662e70c6aca345d91a860b638",
+          "76907895d034aa210c7c8407dd6b5424363e33fd2d188ec9081c04a119117c2c",
+          "7b2c754fb15b0df0e9627288dcbb9818649bcb3b8f9e45a3acc78a0d2f473515",
+          "129ec92b7c9ea22dc5055b9846d5569ac35ad192475a0a4275e510704c9e3c28",
+          "023c5e699c1eb8f00c27aedd16c64e060a8a3c66db8c10a680cf683ef318cf75",
+          "479e822486a59ee7880e2b0b4857530603674a6755086b66bdfe6b9c1143fd1a",
+          "16dd6887d20cfccd7e89f5ca333a93aca65db915569d99c326be3b63ac482914"
+        ],
+        "total_tokens": 7205
+      },
+      {
+        "titles": [
+          "Dicksonia",
+          "Cyatheales",
+          "Tree fern",
+          "Dicksonia arborescens",
+          "Cyathea",
+          "Dicksonia lanata",
+          "Dicksonia fibrosa",
+          "Fern Tree, Tasmania",
+          "Dicksonia antarctica",
+          "Dicksonia squarrosa",
+          "Dicksonia thyrsopteroides"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d",
+          "957e408ad6f2168df4c75bec96732aabf2eae4b655465bb15bf068e1b78fb770",
+          "761f403584f842598283baa67df59dacf3007db98b67cb6471035b6b4af66682",
+          "c8f388744f82cf63f47b0faae0a077c9a3d244e662e70c6aca345d91a860b638",
+          "76907895d034aa210c7c8407dd6b5424363e33fd2d188ec9081c04a119117c2c",
+          "7b2c754fb15b0df0e9627288dcbb9818649bcb3b8f9e45a3acc78a0d2f473515",
+          "129ec92b7c9ea22dc5055b9846d5569ac35ad192475a0a4275e510704c9e3c28",
+          "023c5e699c1eb8f00c27aedd16c64e060a8a3c66db8c10a680cf683ef318cf75",
+          "479e822486a59ee7880e2b0b4857530603674a6755086b66bdfe6b9c1143fd1a",
+          "16dd6887d20cfccd7e89f5ca333a93aca65db915569d99c326be3b63ac482914",
+          "08343cad3c3032e49c7583d9c1de060652fe0d1c10730968259ec6fa3332011b"
+        ],
+        "total_tokens": 7298
+      },
+      {
+        "titles": [
+          "Dicksonia",
+          "Cyatheales",
+          "Tree fern",
+          "Dicksonia arborescens",
+          "Cyathea",
+          "Dicksonia lanata",
+          "Dicksonia fibrosa",
+          "Fern Tree, Tasmania",
+          "Dicksonia antarctica",
+          "Dicksonia squarrosa",
+          "Dicksonia thyrsopteroides",
+          "Coprosma virescens"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d",
+          "957e408ad6f2168df4c75bec96732aabf2eae4b655465bb15bf068e1b78fb770",
+          "761f403584f842598283baa67df59dacf3007db98b67cb6471035b6b4af66682",
+          "c8f388744f82cf63f47b0faae0a077c9a3d244e662e70c6aca345d91a860b638",
+          "76907895d034aa210c7c8407dd6b5424363e33fd2d188ec9081c04a119117c2c",
+          "7b2c754fb15b0df0e9627288dcbb9818649bcb3b8f9e45a3acc78a0d2f473515",
+          "129ec92b7c9ea22dc5055b9846d5569ac35ad192475a0a4275e510704c9e3c28",
+          "023c5e699c1eb8f00c27aedd16c64e060a8a3c66db8c10a680cf683ef318cf75",
+          "479e822486a59ee7880e2b0b4857530603674a6755086b66bdfe6b9c1143fd1a",
+          "16dd6887d20cfccd7e89f5ca333a93aca65db915569d99c326be3b63ac482914",
+          "08343cad3c3032e49c7583d9c1de060652fe0d1c10730968259ec6fa3332011b",
+          "75e89cbdabcad82dbd10158793f06d6f4f475a0f17ccd4345a406ba1f7771232"
+        ],
+        "total_tokens": 7339
+      },
+      {
+        "titles": [
+          "Dicksonia",
+          "Cyatheales",
+          "Tree fern",
+          "Dicksonia arborescens",
+          "Cyathea",
+          "Dicksonia lanata",
+          "Dicksonia fibrosa",
+          "Fern Tree, Tasmania",
+          "Dicksonia antarctica",
+          "Dicksonia squarrosa",
+          "Dicksonia thyrsopteroides",
+          "Coprosma virescens",
+          "Dicksonia youngiae"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d",
+          "957e408ad6f2168df4c75bec96732aabf2eae4b655465bb15bf068e1b78fb770",
+          "761f403584f842598283baa67df59dacf3007db98b67cb6471035b6b4af66682",
+          "c8f388744f82cf63f47b0faae0a077c9a3d244e662e70c6aca345d91a860b638",
+          "76907895d034aa210c7c8407dd6b5424363e33fd2d188ec9081c04a119117c2c",
+          "7b2c754fb15b0df0e9627288dcbb9818649bcb3b8f9e45a3acc78a0d2f473515",
+          "129ec92b7c9ea22dc5055b9846d5569ac35ad192475a0a4275e510704c9e3c28",
+          "023c5e699c1eb8f00c27aedd16c64e060a8a3c66db8c10a680cf683ef318cf75",
+          "479e822486a59ee7880e2b0b4857530603674a6755086b66bdfe6b9c1143fd1a",
+          "16dd6887d20cfccd7e89f5ca333a93aca65db915569d99c326be3b63ac482914",
+          "08343cad3c3032e49c7583d9c1de060652fe0d1c10730968259ec6fa3332011b",
+          "75e89cbdabcad82dbd10158793f06d6f4f475a0f17ccd4345a406ba1f7771232",
+          "58345311d625698bedb23c3cbdb17b6d8c2ddc20b2b39db5301a2d0c42d03007"
+        ],
+        "total_tokens": 7455
+      },
+      {
+        "titles": [
+          "Dicksonia",
+          "Cyatheales",
+          "Tree fern",
+          "Dicksonia arborescens",
+          "Cyathea",
+          "Dicksonia lanata",
+          "Dicksonia fibrosa",
+          "Fern Tree, Tasmania",
+          "Dicksonia antarctica",
+          "Dicksonia squarrosa",
+          "Dicksonia thyrsopteroides",
+          "Coprosma virescens",
+          "Dicksonia youngiae",
+          "Dicksonia sellowiana"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d",
+          "957e408ad6f2168df4c75bec96732aabf2eae4b655465bb15bf068e1b78fb770",
+          "761f403584f842598283baa67df59dacf3007db98b67cb6471035b6b4af66682",
+          "c8f388744f82cf63f47b0faae0a077c9a3d244e662e70c6aca345d91a860b638",
+          "76907895d034aa210c7c8407dd6b5424363e33fd2d188ec9081c04a119117c2c",
+          "7b2c754fb15b0df0e9627288dcbb9818649bcb3b8f9e45a3acc78a0d2f473515",
+          "129ec92b7c9ea22dc5055b9846d5569ac35ad192475a0a4275e510704c9e3c28",
+          "023c5e699c1eb8f00c27aedd16c64e060a8a3c66db8c10a680cf683ef318cf75",
+          "479e822486a59ee7880e2b0b4857530603674a6755086b66bdfe6b9c1143fd1a",
+          "16dd6887d20cfccd7e89f5ca333a93aca65db915569d99c326be3b63ac482914",
+          "08343cad3c3032e49c7583d9c1de060652fe0d1c10730968259ec6fa3332011b",
+          "75e89cbdabcad82dbd10158793f06d6f4f475a0f17ccd4345a406ba1f7771232",
+          "58345311d625698bedb23c3cbdb17b6d8c2ddc20b2b39db5301a2d0c42d03007",
+          "b2ec7226d98e9b3a545e42aaf0624d411f0551b284c807c69e27958a5f2815e3"
+        ],
+        "total_tokens": 7470
+      },
+      {
+        "titles": [
+          "Dicksonia",
+          "Cyatheales",
+          "Tree fern",
+          "Dicksonia arborescens",
+          "Cyathea",
+          "Dicksonia lanata",
+          "Dicksonia fibrosa",
+          "Fern Tree, Tasmania",
+          "Dicksonia antarctica",
+          "Dicksonia squarrosa",
+          "Dicksonia thyrsopteroides",
+          "Coprosma virescens",
+          "Dicksonia youngiae",
+          "Dicksonia sellowiana",
+          "Coprosma repens"
+        ],
+        "reader_context_sha256": [
+          "b1ff1bc950bdf0808e9cb5699a53cf5fff90476afbd9eac31b5c8ac1aa23a10d",
+          "957e408ad6f2168df4c75bec96732aabf2eae4b655465bb15bf068e1b78fb770",
+          "761f403584f842598283baa67df59dacf3007db98b67cb6471035b6b4af66682",
+          "c8f388744f82cf63f47b0faae0a077c9a3d244e662e70c6aca345d91a860b638",
+          "76907895d034aa210c7c8407dd6b5424363e33fd2d188ec9081c04a119117c2c",
+          "7b2c754fb15b0df0e9627288dcbb9818649bcb3b8f9e45a3acc78a0d2f473515",
+          "129ec92b7c9ea22dc5055b9846d5569ac35ad192475a0a4275e510704c9e3c28",
+          "023c5e699c1eb8f00c27aedd16c64e060a8a3c66db8c10a680cf683ef318cf75",
+          "479e822486a59ee7880e2b0b4857530603674a6755086b66bdfe6b9c1143fd1a",
+          "16dd6887d20cfccd7e89f5ca333a93aca65db915569d99c326be3b63ac482914",
+          "08343cad3c3032e49c7583d9c1de060652fe0d1c10730968259ec6fa3332011b",
+          "75e89cbdabcad82dbd10158793f06d6f4f475a0f17ccd4345a406ba1f7771232",
+          "58345311d625698bedb23c3cbdb17b6d8c2ddc20b2b39db5301a2d0c42d03007",
+          "b2ec7226d98e9b3a545e42aaf0624d411f0551b284c807c69e27958a5f2815e3",
+          "29015bb1076f38365c9f0e066ed0b2751262f44d7bf05bf1687f9a82a4bf722c"
+        ],
+        "total_tokens": 7563
+      }
+    ]
+  }
+]
