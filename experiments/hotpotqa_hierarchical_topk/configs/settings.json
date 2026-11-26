@@ -1,0 +1,24 @@
+{
+  "source_dir": "experiments/hotpotqa_train_5000",
+  "inputs": {
+    "questions": "data/train_5000.jsonl",
+    "sample_manifest": "data/sample_manifest.json",
+    "run_manifest": "runs/run_manifest.json",
+    "run_manifest_k0": "runs/run_manifest_k0.json",
+    "directory_migration": "runs/directory_migration.json",
+    "k0_compatibility": "runs/k0_compatibility.json",
+    "k0_length_policy": "runs/k0_length_policy.json",
+    "predictions": "runs/predictions/hotpotqa_train_5000_seed42",
+    "predictions_k0": "runs/predictions/hotpotqa_train_5000_seed42_k0"
+  },
+  "outputs": {
+    "per_question_metrics": "data/per_question_metrics.jsonl",
+    "validation_report": "runs/analysis/validation_report.json",
+    "fixed_k_metrics": "runs/analysis/fixed_k_metrics.csv",
+    "figures": "runs/analysis/figures"
+  },
+  "tokenizer": {
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "revision": "a09a35458c702b33eeacc393d103063234e8bc28"
+  }
+}

@@ -1,0 +1,700 @@
+{
+  "status": "passed",
+  "question_count": 5000,
+  "question_k_record_count": 80000,
+  "k_values": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "inputs": {
+    "questions": {
+      "path": "experiments/hotpotqa_train_5000/data/train_5000.jsonl",
+      "sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2"
+    },
+    "sample_manifest": {
+      "path": "experiments/hotpotqa_train_5000/data/sample_manifest.json",
+      "sha256": "9c1cf423de041dc3c680feb21a9808f36e8c3d4a9f328a55787cef2dd24c0d62"
+    },
+    "run_manifest": {
+      "path": "experiments/hotpotqa_train_5000/runs/run_manifest.json",
+      "sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f"
+    },
+    "run_manifest_k0": {
+      "path": "experiments/hotpotqa_train_5000/runs/run_manifest_k0.json",
+      "sha256": "827795aec6e0cc936784faadf036382503966579d4b0565ac0f2b611301197bd"
+    },
+    "directory_migration": {
+      "path": "experiments/hotpotqa_train_5000/runs/directory_migration.json",
+      "sha256": "f03f6c6f136db8aa93c79512fd7cb0e95abdc9cbdac6d338a80b953f4b0137ee"
+    },
+    "k0_compatibility": {
+      "path": "experiments/hotpotqa_train_5000/runs/k0_compatibility.json",
+      "sha256": "0eacae701d4b4f767ddb021c3c8e9609b56f31b640d6b54c4986e5235e05e7de"
+    },
+    "k0_length_policy": {
+      "path": "experiments/hotpotqa_train_5000/runs/k0_length_policy.json",
+      "sha256": "a66870e8f5da6d0244ddd2cca0535aea6ebd03cefc4ba7818568a5b2c4c6cab8"
+    },
+    "predictions_identity": {
+      "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/run_identity.json",
+      "sha256": "72ab9ff81fff88059cafdfea9c88e52b65042a8f9d667ba2531ddf5e1cbe85e1"
+    },
+    "predictions_k0_identity": {
+      "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42_k0/run_identity.json",
+      "sha256": "52f9e14c9f7925758639ddd2385c74cfa76606a831d3c6215afdc3c90833b12d"
+    }
+  },
+  "per_k": {
+    "0": {
+      "binding": {
+        "manifest_sha256": "827795aec6e0cc936784faadf036382503966579d4b0565ac0f2b611301197bd",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "a46c264315715223be6cb0d1c4349e08bef093108683e13d38bc8bf3b090596c",
+        "k": 0,
+        "set_name": "hotpotqa_train_5000_seed42_k0"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 2,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42_k0/oner_qa_qwen_hotpotqa_train_5000_k0/complete.json",
+        "sha256": "617ffd861b7c6af480ae3497e1759612336b196bba5cead9d8d8352467e7ddff"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42_k0/oner_qa_qwen_hotpotqa_train_5000_k0/attempts/2026-11-25T14-13-15.322302+00-00_83c1c719/attempt.json",
+        "sha256": "71e264f3e399b14c6acca14f7e1919e75ec1e6d3717c213ade17fb6673cb410d"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42_k0/oner_qa_qwen_hotpotqa_train_5000_k0/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "5a99f58f740756145895c2b0422f4fbf120df3148c4cf138b5cbe98bf5812635"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42_k0/oner_qa_qwen_hotpotqa_train_5000_k0/contexts.jsonl",
+        "sha256": "a0a464efbe99658481b870ee788354963f5f4ada759bce05650bb1ff0d337909"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "5a99f58f740756145895c2b0422f4fbf120df3148c4cf138b5cbe98bf5812635",
+        "contexts.jsonl": "a0a464efbe99658481b870ee788354963f5f4ada759bce05650bb1ff0d337909",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "a46c264315715223be6cb0d1c4349e08bef093108683e13d38bc8bf3b090596c",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "f1aab0cdbe482f13400e99a76bf3b11bcb5f70788bee478771c73873cc5d5ffc",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "8eebb0799014a38852ffad12b8ba8c3fad326e1b92f83a01549c4e69b0bb9893",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "skipped_length_qids": [
+        "5a8c698b554299585d9e368d"
+      ],
+      "manual_empty_prediction_qids": [
+        "5a8830d05542994846c1ce11"
+      ]
+    },
+    "1": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+        "k": 1,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 0,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/complete.json",
+        "sha256": "5962ae53a56a30f9e7925a9bb6f801f669e5789c909f00720d661403473c2009"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/attempts/2026-11-05T20-00-24.317834+00-00_6efaebde/attempt.json",
+        "sha256": "022592bb6a3720f96966c186d6612e15a95dcfc35dcd3efb22fc11147e5c2ca5"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "f9de474dee15deae35c97acbfd637987a741c47f586ee259dffe153db306d757"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__1___distractor_count__1/contexts.jsonl",
+        "sha256": "cddf2f0ad3f175c1b8bae7bd46daa3b986eed0edfc5bcaf7d46287f71ab9e34e"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "f9de474dee15deae35c97acbfd637987a741c47f586ee259dffe153db306d757",
+        "contexts.jsonl": "cddf2f0ad3f175c1b8bae7bd46daa3b986eed0edfc5bcaf7d46287f71ab9e34e",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "e73772471df63c947c9c97997dd63a934796d8d0ad7697e97ce44bb28c3bb7e1",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "c6b2d9356b761ee3b3619ac94cd60ae025d84a6704d1c065a54b9e67d4fb8b5b",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "cbe52a3141e613d876a31f903e8716973cca352e37b43fceb68089f5453870ad",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "2": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "9b45b268177ca43845e6504b2f2086b4d18087e57dabb4183b9a9a7472e75a2c",
+        "k": 2,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 0,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__2___distractor_count__1/complete.json",
+        "sha256": "1d4a14ee93295d1d3111fd3618bd6881e5b3968e790a42f235996efd9376f3c9"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__2___distractor_count__1/attempts/2026-11-05T22-15-42.197209+00-00_abf0d660/attempt.json",
+        "sha256": "64bf8cc03358671187b26964138cbc45eb32685c2fa2db898eefc6617daf9903"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__2___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "a06ba15708901da8a87c2b77c79aeeb718e072de752aa6ffb637184982c476ee"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__2___distractor_count__1/contexts.jsonl",
+        "sha256": "e6fc95afbe22c88d0b7cdb9d93a5ca34b5b0a581c09f83496790f849dbaab743"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "a06ba15708901da8a87c2b77c79aeeb718e072de752aa6ffb637184982c476ee",
+        "contexts.jsonl": "e6fc95afbe22c88d0b7cdb9d93a5ca34b5b0a581c09f83496790f849dbaab743",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "9b45b268177ca43845e6504b2f2086b4d18087e57dabb4183b9a9a7472e75a2c",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "9c2301570daa478fae825a48b21dbd97de148a7f7d0da47d4107da2dad3e6949",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "d66d71c37254a00f89845d85de1f73c9d8fc9b78c44f1d366982771e56830fdf",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "3": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "8c3828f506a759cd6fd00555fffb88198944da5504669df2dbe9835055c50c7e",
+        "k": 3,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 0,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__3___distractor_count__1/complete.json",
+        "sha256": "0e52db137d3850775b48258d9985c2f9ba666bbb62652d0284d6de28e87bf5d1"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__3___distractor_count__1/attempts/2026-11-06T00-22-58.699536+00-00_7249ae56/attempt.json",
+        "sha256": "3ea4c16cfcb649c4b3dea8f45cdbcb9db00dae670ec0cd6f9cada2c119471376"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__3___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "5071f15241ce1f9285e1bdd2723966c3fd37c9bb44e6e4b20366069baffe3c34"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__3___distractor_count__1/contexts.jsonl",
+        "sha256": "bcb97a82c96ed9151916b55d50966ed2babe7eb0e7f5d302b39b4747d8c9845f"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "5071f15241ce1f9285e1bdd2723966c3fd37c9bb44e6e4b20366069baffe3c34",
+        "contexts.jsonl": "bcb97a82c96ed9151916b55d50966ed2babe7eb0e7f5d302b39b4747d8c9845f",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "8c3828f506a759cd6fd00555fffb88198944da5504669df2dbe9835055c50c7e",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "ab72892063069204051f3d8e28bf70e5fb1b70bf46b333333edbd10c3776c6ba",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "0bd0b4b3f2617fbc5d7591b4dca01931c72e1bd6cc7b4fa5b6b5745cbbe81554",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "4": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "9d2fb6778ac7f9d7f6453e4b95bdfcf025680856bbb5f75edda332db361807ea",
+        "k": 4,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 0,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__4___distractor_count__1/complete.json",
+        "sha256": "0e8b716b6de3d2ec389598ffdb6db25b13ba6b39cb84dc07ab5c053071233aaa"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__4___distractor_count__1/attempts/2026-11-06T02-28-36.168372+00-00_90af16f4/attempt.json",
+        "sha256": "df27b4f6732026f5233c1859322e5e4f79cdec968a4c6ffdada51cc1a1615c37"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__4___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "bed24fce030d540295cf3716627706ccd09686b47ef1e7188abc297d36c17c42"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__4___distractor_count__1/contexts.jsonl",
+        "sha256": "d75cc608cca3392dc785f816f20026688b7a0c35a173496f320db5d60acbc667"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "bed24fce030d540295cf3716627706ccd09686b47ef1e7188abc297d36c17c42",
+        "contexts.jsonl": "d75cc608cca3392dc785f816f20026688b7a0c35a173496f320db5d60acbc667",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "9d2fb6778ac7f9d7f6453e4b95bdfcf025680856bbb5f75edda332db361807ea",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "0208621ae1ee92478d64b5d3e1e30c6c7460c36964f523821286018654cb3efc",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "71c23d9658cc82f4eea14ff1e8219438b32f40018b8f060da47fd5c918c981e8",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "5": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "b92bac8b3b62210a06d74e98eb231574a90befca440061af026359e1cf0b6852",
+        "k": 5,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 0,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__5___distractor_count__1/complete.json",
+        "sha256": "5b1bb5c12d4c9e7429a3eb6ef2d35a6b3eb221b17a672ded180952498eeaf86c"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__5___distractor_count__1/attempts/2026-11-06T04-33-34.783274+00-00_c529dc1b/attempt.json",
+        "sha256": "028677fadb0190510240a47cfba41028e1cecd50cf1654afc38ed2facf110051"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__5___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "e6290160a3562262e5fd7ab7edb659a3464dbd3fe3790450dc2b1106ba66d77a"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__5___distractor_count__1/contexts.jsonl",
+        "sha256": "340d86554d72184978895718a86bd1144441be4361d25da957dc941b69000f53"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "e6290160a3562262e5fd7ab7edb659a3464dbd3fe3790450dc2b1106ba66d77a",
+        "contexts.jsonl": "340d86554d72184978895718a86bd1144441be4361d25da957dc941b69000f53",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "b92bac8b3b62210a06d74e98eb231574a90befca440061af026359e1cf0b6852",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "5cfec25021898b8edf12bd591074449af003671c43872b6f3eb86eac94990048",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "48bf87f367ea4ac0265036b28b2e03f6b3d749960a68db0bc65589aef91b0f40",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "6": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "867b86bfd7597bfc4db027ca508ac9c7c0d325c3f7c6b33a1ce8e4df5e6d1d89",
+        "k": 6,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 0,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__6___distractor_count__1/complete.json",
+        "sha256": "b4d0373af6adc64b22581abc1abde0ef40f033ea10487a93e119d29a847ae935"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__6___distractor_count__1/attempts/2026-11-06T06-48-13.980926+00-00_6143e60c/attempt.json",
+        "sha256": "15e08b04f84dc51b73da433cb554a3f43f8059416961ef5bc4559fcc0739d056"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__6___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "738a98429e22c38cacad687884cc390a1e466b65fba224d7370b41e1d8886c15"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__6___distractor_count__1/contexts.jsonl",
+        "sha256": "4c7dbea29438ff9b2aff751f9afff89a99a5e6e47889dbe7d1d1c461189e971a"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "738a98429e22c38cacad687884cc390a1e466b65fba224d7370b41e1d8886c15",
+        "contexts.jsonl": "4c7dbea29438ff9b2aff751f9afff89a99a5e6e47889dbe7d1d1c461189e971a",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "867b86bfd7597bfc4db027ca508ac9c7c0d325c3f7c6b33a1ce8e4df5e6d1d89",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "a87e38137a04968201ad7a2c40d967646351670ec7d115b280ebad7a68deb1c2",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "41ac9f4b6edb4de8be1a0542d145603d7f2dc2aa8d878691d750860653647eeb",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "7": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "0f7bfce8bd4566e2e7c698795ed87d0236e93b0b6bb4cb0a50d8e7268a5d9f1a",
+        "k": 7,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 0,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__7___distractor_count__1/complete.json",
+        "sha256": "e58a2f038faa1bf3621b8b77123554a4a6e1b9deb3c2dce06cdfd979cb786b5d"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__7___distractor_count__1/attempts/2026-11-06T08-54-44.621640+00-00_a00f1a6c/attempt.json",
+        "sha256": "d25051d385b46b8fca70bf449f3214578647bbee840d1c512897a8dfe9adbd0d"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__7___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "7cf4322c3e7552bd53e7575843eb1e75a6b843aef265b5bd1d2bc405d1bc25db"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__7___distractor_count__1/contexts.jsonl",
+        "sha256": "4b9d97a76f85e7577cc253d065eef289757d283088feab8bb60f4c2ff74e3c7b"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "7cf4322c3e7552bd53e7575843eb1e75a6b843aef265b5bd1d2bc405d1bc25db",
+        "contexts.jsonl": "4b9d97a76f85e7577cc253d065eef289757d283088feab8bb60f4c2ff74e3c7b",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "0f7bfce8bd4566e2e7c698795ed87d0236e93b0b6bb4cb0a50d8e7268a5d9f1a",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "689772a7c8fa04e66d1b34576af05d55971855ee16021d1be53c79781fa10033",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "5dcfb72dacd76518f30ea40757c1149bac3cbc605bd1e08068c66bcb5d2c4e3b",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "8": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "5b58ebc3f6677a85de296f0e07d11d25e0acb6e586f0bdf18bdfc36dd109c0db",
+        "k": 8,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 0,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__8___distractor_count__1/complete.json",
+        "sha256": "b19dc48fadcc8d7ec659c8099af401b31bcd9f00e3e7cdb92684195c56a6cfa1"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__8___distractor_count__1/attempts/2026-11-06T11-03-03.842650+00-00_f6690bf7/attempt.json",
+        "sha256": "032a1e9482b2ba82e0d57929c11d4f554e69ed3d3a5d6ef2146e957a4873c3f6"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__8___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "3acf5ff8fd1b782b7e7bbe5c4fbd7f37aee622dc074de03ec38a76a73728f46a"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__8___distractor_count__1/contexts.jsonl",
+        "sha256": "56b283993eff9413da6dc06f25399a5c07693d47ac8048cdb5fbe1a75910faa8"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "3acf5ff8fd1b782b7e7bbe5c4fbd7f37aee622dc074de03ec38a76a73728f46a",
+        "contexts.jsonl": "56b283993eff9413da6dc06f25399a5c07693d47ac8048cdb5fbe1a75910faa8",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "5b58ebc3f6677a85de296f0e07d11d25e0acb6e586f0bdf18bdfc36dd109c0db",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "1beb110d8a2d171a6b79009772775d024a66402c1c5d4de24bb6d4cea5f4e57f",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "e79c3af8203f526ee6b872e726f0655142938e96b7e5c3cbbf53c220f42ce8cf",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "9": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "c19e2ed2a4566c89768d0ce5bb7588799a1b8499a8d4540a5e172d4f6e0a2120",
+        "k": 9,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 0,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__9___distractor_count__1/complete.json",
+        "sha256": "1dd764ebc8926962c7c8110db1763d0d9b5edbdf5867bce4ed9c31d0d41a255e"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__9___distractor_count__1/attempts/2026-11-06T13-12-01.912766+00-00_fda68b18/attempt.json",
+        "sha256": "572240de93720a6160b4e787517060a108902e719e16d13edd2420097d145bd4"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__9___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "48f35fb00d6f22e7d63aaaec6a6eca84b6fd3bbf403c53cb49cfc3da894692c9"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__9___distractor_count__1/contexts.jsonl",
+        "sha256": "f4e363b565b578d6c3e6de35963b2d0694c5ab0ebec74647d4fddf12fa5af2ed"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "48f35fb00d6f22e7d63aaaec6a6eca84b6fd3bbf403c53cb49cfc3da894692c9",
+        "contexts.jsonl": "f4e363b565b578d6c3e6de35963b2d0694c5ab0ebec74647d4fddf12fa5af2ed",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "c19e2ed2a4566c89768d0ce5bb7588799a1b8499a8d4540a5e172d4f6e0a2120",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "4bbf7a190305e297f2ac13757695dbb0c910012f7dbb0e1f44c71d6996872124",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "7f9a4b41bf305e9a5c50a7616324296bcd720e8d3c0dc6abbd70a7ccb91dbadb",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "10": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "c19da9e9d58473de17826f9c8a7ccdeca87d370e79d65947988d178d8143ef89",
+        "k": 10,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 0,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__10___distractor_count__1/complete.json",
+        "sha256": "4a8dc74c10c5070c9be74e0c8519e03c25ff87e69c9c499ea7c84c0ac2b7eacd"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__10___distractor_count__1/attempts/2026-11-06T15-21-05.705542+00-00_93b3e574/attempt.json",
+        "sha256": "3e6262b92d4b35f2c581c1255d4c834b3306d97c73eb10309bf4a2ca7cfd11f6"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__10___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "22b17eba9ea78e0d81bfa7167072d4d68391843aa397720e8af167f4a232d378"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__10___distractor_count__1/contexts.jsonl",
+        "sha256": "7392099289719452a0a565546620940a3364045925a33746d70812e16b0ec535"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "22b17eba9ea78e0d81bfa7167072d4d68391843aa397720e8af167f4a232d378",
+        "contexts.jsonl": "7392099289719452a0a565546620940a3364045925a33746d70812e16b0ec535",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "c19da9e9d58473de17826f9c8a7ccdeca87d370e79d65947988d178d8143ef89",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "3a8ec7d6e71cf68d901cb061bd1f02837d7242bb8ff54087c389f93d2b7feb9c",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "d3f209a2d2789ad0941fd665d93e338fb4472fd6576d006074798666cabde397",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "11": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "df62f3a046a28fc4c973236c070be20279c38eb5e752315c6bf4a921760a904f",
+        "k": 11,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 1,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__11___distractor_count__1/complete.json",
+        "sha256": "011c7314985bd6aeb43b32c21f4b11ce981ee2889f265b422303cbf393aa9c03"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__11___distractor_count__1/attempts/2026-11-10T18-46-03.917092+00-00_889c5dd0/attempt.json",
+        "sha256": "d6111faaea71618afbdbf162568d4f4e54757d1a9483538368bba1f03027fb31"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__11___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "93c8f9def1fb7443db1124de3743bc614c1520a5a575e40ec2cce20e1e58042c"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__11___distractor_count__1/contexts.jsonl",
+        "sha256": "28dac51f6524a669c204c142e653ee1ec6053627e5d7352304007134e7900122"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "93c8f9def1fb7443db1124de3743bc614c1520a5a575e40ec2cce20e1e58042c",
+        "contexts.jsonl": "28dac51f6524a669c204c142e653ee1ec6053627e5d7352304007134e7900122",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "df62f3a046a28fc4c973236c070be20279c38eb5e752315c6bf4a921760a904f",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "2c0c977af5b76b4e2bb2c1e7c5f52179f7a507a7d8576e6de3f803c22881d8a4",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "9250b95a524a0cd083567198c57262cfd96c230572f8a1c9c953099dfaad2534",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "12": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "015dc0a45b4d7ff940581c4096029c2f68a92d97a840c0912cf4ba14a9106241",
+        "k": 12,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 0,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__12___distractor_count__1/complete.json",
+        "sha256": "8f4aa8219989cb68d9acad8a33b2f49e0f5f5d6c169c9e193219a2ef8e223b4b"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__12___distractor_count__1/attempts/2026-11-11T07-37-08.063976+00-00_74c6eb7e/attempt.json",
+        "sha256": "c7256e5fe3a07c8279e9380756b1f6010ce7d54dc58f35373c450070f67cf7f3"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__12___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "371fc3a5d183507ce8e232322bc0f08654f008ba9f0405e130f69aefecadbe6a"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__12___distractor_count__1/contexts.jsonl",
+        "sha256": "229aa0ff1518f06545bab2669c6fdc38b81209f7ad06b3530729e63e7fd9447a"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "371fc3a5d183507ce8e232322bc0f08654f008ba9f0405e130f69aefecadbe6a",
+        "contexts.jsonl": "229aa0ff1518f06545bab2669c6fdc38b81209f7ad06b3530729e63e7fd9447a",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "015dc0a45b4d7ff940581c4096029c2f68a92d97a840c0912cf4ba14a9106241",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "55c02bd888f69cb14e1fe468b1079aaa59d79a8eb832ecd6beae4d08bc4afd07",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "38c02f46b57855590f8cdd17c1b2704e72c3effbb92833b46fec0f2a52cc61aa",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "13": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "3561dae648fee7c4deef95d65ffaca788ddf2b1acceb30608c75921ca271b1e3",
+        "k": 13,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 0,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__13___distractor_count__1/complete.json",
+        "sha256": "6e82f9f0d63dab5a4ab2c73d1a144b8f4788befda633f7f36d5ff090142db336"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__13___distractor_count__1/attempts/2026-11-11T08-01-15.131873+00-00_36fcf757/attempt.json",
+        "sha256": "e30201cf67a11714f1d28610edd2bce37f0df5b8d6353b0a9147bc6211276b86"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__13___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "99730c028e03641c53b67ddc458ba3cd9a9d03e2a72d181536f26e495c22ff05"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__13___distractor_count__1/contexts.jsonl",
+        "sha256": "2cba0b5138de551dcdbd2b3fb0ce7e8ddc9424d0beca914a8a03f14f01771815"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "99730c028e03641c53b67ddc458ba3cd9a9d03e2a72d181536f26e495c22ff05",
+        "contexts.jsonl": "2cba0b5138de551dcdbd2b3fb0ce7e8ddc9424d0beca914a8a03f14f01771815",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "3561dae648fee7c4deef95d65ffaca788ddf2b1acceb30608c75921ca271b1e3",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "fe35aabb8321d58809e098bca56fb6851b97288d0a40a6164bc74a092758ccb5",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "6de73663131f2d929d1002b0ea86f2247c7c55a9a76af5313120357a446eb805",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "14": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "b40ad0597ab41bcc08367d3f98e15e879df1ce3decc80494707ee805881814fd",
+        "k": 14,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 0,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__14___distractor_count__1/complete.json",
+        "sha256": "15d1906d4cc04813229e4e449055a2f3e87fb2b0a1d2d48f49c2e5401e96f5b1"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__14___distractor_count__1/attempts/2026-11-11T10-13-44.182223+00-00_7b8fc0fc/attempt.json",
+        "sha256": "0342b612a5a2bf9d9198739adfd33c7517808236de618b290f33ac8897c885cd"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__14___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "1bbf5fb8dc0a9b05fb6231f9105eab359a2f8c6fe221d634c8580c3d87924803"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__14___distractor_count__1/contexts.jsonl",
+        "sha256": "1e7364037bbca75ffe9427fa587103af02e66ec9171eef82ab3db596a5ea268d"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "1bbf5fb8dc0a9b05fb6231f9105eab359a2f8c6fe221d634c8580c3d87924803",
+        "contexts.jsonl": "1e7364037bbca75ffe9427fa587103af02e66ec9171eef82ab3db596a5ea268d",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "b40ad0597ab41bcc08367d3f98e15e879df1ce3decc80494707ee805881814fd",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "08e1c28c38befa2129f1834477328a82f47efca3d5f9a17c0d35eed547ed4bc4",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "9cd62f93131809f79d49e0293debc94b087d6360fb2425d422b89060be375932",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "15": {
+      "binding": {
+        "manifest_sha256": "58ebe4425ecc51ae24bce94272677e4ec583b5aba9c64bbc348101f8f9d3ce2f",
+        "input_sha256": "fb4dce5fdabc5800bcce4b29d77579bc42dce697f8aa8b034e464fb53402fcf2",
+        "config_sha256": "a20a7fc7848f5c229858d16c9e7a2104fcb02e7cd5fc1579b76942a974d12b39",
+        "k": 15,
+        "set_name": "hotpotqa_train_5000_seed42"
+      },
+      "prediction_count": 5000,
+      "context_count": 5000,
+      "empty_answer_count": 0,
+      "complete": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/complete.json",
+        "sha256": "3940df1f086ec445f76c1ccbf18eca2252dde2df1badda81e3187912e252e46e"
+      },
+      "attempt": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/attempts/2026-11-11T12-25-45.630714+00-00_97ee50a3/attempt.json",
+        "sha256": "8b6c7967f8393d9f0c7657a4a8c4b62fc0849cfb1d9e63e08b0342e268c3ce28"
+      },
+      "prediction": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/prediction__hotpotqa_to_hotpotqa__train_5000.json",
+        "sha256": "d0e832ab4b90ec356b90b477ea88df5641a0903b9cd653fd86563b9430edde1f"
+      },
+      "contexts": {
+        "path": "experiments/hotpotqa_train_5000/runs/predictions/hotpotqa_train_5000_seed42/oner_qa_qwen_hotpotqa_train_5000____prompt_set_1___bm25_retrieval_count__15___distractor_count__1/contexts.jsonl",
+        "sha256": "a5f05c761002b986dd43fa5903fac17671609c92f6e8f7073fc968c85677a35d"
+      },
+      "output_hashes": {
+        "prediction__hotpotqa_to_hotpotqa__train_5000.json": "d0e832ab4b90ec356b90b477ea88df5641a0903b9cd653fd86563b9430edde1f",
+        "contexts.jsonl": "a5f05c761002b986dd43fa5903fac17671609c92f6e8f7073fc968c85677a35d",
+        "config__hotpotqa_to_hotpotqa__train_5000.jsonnet": "a20a7fc7848f5c229858d16c9e7a2104fcb02e7cd5fc1579b76942a974d12b39",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_chains.txt": "d9441ab486f2aa2b78f7849f22b57219e8d16ff609d29498bb55ad9f9c154fc2",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_time_taken.txt": "57945cc3fe4c0a8626a32cce7711d368da2489c0bc080473c0eaeb831ff43a5e",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_full_eval_path.txt": "1ecdd415f7ac16d04d78463098520ca05e8b57782a23fcaf432d39aff33e59ab",
+        "prediction__hotpotqa_to_hotpotqa__train_5000_variable_replacements.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    }
+  },
+  "empty_answer_count": 3,
+  "checks": {
+    "unique_question_ids_and_frozen_order": true,
+    "every_k_has_exact_input_ids_in_predictions_and_contexts": true,
+    "run_identities_completion_attempts_and_output_hashes_validated": true,
+    "context_question_prediction_config_and_chain_agree": true,
+    "effective_context_verified_in_prompt": true,
+    "complete_result_matrix_and_valid_metric_ranges": true,
+    "k0_empty_retrieval_context_and_zero_tokens": true
+  },
+  "scoring": {
+    "implementation": {
+      "path": "official_evaluation/hotpotqa/hotpot_evaluate_v1.py",
+      "sha256": "04ffa572e24bf220dfd5bcf6f17c86adc9dd42d76d4285b73079a5b4235fe252"
+    },
+    "f1": "f1_score(prediction, gold)[0]",
+    "em": "int(exact_match_score(prediction, gold))",
+    "gold": "one span from answers_objects[0].spans per original HotpotQA question",
+    "empty_answers": "Empty/whitespace-only predictions are counted by not prediction.strip(); the original string is retained and evaluated by the official functions."
+  },
+  "tokenizer": {
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+    "class": "PreTrainedTokenizerFast",
+    "files_sha256": {
+      "tokenizer.json": "c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539",
+      "tokenizer_config.json": "5b5d4f65d0acd3b2d56a35b56d374a36cbc1c8fa5cf3b3febbbfabf22f359583"
+    },
+    "transformers_version": "4.26.0.dev0",
+    "tokenizers_version": "0.13.3",
+    "field": "effective_context_text",
+    "add_special_tokens": false,
+    "truncation": false,
+    "formula": "len(tokenizer.encode(effective_context_text, add_special_tokens=False))"
+  },
+  "output": {
+    "path": "experiments/hotpotqa_hierarchical_topk/data/per_question_metrics.jsonl",
+    "sha256": "79302a1b772f3595a645132d7a57b2b6ac1e695d5639b80ff462589e8e6889a1"
+  }
+}
