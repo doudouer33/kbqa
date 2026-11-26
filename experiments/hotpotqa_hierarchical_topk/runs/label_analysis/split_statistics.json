@@ -1,0 +1,109 @@
+{
+  "input": {
+    "path": "experiments/hotpotqa_hierarchical_topk/data/per_question_metrics.jsonl",
+    "sha256": "79302a1b772f3595a645132d7a57b2b6ac1e695d5639b80ff462589e8e6889a1"
+  },
+  "manifest": {
+    "path": "experiments/hotpotqa_hierarchical_topk/data/splits/split_manifest.json",
+    "sha256": "b2c3a975b9b2666909c8e21b6a27b72aa315a29d358a6f8db88b6cbbebf542b7"
+  },
+  "configuration": {
+    "seed": 42,
+    "sizes": {
+      "train": 4000,
+      "val": 500,
+      "test": 500
+    },
+    "stratify_by": [
+      "level",
+      "type"
+    ]
+  },
+  "algorithm": "joint quota rounding by minimum squared deviation, seeded within-stratum shuffle, source order output v1",
+  "all": {
+    "count": 5000,
+    "level": {
+      "easy": 929,
+      "medium": 3221,
+      "hard": 850
+    },
+    "type": {
+      "bridge": 4012,
+      "comparison": 988
+    },
+    "level_type": {
+      "easy/bridge": 740,
+      "easy/comparison": 189,
+      "medium/bridge": 2602,
+      "medium/comparison": 619,
+      "hard/bridge": 670,
+      "hard/comparison": 180
+    }
+  },
+  "splits": {
+    "train": {
+      "count": 4000,
+      "level": {
+        "easy": 743,
+        "medium": 2577,
+        "hard": 680
+      },
+      "type": {
+        "bridge": 3210,
+        "comparison": 790
+      },
+      "level_type": {
+        "easy/bridge": 592,
+        "easy/comparison": 151,
+        "medium/bridge": 2082,
+        "medium/comparison": 495,
+        "hard/bridge": 536,
+        "hard/comparison": 144
+      }
+    },
+    "val": {
+      "count": 500,
+      "level": {
+        "easy": 93,
+        "medium": 322,
+        "hard": 85
+      },
+      "type": {
+        "bridge": 401,
+        "comparison": 99
+      },
+      "level_type": {
+        "easy/bridge": 74,
+        "easy/comparison": 19,
+        "medium/bridge": 260,
+        "medium/comparison": 62,
+        "hard/bridge": 67,
+        "hard/comparison": 18
+      }
+    },
+    "test": {
+      "count": 500,
+      "level": {
+        "easy": 93,
+        "medium": 322,
+        "hard": 85
+      },
+      "type": {
+        "bridge": 401,
+        "comparison": 99
+      },
+      "level_type": {
+        "easy/bridge": 74,
+        "easy/comparison": 19,
+        "medium/bridge": 260,
+        "medium/comparison": 62,
+        "hard/bridge": 67,
+        "hard/comparison": 18
+      }
+    }
+  },
+  "analysis_splits": [
+    "train",
+    "val"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "split": {
+    "seed": 42,
+    "sizes": {"train": 4000, "val": 500, "test": 500},
+    "stratify_by": ["level", "type"]
+  },
+  "selection": {
+    "objectives": ["max_f1", "utility"],
+    "full_k": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    "stage2_k": [0, 1, 2, 3],
+    "fallback_k": 10,
+    "tie_break": ["context_tokens", "k"],
+    "tie_atol": 1e-12,
+    "token_scale": 1000,
+    "lambdas": [0, 0.025, 0.05, 0.1, 0.2, 0.4, 0.6, 0.8, 1.0]
+  },
+  "outputs": {
+    "splits": "data/splits",
+    "analysis": "runs/label_analysis"
+  }
+}
