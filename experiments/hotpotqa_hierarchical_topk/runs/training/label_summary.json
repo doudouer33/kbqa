@@ -1,0 +1,83 @@
+{
+  "sources": {
+    "metrics": {
+      "path": "experiments/hotpotqa_hierarchical_topk/data/per_question_metrics.jsonl",
+      "sha256": "79302a1b772f3595a645132d7a57b2b6ac1e695d5639b80ff462589e8e6889a1"
+    },
+    "split_manifest": {
+      "path": "experiments/hotpotqa_hierarchical_topk/data/splits/split_manifest.json",
+      "sha256": "b2c3a975b9b2666909c8e21b6a27b72aa315a29d358a6f8db88b6cbbebf542b7"
+    },
+    "label_settings": {
+      "path": "experiments/hotpotqa_hierarchical_topk/configs/label_settings.json",
+      "sha256": "8673f36207286e7763cf9eddb39af20a6ab2c22914e9a1d60625b141f6b471b6"
+    },
+    "oracle_label_distribution": {
+      "path": "experiments/hotpotqa_hierarchical_topk/runs/label_analysis/label_distribution.csv",
+      "sha256": "f10bcd9d778de1cce8becc1ad6bf0bc9e5bbb83dfe4cd1eb0680d296097e0122"
+    },
+    "labels": {
+      "path": "experiments/hotpotqa_hierarchical_topk/data/labels.jsonl",
+      "sha256": "01e4b2b40b9f4ab21b4ae0a47b3295d1c1d10d13f53b79dfcce481f2721b0e81"
+    }
+  },
+  "scheme": "B",
+  "objective": "max_f1",
+  "candidates": [
+    0,
+    1,
+    2,
+    3,
+    10
+  ],
+  "tie_atol": 1e-12,
+  "total_labels": 5000,
+  "splits": {
+    "train": {
+      "sample_count": 4000,
+      "all_zero_f1_count": 865,
+      "class_counts": {
+        "stage1": [
+          3791,
+          209
+        ],
+        "stage2": [
+          2250,
+          1077,
+          336,
+          128
+        ],
+        "flat5": [
+          2250,
+          1077,
+          336,
+          128,
+          209
+        ]
+      }
+    },
+    "val": {
+      "sample_count": 500,
+      "all_zero_f1_count": 114,
+      "class_counts": {
+        "stage1": [
+          479,
+          21
+        ],
+        "stage2": [
+          284,
+          136,
+          39,
+          20
+        ],
+        "flat5": [
+          284,
+          136,
+          39,
+          20,
+          21
+        ]
+      }
+    }
+  }
+}

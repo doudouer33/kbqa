@@ -1,0 +1,12 @@
+{
+  "protocol": {
+    "path": "experiments/hotpotqa_hierarchical_topk/runs/evaluation/evaluation_protocol.json",
+    "sha256": "088004642eadcada28e307e36d5929c1789bdf655d4a8e4de4339f7e972c684c"
+  },
+  "results": {
+    "path": "experiments/hotpotqa_hierarchical_topk/runs/evaluation/test/results.csv",
+    "sha256": "d10026fccec20637449d8cef8cc4b4a8b1ecbb8209a236c5c201dfb7e8c854ab"
+  },
+  "split": "test",
+  "count": 500
+}

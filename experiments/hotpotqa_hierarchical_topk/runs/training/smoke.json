@@ -1,0 +1,117 @@
+{
+  "status": "passed",
+  "heads": [
+    {
+      "experiment": "Hierarchical-CE",
+      "head": "stage1",
+      "train_counts": [
+        3791,
+        209
+      ],
+      "weights": [
+        1.0,
+        1.0
+      ],
+      "sample_count": 2,
+      "loss": 0.6933494210243225,
+      "output_classes": 2
+    },
+    {
+      "experiment": "Hierarchical-CE",
+      "head": "stage2",
+      "train_counts": [
+        2250,
+        1077,
+        336,
+        128
+      ],
+      "weights": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sample_count": 4,
+      "loss": 1.4094808101654053,
+      "output_classes": 4
+    },
+    {
+      "experiment": "Hierarchical-WCE",
+      "head": "stage1",
+      "train_counts": [
+        3791,
+        209
+      ],
+      "weights": [
+        0.5275652862041678,
+        9.569377990430622
+      ],
+      "sample_count": 2,
+      "loss": 0.6163225725040264,
+      "output_classes": 2
+    },
+    {
+      "experiment": "Hierarchical-WCE",
+      "head": "stage2",
+      "train_counts": [
+        2250,
+        1077,
+        336,
+        128
+      ],
+      "weights": [
+        0.4212222222222222,
+        0.8799907149489322,
+        2.8206845238095237,
+        7.404296875
+      ],
+      "sample_count": 4,
+      "loss": 1.1802160020142163,
+      "output_classes": 4
+    },
+    {
+      "experiment": "Flat5-CE",
+      "head": "flat5",
+      "train_counts": [
+        2250,
+        1077,
+        336,
+        128,
+        209
+      ],
+      "weights": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sample_count": 5,
+      "loss": 1.5032526016235352,
+      "output_classes": 5
+    },
+    {
+      "experiment": "Flat5-WCE",
+      "head": "flat5",
+      "train_counts": [
+        2250,
+        1077,
+        336,
+        128,
+        209
+      ],
+      "weights": [
+        0.35555555555555557,
+        0.7428040854224698,
+        2.380952380952381,
+        6.25,
+        3.827751196172249
+      ],
+      "sample_count": 5,
+      "loss": 1.4492875860708636,
+      "output_classes": 5
+    }
+  ],
+  "initial_loss_scale": 1024,
+  "predicted_routing_verified": true
+}

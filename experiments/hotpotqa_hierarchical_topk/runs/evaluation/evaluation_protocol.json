@@ -1,0 +1,182 @@
+{
+  "frozen_selection": {
+    "path": "experiments/hotpotqa_hierarchical_topk/runs/training/frozen_selection.json",
+    "sha256": "fce37d224b7b24b81cf6bef02d5a653fc10c8add57152e9b36eb9ed24f31d219"
+  },
+  "code": {
+    "analyze_labels.py": {
+      "path": "experiments/hotpotqa_hierarchical_topk/scripts/analyze_labels.py",
+      "sha256": "538607bf4001e8badd5f95e41ebd788febf65dc3fe79f2d56aef0d2e4425e354"
+    },
+    "build_labels.py": {
+      "path": "experiments/hotpotqa_hierarchical_topk/scripts/build_labels.py",
+      "sha256": "e4f2bbc4049751d4a64760c402523e7395e5879688b4c707b963a3b64e49c544"
+    },
+    "training_common.py": {
+      "path": "experiments/hotpotqa_hierarchical_topk/scripts/training_common.py",
+      "sha256": "024ddd50cfc80801753b50cf8792819ce633e61abedaf53669e557cb76c8ad6e"
+    },
+    "train.py": {
+      "path": "experiments/hotpotqa_hierarchical_topk/scripts/train.py",
+      "sha256": "04ba7596598ca416cd109a2b36bba971bdba98a5ba69098d02f43a2b56639360"
+    },
+    "predict.py": {
+      "path": "experiments/hotpotqa_hierarchical_topk/scripts/predict.py",
+      "sha256": "96efd98f5c1a932ad953e91cc1db19039891cd0c409bceef7093b6e30eef864d"
+    },
+    "evaluate.py": {
+      "path": "experiments/hotpotqa_hierarchical_topk/scripts/evaluate.py",
+      "sha256": "93f5980317debb394277c630c9d619d2598884c82b5fdb3bd4c903c2b8e62ba1"
+    }
+  },
+  "validation_predictions": {
+    "Hierarchical-CE": {
+      "stage1": {
+        "path": "experiments/hotpotqa_hierarchical_topk/runs/training/hierarchical_ce/stage1/checkpoints/epoch_05/validation_classes.json",
+        "sha256": "416081e541939ae30e9090234ef91d8bbdee3c531b8855d0a55d9a2cba43c19b"
+      },
+      "stage2": {
+        "path": "experiments/hotpotqa_hierarchical_topk/runs/training/hierarchical_ce/stage2/checkpoints/epoch_04/validation_classes.json",
+        "sha256": "27ac91846db7d9ba55256e8bcdfcfbadc3f5644c6fa08cf67c0861fe636446cf"
+      }
+    },
+    "Hierarchical-WCE": {
+      "stage1": {
+        "path": "experiments/hotpotqa_hierarchical_topk/runs/training/hierarchical_wce/stage1/checkpoints/epoch_04/validation_classes.json",
+        "sha256": "1966bc551f29b06b2d02fa9d00691b8a5889429e98c03b81bd343fbcd24b6570"
+      },
+      "stage2": {
+        "path": "experiments/hotpotqa_hierarchical_topk/runs/training/hierarchical_wce/stage2/checkpoints/epoch_03/validation_classes.json",
+        "sha256": "7e6bdfb997e5fbbe1403e4a9994698ea6c14359bbfade25a2b68fdc9de945c34"
+      }
+    },
+    "Flat5-CE": {
+      "flat5": {
+        "path": "experiments/hotpotqa_hierarchical_topk/runs/training/flat5_ce/checkpoints/epoch_09/validation_classes.json",
+        "sha256": "45be704f9a5166c1c07c2f7fc23b74ba67e02ce660845c3000d92227a5cb40f0"
+      }
+    },
+    "Flat5-WCE": {
+      "flat5": {
+        "path": "experiments/hotpotqa_hierarchical_topk/runs/training/flat5_wce/checkpoints/epoch_03/validation_classes.json",
+        "sha256": "468509e65a65d36618ce5feab3893980749e694ddcb5e81e7faf16360106a61f"
+      }
+    }
+  },
+  "population": "all frozen QIDs in each evaluated split",
+  "fixed_ks": [
+    0,
+    1,
+    2,
+    3,
+    10
+  ],
+  "oracle_selection": "max_f1",
+  "routing": "stage1 argmax, predicted low only to stage2",
+  "score_lambda": 0.1,
+  "token_scale": 1000,
+  "random_prior_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99
+  ],
+  "random_prior_distribution": "Train flat5 frequencies",
+  "random_prior_std": "sample standard deviation across independent seeds"
+}

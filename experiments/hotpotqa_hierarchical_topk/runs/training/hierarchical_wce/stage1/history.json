@@ -1,0 +1,854 @@
+{
+  "experiment": "Hierarchical-WCE",
+  "head": "stage1",
+  "train_counts": [
+    3791,
+    209
+  ],
+  "weights": [
+    0.5275652862041678,
+    9.569377990430622
+  ],
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6988089173090261,
+      "val_loss": 0.6877038059335977,
+      "train_online": {
+        "count": 4000,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.50675,
+        "macro_f1": 0.37600015307446827,
+        "balanced_accuracy": 0.4888681200375101,
+        "confusion_matrix": [
+          [
+            1929,
+            1862
+          ],
+          [
+            111,
+            98
+          ]
+        ],
+        "predicted_distribution": [
+          2040,
+          1960
+        ],
+        "per_class": {
+          "0": {
+            "support": 3791,
+            "precision": 0.9455882352941176,
+            "recall": 0.5088367185439198,
+            "f1": 0.6616360830046304
+          },
+          "1": {
+            "support": 209,
+            "precision": 0.05,
+            "recall": 0.4688995215311005,
+            "f1": 0.09036422314430613
+          }
+        }
+      },
+      "validation": {
+        "count": 500,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.684,
+        "macro_f1": 0.445287046399281,
+        "balanced_accuracy": 0.5163535142658315,
+        "confusion_matrix": [
+          [
+            335,
+            144
+          ],
+          [
+            14,
+            7
+          ]
+        ],
+        "predicted_distribution": [
+          349,
+          151
+        ],
+        "per_class": {
+          "0": {
+            "support": 479,
+            "precision": 0.9598853868194842,
+            "recall": 0.6993736951983298,
+            "f1": 0.8091787439613527
+          },
+          "1": {
+            "support": 21,
+            "precision": 0.046357615894039736,
+            "recall": 0.3333333333333333,
+            "f1": 0.08139534883720931
+          }
+        }
+      },
+      "learning_rate_end": 2e-05,
+      "seconds": 11.055,
+      "encoder_updated": true
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.7074234112735812,
+      "val_loss": 0.6647100400112986,
+      "train_online": {
+        "count": 4000,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.77575,
+        "macro_f1": 0.479827438406741,
+        "balanced_accuracy": 0.5064582573433175,
+        "confusion_matrix": [
+          [
+            3060,
+            731
+          ],
+          [
+            166,
+            43
+          ]
+        ],
+        "predicted_distribution": [
+          3226,
+          774
+        ],
+        "per_class": {
+          "0": {
+            "support": 3791,
+            "precision": 0.9485430874147551,
+            "recall": 0.8071748878923767,
+            "f1": 0.8721675929884566
+          },
+          "1": {
+            "support": 209,
+            "precision": 0.05555555555555555,
+            "recall": 0.20574162679425836,
+            "f1": 0.08748728382502544
+          }
+        }
+      },
+      "validation": {
+        "count": 500,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.544,
+        "macro_f1": 0.39199999999999996,
+        "balanced_accuracy": 0.5343473506312755,
+        "confusion_matrix": [
+          [
+            261,
+            218
+          ],
+          [
+            10,
+            11
+          ]
+        ],
+        "predicted_distribution": [
+          271,
+          229
+        ],
+        "per_class": {
+          "0": {
+            "support": 479,
+            "precision": 0.9630996309963099,
+            "recall": 0.5448851774530271,
+            "f1": 0.696
+          },
+          "1": {
+            "support": 21,
+            "precision": 0.048034934497816595,
+            "recall": 0.5238095238095238,
+            "f1": 0.088
+          }
+        }
+      },
+      "learning_rate_end": 1.7777777777777777e-05,
+      "seconds": 11.027,
+      "encoder_updated": true
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.667179911232921,
+      "val_loss": 0.7930196465640594,
+      "train_online": {
+        "count": 4000,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.81575,
+        "macro_f1": 0.5391012693632578,
+        "balanced_accuracy": 0.6157185426576922,
+        "confusion_matrix": [
+          [
+            3181,
+            610
+          ],
+          [
+            127,
+            82
+          ]
+        ],
+        "predicted_distribution": [
+          3308,
+          692
+        ],
+        "per_class": {
+          "0": {
+            "support": 3791,
+            "precision": 0.961608222490931,
+            "recall": 0.8390925877077289,
+            "f1": 0.8961825609240738
+          },
+          "1": {
+            "support": 209,
+            "precision": 0.11849710982658959,
+            "recall": 0.3923444976076555,
+            "f1": 0.18201997780244172
+          }
+        }
+      },
+      "validation": {
+        "count": 500,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.928,
+        "macro_f1": 0.48132780082987553,
+        "balanced_accuracy": 0.48434237995824636,
+        "confusion_matrix": [
+          [
+            464,
+            15
+          ],
+          [
+            21,
+            0
+          ]
+        ],
+        "predicted_distribution": [
+          485,
+          15
+        ],
+        "per_class": {
+          "0": {
+            "support": 479,
+            "precision": 0.9567010309278351,
+            "recall": 0.9686847599164927,
+            "f1": 0.9626556016597511
+          },
+          "1": {
+            "support": 21,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          }
+        }
+      },
+      "learning_rate_end": 1.555555555555556e-05,
+      "seconds": 10.903,
+      "encoder_updated": true
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.5090108309903469,
+      "val_loss": 1.109912104838899,
+      "train_online": {
+        "count": 4000,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.88675,
+        "macro_f1": 0.6449425177220123,
+        "balanced_accuracy": 0.7458542581965092,
+        "confusion_matrix": [
+          [
+            3424,
+            367
+          ],
+          [
+            86,
+            123
+          ]
+        ],
+        "predicted_distribution": [
+          3510,
+          490
+        ],
+        "per_class": {
+          "0": {
+            "support": 3791,
+            "precision": 0.9754985754985755,
+            "recall": 0.9031917699815352,
+            "f1": 0.9379537049719217
+          },
+          "1": {
+            "support": 209,
+            "precision": 0.2510204081632653,
+            "recall": 0.5885167464114832,
+            "f1": 0.351931330472103
+          }
+        }
+      },
+      "validation": {
+        "count": 500,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.92,
+        "macro_f1": 0.5029326970871856,
+        "balanced_accuracy": 0.5029326970871856,
+        "confusion_matrix": [
+          [
+            459,
+            20
+          ],
+          [
+            20,
+            1
+          ]
+        ],
+        "predicted_distribution": [
+          479,
+          21
+        ],
+        "per_class": {
+          "0": {
+            "support": 479,
+            "precision": 0.9582463465553236,
+            "recall": 0.9582463465553236,
+            "f1": 0.9582463465553236
+          },
+          "1": {
+            "support": 21,
+            "precision": 0.047619047619047616,
+            "recall": 0.047619047619047616,
+            "f1": 0.047619047619047616
+          }
+        }
+      },
+      "learning_rate_end": 1.3333333333333333e-05,
+      "seconds": 11.058,
+      "encoder_updated": true
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.2913468068050301,
+      "val_loss": 2.2561646049984962,
+      "train_online": {
+        "count": 4000,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.959,
+        "macro_f1": 0.8217342862577788,
+        "balanced_accuracy": 0.8743889771670249,
+        "confusion_matrix": [
+          [
+            3673,
+            118
+          ],
+          [
+            46,
+            163
+          ]
+        ],
+        "predicted_distribution": [
+          3719,
+          281
+        ],
+        "per_class": {
+          "0": {
+            "support": 3791,
+            "precision": 0.9876310836246303,
+            "recall": 0.9688736481139542,
+            "f1": 0.9781624500665779
+          },
+          "1": {
+            "support": 209,
+            "precision": 0.5800711743772242,
+            "recall": 0.7799043062200957,
+            "f1": 0.6653061224489796
+          }
+        }
+      },
+      "validation": {
+        "count": 500,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.946,
+        "macro_f1": 0.48612538540596095,
+        "balanced_accuracy": 0.49373695198329853,
+        "confusion_matrix": [
+          [
+            473,
+            6
+          ],
+          [
+            21,
+            0
+          ]
+        ],
+        "predicted_distribution": [
+          494,
+          6
+        ],
+        "per_class": {
+          "0": {
+            "support": 479,
+            "precision": 0.9574898785425101,
+            "recall": 0.9874739039665971,
+            "f1": 0.9722507708119219
+          },
+          "1": {
+            "support": 21,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          }
+        }
+      },
+      "learning_rate_end": 1.1111111111111113e-05,
+      "seconds": 10.922,
+      "encoder_updated": true
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.09133364164217733,
+      "val_loss": 2.8250827702249315,
+      "train_online": {
+        "count": 4000,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.99075,
+        "macro_f1": 0.9542315838562426,
+        "balanced_accuracy": 0.9634736766378189,
+        "confusion_matrix": [
+          [
+            3768,
+            23
+          ],
+          [
+            14,
+            195
+          ]
+        ],
+        "predicted_distribution": [
+          3782,
+          218
+        ],
+        "per_class": {
+          "0": {
+            "support": 3791,
+            "precision": 0.9962982548915917,
+            "recall": 0.9939329992086521,
+            "f1": 0.9951142215766539
+          },
+          "1": {
+            "support": 209,
+            "precision": 0.8944954128440367,
+            "recall": 0.9330143540669856,
+            "f1": 0.9133489461358314
+          }
+        }
+      },
+      "validation": {
+        "count": 500,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.93,
+        "macro_f1": 0.48186528497409326,
+        "balanced_accuracy": 0.48538622129436326,
+        "confusion_matrix": [
+          [
+            465,
+            14
+          ],
+          [
+            21,
+            0
+          ]
+        ],
+        "predicted_distribution": [
+          486,
+          14
+        ],
+        "per_class": {
+          "0": {
+            "support": 479,
+            "precision": 0.9567901234567902,
+            "recall": 0.9707724425887265,
+            "f1": 0.9637305699481865
+          },
+          "1": {
+            "support": 21,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          }
+        }
+      },
+      "learning_rate_end": 8.888888888888888e-06,
+      "seconds": 11.015,
+      "encoder_updated": true
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.03229450594549488,
+      "val_loss": 3.169470408463164,
+      "train_online": {
+        "count": 4000,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.997,
+        "macro_f1": 0.9849902248839557,
+        "balanced_accuracy": 0.9893754914371611,
+        "confusion_matrix": [
+          [
+            3783,
+            8
+          ],
+          [
+            4,
+            205
+          ]
+        ],
+        "predicted_distribution": [
+          3787,
+          213
+        ],
+        "per_class": {
+          "0": {
+            "support": 3791,
+            "precision": 0.9989437549511486,
+            "recall": 0.9978897388551833,
+            "f1": 0.9984164687252574
+          },
+          "1": {
+            "support": 209,
+            "precision": 0.9624413145539906,
+            "recall": 0.9808612440191388,
+            "f1": 0.9715639810426541
+          }
+        }
+      },
+      "validation": {
+        "count": 500,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.912,
+        "macro_f1": 0.4769874476987448,
+        "balanced_accuracy": 0.4759916492693111,
+        "confusion_matrix": [
+          [
+            456,
+            23
+          ],
+          [
+            21,
+            0
+          ]
+        ],
+        "predicted_distribution": [
+          477,
+          23
+        ],
+        "per_class": {
+          "0": {
+            "support": 479,
+            "precision": 0.9559748427672956,
+            "recall": 0.9519832985386222,
+            "f1": 0.9539748953974896
+          },
+          "1": {
+            "support": 21,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          }
+        }
+      },
+      "learning_rate_end": 6.666666666666667e-06,
+      "seconds": 10.895,
+      "encoder_updated": true
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.005110771526864158,
+      "val_loss": 3.4305120610732827,
+      "train_online": {
+        "count": 4000,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.99925,
+        "macro_f1": 0.9962221846539474,
+        "balanced_accuracy": 0.9973438728592903,
+        "confusion_matrix": [
+          [
+            3789,
+            2
+          ],
+          [
+            1,
+            208
+          ]
+        ],
+        "predicted_distribution": [
+          3790,
+          210
+        ],
+        "per_class": {
+          "0": {
+            "support": 3791,
+            "precision": 0.9997361477572559,
+            "recall": 0.9994724347137959,
+            "f1": 0.999604273842501
+          },
+          "1": {
+            "support": 209,
+            "precision": 0.9904761904761905,
+            "recall": 0.9952153110047847,
+            "f1": 0.9928400954653938
+          }
+        }
+      },
+      "validation": {
+        "count": 500,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.936,
+        "macro_f1": 0.4834710743801653,
+        "balanced_accuracy": 0.48851774530271397,
+        "confusion_matrix": [
+          [
+            468,
+            11
+          ],
+          [
+            21,
+            0
+          ]
+        ],
+        "predicted_distribution": [
+          489,
+          11
+        ],
+        "per_class": {
+          "0": {
+            "support": 479,
+            "precision": 0.9570552147239264,
+            "recall": 0.9770354906054279,
+            "f1": 0.9669421487603306
+          },
+          "1": {
+            "support": 21,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          }
+        }
+      },
+      "learning_rate_end": 4.444444444444444e-06,
+      "seconds": 11.065,
+      "encoder_updated": true
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.0016865945838429259,
+      "val_loss": 3.6245257239371753,
+      "train_online": {
+        "count": 4000,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.99975,
+        "macro_f1": 0.9987407282179824,
+        "balanced_accuracy": 0.9998681086784489,
+        "confusion_matrix": [
+          [
+            3790,
+            1
+          ],
+          [
+            0,
+            209
+          ]
+        ],
+        "predicted_distribution": [
+          3790,
+          210
+        ],
+        "per_class": {
+          "0": {
+            "support": 3791,
+            "precision": 1.0,
+            "recall": 0.9997362173568979,
+            "f1": 0.9998680912808336
+          },
+          "1": {
+            "support": 209,
+            "precision": 0.9952380952380953,
+            "recall": 1.0,
+            "f1": 0.9976133651551312
+          }
+        }
+      },
+      "validation": {
+        "count": 500,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.946,
+        "macro_f1": 0.48612538540596095,
+        "balanced_accuracy": 0.49373695198329853,
+        "confusion_matrix": [
+          [
+            473,
+            6
+          ],
+          [
+            21,
+            0
+          ]
+        ],
+        "predicted_distribution": [
+          494,
+          6
+        ],
+        "per_class": {
+          "0": {
+            "support": 479,
+            "precision": 0.9574898785425101,
+            "recall": 0.9874739039665971,
+            "f1": 0.9722507708119219
+          },
+          "1": {
+            "support": 21,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          }
+        }
+      },
+      "learning_rate_end": 2.222222222222222e-06,
+      "seconds": 10.895,
+      "encoder_updated": true
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.0005627075504623259,
+      "val_loss": 3.687084858139466,
+      "train_online": {
+        "count": 4000,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "balanced_accuracy": 1.0,
+        "confusion_matrix": [
+          [
+            3791,
+            0
+          ],
+          [
+            0,
+            209
+          ]
+        ],
+        "predicted_distribution": [
+          3791,
+          209
+        ],
+        "per_class": {
+          "0": {
+            "support": 3791,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          },
+          "1": {
+            "support": 209,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          }
+        }
+      },
+      "validation": {
+        "count": 500,
+        "classes": [
+          0,
+          1
+        ],
+        "accuracy": 0.95,
+        "macro_f1": 0.48717948717948717,
+        "balanced_accuracy": 0.49582463465553234,
+        "confusion_matrix": [
+          [
+            475,
+            4
+          ],
+          [
+            21,
+            0
+          ]
+        ],
+        "predicted_distribution": [
+          496,
+          4
+        ],
+        "per_class": {
+          "0": {
+            "support": 479,
+            "precision": 0.9576612903225806,
+            "recall": 0.9916492693110647,
+            "f1": 0.9743589743589743
+          },
+          "1": {
+            "support": 21,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          }
+        }
+      },
+      "learning_rate_end": 0.0,
+      "seconds": 11.035,
+      "encoder_updated": true
+    }
+  ]
+}
